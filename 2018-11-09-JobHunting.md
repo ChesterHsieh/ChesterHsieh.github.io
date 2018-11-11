@@ -62,7 +62,7 @@ import matplotlib.pyplot as plt
 
 #### In an A/B test, how can you check if assignment to the various buckets was truly random?
 
-It's almost impossible to test randomness on statstic. However we can do another trial. We can try to test equivalence for the A/B two part. That's some time we call** A/A test**.
+It's almost impossible to test randomness on statstic. However we can do another trial. We can try to test equivalence for the A/B two part. That's some time we call **A/A test**
 
 Here's an example to show how A/A test going.
 
@@ -81,5 +81,5 @@ Strongly recommend to read this:
 [What is an A/A Test](https://conversionsciences.com/blog/aa-test-gives-you-confidence/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjA5NTM1MV19
+eyJoaXN0b3J5IjpbLTEyNDQwMDkyNjUsMTY4MjA5NTM1MV19
 -->
