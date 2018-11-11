@@ -75,8 +75,10 @@ Here's an example to show how A/A test going.
 
 ## Refernce
 
-Strongly recommend to read this:
+Strongly recommend to read These as source:
+
 [10 Statistics Traps in A/B Testing: The Ultimate Guide for Optimizers](https://conversionxl.com/blog/testing-statistics-mistakes/)
 
 [What is an A/A Test](https://conversionsciences.com/blog/aa-test-gives-you-confidence/)
 
+[The Math behind A/B Testing](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
