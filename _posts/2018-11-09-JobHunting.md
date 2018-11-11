@@ -11,15 +11,22 @@ tags:
 ---
 
 
-## A/B testing & Interview Question
+# A/B testing & Interview Question
+
+Here's some collection on forum. All the code can be found at my [github repository](https://github.com/ChesterHsieh/DSTechNote). 
+
+## Terminology
 
 
 
-### Terminology
-
+#### is significant level?
 #### What's P-value?
-
+[P-value best explained with example](https://onlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing/p-value-approach)
+Single sentence explain:
 The p-value is the probability of observing a value as or more extreme than the one observed under the Null Hypothesis.
+#### What is power?
+![Power!](https://github.com/ChesterHsieh/ChesterHsieh.github.io/img/power.png)
+
 
 #### What is a confidence interval and how do you interpret it?
 ```python
@@ -34,31 +41,28 @@ def get_ci(value, cl, sd):
     return(return_val)
 ```
 
-#### What’s the difference between a MAP, MOM, MLE estima-
-tor? In which cases would you want to use each?
+#### What’s the difference between a MAP, MOM, MLE estima-tor? In which cases would you want to use each?
 
 
 
-
-### Specical Case
-
-## Design Problem
-#### Desgin A A/B test 
-Here's real problem I've enconterd and failed like idot. 
-> Assume we are the a platform provide the suggestion on Cloth style 
-> There are two color we need to decide whtich one is better?
-> That's say we can only test 1000 time, how you design the experiment??
+## Special Case
 
 #### Too Many Variants?
-```python
-import scipy.stats as stats
-import numpy as np
-import matplotlib.pyplot as plt
-% matplotlib inline
+I need to aware of the # of variants might have different effect on overall test.
+First number we need to aware of is [“cumulative alpha error”](http://web.pdx.edu/~newsomj/da1/ho_posthoc.pdf)
+There's an inequality formula using two idea:
+ n := # of variants
+ 1. Familywise error (FWE)
+ ![Formula](http://www.sciweavers.org/tex2img.php?eq=%20%20%20%5Calpha_%7BFWE%7D%20%20%3D%201%20-%281-%5Calpha_%7BEC%7D%29%5En&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+ 3. Bonferroni correction
+![Formula](http://www.sciweavers.org/tex2img.php?eq=%20%20%20%5Calpha_%7BB%7D%20%3D%20%20%20%20%5Calpha_%7BFWE%7D%2F%20n%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-```
-#### What would be the hazards of letting users sneak a peekat the other bucket in an A/B test?
+Actually significant level should between these 2 number. It vary by the dependence of different variants.
+ 
+#### What would be the hazards of letting users sneak a peek at the other bucket in an A/B test?
 
+
+![](http://www.sciweavers.org/tex2img.php?eq=%20t%3D%7B%5Cfrac%20%7B%7B%5Cbar%20%7Bx%7D%7D-%5Cmu%20_%7B0%7D%7D%7B%5Cfrac%20%7Bs%7D%7B%5Csqrt%20%7Bn%7D%7D%7D%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 #### In an A/B test, how can you check if assignment to the various buckets was truly random?
 
@@ -67,19 +71,33 @@ It's almost impossible to test randomness on statstic. However we can do another
 Here's an example to show how A/A test going.
 
 
+#### How would you run an A/B test if the observations are extremely right-skewed?
 
-
-#### How would you run an A/B test if the observations areextremely right-skewed?
+ 1. Lower the variability of your metric.
+ Say you're looking at revenue for a retail site (my experience is from Amazon) or revenue from clicks (my experience is from Bing ads). Both have a large mass at $0 (most people don't purchase or click on ads), and a long right tail.  
+Instead of revenue, look at two metrics: an indicator for conversion (yes/no), and the conditional (revenue if purchased; null otherwise).  
+Each of two will have lower variance, thus give more signal for A/B testing.  
+Their product is revenue.
+1.  Cap values.  
+    Here I would caution you to understand the reasons for the skew.  
+    For example, if you're looking at time on site, you might find a very right-skewed metrics, but also lumpiness. For example, mass around 1440 minutes may mean users visited your site again the day after about the same time. Assuming that’s not your intention, capping time on site to 30 minutes is a common strategy.  
+    At Amazon, we found significant outliers to revenue and number of items purchased. After looking at the details, it turned out these were libraries or purchasing departments. If one of the treatments gets a couple of more libraries than another, it could skew the results.  
+    Capping at a certain dollar values and items purchased lowered the variance (and improved trustworthiness).
+2.  Look at percentile metrics or trimmed means. 
+For example, time-to-X (time-to-onload event for page-load, time-to-click) tends to have a lot right-skew. Instead of the mean, look at some percentile, such as 90th.
 
 
 
 ## Design Problem
-#### Desgin an A/B test 
 Here's real problem I've enconterd and failed like idot. 
 > Assume we are the a platform provide the suggestion on Cloth style 
 > There are two color we need to decide whtich one is better?
 > That's say we can only test 1000 time, how you design the experiment??
 
+![Desgin Process](https://conversionxl.com/wp-content/uploads/2016/06/1.png)
+
+#### Radomize
+#### minimum test size
 
 
 
