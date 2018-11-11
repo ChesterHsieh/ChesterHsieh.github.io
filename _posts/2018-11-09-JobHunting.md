@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      DS Question Collection-A/B Test
 subtitle:   Failue doesn't deafeat you
@@ -70,6 +70,22 @@ Here's an example to show how A/A test going.
 
 
 #### How would you run an A/B test if the observations areextremely right-skewed?
+
+
+
+## Design Problem
+#### Desgin an A/B test 
+Here's real problem I've enconterd and failed like idot. 
+> Assume we are the a platform provide the suggestion on Cloth style 
+> There are two color we need to decide whtich one is better?
+> That's say we can only test 1000 time, how you design the experiment??
+
+
+
+
+
+
+
 
 
 
