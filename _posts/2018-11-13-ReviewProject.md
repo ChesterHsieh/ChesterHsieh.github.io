@@ -21,7 +21,7 @@ Ok!
 
 Let's dive into review
 
-![FLOWCHART](../img/flowchart_review.png|width=100))
+![FLOWCHART](../img/flowchart_review.png|width=100)
 
 
 ## Data collection
