@@ -25,8 +25,8 @@ Here's some collection on forum. All the code can be found at my [github reposit
 Single sentence explain:
 The p-value is the probability of observing a value as or more extreme than the one observed under the Null Hypothesis.
 #### What is power?
-![Power!](https://github.com/ChesterHsieh/ChesterHsieh.github.io/img/power.png)
 
+![a](../img/power.png  "a")
 
 #### What is a confidence interval and how do you interpret it?
 ```python
@@ -116,3 +116,4 @@ Strongly recommend to read These as source:
 [What is an A/A Test](https://conversionsciences.com/blog/aa-test-gives-you-confidence/)
 
 [The Math behind A/B Testing](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
+![ ](/home/chester/Desktop/Github IO/ChesterHsieh.github.io/img/power.png  "power")
