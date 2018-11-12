@@ -1,0 +1,61 @@
+## Amazon Service
+I want to write down this to help me to remember all I need. I hope it also help others. 
+However, I don't think there's any way to replace [amazon official document](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/concepts.html)
+
+
+
+## Overview
+Here's amazon [overview](https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/aws-overview.pdf?icmpid=link_from_whitepapers_page)
+AWS = Cloud Computing
+Actually it's easier as understanding as buying new PC. Everything I try to implement on PC can be done by rent AWS server.
+
+I think there's 7 different purpose I know and they have different product compare.
+ 1. Compute -> EC2
+ 2. Storage
+ 3. Database
+ 4. Migration
+ 5. Networking and Content Delivery
+ 6. Management tool
+ 7. Security -> IAM
+ 8. Model deployment->SageMaker
+ 9. Analysis
+ 10. IOT 
+
+## EC2
+EC2 is an Elastic Compute Cloud. It's most
+### Lambda
+Only to execute background task.
+Trigger and execute.
+EX: Compression. apply filter
+### Elastic Beanstalk
+### Elastic Load Balancer
+### Auto Scaling
+
+## Storage S3
+## Database
+3 Different types I've tried. And it's easy to identify which tool we should use by purpose:
+
+ 1. Rational database
+ 2. NoSQL
+ 3. Graph database
+ 4. 
+
+## Management Tool
+To control AWS resource.
+
+## Networking and Content Delivery
+???
+
+## Migration
+If you have ton of data in somewhere else, And I want to switch to use AWS. You can send it physically. 
+What?!
+
+
+## IAM
+Giving user authority
+
+## Side Project Time
+
+
+### Reference
+[AWS for beginner](https://www.youtube.com/watch?v=IT1X42D1KeA)
