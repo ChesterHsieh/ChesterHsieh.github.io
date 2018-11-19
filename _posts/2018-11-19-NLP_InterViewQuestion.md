@@ -16,6 +16,12 @@ tags:
 
 #### General Preprocessing Process?
 
+1.  Metamorphosis by Franz Kafka
+2.  Text Cleaning is Task Specific
+3.  Manual Tokenization
+4.  Tokenization and Cleaning with NLTK
+5.  Additional Text Cleaning Considerations
+6.  Tips for Cleaning Text for Word Embedding
 
 #### What is part of speech (POS) tagging? What is the simplest approach to building a POS tagger that you can imagine?
 
@@ -29,7 +35,6 @@ Here's is really common and popular application rely on NLP.
 1.
 
 2. Consider the following analysis involving  woman  (a noun),  bought  (a verb),  over  (a preposition), and  the  (a determiner). The  text.similar()  method takes a word  w, finds all contexts  w1w  w2, then finds all words  w'  that appear in the same context, i.e.  w1w'w2.
-
 If we have big enough corpus we can find enough past date support our analysis.
 
 ####  How would you train a model that identifies whether the word “Apple” in a sentence belongs to the fruit or the company?
@@ -56,7 +61,7 @@ Here's the one big problem we having standard solution today. [Language model](h
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTkxMTEyMCwtNTYxMzAxNTExLDQ1Mj
-gxMTM5NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1
-NjIsMTc5Njg5MjkwLDQxMjI5ODc3OV19
+eyJoaXN0b3J5IjpbMzE0OTE2NjI5LC01NjEzMDE1MTEsNDUyOD
+ExMzk2LC00OTQyODg3NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2
+MiwxNzk2ODkyOTAsNDEyMjk4Nzc5XX0=
 -->
