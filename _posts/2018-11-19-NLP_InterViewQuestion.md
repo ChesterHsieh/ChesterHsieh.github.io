@@ -20,6 +20,8 @@ Is one of the main components of almost any NLP analysis. The task of POS-taggin
 It following another question. Why we need to get part of speech?
 Here's is really common and popular application rely on NLP.
 ->**Chatbot**
+
+Usu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUxMzUwOThdfQ==
+eyJoaXN0b3J5IjpbNDEyMjk4Nzc5XX0=
 -->
