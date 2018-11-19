@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      NLP engineer interview questions collections
 subtitle:  Practice make perfect
@@ -6,10 +6,12 @@ date:       2018-11-19
 author:    Chester
 header-img: img/failure.jpg
 catalog: true
-tags:Job
+tags:
+    - Job
 ---
-## Question Collection 
 
+
+## Question Collection 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzgzMjA1Ml19
+eyJoaXN0b3J5IjpbNTMxMTUyNzE2XX0=
 -->
