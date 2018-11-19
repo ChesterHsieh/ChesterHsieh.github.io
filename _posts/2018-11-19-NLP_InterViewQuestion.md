@@ -24,6 +24,8 @@ Here's is really common and popular application rely on NLP.
 Identify name entity is import part of building chatbot. POS is priori step for doing that.
 
 
+## Reference
+- [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzIzMDI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMTc5Njg5MjkwLDQxMjI5ODc3OV19
 -->
