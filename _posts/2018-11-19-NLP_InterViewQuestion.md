@@ -13,6 +13,8 @@ tags:
 
 ## Question Collection 
 
+
+
 #### What is part of speech (POS) tagging? What is the simplest approach to building a POS tagger that you can imagine?
 
 Is one of the main components of almost any NLP analysis. The task of POS-tagging simply implies labelling words with their appropriate Part-Of-Speech (Noun, Verb, Adjective, Adverb, Pronoun, …).
@@ -41,6 +43,6 @@ Here's the one big problem we having standard solution today. [Language model](h
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDQxNjU2MiwxNzk2ODkyOTAsNDEyMj
-k4Nzc5XX0=
+eyJoaXN0b3J5IjpbLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNz
+k2ODkyOTAsNDEyMjk4Nzc5XX0=
 -->
