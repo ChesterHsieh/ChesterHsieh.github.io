@@ -40,13 +40,18 @@ Here's the one big problem we having standard solution today. [Language model](h
 #### What are stop words? Describe an application in which stop words should be removed.
 #### How would you design a model to predict whether a movie review was positive or negative?
 
-#### How to implement f
+#### How to implement flexible text matching
+
+ 1. Soundex 
+ 2.  Metaphone
+ 3. Edit Distance
+
 ## Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjE4NTY2LDQ1MjgxMTM5NiwtNDk0Mj
-g4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5Mjkw
-LDQxMjI5ODc3OV19
+eyJoaXN0b3J5IjpbLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5ND
+I4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5
+MCw0MTIyOTg3NzldfQ==
 -->
