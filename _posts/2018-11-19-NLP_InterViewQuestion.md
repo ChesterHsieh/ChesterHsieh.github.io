@@ -21,7 +21,9 @@ It following another question. Why we need to get part of speech?
 Here's is really common and popular application rely on NLP.
 ->**Chatbot**
 
-Identify name entity is import part of building chatbot. POS is priroi step 
+Identify name entity is import part of building chatbot. POS is priori step for doing that.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDI1NDYwOSw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMTg1NzIzMDI5MCw0MTIyOTg3NzldfQ==
 -->
