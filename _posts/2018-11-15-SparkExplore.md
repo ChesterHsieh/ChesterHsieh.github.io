@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Spark 1O1
+subtitle:   Is that possible to practice Spark for FREE!?
+date:       2018-11-17
+author:    Chester
+header-img: img/makeup_title.jpeg
+catalog: true
+tags:
+    -Project
+    -BIG DA
+---
 ## Read file
 
 The .collect() method returns all the elements of the RDD to the
@@ -27,3 +39,6 @@ between Python and the JVM. Note, this would be the worst-case
 scenario which would be similar if the compute was done on RDDs
 
 #### No map here :(
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYyNDg4NTY1MV19
+-->
