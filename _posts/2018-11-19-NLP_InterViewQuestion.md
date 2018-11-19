@@ -12,6 +12,9 @@ tags:
 
 
 ## Question Collection 
+
+#### What is part of speech (POS) tagging? What is the simplest approach to building a POS tagger that you can imagine?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMTUyNzE2XX0=
+eyJoaXN0b3J5IjpbMTM4NTkyOTY2MF19
 -->
