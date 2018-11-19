@@ -9,9 +9,10 @@ catalog: true
 tags:
     - Job
 ---
-
+##
 
 ## Question Collection 
+
 
 #### General Preprocessing Process?
 
@@ -44,6 +45,7 @@ Here's the one big problem we having standard solution today. [Language model](h
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxND
-kwNDE2NTYyLDE3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbNDUyODExMzk2LC00OTQyODg3NzgsLTEwMD
+A3MDU3MDYsMTQ5MDQxNjU2MiwxNzk2ODkyOTAsNDEyMjk4Nzc5
+XX0=
 -->
