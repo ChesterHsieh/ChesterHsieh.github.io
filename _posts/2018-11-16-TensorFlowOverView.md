@@ -1,4 +1,3 @@
-
 ﻿---
 layout:     post
 title:      Tensorflow Study Note
@@ -54,5 +53,5 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY4Mjk5OTAsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbLTUwMzUzNDgsMzQwMDkzOTMxXX0=
 -->
