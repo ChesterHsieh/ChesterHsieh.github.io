@@ -51,17 +51,23 @@ Here's the one big problem we having standard solution today. [Language model](h
 #### How would you design a model to predict whether a movie review was positive or negative?
 
 #### How to implement flexible text matching
-
  1. Soundex 
- 2.  Metaphone
+ 2. Metaphone
  3. Edit Distance
+
+
+## Knowledge supplement :)
+While I collect questions and try answer them, I review some key knowledg
+
+#### [HMM & POS](http://nbviewer.jupyter.org/github/iit-cs585/main/blob/master/lec/l07/L07.ipynb)
 
 ## Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MT
-MwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcw
-NiwxNDkwNDE2NTYyLDE3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMTIxMDc4NDgwMSwxMDAzMzY2MzA5LDMxND
+kxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4Nzc4
+LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5MjkwLDQxMj
+I5ODc3OV19
 -->
