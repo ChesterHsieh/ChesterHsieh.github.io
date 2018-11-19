@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Tensorflow Study Note
 subtitle:   Overview for Tensorflow NAIVE
@@ -53,5 +53,5 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzUzNDgsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbNTY3MzM2ODczLDM0MDA5MzkzMV19
 -->
