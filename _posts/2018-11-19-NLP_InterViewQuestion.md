@@ -26,6 +26,11 @@ Here's is really common and popular application rely on NLP.
 ->**Chatbot**
 
 #### How would you build a POS tagger from scratch given a corpus of annotated sentences? How would you deal with unknown words?
+1.
+
+2. Consider the following analysis involving  woman  (a noun),  bought  (a verb),  over  (a preposition), and  the  (a determiner). The  text.similar()  method takes a word  w, finds all contexts  w1w  w2, then finds all words  w'  that appear in the same context, i.e.  w1w'w2.
+
+If we have big enough corpus we can find enough past date support our analysis.
 
 ####  How would you train a model that identifies whether the word “Apple” in a sentence belongs to the fruit or the company?
 
@@ -51,7 +56,7 @@ Here's the one big problem we having standard solution today. [Language model](h
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5ND
-I4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5
-MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbLTk2NTkxMTEyMCwtNTYxMzAxNTExLDQ1Mj
+gxMTM5NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1
+NjIsMTc5Njg5MjkwLDQxMjI5ODc3OV19
 -->
