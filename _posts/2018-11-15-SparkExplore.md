@@ -8,7 +8,8 @@ header-img: img/makeup_title.jpeg
 catalog: true
 tags:
     -Project
-    -BIG DA
+    -BIG DATA
+    -Spark
 ---
 ## Read file
 
@@ -40,5 +41,5 @@ scenario which would be similar if the compute was done on RDDs
 
 #### No map here :(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDg4NTY1MV19
+eyJoaXN0b3J5IjpbLTExOTA4NDY0Ml19
 -->
