@@ -17,7 +17,9 @@ tags:
 
 Is one of the main components of almost any NLP analysis. The task of POS-tagging simply implies labelling words with their appropriate Part-Of-Speech (Noun, Verb, Adjective, Adverb, Pronoun, …).
 
-It following another question? Why we need to get par of s
+It following another question. Why we need to get part of speech?
+Here's is really common and popular application rely on NLP.
+->**Chatbot**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ3MzEwODJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTUxMzUwOThdfQ==
 -->
