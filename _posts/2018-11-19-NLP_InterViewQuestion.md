@@ -32,12 +32,15 @@ Identify name entity is import part of building chatbot. POS is priori step for 
 
 Here's the one big problem we having standard solution today. [Language model](https://en.wikipedia.org/wiki/Language_model) is one of solution. There's are different between common language model. We need to generate [character-level language model](https://towardsdatascience.com/language-models-spellchecking-and-autocorrection-dd10f739443c)
 
+#### What is latent semantic indexing and where can it be applied?
+#### What are stop words? Describe an application in which stop words should be removed.
+#### How would you design a model to predict whether a movie review was positive or negative?
 
 ## Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjQ1NzA2MCwxNzk2ODkyOTAsNDEyMj
+eyJoaXN0b3J5IjpbMTQ5MDQxNjU2MiwxNzk2ODkyOTAsNDEyMj
 k4Nzc5XX0=
 -->
