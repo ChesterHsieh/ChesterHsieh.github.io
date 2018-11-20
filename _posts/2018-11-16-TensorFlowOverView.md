@@ -56,6 +56,12 @@ model.evaluate(x_test, y_test)
 
  1. How we tuning the model for next step
  2. How about more complicated problem for doing this?
+## High Level Tool
+#### Eager Execution
+>Enabling eager execution changes how TensorFlow operations behave—now they immediately evaluate and return their values to Python.
+
+#### 
+
 
 ## Graph
 #### Operation
@@ -96,7 +102,7 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTgyODE2Myw5ODU2ODUxMiwtMTYzNj
-Y5MDM5OCw2MjYyNzUwMjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
-
+eyJoaXN0b3J5IjpbMTQ5OTkwODQ1MywxODY5ODI4MTYzLDk4NT
+Y4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1NjczMzY4NzMs
+MzQwMDkzOTMxXX0=
 -->
