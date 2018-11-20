@@ -38,12 +38,30 @@ tags:
 
 #### Explain xgboost
 
-Clustering
+#### Clustering
 
-Explain SVM 1-class
+#### Explain SVM 1-class
 
-Explain Metrics for clustering
+#### Explain Metrics for clustering
+
+## Statistic
+
+#### Explain Interquantile
+
+#### Explain Central Limit Theorem
+
+#### Explain Bayes
+
+#### Explain Hyposis test
+
+#### Explain P-Test
+
+#### Explain Confifdence Interval
+
+#### Explain Probabilty & Likiihood
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU2NDQwNjMsLTcxOTA1MjM3MiwtMT
-M5NjcyNTQxM119
+eyJoaXN0b3J5IjpbLTU0NTI2Nzc2LC03MTkwNTIzNzIsLTEzOT
+Y3MjU0MTNdfQ==
 -->
