@@ -60,14 +60,22 @@ Here's the one big problem we having standard solution today. [Language model](h
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
 
 #### [HMM & POS](http://nbviewer.jupyter.org/github/iit-cs585/main/blob/master/lec/l07/L07.ipynb)
+The main idea of Hidden Markov models
 
+The output at time  ii  depends on the input at time  ii  and the output at previous times  i−1i−1,  i−2i−2, ...:
+
+There's are two example using HMM concept.
+
+-   **Language model**:  p(wi|wi−2,wi−1)p(wi|wi−2,wi−1)
+-   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
+    -   e.g.,  yiyi  is part-of-speech tag at time  i
 ## Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMT
-Q5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4ODc3
-OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MCw0MT
-IyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbLTE0MTMzNTczMDEsLTE1MzYyMDA2NDEsMT
+AwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEz
+OTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLD
+E3OTY4OTI5MCw0MTIyOTg3NzldfQ==
 -->
