@@ -1,4 +1,4 @@
-﻿---  
+---  
 layout: post  
 title: DS Question -Amazon Failure:(
 subtitle: What I learn from Amazon and Preparation
@@ -149,5 +149,5 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzcyOTM2Nl19
+eyJoaXN0b3J5IjpbMTc4OTExMjg0NSwtNjYzNzI5MzY2XX0=
 -->
