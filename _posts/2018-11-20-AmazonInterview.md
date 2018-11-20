@@ -33,7 +33,7 @@ online clustering
 
 Least discriminative analysis
 
-Reservoir sampling(水塘問題)
+#### Reservoir sampling(水塘問題)
 
 rand-> p  
 if P< 1/n:  
@@ -50,6 +50,14 @@ Return Value before
 	First of all, Amazon Books uses innovative technology to merge physical and online worlds into one unique and delightful shopping experience. The concept is really cool and pioneering. I am really excited about learning and using new technologies to create new exceptional experiences that firmly obsess customers.
 	Secondly, I’d like to work with solutions from a full-stack point of view, by engaging with requirements, frontend, middle tier, backend, storage, and all the other stuff, I can understand problems and solutions thoroughly, and thus scale and optimize them with the best practices. 
 	Thirdly, I’m happy to work in an environment with a lot of challenges so that I’ll never be boring. In Amazon, I can take ownership of the projects I am truly passionate about. I am sure I can take the challenges and provide successful solutions. 
+
+#### Most challenging project?
+The most challenging project I’ve done was an online collaborative coding platform, it’s like Leetcode but with collaborative feature. The most challenging part was to incorporate collaborative features with the code editor, that is, user in a same coding room can see the real-time cursor movements and typing actions of the other users.
+It was challenging because I was supposed to come up with the solution and implement it by myself, and I have never developed something like this before.
+So I started with composing a visual solution first, the work I’ve done included researching online collaborative products, listing core features I needed, building wireframes, and designing UI. With the visual solution, I had a good understanding on how the application would work. Then, I googled and read a lot of system design solutions for products with similar features, like Google doc, online chatting room, etc. With what I’ve read, I was able to draft out my own solutions and selected corresponding technologies.
+I implemented it successfully within the given time, and my solution received a positive feedback because it is not only working well, but also visually pleasing. Throughout this process, I learned that it is important to be curious and keep learning, try to read as many technical blogs or articles as you can, the more you read, the better you’ll ace a problem or design. The feeling of ownership is very important, some other students just gave up with the excuse “I don’t how to do it". visit 1point3acres for more.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjU4MDU2XX0=
+eyJoaXN0b3J5IjpbODA4NDA0MjEwXX0=
 -->
