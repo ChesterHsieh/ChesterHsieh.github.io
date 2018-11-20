@@ -8,6 +8,7 @@ header-img: img/failure.jpg
 catalog: true
 tags:
     Job
+    NLP
 ---
 ## Question Collection 
 
@@ -81,8 +82,8 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc2NTQzMjQsLTE1MzYyMDA2NDEsMT
-AwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEz
-OTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLD
-E3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMD
+AzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5
+NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMT
+c5Njg5MjkwLDQxMjI5ODc3OV19
 -->
