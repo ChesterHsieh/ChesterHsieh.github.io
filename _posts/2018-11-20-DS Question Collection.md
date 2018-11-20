@@ -60,8 +60,10 @@ tags:
 
 #### Explain Probabilty & Likiihood
 
+## Deep Learning
+#### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTI2Nzc2LC03MTkwNTIzNzIsLTEzOT
+eyJoaXN0b3J5IjpbODQwMDEzNzc2LC03MTkwNTIzNzIsLTEzOT
 Y3MjU0MTNdfQ==
 -->
