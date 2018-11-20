@@ -112,13 +112,14 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 
 
 
+
 ## Some stupid Question
 #### What's different between operation and layer?
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OT
-gyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIs
-NTY3MzM2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbNTY1NzUyMDMwLDk4NDE4MDE3MiwxNDk5OT
+A4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgs
+NjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
