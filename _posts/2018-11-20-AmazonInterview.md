@@ -5,9 +5,9 @@ subtitle: What I learn from Amazon and Preparation
 date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
-catalog: true  
-tags:  
-	Job  
+catalog: true
+tags:  Job
+  
 ---
 Amazon interview question
 
@@ -149,5 +149,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODg3MDIzNSwtNjYzNzI5MzY2XX0=
+eyJoaXN0b3J5IjpbNjM5MzcyMzI5LC0zNDg4NzAyMzUsLTY2Mz
+cyOTM2Nl19
 -->
