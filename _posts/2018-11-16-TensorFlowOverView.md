@@ -12,7 +12,9 @@ tags:
    Tensorflow
 ---
 ## Prerequisite
-This article is try to bring those who has basic knowledge about the deep learning and neural network. I strong recommend the courser form 
+This article is try to bring those who has basic knowledge about the deep learning and neural network. I strongly recommend the [course](https://www.coursera.org/specializations/deep-learning) for deep learning.
+
+While I want to implement side project, I realize I don't know how to start. Here's I play the role as exploer to 
 ## Hello World
 Tensorflow progress day to day. In the first case I try to understand is MNIST image classification. 
 
@@ -93,6 +95,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTkwMjIyNyw2MjYyNzUwMjIsNTY3Mz
-M2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbLTE2NjIzNzg2NjUsNjI2Mjc1MDIyLDU2Nz
+MzNjg3MywzNDAwOTM5MzFdfQ==
 -->
