@@ -4,7 +4,7 @@ title:      Tensorflow Study Note
 subtitle:   Overview for Tensorflow NAIVE
 date:       2018-11-16
 author:    Chester
-header-img: https://picasaweb.google.com/108209746639180312525/6626034333592869841#6626034330883332738
+header-img: 
 catalog: true
 tags:
     Project
@@ -12,8 +12,7 @@ tags:
    Tensorflow
 ---
 ## Prerequisite
-This article is try to bring those who has basic knowledge about the deep learning and neural network. I strongly recommend the [course](https://www.coursera.org/specializations/deep-learning) for deep learning.
-
+This article is try to bring those who has basic knowledge about the deep learning and neural network. I strongly recommend the [course]![enter image description here](https://lh3.googleusercontent.com/IQxRPH3efR5C2GMD4kFJTCIqCBDLlBRxQFzznPT4UvC2CZlc_xw_4U9ER_-ywQ9j9Vqqgb6-bilO)
 While I want to implement side project, I realize I don't know how to start. Here's I play the role to explore Tensorflow. Hope  you can get some idea form this. 
 
 ## Hello World
@@ -96,6 +95,7 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mj
-c1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQxOTczMDUsOTg1Njg1MTIsLTE2Mz
+Y2OTAzOTgsNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFd
+fQ==
 -->
