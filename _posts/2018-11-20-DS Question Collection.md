@@ -1,8 +1,8 @@
 ﻿---
 layout:     post
-title:      DS Question Collection-A/B Test
-subtitle:   Failure doesn't defeat you
-date:       2018-11-09
+title:      DS Question Collection-General
+subtitle:   
+date:       2018-11-20
 author:    Chester
 header-img: img/failure.jpg
 catalog: true
@@ -11,5 +11,5 @@ tags:
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY3MjU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTcxOTA1MjM3MiwtMTM5NjcyNTQxM119
 -->
