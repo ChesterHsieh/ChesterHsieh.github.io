@@ -12,28 +12,38 @@ tags:
 ## Terminology Explanation 
 #### Logstic Regression
 
-Explain Difference and Box plot
+#### Explain Difference and Box plot
 
-Explain sparsity
+#### Explain sparsity
 
-Explain expectation-maximization (EM)
+#### Explain expectation-maximization (EM)
 
-Explain SVM
+#### Explain SVM
 
-Explain-SVM Soft Margin
+#### Explain-SVM Soft Margin
 
-Explain-SVM Dual problem
+#### Explain-SVM Dual problem
 
-Explain Naive Bayes
+#### Explain Naive Bayes
 
-Explain SGD
+#### Explain SGD
 
-Explain PassiveAggressiveClassifier
+#### Explain PassiveAggressiveClassifier
 
-Metrics for classification problem
+#### Metrics for classification problem
 
+## Regression
 
+#### Explain boosting
+
+#### Explain xgboost
+
+Clustering
+
+Explain SVM 1-class
+
+Explain Metrics for clustering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg0NzAxNDcsLTcxOTA1MjM3MiwtMT
+eyJoaXN0b3J5IjpbLTIwNDU2NDQwNjMsLTcxOTA1MjM3MiwtMT
 M5NjcyNTQxM119
 -->
