@@ -7,7 +7,7 @@ author:    Chester
 header-img: img/makeup_title.jpeg
 catalog: true
 tags:
-   Project
+    -Project
 ---
 
 
@@ -81,5 +81,5 @@ I think it's not.
 
 We make too many assumption let make the project going. We can't overcome some essensial problem in this.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2Njg5NTc1XX0=
+eyJoaXN0b3J5IjpbLTI1NDA3OTI0NCw3ODY2ODk1NzVdfQ==
 -->
