@@ -97,12 +97,24 @@ Start the conversation.
 Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
 
 
+
+
+## Workshop Case Study
+[Translation](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
+
+In this 
+
+
+
+
+
 ## Some stupid Question
 #### What's different between operation and layer?
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTkwODQ1MywxODY5ODI4MTYzLDk4NT
-Y4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1NjczMzY4NzMs
-MzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbLTE2ODEyNTc0MzgsMTQ5OTkwODQ1MywxOD
+Y5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAy
+Miw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
