@@ -7,9 +7,9 @@ author:    Chester
 header-img: img/failure.jpg
 catalog: true
 tags:
-    - Project
-    - DeepLearning
-    - Tensorflow
+    Project
+    DeepLearning
+   Tensorflow
 ---
 
 
@@ -53,5 +53,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzM2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOT
+M5MzFdfQ==
 -->
