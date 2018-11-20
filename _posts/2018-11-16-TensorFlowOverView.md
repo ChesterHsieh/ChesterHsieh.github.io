@@ -11,7 +11,8 @@ tags:
     DeepLearning
    Tensorflow
 ---
-
+## Hello World
+Tensorflow progress day to day. In the first case I try to understand is MXNT image classification. 
 
 
 ## Graph
@@ -53,6 +54,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOT
-M5MzFdfQ==
+eyJoaXN0b3J5IjpbMTY4NjQ1MDQ4MCw2MjYyNzUwMjIsNTY3Mz
+M2ODczLDM0MDA5MzkzMV19
 -->
