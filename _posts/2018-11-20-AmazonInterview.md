@@ -1,7 +1,7 @@
 ﻿---  
 layout: post  
 title: DS Question -Amazon Failure:(
-subtitle: Failure doesn
+subtitle: What I learn from Amazon and Preparation
 date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
@@ -149,5 +149,5 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMwMDMyMjBdfQ==
+eyJoaXN0b3J5IjpbLTY2MzcyOTM2Nl19
 -->
