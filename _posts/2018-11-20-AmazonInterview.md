@@ -70,45 +70,39 @@ Tell me about a time when you observed two business opportunities to improve ROI
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
-#6 Hire and Develop the Best
+6. Hire and Develop the Best
 选贤任能(从员工角度出发,创建职业发展机制)
 Leaders raise the performance bar with every hire and promotion. They recognise people with exceptional talent and will move them throughout the organisation. Leaders develop leaders and are serious about their role in coaching others.  We work on behalf of our people to invent mechanisms for development like Career Choice.
 
-#7 Insist on the Highest Standards
+7. Insist on the Highest Standards
 最高标准(确保问题不会蔓延,解决问题,不再出现)
 Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
-
-
-#8 Think Big
+8. Think Big
 远见卓识(大局策略,不同角度看问题,寻找如何服务客户)
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
-#9 Bias for Action
+9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 ----
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 
-#10 Frugality
+10. Frugality
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
 ----
 Tell me about a time where you thought of a clever new way to save money for the company. 同樣for most challenge project !
 
-
-
-#11 Earn Trust
+11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  Leaders do not believe their or their team’s body odour smells of perfume.  They benchmark themselves and their teams against the best.
 ----
-1. Tell me a time when you earned trust of a group.
+Tell me a time when you earned trust of a group.
 How's 
 I believe to make mistake and honest to knowledge is key to becoming better. In the beginning, the team leader didn't trust me on dealing the problem. I'm one say I don't know for 50% time. After days co-work, they know how I'm working on.
 
-
-
-#12 Dive Deep
+12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 ---
 Tell me about a time when you had to dive deep into the data and the results you achieved.
@@ -116,17 +110,16 @@ I love mathmatics.
 
 
 
-#13 Have Backbone; Disagree and Commit
+13. Have Backbone; Disagree and Commit
 敢于谏言,服从大局(质疑无法苟同的决策,不为一团和气妥协,一旦决定,全身心实现目标)
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 ----
 
-#####14 Deliver Results
+14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
-----
 
-
+##
 
 #### Why Amazon?
 	Amazon is a top internet retailing company with a strong focus on customer experience and obsession. Its motto- work hard, have fun, make history, and it’s vision, earth’s most customer centric company, inspires me. I’m a person who respect hard working and care a lot about customer experience, so the culture of Amazon attracts me a lot. Furthermore, the growth of this company is pretty impressive, it’s not only an online retail shop but also has a wide range of products like Alexa, Kindle, fire tablet and TV, Amazon cloud service, etc. Hundreds of thousands of talented engineers are working passionately here, building innovative system and solving problems at unprecedented scale. Therefore, this is a place where I can learn a lot, and use my skills and experience to make things happen with a team. 
@@ -155,5 +148,5 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzYwNTA0Ml19
+eyJoaXN0b3J5IjpbMTIxNDg4OTI0NF19
 -->
