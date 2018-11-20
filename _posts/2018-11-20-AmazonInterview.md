@@ -57,7 +57,11 @@ It was challenging because I was supposed to come up with the solution and imple
 So I started with composing a visual solution first, the work I’ve done included researching online collaborative products, listing core features I needed, building wireframes, and designing UI. With the visual solution, I had a good understanding on how the application would work. Then, I googled and read a lot of system design solutions for products with similar features, like Google doc, online chatting room, etc. With what I’ve read, I was able to draft out my own solutions and selected corresponding technologies.
 I implemented it successfully within the given time, and my solution received a positive feedback because it is not only working well, but also visually pleasing. Throughout this process, I learned that it is important to be curious and keep learning, try to read as many technical blogs or articles as you can, the more you read, the better you’ll ace a problem or design. The feeling of ownership is very important, some other students just gave up with the excuse “I don’t how to do it". visit 1point3acres for more.
 
+#### Doxygen Story(deep dive, bias for action, backbone, ownership)
+Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
+
+#### The biggest mistake you made and what did you learn from it?  (1,11,14).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NDA0MjEwXX0=
+eyJoaXN0b3J5IjpbLTExOTI0NTI5MjJdfQ==
 -->
