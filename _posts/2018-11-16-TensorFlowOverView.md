@@ -14,9 +14,10 @@ tags:
 ## Prerequisite
 This article is try to bring those who has basic knowledge about the deep learning and neural network. I strongly recommend the [course](https://www.coursera.org/specializations/deep-learning) for deep learning.
 
-While I want to implement side project, I realize I don't know how to start. Here's I play the role as exploer to 
+While I want to implement side project, I realize I don't know how to start. Here's I play the role to explore Tensorflow. Hope  you can get some idea form this. 
+
 ## Hello World
-Tensorflow progress day to day. In the first case I try to understand is MNIST image classification. 
+Tensorflow progress day to day. In the first case I try to understand is MNIST image classification. It's  hello world case for first deep learning clas
 
 ####
 ```python
@@ -95,6 +96,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzNzg2NjUsNjI2Mjc1MDIyLDU2Nz
-MzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDE5NTExNyw2MjYyNzUwMjIsNTY3Mz
+M2ODczLDM0MDA5MzkzMV19
 -->
