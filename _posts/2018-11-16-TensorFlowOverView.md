@@ -11,6 +11,8 @@ tags:
     DeepLearning
    Tensorflow
 ---
+## Prerequisite
+This article is try to bring those who has basic knowledge about the deep learning and neural network. I strong recommend the courser form 
 ## Hello World
 Tensorflow progress day to day. In the first case I try to understand is MNIST image classification. 
 
@@ -91,6 +93,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU2ODUzOTIsNjI2Mjc1MDIyLDU2Nz
-MzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTY3OTkwMjIyNyw2MjYyNzUwMjIsNTY3Mz
+M2ODczLDM0MDA5MzkzMV19
 -->
