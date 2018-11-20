@@ -4,7 +4,7 @@ title:      Tensorflow Study Note
 subtitle:   Overview for Tensorflow NAIVE
 date:       2018-11-16
 author:    Chester
-header-img: img/failure.jpg
+header-img: 
 catalog: true
 tags:
     Project
@@ -96,6 +96,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLDU2Nz
-MzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbMTg2OTgyODE2MywtMTYzNjY5MDM5OCw2Mj
+YyNzUwMjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
 -->
