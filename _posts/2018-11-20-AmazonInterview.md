@@ -61,7 +61,13 @@ I implemented it successfully within the given time, and my solution received a 
 Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
 
 #### The biggest mistake you made and what did you learn from it?  (1,11,14).
+    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
+
+    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
+
+    I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI0NTI5MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDU3MzUzNDVdfQ==
 -->
