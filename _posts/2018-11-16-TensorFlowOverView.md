@@ -35,13 +35,17 @@ model.compile(optimizer='adam',
 model.fit(x_train, y_train, epochs=5)
 model.evaluate(x_test, y_test)
 ```
-#### Input data
 #### Build Model
 
  1. build layer
  2. decide the compile
 
 #### Training
+
+ 1. epochs
+	 Only one parameter is enough to set this
+2. evaluation
+	Follow the metrics decide in compile
 
 
 
@@ -84,6 +88,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg4Mzg4NTIsNjI2Mjc1MDIyLDU2Nz
-MzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTUxMDAwNjIwNCw2MjYyNzUwMjIsNTY3Mz
+M2ODczLDM0MDA5MzkzMV19
 -->
