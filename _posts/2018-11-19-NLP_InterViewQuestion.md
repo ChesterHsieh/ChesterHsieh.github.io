@@ -37,7 +37,8 @@ Here's is really common and popular application rely on NLP.
 2. Consider the following analysis involving  woman  (a noun),  bought  (a verb),  over  (a preposition), and  the  (a determiner). The  text.similar()  method takes a word  w, finds all contexts  w1w  w2, then finds all words  w'  that appear in the same context, i.e.  w1w'w2.
 If we have big enough corpus we can find enough past date support our analysis.
 ---
-Here's also a very interesting implemen
+Here's also a very interesting instruction about building Pos tagger.[# A Good Part-of-Speech Tagger in about 200 Lines of Python](
+https://explosion.ai/blog/part-of-speech-pos-tagger-in-python)
 
 ####  How would you train a model that identifies whether the word “Apple” in a sentence belongs to the fruit or the company?
 We can apply HMM model to identify the result. Most easy way to implement this is doing n-gram encoding then train the classification model.
@@ -50,7 +51,10 @@ a hand-crafted extractor may not be such a bad thing, especially if you need to 
 Here's the one big problem we having standard solution today. [Language model](https://en.wikipedia.org/wiki/Language_model) is one of solution. There's are different between common language model. We need to generate [character-level language model](https://towardsdatascience.com/language-models-spellchecking-and-autocorrection-dd10f739443c)
 
 #### What is latent semantic indexing and where can it be applied?
+Wait to answer :P
+
 #### What are stop words? Describe an application in which stop words should be removed.
+Wait to answer :P
 #### How would you design a model to predict whether a movie review was positive or negative?
 
 #### How to implement flexible text matching
@@ -78,8 +82,8 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMDc5MDc0LC0xNTM2MjAwNjQxLDEwMD
-MzNjYzMDksMzE0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2
-LC00OTQyODg3NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNz
-k2ODkyOTAsNDEyMjk4Nzc5XX0=
+eyJoaXN0b3J5IjpbLTM3MjM0Mjk3MywtMTUzNjIwMDY0MSwxMD
+AzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5
+NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMT
+c5Njg5MjkwLDQxMjI5ODc3OV19
 -->
