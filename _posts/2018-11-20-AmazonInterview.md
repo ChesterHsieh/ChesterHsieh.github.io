@@ -1,8 +1,8 @@
 ﻿---  
 layout: post  
-title: DS Question Collection-A/B Test  
-subtitle: Failure doesn't defeat you  
-date: 2018-11-09  
+title: DS Question -Amazon Failure:(
+subtitle: Failure doesn
+date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
 catalog: true  
@@ -119,7 +119,8 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
 
-##
+## Behavior Questions - Very General One
+
 
 #### Why Amazon?
 	Amazon is a top internet retailing company with a strong focus on customer experience and obsession. Its motto- work hard, have fun, make history, and it’s vision, earth’s most customer centric company, inspires me. I’m a person who respect hard working and care a lot about customer experience, so the culture of Amazon attracts me a lot. Furthermore, the growth of this company is pretty impressive, it’s not only an online retail shop but also has a wide range of products like Alexa, Kindle, fire tablet and TV, Amazon cloud service, etc. Hundreds of thousands of talented engineers are working passionately here, building innovative system and solving problems at unprecedented scale. Therefore, this is a place where I can learn a lot, and use my skills and experience to make things happen with a team. 
@@ -148,5 +149,5 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDg4OTI0NF19
+eyJoaXN0b3J5IjpbLTE1ODMwMDMyMjBdfQ==
 -->
