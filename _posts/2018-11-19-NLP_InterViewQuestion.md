@@ -61,6 +61,7 @@ Wait to answer :P
  1. Soundex 
  2. Metaphone
  3. Edit Distance
+#### What is beam search?
 
 
 ## Knowledge supplement :)
@@ -82,8 +83,8 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMD
-AzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5
-NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMT
-c5Njg5MjkwLDQxMjI5ODc3OV19
+eyJoaXN0b3J5IjpbLTEyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMT
+UzNjIwMDY0MSwxMDAzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAx
+NTExLDQ1MjgxMTM5NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LD
+E0OTA0MTY1NjIsMTc5Njg5MjkwLDQxMjI5ODc3OV19
 -->
