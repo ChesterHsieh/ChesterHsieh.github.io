@@ -12,7 +12,7 @@ tags:
    Tensorflow
 ---
 ## Hello World
-Tensorflow progress day to day. In the first case I try to understand is MXNT image classification. 
+Tensorflow progress day to day. In the first case I try to understand is MNIST image classification. 
 
 ####
 ```python
@@ -47,7 +47,10 @@ model.evaluate(x_test, y_test)
 2. evaluation
 	Follow the metrics decide in compile
 
+#### Following Question
 
+ 1. How we tuning the model for next step
+ 2. How about more complicated problem for doing this?
 
 ## Graph
 #### Operation
@@ -88,6 +91,6 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDAwNjIwNCw2MjYyNzUwMjIsNTY3Mz
-M2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbLTE2MTU2ODUzOTIsNjI2Mjc1MDIyLDU2Nz
+MzNjg3MywzNDAwOTM5MzFdfQ==
 -->
