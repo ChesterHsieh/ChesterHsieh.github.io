@@ -102,7 +102,11 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 ## Workshop Case Study
 [Translation](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
 
-In this 
+In this sample code, tensorflow team build up an training case for Spanish <-> English translation. It cover couple important concept:
+- Seq2Seq
+- Attention model
+#### Attention model
+
 
 
 
@@ -114,7 +118,7 @@ In this
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEyNTc0MzgsMTQ5OTkwODQ1MywxOD
-Y5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAy
-Miw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OT
+gyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIs
+NTY3MzM2ODczLDM0MDA5MzkzMV19
 -->
