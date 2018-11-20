@@ -69,13 +69,14 @@ There's are two example using HMM concept.
 -   **Language model**:  p(wi|wi−2,wi−1)p(wi|wi−2,wi−1)
 -   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
     -   e.g.,  yiyi  is part-of-speech tag at time  i
+#### asdf
 ## Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMzNTczMDEsLTE1MzYyMDA2NDEsMT
-AwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEz
-OTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLD
-E3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMTk4OTM0Njc3MSwtMTUzNjIwMDY0MSwxMD
+AzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5
+NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMT
+c5Njg5MjkwLDQxMjI5ODc3OV19
 -->
