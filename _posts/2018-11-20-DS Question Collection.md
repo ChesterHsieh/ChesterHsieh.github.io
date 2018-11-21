@@ -7,7 +7,7 @@ author:    Chester
 header-img: img/failure.jpg
 catalog: true
 tags:
-    Job
+    - Job
 ---
 ## Terminology Explanation 
 #### Logstic Regression
@@ -78,7 +78,7 @@ I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic,
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTA4MTQ3NywtMTk5ODUzODQwMywtND
-M4NjA2Mjg5LDE5MzY3Nzk5OTEsODQwMDEzNzc2LC03MTkwNTIz
-NzIsLTEzOTY3MjU0MTNdfQ==
+eyJoaXN0b3J5IjpbODcyODQ2NjE2LDExMTEwODE0NzcsLTE5OT
+g1Mzg0MDMsLTQzODYwNjI4OSwxOTM2Nzc5OTkxLDg0MDAxMzc3
+NiwtNzE5MDUyMzcyLC0xMzk2NzI1NDEzXX0=
 -->
