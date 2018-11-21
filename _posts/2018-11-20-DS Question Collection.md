@@ -68,11 +68,14 @@ W
 ## Special Case
 
 #### Very unbalanced data for classification problem
+I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic, Amazon Alexa) 
+- balanced accuracy
 #### Dimen
 ## Deep Learning
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODYwNjI4OSwxOTM2Nzc5OTkxLDg0MD
-AxMzc3NiwtNzE5MDUyMzcyLC0xMzk2NzI1NDEzXX0=
+eyJoaXN0b3J5IjpbLTg4NTM3NTkxMSwtNDM4NjA2Mjg5LDE5Mz
+Y3Nzk5OTEsODQwMDEzNzc2LC03MTkwNTIzNzIsLTEzOTY3MjU0
+MTNdfQ==
 -->
