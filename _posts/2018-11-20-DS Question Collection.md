@@ -60,10 +60,14 @@ tags:
 
 #### Explain Probabilty & Likiihood
 
+## Special Case
+
+#### Very unbalanced data for classification problem
+
 ## Deep Learning
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjE4NDE0OCw4NDAwMTM3NzYsLTcxOT
+eyJoaXN0b3J5IjpbMTIzMTI5MzM1Niw4NDAwMTM3NzYsLTcxOT
 A1MjM3MiwtMTM5NjcyNTQxM119
 -->
