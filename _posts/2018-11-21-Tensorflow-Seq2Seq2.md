@@ -14,7 +14,10 @@ tags:
 ---
 
 ## Introduction
-This post is series of Tensorflow exploring. It's personal study note. 
+This post is series of Tensorflow exploring. It's personal study note. I assume reader should have basic idea about how deep learning works. 
+
+## Coding on Colab
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTEzODQ4Ml19
+eyJoaXN0b3J5IjpbLTY3NjEzMDQ4NV19
 -->
