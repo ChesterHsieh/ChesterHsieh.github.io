@@ -48,6 +48,7 @@ W
 
 ## Classification
 #### List the metrics for cluster:
+-
 
 
 ## Statistic
@@ -70,6 +71,6 @@ W
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjc3OTk5MSw4NDAwMTM3NzYsLTcxOT
-A1MjM3MiwtMTM5NjcyNTQxM119
+eyJoaXN0b3J5IjpbLTQxNzY2OTQ5NiwxOTM2Nzc5OTkxLDg0MD
+AxMzc3NiwtNzE5MDUyMzcyLC0xMzk2NzI1NDEzXX0=
 -->
