@@ -44,11 +44,11 @@ tags:
 
 #### Explain Metrics for clustering
 
+## Classification
+#### List the metrics for cluster:
+
+
 ## Statistic
-
-#### Explain Interquantile
-
-#### Explain Central Limit Theorem
 
 #### Explain Bayes
 
@@ -64,6 +64,6 @@ tags:
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMDEzNzc2LC03MTkwNTIzNzIsLTEzOT
-Y3MjU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTk4MjE4NDE0OCw4NDAwMTM3NzYsLTcxOT
+A1MjM3MiwtMTM5NjcyNTQxM119
 -->
