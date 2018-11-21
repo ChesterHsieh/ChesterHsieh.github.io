@@ -96,7 +96,7 @@ Here's the advantage to use dataflow:
 Start the conversation. 
 Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
 
-
+## Tensorboard
 
 
 ## Workshop Case Study
@@ -121,8 +121,8 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4ND
-E4MDE3MiwxNDk5OTA4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIs
-LTE2MzY2OTAzOTgsNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOT
-M5MzFdfQ==
+eyJoaXN0b3J5IjpbLTExNDYyMzU2NTQsLTUwNjg0NjY3NSwtOD
+A2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4Mjgx
+NjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLDU2Nz
+MzNjg3MywzNDAwOTM5MzFdfQ==
 -->
