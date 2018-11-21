@@ -13,7 +13,8 @@ tags:
 
 ---
 
-## Int
+## Introduction
+This post is series of Tensorflow exploring. It's personal study note. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjQ4OTM3MF19
+eyJoaXN0b3J5IjpbLTI2OTEzODQ4Ml19
 -->
