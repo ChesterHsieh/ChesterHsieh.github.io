@@ -31,7 +31,9 @@ tags:
 #### Explain PassiveAggressiveClassifier
 
 #### Metrics for classification problem
-
+## DS Concept 
+#### What is bias-vaiance tradoff?
+W
 ## Regression
 
 #### Explain boosting
@@ -68,6 +70,6 @@ tags:
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU3MzE2MTksODQwMDEzNzc2LC03MT
-kwNTIzNzIsLTEzOTY3MjU0MTNdfQ==
+eyJoaXN0b3J5IjpbMTkzNjc3OTk5MSw4NDAwMTM3NzYsLTcxOT
+A1MjM3MiwtMTM5NjcyNTQxM119
 -->
