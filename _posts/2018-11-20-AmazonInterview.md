@@ -6,7 +6,8 @@ date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
 catalog: true
-tags:  Job
+tags:  
+- Job
   
 ---
 Amazon interview question
@@ -149,6 +150,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MzcyMzI5LC0zNDg4NzAyMzUsLTY2Mz
-cyOTM2Nl19
+eyJoaXN0b3J5IjpbMTcwOTk1ODg2Miw2MzkzNzIzMjksLTM0OD
+g3MDIzNSwtNjYzNzI5MzY2XX0=
 -->
