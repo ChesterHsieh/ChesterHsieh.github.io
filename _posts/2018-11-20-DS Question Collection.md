@@ -48,8 +48,10 @@ W
 
 ## Classification
 #### List the metrics for cluster:
--
 
+ - Binary problem
+ - Multiple class
+	 - Micro/Macro F1, Presion Recall
 
 ## Statistic
 
@@ -71,6 +73,6 @@ W
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzY2OTQ5NiwxOTM2Nzc5OTkxLDg0MD
+eyJoaXN0b3J5IjpbLTQzODYwNjI4OSwxOTM2Nzc5OTkxLDg0MD
 AxMzc3NiwtNzE5MDUyMzcyLC0xMzk2NzI1NDEzXX0=
 -->
