@@ -52,6 +52,7 @@ W
  - Binary problem
  - Multiple class
 	 - Micro/Macro F1, Presion Recall
+	 - Confusion matrix
 
 ## Statistic
 
@@ -71,13 +72,13 @@ W
 I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic, Amazon Alexa) 
 - balanced accuracy
 - Turn the problem into abnormal detection
-- 
+- Co
 #### Dimen
 ## Deep Learning
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg1Mzg0MDMsLTQzODYwNjI4OSwxOT
-M2Nzc5OTkxLDg0MDAxMzc3NiwtNzE5MDUyMzcyLC0xMzk2NzI1
-NDEzXX0=
+eyJoaXN0b3J5IjpbMTExMTA4MTQ3NywtMTk5ODUzODQwMywtND
+M4NjA2Mjg5LDE5MzY3Nzk5OTEsODQwMDEzNzc2LC03MTkwNTIz
+NzIsLTEzOTY3MjU0MTNdfQ==
 -->
