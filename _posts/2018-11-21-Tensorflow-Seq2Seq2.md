@@ -19,9 +19,12 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
 ## Coding on Colab
 
 ## Tensorflow Basic
+#### Variable
+
 #### place holder
 #### model
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzYyMjIyLC02NzYxMzA0ODVdfQ==
+eyJoaXN0b3J5IjpbNTQzMjc0MzM4LDY0MTc2MjIyMiwtNjc2MT
+MwNDg1XX0=
 -->
