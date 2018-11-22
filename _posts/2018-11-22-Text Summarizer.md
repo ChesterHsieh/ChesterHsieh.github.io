@@ -23,7 +23,15 @@ tags:
 
 ## Generate Headline
 
-## Deep Learning i
+## Deep Learning is working on this?
+#### Overview for steps
+
+ 1. Word Embeded
+ 2. Word similarity matrix
+
+
+#### Word Embeded
+
 
 ## Reference
 
@@ -33,5 +41,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzODcyNTUxXX0=
+eyJoaXN0b3J5IjpbLTEwNDIwNjMyNTNdfQ==
 -->
