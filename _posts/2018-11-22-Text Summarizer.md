@@ -17,9 +17,9 @@ tags:
 
 
 ## Terminology
-#### Sentimatic Density
+#### Semantics Density
 #### Abstrative
-
+#### Attention
 
 ## Generate Headline
 
@@ -41,5 +41,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIwNjMyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY2NDE0ODddfQ==
 -->
