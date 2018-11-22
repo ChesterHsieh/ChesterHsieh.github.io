@@ -17,9 +17,15 @@ tags:
 
 
 ## Terminology
+#### Sentimatic Density
+#### Abstrative
 
 
-## Generate 
+## Generate Headline
+
+
+## Reference
+Sirag Raval- How to Make Aa Text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjAzMzExNV19
+eyJoaXN0b3J5IjpbLTIwMDMwNjM5M119
 -->
