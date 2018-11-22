@@ -23,9 +23,15 @@ tags:
 
 ## Generate Headline
 
+## Deep Learning i
 
 ## Reference
-Sirag Raval- How to Make Aa Text
+
+ 1. [Sirag Raval- How to Make A TextSummarizer](https://github.com/llSourcell/How_to_make_a_text_summarizer)
+ 2. 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMwNjM5M119
+eyJoaXN0b3J5IjpbNzMzODcyNTUxXX0=
 -->
