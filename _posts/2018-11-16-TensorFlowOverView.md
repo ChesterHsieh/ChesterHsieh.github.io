@@ -65,6 +65,10 @@ model.evaluate(x_test, y_test)
 ## Basic function 
 
  #### session.run()
+ - session.run([fetch1, fetch2])
+ - feed_dict
+
+#### 
  
 
 ## Graph
@@ -125,8 +129,8 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI3ODAzNTIsLTExNDYyMzU2NTQsLT
-UwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4
-NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNj
-I2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MD
+Y4NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1
+MywxODY5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNj
+I3NTAyMiw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
