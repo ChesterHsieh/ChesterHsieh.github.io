@@ -123,6 +123,10 @@ Start the conversation.
 Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
 
 ## Tensorboard
+- save computation graph
+- 
+- event
+
 
 
 ## Workshop Case Study
@@ -147,10 +151,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5OTAzODQwLC0yOTIwNjc1MzAsMTgyNz
-U1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIxNjk3
-NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2NDQsOT
-g0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2ODUx
-MiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNTY3MzM2ODczLDM0MD
-A5MzkzMV19
+eyJoaXN0b3J5IjpbLTE1OTEzNDAzNDksLTI5MjA2NzUzMCwxOD
+I3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4Nzg2MjksNjI5MjE2
+OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NC
+w5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5ODI4MTYzLDk4NTY4
+NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1NjczMzY4NzMsMz
+QwMDkzOTMxXX0=
 -->
