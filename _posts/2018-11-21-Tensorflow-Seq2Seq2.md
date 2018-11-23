@@ -16,18 +16,18 @@ tags:
 ## Introduction
 This post is series of Tensorflow exploring. It's personal study note. I assume reader should have basic idea about how deep learning works. 
 
-## Coding on Colab
 
-## Tensorflow Basic
 
-#### Variable
+## Some nn 
 
-#### place holder
-#### model
 
-## Some nn :P
+
+
+## Key knowledge
+ - stepwise_cross_entropy
+ - AdamOptimizer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDUwNjg0Miw2NDE3NjIyMjIsLTY3Nj
-EzMDQ4NV19
+eyJoaXN0b3J5IjpbMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MT
+c2MjIyMiwtNjc2MTMwNDg1XX0=
 -->
