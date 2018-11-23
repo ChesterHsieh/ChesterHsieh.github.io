@@ -91,7 +91,7 @@ sess = tf.Session() # define session-> define runtime enviroment
 print(sess.run(total)) # Run~~~
 ```
 ### Feed session
-****placeholders**** is the the 
+****placeholders**** is the the place let us put external data.
 
 # Common function
 ## Operation
@@ -155,10 +155,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDQzMDE1MSwtMTU5MTM0MDM0OSwtMj
-kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
-ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
-wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
-MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
-U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDE0NTgxODMsLTE1OTEzNDAzNDksLT
+I5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4
+Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2Nz
+UsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5
+ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMi
+w1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
