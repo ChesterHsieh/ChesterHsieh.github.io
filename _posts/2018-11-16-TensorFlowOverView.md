@@ -110,7 +110,9 @@ sess.run(init)
  - Prediction
  - Loss
 
-###Folloing Question
+###　Folloing Question
+#### What's different between tf.nn and tf.layer ?
+Ans: They are different level objects. tf.nn usually has more features and options than layer. They can co-work together.
 
 # Common function
 ## Operation
@@ -174,11 +176,11 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjQ2NDM1MywtNTMyOTcwOSwtMjMxMz
-M3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4
-MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLT
-E1MDAyMzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYy
-MzU2NTQsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3Mi
-wxNDk5OTA4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2
-OTAzOThdfQ==
+eyJoaXN0b3J5IjpbMTk4NjEzNDQ5OCwtMzgyNDY0MzUzLC01Mz
+I5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1MywtNDA0NzA5Njk2
+LC0xNDQxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1MzAsMT
+gyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIx
+Njk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2ND
+QsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2
+ODUxMl19
 -->
