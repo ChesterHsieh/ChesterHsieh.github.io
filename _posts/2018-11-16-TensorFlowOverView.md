@@ -91,13 +91,13 @@ sess = tf.Session() # define session-> define runtime enviroment
 print(sess.run(total)) # Run~~~
 ```
 ### Feed data
-- ****placeholders**** is the the place let us put external data.
+ - ****placeholders**** is the the place let us put external data.
 In the easy case, we can use sess.run(feed
-- [**tf.data**](https://www.tensorflow.org/api_docs/python/tf/data) are the preferred method of streaming data into a model.
+ - [**tf.data**](https://www.tensorflow.org/api_docs/python/tf/data) are the preferred method of streaming data into a model.
 ## Layer
 ### Creating Layers
-- Dense
-- 
+ - Dense
+ - 
 ### Initial
 ```python
 init = tf.global_variables_initializer()
@@ -105,12 +105,12 @@ sess.run(init)
 ```
 ### Executing
  
- # Training
- ## optimizer
- ## Prediction
- ## Loss
- 
+ - Training 
+ - optimizer
+ - Prediction
+ - Loss
 
+###Folloing Question
 
 # Common function
 ## Operation
@@ -174,7 +174,7 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQxOTAwMSwtNTMyOTcwOSwtMjMxMz
+eyJoaXN0b3J5IjpbLTM4MjQ2NDM1MywtNTMyOTcwOSwtMjMxMz
 M3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4
 MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLT
 E1MDAyMzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYy
