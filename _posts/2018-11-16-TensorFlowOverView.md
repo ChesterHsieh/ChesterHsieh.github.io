@@ -121,6 +121,7 @@ Here's the advantage to use dataflow:
 #### Sessions
 Start the conversation. 
 Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
+> If a [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph) is like a `.py` file, a [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) is like the `python` executable.
 
 ## Tensorboard
 - save computation graph
@@ -151,10 +152,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEzNDAzNDksLTI5MjA2NzUzMCwxOD
-I3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4Nzg2MjksNjI5MjE2
-OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NC
-w5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5ODI4MTYzLDk4NTY4
-NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1NjczMzY4NzMsMz
-QwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbMTQ3NjYwOTg1NywtMTU5MTM0MDM0OSwtMj
+kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
+ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
+wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
+MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
+U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
