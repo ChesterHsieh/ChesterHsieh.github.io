@@ -66,18 +66,6 @@ model.evaluate(x_test, y_test)
 You might think of TensorFlow Core programs as consisting of two discrete sections:
 1.  Building the computational graph (a  [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph)).
 2.  Running the computational graph (using a  [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session)).
-
-## Tensor transformation
-#### tf.reduce_sum()
-#### tf.reduce_mean()
-#### tf.concat()
-#### .eval()
-
- #### session.run()
- - session.run([fetch1, fetch2])
- - feed_dict
-
-
  
 
 ## Graph
@@ -92,6 +80,30 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 #### Operation
 
 #### Tensor
+
+
+
+
+## tf.Graph
+
+#### Building a tf.Graph
+#### Sessions
+Start the conversation. 
+Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
+> If a [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph) is like a `.py` file, a [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) is like the `python` executable.
+
+```python
+a = tf.constant(1) # tensor
+b = tf.constant(2) # tensor
+total = a + b # Grpah
+sess = tf.Session() # define session-> define runtime enviroment
+print(sess.run(total)) # Run~~~
+```
+## Tensorboard
+- save computation graph
+- 
+- event
+
 
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
@@ -114,27 +126,6 @@ Here's the advantage to use dataflow:
 >- Portability. The dataflow graph is a language-independent representation of the code in your model. You can build a dataflow graph in Python, store it in a SavedModel, and restore it in a C++ program for low-latency inference.
 
 成功的達成Concept complex but code easy
-
-## tf.Graph
-
-#### Building a tf.Graph
-#### Sessions
-Start the conversation. 
-Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
-> If a [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph) is like a `.py` file, a [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) is like the `python` executable.
-
-```python
-a = tf.constant(1) # tensor
-b = tf.constant(2) # tensor
-total = a + b # Grpah
-sess = tf.Session() # define session-> define runtime enviroment
-print(sess.run(total)) # Run~~~
-```
-## Tensorboard
-- save computation graph
-- 
-- event
-
 
 
 ## Workshop Case Study
@@ -159,10 +150,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY5NzY2MDYsLTE1OTEzNDAzNDksLT
-I5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4
-Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2Nz
-UsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5
-ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMi
-w1NjczMzY4NzMsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbMTMxMzkyNTQwMiwtMTU5MTM0MDM0OSwtMj
+kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
+ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
+wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
+MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
+U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
