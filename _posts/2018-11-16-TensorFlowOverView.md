@@ -99,8 +99,11 @@ In the easy case, we can use sess.run(feed
 - Dense
 - 
 ### Initial
+```python
+init = tf.global_variables_initializer()
+sess.run(init)
+```
 ### Executing
-### ShortCut
  
 
 
@@ -166,11 +169,11 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTMzNzQ5OCwtMzc3MTg0NjUzLC00MD
-Q3MDk2OTYsLTE0NDE0NTgxODMsLTE1OTEzNDAzNDksLTI5MjA2
-NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4Nzg2Mj
-ksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2NzUsLTgw
-NjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5ODI4MT
-YzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1Njcz
-MzY4NzNdfQ==
+eyJoaXN0b3J5IjpbLTUzMjk3MDksLTIzMTMzNzQ5OCwtMzc3MT
+g0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLTE1OTEzNDAz
+NDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLD
+E0MTk4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4
+NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1My
+wxODY5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3
+NTAyMl19
 -->
