@@ -84,7 +84,9 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 - operation
 	Node in whole graph. Operation create tensor
 - tensor
-	The edges in the graph. It represent value pass between tensor. Most of function will return tf.Tensors
+	The edges in the graph. It represent value pass between tensor. Most of function will return tf.Tensors 
+>**Important:** `tf.Tensors`  do not have values, they are just handles to elements in the computation graph.
+
 #### Operation
 
 #### Tensor
@@ -143,9 +145,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxND
-E5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2
-Njc1LC04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMT
-g2OTgyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUw
-MjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNT
+AwMjM1NTIxLDE0MTk4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1
+NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMT
+Q5OTkwODQ1MywxODY5ODI4MTYzLDk4NTY4NTEyLC0xNjM2Njkw
+Mzk4LDYyNjI3NTAyMiw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
