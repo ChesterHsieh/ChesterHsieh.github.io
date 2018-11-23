@@ -62,7 +62,8 @@ model.evaluate(x_test, y_test)
 
 #### 
 
-# Basic function 
+# Low-Level Tensorflow
+We can treat
 
 ## Tensor transformation
 #### tf.reduce_sum()
@@ -135,9 +136,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyMzU1MjEsMTQxOTg3ODYyOSw2Mj
-kyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NSwtODA2MTYy
-NjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4MjgxNjMsOT
-g1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLDU2NzMzNjg3
-MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTI4Mjk2MzEsLTE1MDAyMzU1MjEsMT
+QxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0
+NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLD
+E4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1
+MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
