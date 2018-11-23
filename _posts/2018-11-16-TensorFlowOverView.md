@@ -82,7 +82,9 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 
 ## Graph
 - operation
-- 
+	Node in whole graph. Operation create tensor
+- tensor
+	
 #### Operation
 
 
@@ -140,9 +142,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzcxODI0NywtMTUwMDIzNTUyMSwxND
-E5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2
-Njc1LC04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMT
-g2OTgyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUw
-MjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbODYzNjgwODYyLC0xNTAwMjM1NTIxLDE0MT
+k4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2
+NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxOD
+Y5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAy
+Miw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
