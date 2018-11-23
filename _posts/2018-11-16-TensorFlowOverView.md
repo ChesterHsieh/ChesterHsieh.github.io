@@ -124,6 +124,11 @@ Compare with daily life. We want to host a meeting. Operation is the schdule to 
 > If a [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph) is like a `.py` file, a [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) is like the `python` executable.
 
 ```python
+a = tf.constant(1) # tensor
+b = tf.constant(2) # tensor
+total = a + b # Grpah
+sess = tf.Session() # define session-> define runtime enviroment
+print(sess.run(total)) # Run~~~
 ```
 ## Tensorboard
 - save computation graph
@@ -154,10 +159,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjYxNDQzNSwtMTU5MTM0MDM0OSwtMj
-kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
-ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
-wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
-MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
-U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODY5NzY2MDYsLTE1OTEzNDAzNDksLT
+I5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4
+Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2Nz
+UsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5
+ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMi
+w1NjczMzY4NzMsMzQwMDkzOTMxXX0=
 -->
