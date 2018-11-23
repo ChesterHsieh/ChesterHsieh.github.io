@@ -82,10 +82,12 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 
 ## Graph
 - operation
-	Node in whole graph. Operation create tensor
+	Node in whole graph. he nodes of the graph. Operations describe calculations that consume and produce tensors.
 - tensor
 	The edges in the graph. It represent value pass between tensor. Most of function will return tf.Tensors 
 >**Important:** `tf.Tensors`  do not have values, they are just handles to elements in the computation graph.
+
+在這邊我也很驚訝的表示, 原來computation graph 所認為的edge 和 node跟我直認知有所不同. Tensor
 
 #### Operation
 
@@ -145,9 +147,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNT
-AwMjM1NTIxLDE0MTk4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1
-NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMT
-Q5OTkwODQ1MywxODY5ODI4MTYzLDk4NTY4NTEyLC0xNjM2Njkw
-Mzk4LDYyNjI3NTAyMiw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbNDE5OTAzODQwLC0yOTIwNjc1MzAsMTgyNz
+U1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIxNjk3
+NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2NDQsOT
+g0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2ODUx
+MiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNTY3MzM2ODczLDM0MD
+A5MzkzMV19
 -->
