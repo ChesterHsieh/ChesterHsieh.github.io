@@ -65,6 +65,9 @@ model.evaluate(x_test, y_test)
 ## Basic function 
 
 #### Tensor transformation
+- tf.reduce_sum()
+- tf.reduce_mean()
+- tf.concat()
 - 
 
  #### session.run()
@@ -132,9 +135,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM0OTYxNDksNjI5MjE2OTc0LC0xMT
-Q2MjM1NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAx
-NzIsMTQ5OTkwODQ1MywxODY5ODI4MTYzLDk4NTY4NTEyLC0xNj
-M2NjkwMzk4LDYyNjI3NTAyMiw1NjczMzY4NzMsMzQwMDkzOTMx
-XX0=
+eyJoaXN0b3J5IjpbMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExND
+YyMzU2NTQsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3
+MiwxNDk5OTA4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2Mz
+Y2OTAzOTgsNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFd
+fQ==
 -->
