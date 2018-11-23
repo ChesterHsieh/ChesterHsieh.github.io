@@ -84,9 +84,10 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 - operation
 	Node in whole graph. Operation create tensor
 - tensor
-	
+	The edges in the graph. It represent value pass between tensor. Most of function will return tf.Tensors
 #### Operation
 
+#### Tensor
 
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
@@ -142,9 +143,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjgwODYyLC0xNTAwMjM1NTIxLDE0MT
-k4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2
-NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxOD
-Y5ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAy
-Miw1NjczMzY4NzMsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxND
+E5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2
+Njc1LC04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMT
+g2OTgyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUw
+MjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
 -->
