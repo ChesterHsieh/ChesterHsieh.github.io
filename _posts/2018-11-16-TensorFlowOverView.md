@@ -95,7 +95,9 @@ print(sess.run(total)) # Run~~~
 In the easy case, we can use sess.run(feed
 - [**tf.data**](https://www.tensorflow.org/api_docs/python/tf/data) are the preferred method of streaming data into a model.
 ## Layer
-
+### Creating Layers
+- Dense
+- 
 
 # Common function
 ## Operation
@@ -159,10 +161,11 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMT
-U5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAy
-MzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NT
-QsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5
-OTA4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOT
-gsNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTM3NzE4NDY1MywtNDA0NzA5Njk2LC0xND
+QxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1MzAsMTgyNzU1
+MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIxNjk3NC
+wtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2NDQsOTg0
+MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2ODUxMi
+wtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNTY3MzM2ODczLDM0MDA5
+MzkzMV19
 -->
