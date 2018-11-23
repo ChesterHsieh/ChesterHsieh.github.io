@@ -98,6 +98,11 @@ In the easy case, we can use sess.run(feed
 ### Creating Layers
 - Dense
 - 
+### Initial
+### Executing
+### ShortCut
+ 
+
 
 # Common function
 ## Operation
@@ -161,11 +166,11 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzE4NDY1MywtNDA0NzA5Njk2LC0xND
-QxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1MzAsMTgyNzU1
-MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIxNjk3NC
-wtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2NDQsOTg0
-MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2ODUxMi
-wtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNTY3MzM2ODczLDM0MDA5
-MzkzMV19
+eyJoaXN0b3J5IjpbLTIzMTMzNzQ5OCwtMzc3MTg0NjUzLC00MD
+Q3MDk2OTYsLTE0NDE0NTgxODMsLTE1OTEzNDAzNDksLTI5MjA2
+NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4Nzg2Mj
+ksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2NzUsLTgw
+NjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5ODI4MT
+YzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMiw1Njcz
+MzY4NzNdfQ==
 -->
