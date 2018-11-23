@@ -63,7 +63,9 @@ model.evaluate(x_test, y_test)
 #### 
 
 # Low-Level Tensorflow
-We can treat
+You might think of TensorFlow Core programs as consisting of two discrete sections:
+1.  Building the computational graph (a  [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph)).
+2.  Running the computational graph (using a  [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session)).
 
 ## Tensor transformation
 #### tf.reduce_sum()
@@ -79,6 +81,8 @@ We can treat
  
 
 ## Graph
+- operation
+- 
 #### Operation
 
 
@@ -136,9 +140,9 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI4Mjk2MzEsLTE1MDAyMzU1MjEsMT
-QxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0
-NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLD
-E4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1
-MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbMTQyNzcxODI0NywtMTUwMDIzNTUyMSwxND
+E5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2
+Njc1LC04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMT
+g2OTgyODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUw
+MjIsNTY3MzM2ODczLDM0MDA5MzkzMV19
 -->
