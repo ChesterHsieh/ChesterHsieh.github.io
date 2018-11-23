@@ -94,6 +94,9 @@ print(sess.run(total)) # Run~~~
 - ****placeholders**** is the the place let us put external data.
 In the easy case, we can use sess.run(feed
 - [**tf.data**](https://www.tensorflow.org/api_docs/python/tf/data) are the preferred method of streaming data into a model.
+## Layer
+
+
 # Common function
 ## Operation
 #### tf.reduce_sum()
@@ -156,7 +159,7 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTg4MjE1MSwtMTQ0MTQ1ODE4MywtMT
+eyJoaXN0b3J5IjpbLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMT
 U5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAy
 MzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NT
 QsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5
