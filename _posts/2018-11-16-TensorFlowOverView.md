@@ -90,8 +90,9 @@ total = a + b # Grpah
 sess = tf.Session() # define session-> define runtime enviroment
 print(sess.run(total)) # Run~~~
 ```
-### Feed session
+### Feed data
 ****placeholders**** is the the place let us put external data.
+In the easy case, we can use sess.run(feed
 
 # Common function
 ## Operation
@@ -155,10 +156,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE0NTgxODMsLTE1OTEzNDAzNDksLT
-I5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLDE0MTk4
-Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4NDY2Nz
-UsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkwODQ1MywxODY5
-ODI4MTYzLDk4NTY4NTEyLC0xNjM2NjkwMzk4LDYyNjI3NTAyMi
-w1NjczMzY4NzMsMzQwMDkzOTMxXX0=
+eyJoaXN0b3J5IjpbMTg5MjM3NzYzNywtMTQ0MTQ1ODE4MywtMT
+U5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAy
+MzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NT
+QsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5
+OTA4NDUzLDE4Njk4MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOT
+gsNjI2Mjc1MDIyLDU2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
