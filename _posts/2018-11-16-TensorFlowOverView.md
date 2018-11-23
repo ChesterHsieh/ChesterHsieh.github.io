@@ -91,8 +91,17 @@ sess = tf.Session() # define session-> define runtime enviroment
 print(sess.run(total)) # Run~~~
 ```
 ### Feed session
+****placeholders**** is the the 
 
-## Op
+# Common function
+## Operation
+#### tf.reduce_sum()
+#### tf.reduce_mean()
+#### tf.concat()
+#### .eval()
+
+## 
+
 
 
 ## Tensorboard
@@ -146,10 +155,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjcyNjAxLC0xNTkxMzQwMzQ5LC0yOT
-IwNjc1MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4
-NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC
-04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgy
-ODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNT
-Y3MzM2ODczLDM0MDA5MzkzMV19
+eyJoaXN0b3J5IjpbMTY0NDQzMDE1MSwtMTU5MTM0MDM0OSwtMj
+kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
+ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
+wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
+MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
+U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
 -->
