@@ -77,17 +77,8 @@ You might think of TensorFlow Core programs as consisting of two discrete sectio
 
 在這邊我也很驚訝的表示, 原來computation graph 所認為的edge 和 node跟我直認知有所不同. Tensor
 
-#### Operation
 
-#### Tensor
-
-
-
-
-## tf.Graph
-
-#### Building a tf.Graph
-#### Sessions
+## Sessions
 Start the conversation. 
 Compare with daily life. We want to host a meeting. Operation is the schdule to decide what should be talked next. Session is the trigger to talk. Before the Session to collaberate environment and schdulde. We won't start to talk.
 > If a [`tf.Graph`](https://www.tensorflow.org/api_docs/python/tf/Graph) is like a `.py` file, a [`tf.Session`](https://www.tensorflow.org/api_docs/python/tf/Session) is like the `python` executable.
@@ -99,6 +90,11 @@ total = a + b # Grpah
 sess = tf.Session() # define session-> define runtime enviroment
 print(sess.run(total)) # Run~~~
 ```
+### Feed session
+
+## Op
+
+
 ## Tensorboard
 - save computation graph
 - 
@@ -150,10 +146,10 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzkyNTQwMiwtMTU5MTM0MDM0OSwtMj
-kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
-ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
-wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
-MjgxNjMsOTg1Njg1MTIsLTE2MzY2OTAzOTgsNjI2Mjc1MDIyLD
-U2NzMzNjg3MywzNDAwOTM5MzFdfQ==
+eyJoaXN0b3J5IjpbLTY5MjcyNjAxLC0xNTkxMzQwMzQ5LC0yOT
+IwNjc1MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4
+NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC
+04MDYxNjI2NDQsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgy
+ODE2Myw5ODU2ODUxMiwtMTYzNjY5MDM5OCw2MjYyNzUwMjIsNT
+Y3MzM2ODczLDM0MDA5MzkzMV19
 -->
