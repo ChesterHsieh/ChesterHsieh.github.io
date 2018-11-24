@@ -31,7 +31,11 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
  - stepwise_cross_entropy
  - AdamOptimizer
 
+
+## Reference
+[Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM5NDY2NTMsMTIwOTMxMzc1OSwxMD
-k0NTA2ODQyLDY0MTc2MjIyMiwtNjc2MTMwNDg1XX0=
+eyJoaXN0b3J5IjpbLTk1Mzk0NTczMywtMTMxMzk0NjY1MywxMj
+A5MzEzNzU5LDEwOTQ1MDY4NDIsNjQxNzYyMjIyLC02NzYxMzA0
+ODVdfQ==
 -->
