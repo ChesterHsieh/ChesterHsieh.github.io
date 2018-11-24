@@ -17,6 +17,10 @@ tags:
 This post is series of Tensorflow exploring. It's personal study note. I assume reader should have basic idea about how deep learning works. 
 
 
+## Embedded
+#### embedding_lookup
+
+
 
 ## Some nn 
 
@@ -28,6 +32,6 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
  - AdamOptimizer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MT
-c2MjIyMiwtNjc2MTMwNDg1XX0=
+eyJoaXN0b3J5IjpbLTEzMTM5NDY2NTMsMTIwOTMxMzc1OSwxMD
+k0NTA2ODQyLDY0MTc2MjIyMiwtNjc2MTMwNDg1XX0=
 -->
