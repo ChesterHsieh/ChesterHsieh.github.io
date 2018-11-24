@@ -67,6 +67,7 @@ W
 #### Explain Probabilty & Likiihood
 
 ## BIG DATA
+
 #### What's CAP theory
 #### What's difference between Cassandra and Mongodb ?
 
@@ -82,8 +83,8 @@ I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic,
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg2OTY3NDQsODcyODQ2NjE2LDExMT
-EwODE0NzcsLTE5OTg1Mzg0MDMsLTQzODYwNjI4OSwxOTM2Nzc5
-OTkxLDg0MDAxMzc3NiwtNzE5MDUyMzcyLC0xMzk2NzI1NDEzXX
-0=
+eyJoaXN0b3J5IjpbLTQxMjUyOTU5NCw4NzI4NDY2MTYsMTExMT
+A4MTQ3NywtMTk5ODUzODQwMywtNDM4NjA2Mjg5LDE5MzY3Nzk5
+OTEsODQwMDEzNzc2LC03MTkwNTIzNzIsLTEzOTY3MjU0MTNdfQ
+==
 -->
