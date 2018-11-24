@@ -20,6 +20,7 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
 ## Embedded
 #### embedding_lookup
 
+## LSTMCell
 
 
 ## Some nn 
@@ -35,7 +36,7 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzk0NTczMywtMTMxMzk0NjY1MywxMj
-A5MzEzNzU5LDEwOTQ1MDY4NDIsNjQxNzYyMjIyLC02NzYxMzA0
-ODVdfQ==
+eyJoaXN0b3J5IjpbNDY1NDEwNDQxLC05NTM5NDU3MzMsLTEzMT
+M5NDY2NTMsMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MTc2MjIy
+MiwtNjc2MTMwNDg1XX0=
 -->
