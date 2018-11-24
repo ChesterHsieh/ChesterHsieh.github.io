@@ -12,7 +12,11 @@ tags:
 
 ---
 ## Question Collection 
+#### What's word embedding and how to implement?
+>[Vector space models](https://en.wikipedia.org/wiki/Vector_space_model) (VSMs) represent (embed) words in a continuous vector space where semantically similar words are mapped to nearby points ('are embedded nearby each other'). VSMs have a long, rich history in NLP, but all methods depend in some way or another on the [Distributional Hypothesis](https://en.wikipedia.org/wiki/Distributional_semantics#Distributional_Hypothesis), which states that words that appear in the same contexts share semantic meaning. The different approaches that leverage this principle can be divided into two categories: _count-based methods_ (e.g. [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)), and _predictive methods_ (e.g. [neural probabilistic language models](http://www.scholarpedia.org/article/Neural_net_language_models)).
 
+- count-based model
+- predictive model
 
 #### General Preprocessing Process?
 
@@ -84,9 +88,9 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNz
-Y0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2
-MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4ODc3OCwtMT
-AwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MCw0MTIyOTg3
-NzldfQ==
+eyJoaXN0b3J5IjpbMTM1MDE3OTc2OSw1MDA3NDkyNTAsLTEyNz
+cxNzA3ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2
+MzA5LDMxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtND
+k0Mjg4Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5
+MjkwLDQxMjI5ODc3OV19
 -->
