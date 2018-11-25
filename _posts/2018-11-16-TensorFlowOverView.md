@@ -136,7 +136,7 @@ tbc=tensorboardcolab.TensorBoardColab()
 summary_writer = tbc.get_writer()
 summary_writer.add_graph(sess.graph)
 ```
-![](https://picasaweb.google.com/110234923459837452648/6627945594585423537#6627945593731412610 "Seq2Seq Model without proper naming")
+![](https://lh3.googleusercontent.com/pvyHKus6bAaH5I7BliizsIPg5hXJlGr63ix_jxfWSfmiP3Ifdyq-Ca7vmqcqeKTen53tvWLB482l "Raw Graph without proper naming")
 ### Naming Scope
 
 
@@ -178,11 +178,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODg2NDI0LC0yMDQ0NDUxNDA4LDE1Mz
-kxNzA3MDksLTYyODEzNDUyOCw5MzYxMjEwNTksLTI2Nzk0MjEw
-LDE5ODYxMzQ0OTgsLTM4MjQ2NDM1MywtNTMyOTcwOSwtMjMxMz
-M3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4
-MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLT
-E1MDAyMzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLTExNDYy
-MzU2NTRdfQ==
+eyJoaXN0b3J5IjpbLTExMDI1MzQ5MjAsMTY0ODg2NDI0LC0yMD
+Q0NDUxNDA4LDE1MzkxNzA3MDksLTYyODEzNDUyOCw5MzYxMjEw
+NTksLTI2Nzk0MjEwLDE5ODYxMzQ0OTgsLTM4MjQ2NDM1MywtNT
+MyOTcwOSwtMjMxMzM3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5
+NiwtMTQ0MTQ1ODE4MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLD
+E4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3ODYyOSw2Mjky
+MTY5NzRdfQ==
 -->
