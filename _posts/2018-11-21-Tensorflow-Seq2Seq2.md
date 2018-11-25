@@ -33,13 +33,15 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
  - AdamOptimizer
 
 ## Visualization
-Here's l[Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
-
+Here's the resource you need to understand how to add tensorboard on Colab and you orginal project
+- [Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
+- [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
+- [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2MDMwODMsNDY1NDEwNDQxLC05NT
+eyJoaXN0b3J5IjpbLTExOTY2MTYyNzksNDY1NDEwNDQxLC05NT
 M5NDU3MzMsLTEzMTM5NDY2NTMsMTIwOTMxMzc1OSwxMDk0NTA2
 ODQyLDY0MTc2MjIyMiwtNjc2MTMwNDg1XX0=
 -->
