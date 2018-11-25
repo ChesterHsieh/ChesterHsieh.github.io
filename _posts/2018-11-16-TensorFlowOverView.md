@@ -127,6 +127,8 @@ Here's the resource you need to understand how to add tensorboard on Colab and y
 - [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
 - [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 ###
+tf.summery.fileWriter(path)
+
 
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
@@ -166,11 +168,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzk0MjEwLDE5ODYxMzQ0OTgsLTM4Mj
-Q2NDM1MywtNTMyOTcwOSwtMjMxMzM3NDk4LC0zNzcxODQ2NTMs
-LTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMTU5MTM0MDM0OSwtMj
-kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
-ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
-wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
-MjgxNjNdfQ==
+eyJoaXN0b3J5IjpbOTM2MTIxMDU5LC0yNjc5NDIxMCwxOTg2MT
+M0NDk4LC0zODI0NjQzNTMsLTUzMjk3MDksLTIzMTMzNzQ5OCwt
+Mzc3MTg0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLTE1OT
+EzNDAzNDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1
+NTIxLDE0MTk4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC
+01MDY4NDY2NzUsLTgwNjE2MjY0NCw5ODQxODAxNzIsMTQ5OTkw
+ODQ1M119
 -->
