@@ -121,15 +121,12 @@ Ans: They are different level objects. tf.nn usually has more features and optio
 #### tf.concat()
 #### .eval()
 
-## 
-
-
-
-## Tensorboard
-- save computation graph
-- 
-- event
-
+## Visualization-Tensorboard
+Here's the resource you need to understand how to add tensorboard on Colab and you orginal project
+- [Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
+- [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
+- [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+###
 
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
@@ -154,15 +151,8 @@ Here's the advantage to use dataflow:
 成功的達成Concept complex but code easy
 
 
-## Workshop Case Study
-[Translation](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
 
-####
-In this sample code, tensorflow team build up an training case for Spanish <-> English translation. It cover couple important concept:
-- Seq2Seq
-- Attention model
-#### Attention model
-#### 
+
 
 
 
@@ -176,11 +166,11 @@ In this sample code, tensorflow team build up an training case for Spanish <-> E
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjEzNDQ5OCwtMzgyNDY0MzUzLC01Mz
-I5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1MywtNDA0NzA5Njk2
-LC0xNDQxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1MzAsMT
-gyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LDYyOTIx
-Njk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYxNjI2ND
-QsOTg0MTgwMTcyLDE0OTk5MDg0NTMsMTg2OTgyODE2Myw5ODU2
-ODUxMl19
+eyJoaXN0b3J5IjpbLTI2Nzk0MjEwLDE5ODYxMzQ0OTgsLTM4Mj
+Q2NDM1MywtNTMyOTcwOSwtMjMxMzM3NDk4LC0zNzcxODQ2NTMs
+LTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMTU5MTM0MDM0OSwtMj
+kyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3
+ODYyOSw2MjkyMTY5NzQsLTExNDYyMzU2NTQsLTUwNjg0NjY3NS
+wtODA2MTYyNjQ0LDk4NDE4MDE3MiwxNDk5OTA4NDUzLDE4Njk4
+MjgxNjNdfQ==
 -->
