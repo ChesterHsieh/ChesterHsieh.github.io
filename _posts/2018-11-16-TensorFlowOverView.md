@@ -126,7 +126,7 @@ Here's the resource you need to understand how to add tensorboard on Colab and y
 - [Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
 - [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
 - [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
-### Init
+### Initial Tensorboard
 ```python
 writer = tf.summary.FileWriter("/log/1")
 writer.add_graph(sess.graph)
@@ -171,11 +171,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMxMjQzNjcsOTM2MTIxMDU5LC0yNj
-c5NDIxMCwxOTg2MTM0NDk4LC0zODI0NjQzNTMsLTUzMjk3MDks
-LTIzMTMzNzQ5OCwtMzc3MTg0NjUzLC00MDQ3MDk2OTYsLTE0ND
-E0NTgxODMsLTE1OTEzNDAzNDksLTI5MjA2NzUzMCwxODI3NTUx
-OTkyLC0xNTAwMjM1NTIxLDE0MTk4Nzg2MjksNjI5MjE2OTc0LC
-0xMTQ2MjM1NjU0LC01MDY4NDY2NzUsLTgwNjE2MjY0NCw5ODQx
-ODAxNzJdfQ==
+eyJoaXN0b3J5IjpbLTYyODEzNDUyOCw5MzYxMjEwNTksLTI2Nz
+k0MjEwLDE5ODYxMzQ0OTgsLTM4MjQ2NDM1MywtNTMyOTcwOSwt
+MjMxMzM3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MT
+Q1ODE4MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5
+OTIsLTE1MDAyMzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLT
+ExNDYyMzU2NTQsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4
+MDE3Ml19
 -->
