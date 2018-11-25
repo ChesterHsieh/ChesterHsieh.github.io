@@ -32,18 +32,13 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
  - stepwise_cross_entropy
  - AdamOptimizer
 
-## Visualization
-Here's the resource you need to understand how to add tensorboard on Colab and you orginal project
-- [Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
-- [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
-- [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 
 
 
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDk5ODczMyw0NjU0MTA0NDEsLTk1Mz
-k0NTczMywtMTMxMzk0NjY1MywxMjA5MzEzNzU5LDEwOTQ1MDY4
-NDIsNjQxNzYyMjIyLC02NzYxMzA0ODVdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODg5NTQ0MywxMTU0OTk4NzMzLDQ2NT
+QxMDQ0MSwtOTUzOTQ1NzMzLC0xMzEzOTQ2NjUzLDEyMDkzMTM3
+NTksMTA5NDUwNjg0Miw2NDE3NjIyMjIsLTY3NjEzMDQ4NV19
 -->
