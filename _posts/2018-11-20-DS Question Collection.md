@@ -71,7 +71,7 @@ W
 #### What's CAP theory
 #### What's difference between Cassandra and Mongodb ?
 ####  If you have tera bytes data, How you do it for implement?
-[Training a NER i]
+[Training a NER in large data set](https://nlpforhackers.io/training-ner-large-dataset/)
 ## Special Case
 
 #### Very unbalanced data for classification problem
@@ -84,8 +84,8 @@ I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic,
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTgzNzYsLTQxMjUyOTU5NCw4NzI4ND
-Y2MTYsMTExMTA4MTQ3NywtMTk5ODUzODQwMywtNDM4NjA2Mjg5
-LDE5MzY3Nzk5OTEsODQwMDEzNzc2LC03MTkwNTIzNzIsLTEzOT
-Y3MjU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTg4MTg4MDUxNCwtNDEyNTI5NTk0LDg3Mj
+g0NjYxNiwxMTExMDgxNDc3LC0xOTk4NTM4NDAzLC00Mzg2MDYy
+ODksMTkzNjc3OTk5MSw4NDAwMTM3NzYsLTcxOTA1MjM3MiwtMT
+M5NjcyNTQxM119
 -->
