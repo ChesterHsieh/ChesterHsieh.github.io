@@ -38,10 +38,12 @@ Here's the resource you need to understand how to add tensorboard on Colab and y
 - [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
 - [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 
+
+
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2MTYyNzksNDY1NDEwNDQxLC05NT
-M5NDU3MzMsLTEzMTM5NDY2NTMsMTIwOTMxMzc1OSwxMDk0NTA2
-ODQyLDY0MTc2MjIyMiwtNjc2MTMwNDg1XX0=
+eyJoaXN0b3J5IjpbMTE1NDk5ODczMyw0NjU0MTA0NDEsLTk1Mz
+k0NTczMywtMTMxMzk0NjY1MywxMjA5MzEzNzU5LDEwOTQ1MDY4
+NDIsNjQxNzYyMjIyLC02NzYxMzA0ODVdfQ==
 -->
