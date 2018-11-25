@@ -131,6 +131,7 @@ Here's the resource you need to understand how to add tensorboard on Colab and y
 writer = tf.summary.FileWriter("/log/1")
 writer.add_graph(sess.graph)
 ```
+### Naming Scope
 
 
 #### dataflow graph
@@ -171,11 +172,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODEzNDUyOCw5MzYxMjEwNTksLTI2Nz
-k0MjEwLDE5ODYxMzQ0OTgsLTM4MjQ2NDM1MywtNTMyOTcwOSwt
-MjMxMzM3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MT
-Q1ODE4MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5
-OTIsLTE1MDAyMzU1MjEsMTQxOTg3ODYyOSw2MjkyMTY5NzQsLT
-ExNDYyMzU2NTQsLTUwNjg0NjY3NSwtODA2MTYyNjQ0LDk4NDE4
-MDE3Ml19
+eyJoaXN0b3J5IjpbMTUzOTE3MDcwOSwtNjI4MTM0NTI4LDkzNj
+EyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5OCwtMzgyNDY0MzUz
+LC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1MywtNDA0Nz
+A5Njk2LC0xNDQxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1
+MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LD
+YyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYx
+NjI2NDRdfQ==
 -->
