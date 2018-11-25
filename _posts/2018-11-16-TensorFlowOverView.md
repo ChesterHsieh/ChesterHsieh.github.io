@@ -134,6 +134,7 @@ Don't forget to instal tensorboardcolab first:
 import tensorboardcolab
 tbc=tensorboardcolab.TensorBoardColab()
 summary_writer = tbc.get_writer()
+summary_writer.add_graph(sess.graph)
 ```
 ### Naming Scope
 
@@ -176,11 +177,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODM0NjQzMywxNTM5MTcwNzA5LC02Mj
-gxMzQ1MjgsOTM2MTIxMDU5LC0yNjc5NDIxMCwxOTg2MTM0NDk4
-LC0zODI0NjQzNTMsLTUzMjk3MDksLTIzMTMzNzQ5OCwtMzc3MT
-g0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLTE1OTEzNDAz
-NDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAwMjM1NTIxLD
-E0MTk4Nzg2MjksNjI5MjE2OTc0LC0xMTQ2MjM1NjU0LC01MDY4
-NDY2NzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQ0NTE0MDgsMTUzOTE3MDcwOSwtNj
+I4MTM0NTI4LDkzNjEyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5
+OCwtMzgyNDY0MzUzLC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3Nz
+E4NDY1MywtNDA0NzA5Njk2LC0xNDQxNDU4MTgzLC0xNTkxMzQw
+MzQ5LC0yOTIwNjc1MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMS
+wxNDE5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2
+ODQ2Njc1XX0=
 -->
