@@ -32,11 +32,14 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
  - stepwise_cross_entropy
  - AdamOptimizer
 
+## Visualization
+Here's l[Use Tensorboard in Google Colab](https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6)
+
 
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDEwNDQxLC05NTM5NDU3MzMsLTEzMT
-M5NDY2NTMsMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MTc2MjIy
-MiwtNjc2MTMwNDg1XX0=
+eyJoaXN0b3J5IjpbLTE1ODg2MDMwODMsNDY1NDEwNDQxLC05NT
+M5NDU3MzMsLTEzMTM5NDY2NTMsMTIwOTMxMzc1OSwxMDk0NTA2
+ODQyLDY0MTc2MjIyMiwtNjc2MTMwNDg1XX0=
 -->
