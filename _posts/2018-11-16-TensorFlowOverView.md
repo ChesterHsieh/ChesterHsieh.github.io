@@ -127,9 +127,12 @@ Here's the resource you need to understand how to add tensorboard on Colab and y
 - [Graph visualization](https://www.tensorflow.org/guide/graph_viz)
 - [Tensorflow log file generate](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 ### Initial Tensorboard
+It's a little bit different to import 
+
 ```python
-writer = tf.summary.FileWriter("/log/1")
-writer.add_graph(sess.graph)
+import tensorboardcolab
+tbc=tensorboardcolab.TensorBoardColab()
+summary_writer = tbc.get_writer()
 ```
 ### Naming Scope
 
@@ -172,11 +175,11 @@ Here's the advantage to use dataflow:
 ####
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTE3MDcwOSwtNjI4MTM0NTI4LDkzNj
-EyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5OCwtMzgyNDY0MzUz
-LC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1MywtNDA0Nz
-A5Njk2LC0xNDQxNDU4MTgzLC0xNTkxMzQwMzQ5LC0yOTIwNjc1
-MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5ODc4NjI5LD
-YyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2ODQ2Njc1LC04MDYx
-NjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDUyMDE5ODEsMTUzOTE3MDcwOSwtNj
+I4MTM0NTI4LDkzNjEyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5
+OCwtMzgyNDY0MzUzLC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3Nz
+E4NDY1MywtNDA0NzA5Njk2LC0xNDQxNDU4MTgzLC0xNTkxMzQw
+MzQ5LC0yOTIwNjc1MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMS
+wxNDE5ODc4NjI5LDYyOTIxNjk3NCwtMTE0NjIzNTY1NCwtNTA2
+ODQ2Njc1XX0=
 -->
