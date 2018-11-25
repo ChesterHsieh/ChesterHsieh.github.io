@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      MakeUp Product Review Analysis
+title:      Makeup Product Review Analysis
 subtitle:   Scrapy + python
 date:       2018-06-12
 author:    Chester
@@ -81,5 +81,5 @@ I think it's not.
 
 We make too many assumption let make the project going. We can't overcome some essensial problem in this.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2Njg5NTc1XX0=
+eyJoaXN0b3J5IjpbLTEyNDIxMTg1ODVdfQ==
 -->
