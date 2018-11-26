@@ -57,10 +57,10 @@ model.evaluate(x_test, y_test)
  1. How we tuning the model for next step
  2. How about more complicated problem for doing this?
 ## High Level Tool
-#### Eager Execution
+### Eager Execution
 >Enabling eager execution changes how TensorFlow operations behave—now they immediately evaluate and return their values to Python.
 
-#### 
+###  
 
 # Low-Level Tensorflow
 You might think of TensorFlow Core programs as consisting of two discrete sections:
@@ -174,11 +174,11 @@ Here's the advantage to use dataflow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODczNTc2NCwxNDAyNjAyODI4LC0xMT
-AyNTM0OTIwLDE2NDg4NjQyNCwtMjA0NDQ1MTQwOCwxNTM5MTcw
-NzA5LC02MjgxMzQ1MjgsOTM2MTIxMDU5LC0yNjc5NDIxMCwxOT
-g2MTM0NDk4LC0zODI0NjQzNTMsLTUzMjk3MDksLTIzMTMzNzQ5
-OCwtMzc3MTg0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLT
-E1OTEzNDAzNDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAw
-MjM1NTIxXX0=
+eyJoaXN0b3J5IjpbMjE1NjQzNDI2LDE0MDI2MDI4MjgsLTExMD
+I1MzQ5MjAsMTY0ODg2NDI0LC0yMDQ0NDUxNDA4LDE1MzkxNzA3
+MDksLTYyODEzNDUyOCw5MzYxMjEwNTksLTI2Nzk0MjEwLDE5OD
+YxMzQ0OTgsLTM4MjQ2NDM1MywtNTMyOTcwOSwtMjMxMzM3NDk4
+LC0zNzcxODQ2NTMsLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMT
+U5MTM0MDM0OSwtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAy
+MzU1MjFdfQ==
 -->
