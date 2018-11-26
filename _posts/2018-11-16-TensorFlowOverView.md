@@ -139,10 +139,12 @@ summary_writer.add_graph(sess.graph)
 ![](https://lh3.googleusercontent.com/pvyHKus6bAaH5I7BliizsIPg5hXJlGr63ix_jxfWSfmiP3Ifdyq-Ca7vmqcqeKTen53tvWLB482l "Raw Graph without proper naming")
 ### Naming Scope
 
+### Hyperparameter Visual
+
 
 ### Embedding 
-#### PCA visualize
-#### T-SNE visualize
+1. PCA visualize
+3. T-SNE visualize
 
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
@@ -172,7 +174,7 @@ Here's the advantage to use dataflow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTg0MjI4NiwtMTEwMjUzNDkyMCwxNj
+eyJoaXN0b3J5IjpbMTQwMjYwMjgyOCwtMTEwMjUzNDkyMCwxNj
 Q4ODY0MjQsLTIwNDQ0NTE0MDgsMTUzOTE3MDcwOSwtNjI4MTM0
 NTI4LDkzNjEyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5OCwtMz
 gyNDY0MzUzLC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1
