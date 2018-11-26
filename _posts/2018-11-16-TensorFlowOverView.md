@@ -139,9 +139,9 @@ summary_writer.add_graph(sess.graph)
 ![](https://lh3.googleusercontent.com/pvyHKus6bAaH5I7BliizsIPg5hXJlGr63ix_jxfWSfmiP3Ifdyq-Ca7vmqcqeKTen53tvWLB482l "Raw Graph without proper naming")
 ### Naming Scope
 
+
+
 ### Hyperparameter Visual
-
-
 ### Embedding 
 1. PCA visualize
 3. T-SNE visualize
@@ -174,11 +174,11 @@ Here's the advantage to use dataflow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjYwMjgyOCwtMTEwMjUzNDkyMCwxNj
-Q4ODY0MjQsLTIwNDQ0NTE0MDgsMTUzOTE3MDcwOSwtNjI4MTM0
-NTI4LDkzNjEyMTA1OSwtMjY3OTQyMTAsMTk4NjEzNDQ5OCwtMz
-gyNDY0MzUzLC01MzI5NzA5LC0yMzEzMzc0OTgsLTM3NzE4NDY1
-MywtNDA0NzA5Njk2LC0xNDQxNDU4MTgzLC0xNTkxMzQwMzQ5LC
-0yOTIwNjc1MzAsMTgyNzU1MTk5MiwtMTUwMDIzNTUyMSwxNDE5
-ODc4NjI5XX0=
+eyJoaXN0b3J5IjpbMTI0ODczNTc2NCwxNDAyNjAyODI4LC0xMT
+AyNTM0OTIwLDE2NDg4NjQyNCwtMjA0NDQ1MTQwOCwxNTM5MTcw
+NzA5LC02MjgxMzQ1MjgsOTM2MTIxMDU5LC0yNjc5NDIxMCwxOT
+g2MTM0NDk4LC0zODI0NjQzNTMsLTUzMjk3MDksLTIzMTMzNzQ5
+OCwtMzc3MTg0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLT
+E1OTEzNDAzNDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAw
+MjM1NTIxXX0=
 -->
