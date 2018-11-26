@@ -140,6 +140,10 @@ summary_writer.add_graph(sess.graph)
 ### Naming Scope
 
 
+### Embedding 
+#### PCA visualize
+#### T-SNE visualize
+
 #### dataflow graph
 Actually the graph is how we desing the layer and all prepocessing function. Tensorflow use graph to represent whole model
 ![](https://www.tensorflow.org/images/tensors_flowing.gif?hl=zh-cn)
@@ -174,15 +178,12 @@ Here's the advantage to use dataflow:
 ## Some stupid Question
 #### What's different between operation and layer?
 
-## Interview Question
-####
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI1MzQ5MjAsMTY0ODg2NDI0LC0yMD
-Q0NDUxNDA4LDE1MzkxNzA3MDksLTYyODEzNDUyOCw5MzYxMjEw
-NTksLTI2Nzk0MjEwLDE5ODYxMzQ0OTgsLTM4MjQ2NDM1MywtNT
-MyOTcwOSwtMjMxMzM3NDk4LC0zNzcxODQ2NTMsLTQwNDcwOTY5
-NiwtMTQ0MTQ1ODE4MywtMTU5MTM0MDM0OSwtMjkyMDY3NTMwLD
-E4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQxOTg3ODYyOSw2Mjky
-MTY5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjEzODcxMTAsLTExMDI1MzQ5MjAsMT
+Y0ODg2NDI0LC0yMDQ0NDUxNDA4LDE1MzkxNzA3MDksLTYyODEz
+NDUyOCw5MzYxMjEwNTksLTI2Nzk0MjEwLDE5ODYxMzQ0OTgsLT
+M4MjQ2NDM1MywtNTMyOTcwOSwtMjMxMzM3NDk4LC0zNzcxODQ2
+NTMsLTQwNDcwOTY5NiwtMTQ0MTQ1ODE4MywtMTU5MTM0MDM0OS
+wtMjkyMDY3NTMwLDE4Mjc1NTE5OTIsLTE1MDAyMzU1MjEsMTQx
+OTg3ODYyOV19
 -->
