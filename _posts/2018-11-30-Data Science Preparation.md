@@ -21,19 +21,24 @@ I want to share the experience about how I prepare data scientist. Here's my bac
 # Prepartion
 
 
-# LIST
-The basic preparation you should finish to gain the basic knowledge to overcome interview
+## Check LIST
+The basic preparation you should finish to gain the basic knowledge to overcome interview. Be prepare for those steps. 
 - Leetcode 
 - Sklearn API
 - Finish the question In this blog :P
 	- [A/B Test](https://chesterhsieh.github.io/2018/11/09/ABTest/)
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
 
-# Networking 
 
+### Leetcode
+### Sklearn API
+### Extra question
+
+# Networking
+# 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NDAyNTg4LDE5OTU3NjQ4MTMsLTgyNz
-Y4Njc3M119
+eyJoaXN0b3J5IjpbLTM1NjM1NTA1NywxOTk1NzY0ODEzLC04Mj
+c2ODY3NzNdfQ==
 -->
