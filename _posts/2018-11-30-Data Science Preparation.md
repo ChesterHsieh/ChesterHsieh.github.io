@@ -9,8 +9,14 @@ catalog: true
 tags:
     - Job
 ---
-# We a
-I want to share the experience about how I prepare data scientist. It's 
+# We are similar
+I want to share the experience about how I prepare data scientist. Here's my background. All I want
+
+ - 3 Years firmware developing
+ - NLP research experience with no paper publication
+ - Top 100 CS school
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTkwNTE5LC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ3Mzg4MywtODI3Njg2NzczXX0=
 -->
