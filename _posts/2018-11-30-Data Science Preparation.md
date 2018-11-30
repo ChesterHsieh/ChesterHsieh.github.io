@@ -9,14 +9,16 @@ catalog: true
 tags:
     - Job
 ---
-# We are similar
-I want to share the experience about how I prepare data scientist. Here's my background. All I want
+# Where I start
+I want to share the experience about how I prepare data scientist. Here's my background. All I want you know is **I'm normal and not lucky guy**
 
- - 3 Years firmware developing
+ - 3 Years firmware developing(coding c for 
  - NLP research experience with no paper publication
  - Top 100 CS school
- - 
+ - 3.6 GPA 
+ - International student. I come from Taiwan.
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ3Mzg4MywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTE2MDcyNjk1NDksLTgyNzY4Njc3M119
 -->
