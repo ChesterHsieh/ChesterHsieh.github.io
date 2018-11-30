@@ -12,13 +12,23 @@ tags:
 # Where I start
 I want to share the experience about how I prepare data scientist. Here's my background. All I want you know is **I'm normal and not lucky guy**
 
- - 3 Years firmware developing(coding c for 
+ - 3 Years firmware developing( coding c for microchip)
  - NLP research experience with no paper publication
  - Top 100 CS school
  - 3.6 GPA 
  - International student. I come from Taiwan.
  
+# Prepartion
+
+
+# LIST
+What I think you should do for the job hunting
+- Leetcode 200
+
+# Networking 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcyNjk1NDksLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
