@@ -9,6 +9,8 @@ catalog: true
 tags:
     - Job
 ---
+# We a
+I want to share the experience about how I prepare data scientist. It's 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MjQ2MDYzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbMjI2NTkwNTE5LC04Mjc2ODY3NzNdfQ==
 -->
