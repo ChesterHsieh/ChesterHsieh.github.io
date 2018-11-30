@@ -23,12 +23,17 @@ I want to share the experience about how I prepare data scientist. Here's my bac
 
 # LIST
 What I think you should do for the job hunting
-- Leetcode 200
+- Leetcode 
+- Sklearn
+- Finish the question In this blog :P
+	- [A/B Test](https://chesterhsieh.github.io/2018/11/09/ABTest/)
+	- []
 
 # Networking 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTM5MDg1MDQ2MiwxOTk1NzY0ODEzLC04Mj
+c2ODY3NzNdfQ==
 -->
