@@ -18,7 +18,7 @@ I want to share the experience about how I prepare data scientist. Here's my bac
  - 3.6 GPA 
  - International student. No GC, No family in U.S.
  
- Y
+ It's super easy to have better starting situation than my case.
  
 # Preparation
 
@@ -30,11 +30,12 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 - Finish the question In this blog :P
 	- [A/B Test](https://chesterhsieh.github.io/2018/11/09/ABTest/)
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
-
+- Deep learning
 
 ## Leetcode
 ## Sklearn API
-## Extra question
+## DS question
+## Deep learning
 
 # How to apply job
 ## Resume 
@@ -45,7 +46,10 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 ## How to form the resume?
 There's no way for forming perfect resume. And It's not necessary to 
 
+# Interview 
+There's are few general type inte
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzI3OTk5NCwxMzIzOTk2NDI3LDE5OT
+eyJoaXN0b3J5IjpbMTMzNTI3NDI1NywxMzIzOTk2NDI3LDE5OT
 U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
