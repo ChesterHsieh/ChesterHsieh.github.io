@@ -34,11 +34,11 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 ### Sklearn API
 ### Extra question
 
-# Networking
-# 
+# How to apply job
+## Networking v.s.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjM1NTA1NywxOTk1NzY0ODEzLC04Mj
+eyJoaXN0b3J5IjpbMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mj
 c2ODY3NzNdfQ==
 -->
