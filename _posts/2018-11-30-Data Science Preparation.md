@@ -40,11 +40,10 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 # How to apply job
 ## Resume 
 
-## Networking v.s. 
+## Networking v.s. Apply as much as you can
 
-![](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjiibm0vf_eAhXho4MKHScjDxcQjRx6BAgBEAU&url=https%3A%2F%2Fhackernoon.com%2Ffail-fast-iterate-and-pivot-8d00d6c00836&psig=AOvVaw3WqgWYwNjIh8dE4sKV0j-W&ust=1543782849516674)
-## How to form the resume?
-There's no way for forming perfect resume. And It's not necessary to 
+![](https://cdn-images-1.medium.com/max/1600/1*gBLsSYp3M9gYhsgprRHVww.jpeg)
+
 
 # Interview 
 There's are few general type interview.
@@ -54,6 +53,6 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjcwODE4NCwxMzIzOTk2NDI3LDE5OT
+eyJoaXN0b3J5IjpbLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
 U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
