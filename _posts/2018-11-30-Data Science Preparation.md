@@ -10,13 +10,13 @@ tags:
     - Job
 ---
 # Where I start
-I want to share the experience about how I prepare data scientist. Here's my background. All I want you know is **I'm normal and not lucky guy**
+I want to share the experience about how I prepare data scientist. Here's my background. All I want you know is **I'm normal and not lucky guy**. I work in school as Research assistance for 6 months and applied 1300 different positions. If I restart it again, I might need shorter time to get the offer.
 
  - 3 Years firmware developing( coding c for microchip)
  - NLP research experience with no paper publication
  - Top 100 CS school
  - 3.6 GPA 
- - International student. I come from Taiwan.
+ - International student. 
  
 # Preparation
 
@@ -44,6 +44,6 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA1MTczMTQsMTMyMzk5NjQyNywxOT
-k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTMxNTI2MjE3NiwxMzIzOTk2NDI3LDE5OT
+U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
