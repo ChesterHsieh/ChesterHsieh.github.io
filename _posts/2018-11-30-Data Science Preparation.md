@@ -18,7 +18,7 @@ I want to share the experience about how I prepare data scientist. Here's my bac
  - 3.6 GPA 
  - International student. I come from Taiwan.
  
-# Prepartion
+# Preparation
 
 
 ## Check LIST
@@ -30,15 +30,20 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
 
 
-### Leetcode
-### Sklearn API
-### Extra question
+## Leetcode
+## Sklearn API
+## Extra question
 
 # How to apply job
+## Resume 
+
 ## Networking v.s.
 
 
+## Personalize your resume
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mj
-c2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTA1MTczMTQsMTMyMzk5NjQyNywxOT
+k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
