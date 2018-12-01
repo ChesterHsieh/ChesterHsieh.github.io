@@ -16,7 +16,9 @@ I want to share the experience about how I prepare data scientist. Here's my bac
  - NLP research experience with no paper publication
  - Top 100 CS school
  - 3.6 GPA 
- - International student. 
+ - International student. No GC, No family in U.S.
+ 
+ Y
  
 # Preparation
 
@@ -40,10 +42,10 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 ## Networking v.s.
 
 
-## Personalize your resume
-
+## How to form the resume?
+There's no way for forming perfect resume. And It's not necessary to 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTI2MjE3NiwxMzIzOTk2NDI3LDE5OT
+eyJoaXN0b3J5IjpbMTg3MzI3OTk5NCwxMzIzOTk2NDI3LDE5OT
 U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
