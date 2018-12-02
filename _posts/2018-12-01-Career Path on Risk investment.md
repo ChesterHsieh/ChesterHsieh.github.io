@@ -1,7 +1,7 @@
 
 ﻿---
 layout:     post
-title:      How to involve in Capital market
+title:      How to involve in -venture-capital-
 subtitle:   Is the MBA is necessary?
 date:       2018-12-01
 author:    Chester
@@ -20,5 +20,5 @@ I plan to study some famous investment company and try to get this mysterious jo
 - [Sequoia](https://www.sequoiacap.com/jobs/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzU3NjA1N119
+eyJoaXN0b3J5IjpbLTY1MDkyMzI0NywtNzc3NTc2MDU3XX0=
 -->
