@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: DS Question -Amazon Failure:(
+title: Behavior Question
 subtitle: What I learn from Amazon and Preparation
 date: 2018-11-20
 author: Chester  
@@ -150,6 +150,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTk1ODg2Miw2MzkzNzIzMjksLTM0OD
-g3MDIzNSwtNjYzNzI5MzY2XX0=
+eyJoaXN0b3J5IjpbLTgyMTM0OTQyLDYzOTM3MjMyOSwtMzQ4OD
+cwMjM1LC02NjM3MjkzNjZdfQ==
 -->
