@@ -12,7 +12,9 @@ tags:
 ---
 
 # Intro
-We 
+I come to this problem and write down this for helping other who interesting in join capital market. There's a question staying in my mind. Is MBA is the best way to reach this point?
+
+I plan to reference 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MDkyNzk4XX0=
+eyJoaXN0b3J5IjpbMjA1NjAxMjQ2XX0=
 -->
