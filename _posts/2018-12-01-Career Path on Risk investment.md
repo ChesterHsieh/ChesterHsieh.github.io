@@ -14,7 +14,11 @@ tags:
 # Intro
 I come to this problem and write down this for helping other who interesting in join capital market. There's a question staying in my mind. Is MBA is the best way to reach this point?
 
-I plan to reference 
+I plan to study some famous investment company and try to get this mysterious job(s)
+
+# Title?
+- [Sequoia](https://www.sequoiacap.com/jobs/)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjAxMjQ2XX0=
+eyJoaXN0b3J5IjpbLTc3NzU3NjA1N119
 -->
