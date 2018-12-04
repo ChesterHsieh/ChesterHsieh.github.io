@@ -40,11 +40,12 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 
 # How to apply job
 ## Resume 
+Ther
 
 ## Networking v.s. Apply as much as you can
 
 ![](https://cdn-images-1.medium.com/max/1600/1*gBLsSYp3M9gYhsgprRHVww.jpeg)
-
+We all know networking is very important.
 
 # Interview 
 There's are few general type interview.
@@ -54,6 +55,6 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzMjgzNzQsLTY0Njc5NzE4NCwxMz
+eyJoaXN0b3J5IjpbLTIwMjI4Mjk3NzEsLTY0Njc5NzE4NCwxMz
 IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
