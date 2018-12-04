@@ -40,7 +40,7 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 
 # How to apply job
 ## Resume 
-Ther
+There's very very common issue is that  **Do I have perfect resume?**. I don't think there's one legendary principle can help us build perfect resume. Just like we don
 
 ## Networking v.s. Apply as much as you can
 
@@ -55,6 +55,6 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI4Mjk3NzEsLTY0Njc5NzE4NCwxMz
+eyJoaXN0b3J5IjpbLTEzNDYzNzk3NTUsLTY0Njc5NzE4NCwxMz
 IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
