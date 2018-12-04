@@ -32,7 +32,7 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
 	- [NLP specfic problem](https://chesterhsieh.github.io/2018/12/02/2018-11-19-NLP_InterViewQuestion/)
 - Deep learning
-
+- 
 ## Leetcode
 ## Sklearn API
 ## DS question
@@ -55,6 +55,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMj
-M5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02ND
+Y3OTcxODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3
+NzNdfQ==
 -->
