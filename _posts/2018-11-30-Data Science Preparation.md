@@ -30,6 +30,7 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 - Finish the question In this blog :P
 	- [A/B Test](https://chesterhsieh.github.io/2018/11/09/ABTest/)
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
+	- [NLP specfic problem](https://chesterhsieh.github.io/2018/12/02/2018-11-19-NLP_InterViewQuestion/)
 - Deep learning
 
 ## Leetcode
@@ -53,6 +54,6 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
-U3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbLTE2ODkzMjgzNzQsLTY0Njc5NzE4NCwxMz
+IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
