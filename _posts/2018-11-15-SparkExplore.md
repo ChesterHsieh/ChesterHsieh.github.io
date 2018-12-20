@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Spark 1O1
-subtitle:   Is that possible to practice Spark for FREE!?
+title:      Spark From beginning to quit
+subtitle:   Try to learn Spark in most economic way
 date:       2018-11-17
 author:    Chester
 header-img: img/makeup_title.jpeg
@@ -11,6 +11,9 @@ tags:
     BIG DATA
    Spark
 ---
+#
+
+# Pyspark interface
 ## Read file
 
 The .collect() method returns all the elements of the RDD to the
@@ -19,12 +22,13 @@ driver where it is serialized as a list.
 
 ## Transformation
 #### map
-## Actions
+## Operations
 #### count()
 #### take(# of smaple)
 #### collect()
 #### reduce
-## Lazy Priciple
+## Lazy Principle
+
 
 
 ## DataFrame
@@ -41,5 +45,5 @@ scenario which would be similar if the compute was done on RDDs
 
 #### No map here :(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDAzMjY1MSwtMTE5MDg0NjQyXX0=
+eyJoaXN0b3J5IjpbMTg4OTQ5ODM3MiwtMTE5MDg0NjQyXX0=
 -->
