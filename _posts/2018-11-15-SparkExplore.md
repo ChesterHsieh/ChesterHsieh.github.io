@@ -12,7 +12,7 @@ tags:
    Spark
 ---
 # Intro
-This is start 
+This is start point for spark. I'm data scientist, python is primary tool for daily work. Pyspark seems to be savior for entering spark world. 
 
 # RDD 
 Check the paper first.
@@ -55,6 +55,6 @@ scenario which would be similar if the compute was done on RDDs
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODY4Nzk4OCwxNDM2MTg1MDQ5LC04MT
-E5MTAyMiwtMTE5MDg0NjQyXX0=
+eyJoaXN0b3J5IjpbMzU4Mzk5NTI3LDE0MzYxODUwNDksLTgxMT
+kxMDIyLC0xMTkwODQ2NDJdfQ==
 -->
