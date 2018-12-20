@@ -12,7 +12,7 @@ tags:
    Spark
 ---
 # RDD 
-
+Check the paper first.
 
 # Pyspark interface
 ## Read file
@@ -52,5 +52,6 @@ scenario which would be similar if the compute was done on RDDs
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTkxMDIyLC0xMTkwODQ2NDJdfQ==
+eyJoaXN0b3J5IjpbMTQzNjE4NTA0OSwtODExOTEwMjIsLTExOT
+A4NDY0Ml19
 -->
