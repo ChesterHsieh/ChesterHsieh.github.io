@@ -7,20 +7,21 @@ author:    Chester
 header-img: img/failure.jpg
 catalog: true
 tags:
-    - Job
+    - NLP
+    
 ---
 # Intro
-If your pro
+
 
 
 # Reference
 
 
- 1. 
+ 1. [First Idea about content enrichment](http://breakthroughanalysis.com/2012/01/25/smart-content-re-viewed-text-analytics-and-semantic-content-enrichment/)
  2. [Open source semantic analysis tool](https://opensemanticsearch.org/etl)
  3. [Automatic Detection of Nominal Entities in Speech for Enriched Content Search](file:///home/chester/Downloads/5862-29771-1-PB.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgwNDc4MDAsLTE1MjQwMTYwMDBdfQ
+eyJoaXN0b3J5IjpbLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ
 ==
 -->
