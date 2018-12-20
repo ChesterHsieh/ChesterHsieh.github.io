@@ -11,10 +11,13 @@ tags:
     BIG DATA
    Spark
 ---
+# Intro
+This is start 
+
 # RDD 
 Check the paper first.
 
-# Pyspark interface
+
 ## Read file
 
 The .collect() method returns all the elements of the RDD to the
@@ -52,6 +55,6 @@ scenario which would be similar if the compute was done on RDDs
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjE4NTA0OSwtODExOTEwMjIsLTExOT
-A4NDY0Ml19
+eyJoaXN0b3J5IjpbMTg5ODY4Nzk4OCwxNDM2MTg1MDQ5LC04MT
+E5MTAyMiwtMTE5MDg0NjQyXX0=
 -->
