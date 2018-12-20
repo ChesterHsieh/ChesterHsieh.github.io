@@ -11,7 +11,8 @@ tags:
     BIG DATA
    Spark
 ---
-#
+# RDD 
+
 
 # Pyspark interface
 ## Read file
@@ -44,6 +45,12 @@ between Python and the JVM. Note, this would be the worst-case
 scenario which would be similar if the compute was done on RDDs
 
 #### No map here :(
+
+
+# Reference
+
+ 1. List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTQ5ODM3MiwtMTE5MDg0NjQyXX0=
+eyJoaXN0b3J5IjpbLTgxMTkxMDIyLC0xMTkwODQ2NDJdfQ==
 -->
