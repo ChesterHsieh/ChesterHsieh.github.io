@@ -11,7 +11,7 @@ tags:
     
 ---
 # Intro
-
+Search Engine has many different fu
 
 
 # Reference
@@ -22,6 +22,6 @@ tags:
  3. [Automatic Detection of Nominal Entities in Speech for Enriched Content Search](file:///home/chester/Downloads/5862-29771-1-PB.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ
-==
+eyJoaXN0b3J5IjpbMTUwOTY3NTAzNywtMTQ3NjgwMzc1OCwtMT
+UyNDAxNjAwMF19
 -->
