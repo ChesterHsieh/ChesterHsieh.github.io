@@ -23,6 +23,12 @@ Some question need to be solved :
 - How to integrate python into Solr system?
 - How to get data and build up pipeline for Solr system.
 
+
+customer behavior 
+to tag 
+store infromation
+Entiyiy
+
 # Method
 ## Possible solution options
 
@@ -41,8 +47,8 @@ Some question need to be solved :
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI5MDUzNTksLTE5Mjk3NTQyNTcsMT
-U0NDIyMjU3MywtOTA4NTkzMzYzLDk4MzE3Njk4Nyw1ODYzNDky
-NjAsLTc5ODUyNTYxMywxNTA5Njc1MDM3LC0xNDc2ODAzNzU4LC
-0xNTI0MDE2MDAwXX0=
+eyJoaXN0b3J5IjpbMTA3NzQ5NjIxNCwtMTk5MjkwNTM1OSwtMT
+kyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2
+OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLT
+E0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
 -->
