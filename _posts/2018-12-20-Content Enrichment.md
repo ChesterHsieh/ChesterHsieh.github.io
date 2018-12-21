@@ -16,7 +16,10 @@ Search Engine has many different features and design can actually improve user e
 presicision cover
 
 # Pain points
-User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to ach
+User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to trim down their search result.
+
+
+
 
 # Reference
 
@@ -26,9 +29,10 @@ User might need more information and accurate search result. Put whole descripti
  3. [Automatic Detection of Nominal Entities in Speech for Enriched Content Search](file:///home/chester/Downloads/5862-29771-1-PB.pdf)
  4. [Improvement Case](https://www.iknow.us/projects/content-enrichment-and-search-enhancement)
 
-
+## Abbreviation
+**SQ** sq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NT
-I1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYw
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTQyMzMzNDIsOTgzMTc2OTg3LDU4Nj
+M0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3
+NTgsLTE1MjQwMTYwMDBdfQ==
 -->
