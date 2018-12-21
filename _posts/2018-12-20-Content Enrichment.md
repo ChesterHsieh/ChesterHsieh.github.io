@@ -1,4 +1,4 @@
-﻿---
+11﻿---
 layout:     post
 title:      What's Content enrichment
 subtitle:   From beginning to quit( Just kidding)
@@ -9,13 +9,14 @@ catalog: true
 tags:
     - NLP
     
----
+11---
 # Intro
 Search Engine has many different features and design can actually improve user experience. Either to improve findabilty or 
 
 presicision cover
 
-# 
+# Pain points
+User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to ach
 
 # Reference
 
@@ -27,7 +28,7 @@ presicision cover
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDMzMDk2NSw1ODYzNDkyNjAsLTc5OD
-UyNTYxMywxNTA5Njc1MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2
-MDAwXX0=
+eyJoaXN0b3J5IjpbOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NT
+I1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYw
+MDBdfQ==
 -->
