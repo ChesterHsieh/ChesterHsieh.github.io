@@ -37,6 +37,8 @@ Customer behavior might noise
 -----------------------------
 20 millions sg
 15k signal
+Per squad??
+Epic??
 
 
 
@@ -58,8 +60,8 @@ Customer behavior might noise
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTQwMjAwMiwtMTk5MjkwNTM1OSwtMT
-kyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2
-OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLT
-E0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
+eyJoaXN0b3J5IjpbOTYyNzU1MzA4LDExNjE0MDIwMDIsLTE5OT
+I5MDUzNTksLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOTA4NTkz
+MzYzLDk4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNT
+A5Njc1MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
 -->
