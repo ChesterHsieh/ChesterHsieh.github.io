@@ -11,7 +11,7 @@ tags:
     
 ---
 # Intro
-Search Engine has many different features and design can actually improve user experience. Either to improve find
+Search Engine has many different features and design can actually improve user experience. Either to improve findabilty or 
 
 
 # Reference
@@ -20,8 +20,10 @@ Search Engine has many different features and design can actually improve user e
  1. [First Idea about content enrichment](http://breakthroughanalysis.com/2012/01/25/smart-content-re-viewed-text-analytics-and-semantic-content-enrichment/)
  2. [Open source semantic analysis tool](https://opensemanticsearch.org/etl)
  3. [Automatic Detection of Nominal Entities in Speech for Enriched Content Search](file:///home/chester/Downloads/5862-29771-1-PB.pdf)
+ 4. [Improvement Case](https://www.iknow.us/projects/content-enrichment-and-search-enhancement)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MDUxMTcxLDE1MDk2NzUwMzcsLTE0Nz
-Y4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
+eyJoaXN0b3J5IjpbLTc5ODUyNTYxMywxNTA5Njc1MDM3LC0xND
+c2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
 -->
