@@ -11,7 +11,7 @@ tags:
     
 ---
 # Intro
-Search Engine has many different features and design can actually improve lucene
+Search Engine has many different features and design can actually improve user experience. Either to improve find
 
 
 # Reference
@@ -22,6 +22,6 @@ Search Engine has many different features and design can actually improve lucene
  3. [Automatic Detection of Nominal Entities in Speech for Enriched Content Search](file:///home/chester/Downloads/5862-29771-1-PB.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkyMzcxMjEsMTUwOTY3NTAzNywtMT
-Q3NjgwMzc1OCwtMTUyNDAxNjAwMF19
+eyJoaXN0b3J5IjpbNzA1MDUxMTcxLDE1MDk2NzUwMzcsLTE0Nz
+Y4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
 -->
