@@ -13,13 +13,13 @@ tags:
 # Intro
 Search Engine has many different features and design can actually improve user experience. Either to improve findabilty or 
 
-presicision cover
 
 # Pain points
 User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to trim down their search result.
 # Search Engine Framework
 **Solr** is primary framework in this application. Final goal to solve the pain point is to apply content enrichment feature on Solr system. 
 
+Some question need to be solved :
 - How to integrate python into Solr system?
 - How to get data and build up pipeline for Solr system.
 
@@ -41,8 +41,8 @@ User might need more information and accurate search result. Put whole descripti
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOT
-A4NTkzMzYzLDk4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYx
-MywxNTA5Njc1MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX
-0=
+eyJoaXN0b3J5IjpbLTE5OTI5MDUzNTksLTE5Mjk3NTQyNTcsMT
+U0NDIyMjU3MywtOTA4NTkzMzYzLDk4MzE3Njk4Nyw1ODYzNDky
+NjAsLTc5ODUyNTYxMywxNTA5Njc1MDM3LC0xNDc2ODAzNzU4LC
+0xNTI0MDE2MDAwXX0=
 -->
