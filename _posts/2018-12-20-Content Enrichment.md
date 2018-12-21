@@ -18,7 +18,10 @@ presicision cover
 # Pain points
 User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to trim down their search result.
 # Search Engine Framework
-**Solr**
+**Solr** is primary framework in this application. Final goal to solve the pain point is to apply content enrichment feature on Solr system. 
+
+- How to integrate python into Solr system?
+- How to get data and bu
 
 # Method
 ## Possible solution options
@@ -38,7 +41,7 @@ User might need more information and accurate search result. Put whole descripti
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTIyNTM2OCwxNTQ0MjIyNTczLC05MD
+eyJoaXN0b3J5IjpbMjAyNDI4NjM5OSwxNTQ0MjIyNTczLC05MD
 g1OTMzNjMsOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEz
 LDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ
 ==
