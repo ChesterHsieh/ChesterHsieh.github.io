@@ -29,6 +29,13 @@ to tag
 store infromation
 Entiyiy
 
+Top 3
+Q1
+-------------------
+Reach out data set 
+Customer behavior might noise
+
+
 # Method
 ## Possible solution options
 
@@ -47,7 +54,7 @@ Entiyiy
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzQ5NjIxNCwtMTk5MjkwNTM1OSwtMT
+eyJoaXN0b3J5IjpbMTY1Mzc2MjczNSwtMTk5MjkwNTM1OSwtMT
 kyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2
 OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLT
 E0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
