@@ -17,6 +17,8 @@ presicision cover
 
 # Pain points
 User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to trim down their search result.
+# Search Engine Framework
+**Solr**
 
 # Method
 ## Possible solution options
@@ -36,7 +38,8 @@ User might need more information and accurate search result. Put whole descripti
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDIyMjU3MywtOTA4NTkzMzYzLDk4Mz
-E3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNTA5Njc1MDM3
-LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
+eyJoaXN0b3J5IjpbMTQyMTIyNTM2OCwxNTQ0MjIyNTczLC05MD
+g1OTMzNjMsOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEz
+LDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ
+==
 -->
