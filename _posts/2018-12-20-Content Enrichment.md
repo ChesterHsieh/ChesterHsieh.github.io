@@ -18,8 +18,12 @@ presicision cover
 # Pain points
 User might need more information and accurate search result. Put whole description is not smart. Customer need smarter system to trim down their search result.
 
+# Method
+## Possible solution options
 
-
+ 1. [Stanbol](http://stanbol.apache.org/development/index.html#source_code)
+ 2. [Open semantics ETL](https://github.com/opensemanticsearch/open-semantic-etl)
+ 3. 
 
 # Reference
 
@@ -32,7 +36,7 @@ User might need more information and accurate search result. Put whole descripti
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODU5MzM2Myw5ODMxNzY5ODcsNTg2Mz
-Q5MjYwLC03OTg1MjU2MTMsMTUwOTY3NTAzNywtMTQ3NjgwMzc1
-OCwtMTUyNDAxNjAwMF19
+eyJoaXN0b3J5IjpbMTU0NDIyMjU3MywtOTA4NTkzMzYzLDk4Mz
+E3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNTA5Njc1MDM3
+LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
 -->
