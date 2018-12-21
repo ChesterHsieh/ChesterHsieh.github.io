@@ -34,6 +34,10 @@ Q1
 -------------------
 Reach out data set 
 Customer behavior might noise
+-----------------------------
+20 millions sg
+15k signal
+
 
 
 # Method
@@ -54,7 +58,7 @@ Customer behavior might noise
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzc2MjczNSwtMTk5MjkwNTM1OSwtMT
+eyJoaXN0b3J5IjpbMTE2MTQwMjAwMiwtMTk5MjkwNTM1OSwtMT
 kyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2
 OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLT
 E0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
