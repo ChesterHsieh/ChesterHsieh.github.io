@@ -21,7 +21,7 @@ User might need more information and accurate search result. Put whole descripti
 **Solr** is primary framework in this application. Final goal to solve the pain point is to apply content enrichment feature on Solr system. 
 
 - How to integrate python into Solr system?
-- How to get data and bu
+- How to get data and build up pipeline for Solr system.
 
 # Method
 ## Possible solution options
@@ -41,8 +41,8 @@ User might need more information and accurate search result. Put whole descripti
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDI4NjM5OSwxNTQ0MjIyNTczLC05MD
-g1OTMzNjMsOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEz
-LDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ
-==
+eyJoaXN0b3J5IjpbLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOT
+A4NTkzMzYzLDk4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYx
+MywxNTA5Njc1MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX
+0=
 -->
