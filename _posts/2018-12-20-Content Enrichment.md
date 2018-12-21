@@ -35,10 +35,15 @@ Q1
 Reach out data set 
 Customer behavior might noise
 -----------------------------
-20 millions sg
+20 millions signal
 15k signal
 Per squad??
 Epic??
+What's 2 different Tasks??
+1.
+2.
+----------------------
+
 
 
 
@@ -60,8 +65,8 @@ Epic??
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNzU1MzA4LDExNjE0MDIwMDIsLTE5OT
-I5MDUzNTksLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOTA4NTkz
-MzYzLDk4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNT
-A5Njc1MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
+eyJoaXN0b3J5IjpbMTU3NDkwNDU4MCwxMTYxNDAyMDAyLC0xOT
+kyOTA1MzU5LC0xOTI5NzU0MjU3LDE1NDQyMjI1NzMsLTkwODU5
+MzM2Myw5ODMxNzY5ODcsNTg2MzQ5MjYwLC03OTg1MjU2MTMsMT
+UwOTY3NTAzNywtMTQ3NjgwMzc1OCwtMTUyNDAxNjAwMF19
 -->
