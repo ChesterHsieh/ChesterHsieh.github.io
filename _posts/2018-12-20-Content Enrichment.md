@@ -30,9 +30,9 @@ User might need more information and accurate search result. Put whole descripti
  4. [Improvement Case](https://www.iknow.us/projects/content-enrichment-and-search-enhancement)
 
 ## Abbreviation
-**SQ** sq
+**SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyMzMzNDIsOTgzMTc2OTg3LDU4Nj
-M0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3
-NTgsLTE1MjQwMTYwMDBdfQ==
+eyJoaXN0b3J5IjpbLTkwODU5MzM2Myw5ODMxNzY5ODcsNTg2Mz
+Q5MjYwLC03OTg1MjU2MTMsMTUwOTY3NTAzNywtMTQ3NjgwMzc1
+OCwtMTUyNDAxNjAwMF19
 -->
