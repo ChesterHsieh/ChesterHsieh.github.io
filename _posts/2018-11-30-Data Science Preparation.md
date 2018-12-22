@@ -27,13 +27,13 @@ I want to share the experience about how I prepare data scientist. Here's my bac
 The basic preparation you should finish to gain the basic knowledge to overcome interview. Be prepare for those steps. 
 - Leetcode 
 - Sklearn API
-- Finish the question In this blog :P
+-  The questions in this blog :P
 	- [A/B Test](https://chesterhsieh.github.io/2018/11/09/ABTest/)
 	- [Data science real problem](https://chesterhsieh.github.io/2018/11/20/DS-Question-Collection/)
 	- [NLP specfic problem](https://chesterhsieh.github.io/2018/12/02/2018-11-19-NLP_InterViewQuestion/)
 - Deep learning
-- 
 ## Leetcode
+In the beginning I don't believe this is necessa 
 ## Sklearn API
 ## DS question
 ## Deep learning
@@ -55,7 +55,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02ND
-Y3OTcxODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3
-NzNdfQ==
+eyJoaXN0b3J5IjpbNTcyNjEzOSwtMzk0MjQxNzIwLC03NDc2OD
+E4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMs
+LTgyNzY4Njc3M119
 -->
