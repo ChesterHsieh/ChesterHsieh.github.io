@@ -58,10 +58,10 @@ Here we are. The specific knowledge for data scientist. I don't how's structure 
 
 Sklearn is perfect tool and list let you go through most of ML algorithm. I believe there's more algorithm, however, to know the common ML algorithm is essential. 
 
-[Sklearn API document](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection)
 
+![](https://lh3.googleusercontent.com/0hxHu4GWzh9yOQmlovdKqaeg20BOc7EAWXi0mYm0-w-kgodxpcFVAl5CKi2AvYcFfEVzdiENzGYi)
 
-
+Take 
 ## DS question
 ## Deep learning
 
@@ -82,7 +82,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzM4ODAwNSwzOTEwOTc5NjMsMTQwMz
-E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
-NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbODgzNDk3NjE0LDM5MTA5Nzk2MywxNDAzMT
+c4MjQ5LC0zOTQyNDE3MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0
+LDEzMjM5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
