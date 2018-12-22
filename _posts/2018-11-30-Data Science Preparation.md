@@ -39,7 +39,7 @@ Our goal is clear. Don't put too much time on practicing this, however, we can s
 ![
 Where to find the tag](https://lh3.googleusercontent.com/y6szAzphgYGRKO2IETGBPvbP3-uWLplJZSQJEG1rxG31aFqDQq08_LYp8Xy2HTFXudayu2Gqaqhu "Tag")
 
-Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper numbe
+Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper number questions and cover most of data structures. 
 
 ## Sklearn API
 ## DS question
@@ -62,7 +62,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk1NTg2ODQsMTQwMzE3ODI0OSwtMz
-k0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2
-NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5ND
+I0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQy
+NywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
