@@ -43,7 +43,7 @@ Pick the tag for one company. I chose facebook as my target. Any company is fine
 
 Try to eliminate the questions by data structure instead by difficulty. It will help you build the feeling to guess possible solution for the question. In my experience when you finish 3~5 questions in one data structure you will know how to build the basement to solve the problem. 
 
-
+How to solve problem in proper way? I have a study group. We all face the situation is that sometime we'll get stuck by one question for hours. 
 
 ## Sklearn API
 ## DS question
@@ -66,7 +66,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTMxNDA5MywzOTEwOTc5NjMsMTQwMz
+eyJoaXN0b3J5IjpbMTkwNTM0NDM2MiwzOTEwOTc5NjMsMTQwMz
 E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
 NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
