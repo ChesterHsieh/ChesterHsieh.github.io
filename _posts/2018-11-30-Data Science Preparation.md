@@ -18,7 +18,7 @@ I want to share the experience about how I prepare data scientist. Here's my bac
  - 3.6 GPA 
  - International student. No GC, No family in U.S.
  
- It's super easy to have better starting situation than my case.
+ It's  easy to have better starting situation than my case,  so don't worry.
  
 # Preparation
 
@@ -41,7 +41,7 @@ Where to find the tag](https://lh3.googleusercontent.com/y6szAzphgYGRKO2IETGBPvb
 
 Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper number questions and cover most of data structures. 
 
-Try to eliminate the questions by data structure instead by difficulty. It will help you build the feeling to judge the question. When you start any new challenge 
+Try to eliminate the questions by data structure instead by difficulty. It will help you build the feeling to guess possible solution for the question. 
 
 ## Sklearn API
 ## DS question
@@ -64,7 +64,8 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc3MDE3NCwzOTEwOTc5NjMsMTQwMz
-E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
-NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbLTIwNzQ1NTAzMDUsMzkxMDk3OTYzLDE0MD
+MxNzgyNDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcx
+ODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ
+==
 -->
