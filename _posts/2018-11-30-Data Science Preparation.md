@@ -41,6 +41,8 @@ Where to find the tag](https://lh3.googleusercontent.com/y6szAzphgYGRKO2IETGBPvb
 
 Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper number questions and cover most of data structures. 
 
+Try to eliminate the questions by data structure instead by difficulty. It will be really helpful for you doing this 
+
 ## Sklearn API
 ## DS question
 ## Deep learning
@@ -62,7 +64,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5ND
-I0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQy
-NywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTc0NjgyODQ1LDM5MTA5Nzk2MywxNDAzMT
+c4MjQ5LC0zOTQyNDE3MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0
+LDEzMjM5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
