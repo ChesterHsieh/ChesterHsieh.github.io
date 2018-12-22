@@ -61,7 +61,9 @@ Sklearn is perfect tool and list let you go through most of ML algorithm. I beli
 
 ![](https://lh3.googleusercontent.com/0hxHu4GWzh9yOQmlovdKqaeg20BOc7EAWXi0mYm0-w-kgodxpcFVAl5CKi2AvYcFfEVzdiENzGYi)
 
-Take 
+Here's screenshot for partial API document. Most of function I believe a data scientist should know what's is this.
+
+
 ## DS question
 ## Deep learning
 
@@ -82,7 +84,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNDk3NjE0LDM5MTA5Nzk2MywxNDAzMT
+eyJoaXN0b3J5IjpbNTI3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMT
 c4MjQ5LC0zOTQyNDE3MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0
 LDEzMjM5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
