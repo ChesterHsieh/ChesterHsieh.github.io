@@ -39,9 +39,9 @@ Our goal is clear. Don't put too much time on practicing this, however, we can s
 ![
 Where to find the tag](https://lh3.googleusercontent.com/y6szAzphgYGRKO2IETGBPvbP3-uWLplJZSQJEG1rxG31aFqDQq08_LYp8Xy2HTFXudayu2Gqaqhu "Tag")
 
-Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper number questions and cover most of data structures. 
+Pick the tag for one company. I chose facebook as my target. Any company is fine but FB has proper number questions and cover most of data structures. 200 questions isn't something big number to finish.
 
-Try to eliminate the questions by data structure instead by difficulty. It will help you build the feeling to guess possible solution for the question. 
+Try to eliminate the questions by data structure instead by difficulty. It will help you build the feeling to guess possible solution for the question. In my experience when you finish 3~5 
 
 ## Sklearn API
 ## DS question
@@ -64,8 +64,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ1NTAzMDUsMzkxMDk3OTYzLDE0MD
-MxNzgyNDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcx
-ODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ
-==
+eyJoaXN0b3J5IjpbLTU3NDE5ODcwMywzOTEwOTc5NjMsMTQwMz
+E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
+NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
