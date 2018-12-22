@@ -47,7 +47,11 @@ How to solve problem in proper way? I have a study group. We all face the situat
 
 **Should I check solution before I actual pass some test case?**
 
-I think is **NO**, Especially when you start doing another type of questions. Always set a timer, likes 20 minutes. If you don't have any idea to start, don't hesitate to check the discussion and solution.
+I think is **NO**, Especially when you start doing another type of questions. Always set a timer, likes 20 minutes. If you don't have any idea to start, don't hesitate to check the discussion and solution. There's another problem will come out.
+
+** Are you really really understand ?**
+
+It's too easy to fool yourself. Understanding and memory is  
 ## Sklearn API
 ## DS question
 ## Deep learning
@@ -69,7 +73,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU2NTMyNjQsMzkxMDk3OTYzLDE0MD
+eyJoaXN0b3J5IjpbLTE2OTgyOTMwMTksMzkxMDk3OTYzLDE0MD
 MxNzgyNDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcx
 ODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ
 ==
