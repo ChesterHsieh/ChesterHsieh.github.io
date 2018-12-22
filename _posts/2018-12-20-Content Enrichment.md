@@ -43,6 +43,7 @@ What's 2 different Tasks??
 1.
 2.
 ----------------------
+# Task bull point
 
 
 
@@ -65,9 +66,9 @@ What's 2 different Tasks??
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NjU3MzQxLDE1NzQ5MDQ1ODAsMTE2MT
-QwMjAwMiwtMTk5MjkwNTM1OSwtMTkyOTc1NDI1NywxNTQ0MjIy
-NTczLC05MDg1OTMzNjMsOTgzMTc2OTg3LDU4NjM0OTI2MCwtNz
-k4NTI1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQw
-MTYwMDBdfQ==
+eyJoaXN0b3J5IjpbMTIwMjczMjU1NCw2MTc2NTczNDEsMTU3ND
+kwNDU4MCwxMTYxNDAyMDAyLC0xOTkyOTA1MzU5LC0xOTI5NzU0
+MjU3LDE1NDQyMjI1NzMsLTkwODU5MzM2Myw5ODMxNzY5ODcsNT
+g2MzQ5MjYwLC03OTg1MjU2MTMsMTUwOTY3NTAzNywtMTQ3Njgw
+Mzc1OCwtMTUyNDAxNjAwMF19
 -->
