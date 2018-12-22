@@ -65,6 +65,7 @@ Here's screenshot for partial API document. Most of function I believe a qualifi
 
 
 ## DS question
+I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
 ## Deep learning
 
 # How to apply job
@@ -84,8 +85,8 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkzMjg0ODcsNTI3MTI2ODE2LDM5MT
-A5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3MjAsLTc0NzY4MTgw
-MywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMTk5NTc2NDgxMywtOD
-I3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTY0MTUxMTYwMywtMTQwOTMyODQ4Nyw1Mj
+cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
+MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
+k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
