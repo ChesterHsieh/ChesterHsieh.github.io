@@ -56,7 +56,9 @@ It's too easy to fool yourself. There is only a fine line between a understand a
 ## Sklearn document
 Here we are. The specific knowledge for data scientist. I don't how's structure for Machine learning course of other school. It's hard to follow step by step review list for the lecture. 
 
-Sklearn is perfect tool and list le
+Sklearn is perfect tool and list let you go through most of ML algorithm. I believe there's more algorithm, however, to know the common ML algorithm is essential. 
+
+
 
 ## DS question
 ## Deep learning
@@ -78,8 +80,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQzNTQ5MjQsMzkxMDk3OTYzLDE0MD
-MxNzgyNDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcx
-ODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ
-==
+eyJoaXN0b3J5IjpbMTc4ODg2NTk3LDM5MTA5Nzk2MywxNDAzMT
+c4MjQ5LC0zOTQyNDE3MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0
+LDEzMjM5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
