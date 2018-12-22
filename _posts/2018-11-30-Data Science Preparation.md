@@ -51,8 +51,11 @@ I think is **NO**, Especially when you start doing another type of questions. Al
 
 ** Are you really really understand ?**
 
-It's too easy to fool yourself. There is only a fine line between a understand and copy. Do it again next day is th
+It's too easy to fool yourself. There is only a fine line between a understand and copy. Do it again next day is the best way to challenge yourself.
+
 ## Sklearn API
+Here we are. The specific knowledge for data scientist. I don't how's structure for Machine learning course of other school. 
+
 ## DS question
 ## Deep learning
 
@@ -73,7 +76,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzg1NzI2OCwzOTEwOTc5NjMsMTQwMz
+eyJoaXN0b3J5IjpbLTE2NTMxMjY5NSwzOTEwOTc5NjMsMTQwMz
 E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
 NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
