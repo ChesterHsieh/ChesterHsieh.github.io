@@ -45,6 +45,10 @@ Try to eliminate the questions by data structure instead by difficulty. It will 
 
 How to solve problem in proper way? I have a study group. We all face the situation is that sometime we'll get stuck by one question for hours. 
 
+**Should I check solution before I actual pass some test case?**
+
+I think is **NO**, Especially when you start doing another type of qu
+
 ## Sklearn API
 ## DS question
 ## Deep learning
@@ -66,7 +70,8 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTM0NDM2MiwzOTEwOTc5NjMsMTQwMz
-E3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4
-NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbLTEzNzc1Mzc1MDQsMzkxMDk3OTYzLDE0MD
+MxNzgyNDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcx
+ODQsMTMyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ
+==
 -->
