@@ -33,7 +33,7 @@ The basic preparation you should finish to gain the basic knowledge to overcome 
 	- [NLP specfic problem](https://chesterhsieh.github.io/2018/12/02/2018-11-19-NLP_InterViewQuestion/)
 - Deep learning
 ## Leetcode
-In the beginning I don't believe this is necessa 
+In the beginning I don't believe this is necessary for DS, till I failed at least 5 different interviews. The reason why company want to do the code challenge for DS position is to prevent fake profile and  
 ## Sklearn API
 ## DS question
 ## Deep learning
@@ -55,7 +55,7 @@ There's are few general type interview.
 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNjEzOSwtMzk0MjQxNzIwLC03NDc2OD
-E4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMs
-LTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbMTEzMzMxMjgxNSwtMzk0MjQxNzIwLC03ND
+c2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OTU3NjQ4
+MTMsLTgyNzY4Njc3M119
 -->
