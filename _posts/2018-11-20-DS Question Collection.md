@@ -78,14 +78,14 @@ W
 I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic, Amazon Alexa) 
 - balanced accuracy
 - Turn the problem into abnormal detection
-- Co
+- 
 #### Dimen
 ## Deep Learning
 #### Why we need the max pool in CNN?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTg4MDUxNCwtNDEyNTI5NTk0LDg3Mj
-g0NjYxNiwxMTExMDgxNDc3LC0xOTk4NTM4NDAzLC00Mzg2MDYy
-ODksMTkzNjc3OTk5MSw4NDAwMTM3NzYsLTcxOTA1MjM3MiwtMT
-M5NjcyNTQxM119
+eyJoaXN0b3J5IjpbLTU3MTUzMjQzMCwtODgxODgwNTE0LC00MT
+I1Mjk1OTQsODcyODQ2NjE2LDExMTEwODE0NzcsLTE5OTg1Mzg0
+MDMsLTQzODYwNjI4OSwxOTM2Nzc5OTkxLDg0MDAxMzc3NiwtNz
+E5MDUyMzcyLC0xMzk2NzI1NDEzXX0=
 -->
