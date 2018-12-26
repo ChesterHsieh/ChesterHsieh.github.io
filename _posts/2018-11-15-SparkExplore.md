@@ -36,10 +36,10 @@ driver where it is serialized as a list.
 
 
 ## DataFrame
-#### Catalyst Optimizer refresh
+### Catalyst Optimizer refresh
 ![catalyst](../img/catalyst.png)
 
-#### Speed ISSUE
+### Speed ISSUE
 
 It is important to note that while, with DataFrames, PySpark is often
 significantly faster, there are some exceptions. The most prominent one
@@ -47,14 +47,14 @@ is the use of Python UDFs, which results in round-trip communication
 between Python and the JVM. Note, this would be the worst-case
 scenario which would be similar if the compute was done on RDDs
 
-#### No map here :(
-
-
+### No map here :(
+### API CheetSheet
+![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
 # Reference
 
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4Mzk5NTI3LDE0MzYxODUwNDksLTgxMT
-kxMDIyLC0xMTkwODQ2NDJdfQ==
+eyJoaXN0b3J5IjpbMTgzMjk2NDE2LDM1ODM5OTUyNywxNDM2MT
+g1MDQ5LC04MTE5MTAyMiwtMTE5MDg0NjQyXX0=
 -->
