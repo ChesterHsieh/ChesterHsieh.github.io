@@ -36,8 +36,7 @@ driver where it is serialized as a list.
 
 
 ## DataFrame
-### Catalyst Optimizer refresh
-![catalyst](../img/catalyst.png)
+
 
 ### Speed ISSUE
 
@@ -48,6 +47,10 @@ between Python and the JVM. Note, this would be the worst-case
 scenario which would be similar if the compute was done on RDDs
 
 ### No map here :(
+Instead to use map or apply
+
+
+
 ### API CheetSheet
 ![](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
 # Reference
@@ -55,6 +58,7 @@ scenario which would be similar if the compute was done on RDDs
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjk2NDE2LDM1ODM5OTUyNywxNDM2MT
-g1MDQ5LC04MTE5MTAyMiwtMTE5MDg0NjQyXX0=
+eyJoaXN0b3J5IjpbMzIzMTYxMzk5LDE4MzI5NjQxNiwzNTgzOT
+k1MjcsMTQzNjE4NTA0OSwtODExOTEwMjIsLTExOTA4NDY0Ml19
+
 -->
