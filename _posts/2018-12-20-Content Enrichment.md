@@ -46,7 +46,7 @@ What's 2 different Tasks??
 # Task bull point
 ## Keyword Analysis
 - Tf-idf score 
-	Use tf-idf to analysis the corpus and extract keyword. There are 2 millions
+	Use tf-idf to analysis the corpus and extract keyword. There are 2 millions dataset. To finish this part, it might take 
 
 
 
@@ -68,9 +68,9 @@ What's 2 different Tasks??
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzkwNTU3MSwxMjAyNzMyNTU0LDYxNz
-Y1NzM0MSwxNTc0OTA0NTgwLDExNjE0MDIwMDIsLTE5OTI5MDUz
-NTksLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOTA4NTkzMzYzLD
-k4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNTA5Njc1
-MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
+eyJoaXN0b3J5IjpbMTM3OTc4NjI5LDEyMDI3MzI1NTQsNjE3Nj
+U3MzQxLDE1NzQ5MDQ1ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1
+OSwtMTkyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOT
+gzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUw
+MzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
 -->
