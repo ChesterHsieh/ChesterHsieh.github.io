@@ -44,7 +44,9 @@ What's 2 different Tasks??
 2.
 ----------------------
 # Task bull point
-
+## Keyword Analysis
+- Tf-idf score 
+	Use tf-idf to analysis the corpus and extract keyword. There are 2 millions
 
 
 
@@ -66,9 +68,9 @@ What's 2 different Tasks??
 ## Abbreviation
 **SQ** = search query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjczMjU1NCw2MTc2NTczNDEsMTU3ND
-kwNDU4MCwxMTYxNDAyMDAyLC0xOTkyOTA1MzU5LC0xOTI5NzU0
-MjU3LDE1NDQyMjI1NzMsLTkwODU5MzM2Myw5ODMxNzY5ODcsNT
-g2MzQ5MjYwLC03OTg1MjU2MTMsMTUwOTY3NTAzNywtMTQ3Njgw
-Mzc1OCwtMTUyNDAxNjAwMF19
+eyJoaXN0b3J5IjpbMTkzNzkwNTU3MSwxMjAyNzMyNTU0LDYxNz
+Y1NzM0MSwxNTc0OTA0NTgwLDExNjE0MDIwMDIsLTE5OTI5MDUz
+NTksLTE5Mjk3NTQyNTcsMTU0NDIyMjU3MywtOTA4NTkzMzYzLD
+k4MzE3Njk4Nyw1ODYzNDkyNjAsLTc5ODUyNTYxMywxNTA5Njc1
+MDM3LC0xNDc2ODAzNzU4LC0xNTI0MDE2MDAwXX0=
 -->
