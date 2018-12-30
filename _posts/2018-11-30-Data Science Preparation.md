@@ -63,7 +63,7 @@ Sklearn is perfect tool and list let you go through most of ML algorithm. I beli
 
 Here's screenshot for partial API document. Most of function I believe a qualified data scientist should know most of that. 
 
-It'very impor
+It's Very important to know more than school. That's the reason I failed many times. Remember one thing: **Every parameter is trying to solve some problems**. I take l
 
 
 ## DS question
@@ -89,7 +89,7 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA3NjIyMjEsLTE0MDkzMjg0ODcsNT
+eyJoaXN0b3J5IjpbLTEzNDgzNDIyMTAsLTE0MDkzMjg0ODcsNT
 I3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3
 MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMT
 k5NTc2NDgxMywtODI3Njg2NzczXX0=
