@@ -63,6 +63,8 @@ Sklearn is perfect tool and list let you go through most of ML algorithm. I beli
 
 Here's screenshot for partial API document. Most of function I believe a qualified data scientist should know most of that. 
 
+It'very impor
+
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -83,12 +85,12 @@ We all know networking is very important.
 There's are few general type interview.
 1. Phone interview
 2. Online assessment
-3. Machine learning case
-4. 
+3. Machine learning case study
+4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODY3MzU3NywtMTQwOTMyODQ4Nyw1Mj
-cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
-MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
-k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNjA3NjIyMjEsLTE0MDkzMjg0ODcsNT
+I3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3
+MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMT
+k5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
