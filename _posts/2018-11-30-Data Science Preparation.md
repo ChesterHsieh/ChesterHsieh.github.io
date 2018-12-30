@@ -63,8 +63,10 @@ Sklearn is perfect tool and list let you go through most of ML algorithm. I beli
 
 Here's screenshot for partial API document. Most of function I believe a qualified data scientist should know most of that. 
 
-It's Very important to know more than school. That's the reason I failed many times. Remember one thing: **Every parameter is trying to solve some problems**. I take logistic regression as an example, **class_weight** is one way to solve unbalanced data. I never heard about that in Machine learning class.  
+It's Very important to know more than school. That's the reason I failed many times. Remember one thing: **Every parameter is trying to solve some problems**. I take logistic regression as an example, **class_weight** is one way to solve unbalanced data. I never heard about that in Machine learning class. There's never wonderful data sets in real problem.  
 
+## Deep learning
+The quickest way 
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -89,8 +91,8 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk3MjQxMzAsLTE0MDkzMjg0ODcsNT
-I3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3
-MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMT
-k5NTc2NDgxMywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTU3MDQxNzkyMCwtMTQwOTMyODQ4Nyw1Mj
+cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
+MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
+k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
