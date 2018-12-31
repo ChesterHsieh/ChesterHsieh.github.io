@@ -73,7 +73,9 @@ The [beginner friendly course](https://www.coursera.org/specializations/deep-lea
  1. Pay the money. It charge monthly and you can finish in 1 month.
  2. Apply for financial aid. It might take an month to get approved. If you are a student, you probably get approved. 
 
-Make sure to understand every line for the fi
+Make sure to understand every line for the chapter final project. It's too easy to cheat yourself on this. Don't try to get certification as fast as you can. **Please Don't do it**.
+
+I have no idea about 
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -98,7 +100,7 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzY5NjkzMSwtMTQwOTMyODQ4Nyw1Mj
+eyJoaXN0b3J5IjpbLTQxNjQ2ODUzNiwtMTQwOTMyODQ4Nyw1Mj
 cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
 MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
 k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
