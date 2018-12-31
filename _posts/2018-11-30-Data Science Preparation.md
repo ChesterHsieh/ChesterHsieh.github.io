@@ -68,7 +68,9 @@ It's Very important to know more than school. That's the reason I failed many ti
 ## Deep learning
 The quickest way is to play at least one hand-on project for deep learning on [Colab](https://colab.research.google.com/). It's good process to spend some time on how to build up environment for training deep learning model and use GPU, however, I don't think it's necessary on interview. 
 
-The beginner friendly course is on Coursera. 
+The [beginner friendly course](https://www.coursera.org/specializations/deep-learning) is on Coursera. There are two ways to get full content of courses.
+
+ 1. Pay the money. It charge by mon
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -93,8 +95,8 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODAwNjc5NSwtMTQwOTMyODQ4Nyw1Mj
-cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
-MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
-k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbNzM0MTY1ODI5LC0xNDA5MzI4NDg3LDUyNz
+EyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIw
+LC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
+U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
