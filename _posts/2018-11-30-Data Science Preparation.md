@@ -70,7 +70,10 @@ The quickest way is to play at least one hand-on project for deep learning on [C
 
 The [beginner friendly course](https://www.coursera.org/specializations/deep-learning) is on Coursera. There are two ways to get full content of courses.
 
- 1. Pay the money. It charge by mon
+ 1. Pay the money. It charge monthly and you can finish in 1 month.
+ 2. Apply for financial aid. It might take an month to get approved. If you are a student, you probably get approved. 
+
+Make sure to understand every line for the fi
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -95,8 +98,8 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MTY1ODI5LC0xNDA5MzI4NDg3LDUyNz
-EyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIw
-LC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
-U3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbMTQ0MzY5NjkzMSwtMTQwOTMyODQ4Nyw1Mj
+cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
+MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
+k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
