@@ -75,17 +75,17 @@ The [beginner friendly course](https://www.coursera.org/specializations/deep-lea
 
 Make sure to understand every line for the chapter final project. It's too easy to cheat yourself on this. Don't try to get certification as fast as you can. **Please Don't do it**.
 
-I have no idea about pytorch. Keras and tensorflow have well documented API. I suggest to understand the [example provided by tensorflow.
+I have no idea about pytorch. Keras and tensorflow have well documented API. I suggest to understand the [example](https://github.com/tensorflow/tensorflow/tree/r1.11/tensorflow/contrib/eager/python/examples) provided by tensorflow. 
+
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
 
 
-## Deep learning
 
 # How to apply job
 ## Resume 
-There's very very common issue is that  **Do I have perfect resume?**. I don't think there's one legendary principle can help us build perfect resume. Just like we don't think there's perfect girl(boy) in the world. It vary by company system. However we are data scientist, we can design the A/B test scenario
+There's very very common issue is that  **Do I have perfect resume?**. I don't think there's one legendary principle can help us build perfect resume. Just like we don't think there's perfect girl(boy) in the world. It vary by company system. 
 
 ## Networking v.s. Apply as much as you can
 
@@ -100,8 +100,8 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk4OTM0MzAsLTE0MDkzMjg0ODcsNT
-I3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3
-MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMT
-k5NTc2NDgxMywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbODE1NDQ4MDAxLC0xNDA5MzI4NDg3LDUyNz
+EyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIw
+LC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
+U3NjQ4MTMsLTgyNzY4Njc3M119
 -->
