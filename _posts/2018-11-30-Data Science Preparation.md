@@ -100,9 +100,9 @@ There's are few general types for  interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 ## Phone interview 
-It's mo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDM2Mzk3NSwtMTQwOTMyODQ4Nyw1Mj
+eyJoaXN0b3J5IjpbLTUzMDU4OTk1MCwtMTQwOTMyODQ4Nyw1Mj
 cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
 MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
 k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
