@@ -75,7 +75,7 @@ The [beginner friendly course](https://www.coursera.org/specializations/deep-lea
 
 Make sure to understand every line for the chapter final project. It's too easy to cheat yourself on this. Don't try to get certification as fast as you can. **Please Don't do it**.
 
-I have no idea about pytorch. Keras and tensorflow have well documented API. I suggest to understand the example provided by tensorflow.
+I have no idea about pytorch. Keras and tensorflow have well documented API. I suggest to understand the [example provided by tensorflow.
 
 ## DS question
 I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
@@ -100,8 +100,8 @@ There's are few general type interview.
 4. On-site( I can't tell, since I haven't being the on-site).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODQ4NDczLC0xNDA5MzI4NDg3LDUyNz
-EyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIw
-LC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
-U3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbLTExNjk4OTM0MzAsLTE0MDkzMjg0ODcsNT
+I3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5LC0zOTQyNDE3
+MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMjM5OTY0MjcsMT
+k5NTc2NDgxMywtODI3Njg2NzczXX0=
 -->
