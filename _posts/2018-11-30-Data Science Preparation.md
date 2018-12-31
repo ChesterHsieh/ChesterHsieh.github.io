@@ -87,21 +87,23 @@ I spend ton of times to crack the DS questions. It's series trial and errors. Ho
 ## Resume 
 There's very very common issue is that  **Do I have perfect resume?**. I don't think there's one legendary principle can help us build perfect resume. Just like we don't think there's perfect girl(boy) in the world. It vary by company system. 
 
-## Networking v.s. Apply as much as you can
-
 ![](https://cdn-images-1.medium.com/max/1600/1*gBLsSYp3M9gYhsgprRHVww.jpeg)
-We all know networking is very important.
+
+## Networking v.s. Apply as much as you can
+We all know networking is very important. 
 
 # Interview 
-There's are few general type interview.
+There's are few general types for  interview.
 1. Phone interview
 2. Online assessment
 3. Machine learning case study
 4. On-site( I can't tell, since I haven't being the on-site).
 
+## Phone interview 
+It's mo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NDQ4MDAxLC0xNDA5MzI4NDg3LDUyNz
-EyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIw
-LC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OT
-U3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbMTI0MDM2Mzk3NSwtMTQwOTMyODQ4Nyw1Mj
+cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
+MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
+k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
