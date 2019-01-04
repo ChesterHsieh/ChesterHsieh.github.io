@@ -3,7 +3,10 @@ It's black magic when you try to scrape with API. Every limitations on server yo
 
 
 ## Rough Idea 
-  
+
+
+
+# Class inherit   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDE2Njk4MiwxNzk4MzQ5OTc2XX0=
+eyJoaXN0b3J5IjpbMzEwNTQ4Nzc0LDE3OTgzNDk5NzZdfQ==
 -->
