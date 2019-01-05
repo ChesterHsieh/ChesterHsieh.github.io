@@ -19,7 +19,12 @@
 所有的真理乃至於秩序，都是人類想像出來的結果。不存在神也不存在天生存在的自然律。這些東西都是一種信仰，需要耗費大量的資源去維持。
 
 然而這樣的觀點並非批判所有虛構的事實。事實上我們的生存必須仰賴這樣的信仰。個人主義，資本主義，
+
+浪漫的消費主義。以及我們想打造怎樣的金字塔？？
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTQ1MjM0MCw3MDY0NzI3MjMsLTIwMD
+eyJoaXN0b3J5IjpbMTk2MDIzMTUxNCw3MDY0NzI3MjMsLTIwMD
 I5OTAyODQsMTcxMTkzNDk3MywyMDkzOTk3ODE4XX0=
 -->
