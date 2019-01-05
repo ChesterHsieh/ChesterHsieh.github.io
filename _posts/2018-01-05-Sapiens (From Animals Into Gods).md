@@ -6,7 +6,10 @@
 
 這就是認知革命
 
-# df
+# 雅當和夏娃
+
+從進化和歷史證據去解釋現代人一些固有的悲劇故事（惡習），我指的是必須去持續對抗的陰暗面。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTkzNDk3MywyMDkzOTk3ODE4XX0=
+eyJoaXN0b3J5IjpbLTIwMDI5OTAyODQsMTcxMTkzNDk3MywyMD
+kzOTk3ODE4XX0=
 -->
