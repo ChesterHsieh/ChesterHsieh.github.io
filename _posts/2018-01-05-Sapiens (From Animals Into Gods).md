@@ -13,8 +13,11 @@
 ＷＯＷ
 遠古公社 
 
+# 築起監獄的高牆
+這一段相當有意思，感覺得出來他師承槍砲病菌與文明。某種程度上很討我喜歡的唯物史觀。
 
+所有的真理乃至於秩序，都是人類想像出來的結ㄍㄨㄛ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NDcyNzIzLC0yMDAyOTkwMjg0LDE3MT
-E5MzQ5NzMsMjA5Mzk5NzgxOF19
+eyJoaXN0b3J5IjpbNjE2OTkyOTgxLDcwNjQ3MjcyMywtMjAwMj
+k5MDI4NCwxNzExOTM0OTczLDIwOTM5OTc4MThdfQ==
 -->
