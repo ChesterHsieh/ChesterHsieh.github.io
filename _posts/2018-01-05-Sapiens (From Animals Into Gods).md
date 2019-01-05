@@ -2,7 +2,7 @@
 集體的想像力 構築了事實
 探究本質上的 公司國家錢 都是一種集體的想像力
 
-所謂的ㄧ
+我常常掛在口上的現實 其實大部分都是一種集體想像。如同責任有限公司，為何可以成為一個法人
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjI3NDgyMF19
+eyJoaXN0b3J5IjpbMjA5Mzk5NzgxOF19
 -->
