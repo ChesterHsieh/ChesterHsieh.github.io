@@ -1,10 +1,12 @@
-＃書摘
+# 書摘
 集體的想像力 構築了事實
 探究本質上的 公司國家錢 都是一種集體的想像力
 
 我常常掛在口上的現實 其實大部分都是一種集體想像。如同責任有限公司，為何可以成為一個法人。 正是這樣的想像力才能建構出超大型組織，超越其他的人種主宰這個世界。
 
+這就是認知革命
 
+# df
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODczNjM1OSwyMDkzOTk3ODE4XX0=
+eyJoaXN0b3J5IjpbMTcxMTkzNDk3MywyMDkzOTk3ODE4XX0=
 -->
