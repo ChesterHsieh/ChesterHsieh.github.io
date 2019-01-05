@@ -16,8 +16,8 @@
 # 築起監獄的高牆
 這一段相當有意思，感覺得出來他師承槍砲病菌與文明。某種程度上很討我喜歡的唯物史觀。
 
-所有的真理乃至於秩序，都是人類想像出來的結ㄍㄨㄛ
+所有的真理乃至於秩序，都是人類想像出來的結果。不存在神也不存在天生存在的自然律。這些東西都是一種信仰，需要耗費大量的資源去維持。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2OTkyOTgxLDcwNjQ3MjcyMywtMjAwMj
-k5MDI4NCwxNzExOTM0OTczLDIwOTM5OTc4MThdfQ==
+eyJoaXN0b3J5IjpbMTI0MDA5MDIyNyw3MDY0NzI3MjMsLTIwMD
+I5OTAyODQsMTcxMTkzNDk3MywyMDkzOTk3ODE4XX0=
 -->
