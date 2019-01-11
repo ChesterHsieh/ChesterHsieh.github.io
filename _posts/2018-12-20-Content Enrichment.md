@@ -39,7 +39,8 @@ What's 2 different Tasks??
 ## Example
 If user search google home hub with google smart hub, there are 3 stage we can retrieve the result. 
  1. Identify smart as product name(part of product name)
- 2. Refer user behavior to build synonyms connection bew
+ 2. Refer user behavior to build synonyms connection between 2 differ phrase
+ 3. Upload new phase as new value.
 
 ## Keyword Analysis
 - Add attributes on system
@@ -70,7 +71,7 @@ If user search google home hub with google smart hub, there are 3 stage we can r
 ## SSH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjMxMDQ5MywtMTc0NjA5MjcxNiwtMT
+eyJoaXN0b3J5IjpbMTA0NjQxMzIyNCwtMTc0NjA5MjcxNiwtMT
 A5NzI3NzU4OSwxMzc5Nzg2MjksMTIwMjczMjU1NCw2MTc2NTcz
 NDEsMTU3NDkwNDU4MCwxMTYxNDAyMDAyLC0xOTkyOTA1MzU5LC
 0xOTI5NzU0MjU3LDE1NDQyMjI1NzMsLTkwODU5MzM2Myw5ODMx
