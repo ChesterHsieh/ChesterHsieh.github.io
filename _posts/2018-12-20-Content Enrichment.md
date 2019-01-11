@@ -34,10 +34,11 @@ What's 2 different Tasks??
 ----------------------
 # Task bull point
 ## Keyword Analysis
-- Tf-idf score 
-	Use tf-idf to analysis the corpus and extract keyword. There are 2 millions dataset. To finish this part, it might take 
+- Add attributes on system
 
-
+# Solr 
+## comment
+## pysolr
 
 # Method
 ## Possible solution options
@@ -60,9 +61,8 @@ What's 2 different Tasks??
 # Relevant Knowledge
 ## SSH
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA3ODI1NjYsLTEwOTcyNzc1ODksMT
+eyJoaXN0b3J5IjpbLTE3NDYwOTI3MTYsLTEwOTcyNzc1ODksMT
 M3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3MzQxLDE1NzQ5MDQ1
 ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OSwtMTkyOTc1NDI1Ny
 wxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2OTg3LDU4NjM0
