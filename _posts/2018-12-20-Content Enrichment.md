@@ -32,7 +32,11 @@ What's 2 different Tasks??
 1.
 2.
 ----------------------
-# Task bull point
+# Problem statement
+-  Unmatched query
+-  Add more content for search engine
+- Labeling new content(unforeseen content) for Knowledge graph
+- 
 ## Keyword Analysis
 - Add attributes on system
 
@@ -62,10 +66,10 @@ What's 2 different Tasks??
 ## SSH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYwOTI3MTYsLTEwOTcyNzc1ODksMT
-M3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3MzQxLDE1NzQ5MDQ1
-ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OSwtMTkyOTc1NDI1Ny
-wxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2OTg3LDU4NjM0
-OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NT
-gsLTE1MjQwMTYwMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwNTg0OTMxOTksLTE3NDYwOTI3MTYsLT
+EwOTcyNzc1ODksMTM3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3
+MzQxLDE1NzQ5MDQ1ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OS
+wtMTkyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgz
+MTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMz
+csLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
 -->
