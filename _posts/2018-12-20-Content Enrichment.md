@@ -1,15 +1,4 @@
-11﻿---
-layout:     post
-title:      What's Content enrichment
-subtitle:   From beginning to quit( Just kidding)
-date:       2018-11-30
-author:    Chester
-header-img: img/failure.jpg
-catalog: true
-tags:
-    - NLP
-    
-11---
+
 # Intro
 Search Engine has many different features and design can actually improve user experience. Either to improve findabilty or 
 
@@ -73,10 +62,10 @@ What's 2 different Tasks??
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcyNzc1ODksMTM3OTc4NjI5LDEyMD
-I3MzI1NTQsNjE3NjU3MzQxLDE1NzQ5MDQ1ODAsMTE2MTQwMjAw
-MiwtMTk5MjkwNTM1OSwtMTkyOTc1NDI1NywxNTQ0MjIyNTczLC
-05MDg1OTMzNjMsOTgzMTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1
-NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NTgsLTE1MjQwMTYwMD
-BdfQ==
+eyJoaXN0b3J5IjpbLTE1NTA3ODI1NjYsLTEwOTcyNzc1ODksMT
+M3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3MzQxLDE1NzQ5MDQ1
+ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OSwtMTkyOTc1NDI1Ny
+wxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgzMTc2OTg3LDU4NjM0
+OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMzcsLTE0NzY4MDM3NT
+gsLTE1MjQwMTYwMDBdfQ==
 -->
