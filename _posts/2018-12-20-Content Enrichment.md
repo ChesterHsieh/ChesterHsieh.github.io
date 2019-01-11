@@ -38,7 +38,8 @@ What's 2 different Tasks??
  3. Labeling new content(unforeseen content) for Knowledge graph
 ## Example
 If user search google home hub with google smart hub, there are 3 stage we can retrieve the result. 
- 4. List item
+ 1. Identify smart as product name(part of product name)
+ 2. Refer user behavior to build synonyms connection bew
 
 ## Keyword Analysis
 - Add attributes on system
@@ -69,10 +70,10 @@ If user search google home hub with google smart hub, there are 3 stage we can r
 ## SSH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1NjIzNDUsLTE3NDYwOTI3MTYsLT
-EwOTcyNzc1ODksMTM3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3
-MzQxLDE1NzQ5MDQ1ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OS
-wtMTkyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgz
-MTc2OTg3LDU4NjM0OTI2MCwtNzk4NTI1NjEzLDE1MDk2NzUwMz
-csLTE0NzY4MDM3NTgsLTE1MjQwMTYwMDBdfQ==
+eyJoaXN0b3J5IjpbMTY5NjMxMDQ5MywtMTc0NjA5MjcxNiwtMT
+A5NzI3NzU4OSwxMzc5Nzg2MjksMTIwMjczMjU1NCw2MTc2NTcz
+NDEsMTU3NDkwNDU4MCwxMTYxNDAyMDAyLC0xOTkyOTA1MzU5LC
+0xOTI5NzU0MjU3LDE1NDQyMjI1NzMsLTkwODU5MzM2Myw5ODMx
+NzY5ODcsNTg2MzQ5MjYwLC03OTg1MjU2MTMsMTUwOTY3NTAzNy
+wtMTQ3NjgwMzc1OCwtMTUyNDAxNjAwMF19
 -->
