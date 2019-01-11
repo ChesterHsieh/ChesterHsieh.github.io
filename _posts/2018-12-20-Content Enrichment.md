@@ -33,10 +33,13 @@ What's 2 different Tasks??
 2.
 ----------------------
 # Problem statement
--  Unmatched query
--  Add more content for search engine
-- Labeling new content(unforeseen content) for Knowledge graph
-- 
+ 1.  Unmatched query
+ 2.  Add more content for search engine
+ 3. Labeling new content(unforeseen content) for Knowledge graph
+## Example
+If user search google home hub with google smart hub, there are 3 stage we can retrieve the result. 
+ 4. List item
+
 ## Keyword Analysis
 - Add attributes on system
 
@@ -66,7 +69,7 @@ What's 2 different Tasks??
 ## SSH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg0OTMxOTksLTE3NDYwOTI3MTYsLT
+eyJoaXN0b3J5IjpbLTEzMzg1NjIzNDUsLTE3NDYwOTI3MTYsLT
 EwOTcyNzc1ODksMTM3OTc4NjI5LDEyMDI3MzI1NTQsNjE3NjU3
 MzQxLDE1NzQ5MDQ1ODAsMTE2MTQwMjAwMiwtMTk5MjkwNTM1OS
 wtMTkyOTc1NDI1NywxNTQ0MjIyNTczLC05MDg1OTMzNjMsOTgz
