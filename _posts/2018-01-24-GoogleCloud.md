@@ -7,6 +7,9 @@ You need to batch process the big data. One easy solution is to use spark. As da
 
 
 # Spark 
+## Initial setting
+N
+
 ```python
 spark = SparkSession \  
     .builder \  
@@ -16,7 +19,7 @@ spark = SparkSession \
     .config('spark.driver.maxResultSize', '0') \  
     .getOrCreate()
 ```
-# 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEzNzQ2MTQsLTUwODU1MjQwMF19
+eyJoaXN0b3J5IjpbLTY5MTcyNjYyOSwtNTA4NTUyNDAwXX0=
 -->
