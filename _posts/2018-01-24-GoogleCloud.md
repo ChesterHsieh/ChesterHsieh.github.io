@@ -8,8 +8,9 @@ You need to batch process the big data. One easy solution is to use spark. As da
 
 # Spark 
 ## Initial setting
-N
+The process to ask resource from computer. Here's two example for **Local** and **Cluster**
 
+For the Local:
 ```python
 spark = SparkSession \  
     .builder \  
@@ -19,7 +20,8 @@ spark = SparkSession \
     .config('spark.driver.maxResultSize', '0') \  
     .getOrCreate()
 ```
+You might wonder why 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTcyNjYyOSwtNTA4NTUyNDAwXX0=
+eyJoaXN0b3J5IjpbLTE1NTgzNTU2MDksLTUwODU1MjQwMF19
 -->
