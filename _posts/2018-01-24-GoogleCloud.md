@@ -22,8 +22,11 @@ spark = SparkSession \
 ```
 You might wonder why we need to put spark on Local. Two reason I'm doing this:
 1. Unit test for partial function. It's still easier to debug at local computer. You can shutdown anytime and without overhead. 
-2. If you read the file b
+2. If you read the file bigger than ram size. Using pandas with chunk is one way, using spark is other way to explore the data set. Moreover, you'll need to put in cloud and deal with big data in production. 
+
+For the cluster 
+```pyth
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzY3OTQ1NiwtNTA4NTUyNDAwXX0=
+eyJoaXN0b3J5IjpbLTUzMDkwMTYyMywtNTA4NTUyNDAwXX0=
 -->
