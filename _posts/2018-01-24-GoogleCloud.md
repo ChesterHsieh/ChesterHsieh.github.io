@@ -10,7 +10,8 @@ To create the cluster
 
 - cluster name
 - --initialization-action 
-	put .sh fille
+	put .sh file path in bucket
+	
 
 
 ## Send the job
@@ -56,7 +57,7 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjc4ODQ0NCwxNjc1MjQ5OTgxLC0xND
+eyJoaXN0b3J5IjpbMTU3OTY4NzY2NiwxNjc1MjQ5OTgxLC0xND
 I0MDI0NDIxLC0xODEzMDg3Mzg5LDEyNTg1NjEyMjQsLTUwODU1
 MjQwMF19
 -->
