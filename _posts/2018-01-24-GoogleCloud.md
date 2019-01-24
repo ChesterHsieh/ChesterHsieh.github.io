@@ -43,7 +43,16 @@ spark = SparkSession \
     .getOrCreate()
 ```
 
+## Why?
+### Why use cache?
+
+### Why use repartition?
+
+Hi. I am not sure if repartition is needed everywhere. I hoped that Spark is clever enough to do it itself.
+When some failure is reproducible only at cluster and each retry takes 2 hours you probably do something redundant to avoid failure.
+Job was failing a lot because of not enough memory.
+Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQwMjQ0MjEsLTE4MTMwODczODksMT
-I1ODU2MTIyNCwtNTA4NTUyNDAwXX0=
+eyJoaXN0b3J5IjpbMTY3NTI0OTk4MSwtMTQyNDAyNDQyMSwtMT
+gxMzA4NzM4OSwxMjU4NTYxMjI0LC01MDg1NTI0MDBdfQ==
 -->
