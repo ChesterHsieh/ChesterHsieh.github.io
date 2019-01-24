@@ -4,7 +4,9 @@ You need to batch process the big data. One easy solution is to use spark. As da
 # Dataproc
 **Dataproc** is the friendly cluster environment provided by google cloud service. 
 ## init the cluster
+;asdkfj;
 ## Send the job
+ 
 
 
 # Spark 
@@ -37,5 +39,6 @@ spark = SparkSession \
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODU2MTIyNCwtNTA4NTUyNDAwXX0=
+eyJoaXN0b3J5IjpbLTE4MTMwODczODksMTI1ODU2MTIyNCwtNT
+A4NTUyNDAwXX0=
 -->
