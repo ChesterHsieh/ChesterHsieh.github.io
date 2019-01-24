@@ -20,8 +20,10 @@ spark = SparkSession \
     .config('spark.driver.maxResultSize', '0') \  
     .getOrCreate()
 ```
-You might wonder why 
+You might wonder why we need to put spark on Local. Two reason I'm doing this:
+1. Unit test for partial function. It's still easier to debug at local computer. You can shutdown anytime and without overhead. 
+2. If you read the file b
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgzNTU2MDksLTUwODU1MjQwMF19
+eyJoaXN0b3J5IjpbLTg2NzY3OTQ1NiwtNTA4NTUyNDAwXX0=
 -->
