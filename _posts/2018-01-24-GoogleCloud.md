@@ -6,8 +6,11 @@ You need to batch process the big data. One easy solution is to use spark. As da
 ## init the cluster
 To create the cluster 
 
-    gcloud dataproc clusters create cluster-to-process-terms-to-products-9 --region us-east1 --num-workers 4 --master-machine-type n1-standard-8 --project hd-srch-dev --tags=dataproc,all-bastion-ssh,solr,zookeeper,zkhost --subnet backend-us-east1-subnet --zone us-east1-b
+    gcloud dataproc clusters create userbehavior-tagger-serch --region us-east1 --num-workers 4 --master-machine-type n1-standard-8 --project hd-srch-dev --tags=dataproc,all-bastion-ssh,solr,zookeeper,zkhost --subnet backend-us-east1-subnet --zone us-east1-b --initialization-actions gs://cxh89s9-tagger-experiment/ss_init_env.sh
 
+- cluster name
+- --initialization-action 
+	put .sh fille
 
 
 ## Send the job
@@ -53,6 +56,7 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTI0OTk4MSwtMTQyNDAyNDQyMSwtMT
-gxMzA4NzM4OSwxMjU4NTYxMjI0LC01MDg1NTI0MDBdfQ==
+eyJoaXN0b3J5IjpbMTk0Mjc4ODQ0NCwxNjc1MjQ5OTgxLC0xND
+I0MDI0NDIxLC0xODEzMDg3Mzg5LDEyNTg1NjEyMjQsLTUwODU1
+MjQwMF19
 -->
