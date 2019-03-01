@@ -18,6 +18,10 @@ One pharse might include many uselss content. Entity is the part actually we nee
 
 # Voice serach engine
 [Grid dynamics voice search product](https://blog.griddynamics.com/grid-genie-the-beginning-of-conversational-commerce/)
+
+# Agent assist
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5MTUyMywtNzM1MDAzMTI4XX0=
+eyJoaXN0b3J5IjpbLTE4MDEwNjYxMDYsLTExNzY5MTUyMywtNz
+M1MDAzMTI4XX0=
 -->
