@@ -15,6 +15,9 @@ One pharse might include many uselss content. Entity is the part actually we nee
 # Possible technique will apply?
 ## Classifier-issue
 
+
+# Voice serach engine
+[Grid dynamics voice search product](https://blog.griddynamics.com/grid-genie-the-beginning-of-conversational-commerce/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTAwMzEyOF19
+eyJoaXN0b3J5IjpbLTExNzY5MTUyMywtNzM1MDAzMTI4XX0=
 -->
