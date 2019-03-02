@@ -83,6 +83,8 @@ For lot of small taks on building chatbot, the classifer problem is more common 
  1. Upsampling/Down sampling
  2. Change the weight 
 
+##
+
 # Deeplearning !?
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
 
@@ -95,13 +97,17 @@ sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
 ### Gradiaent descent
 Adam ..SGD,,
-### Backward propagation
+### Overfitting
+batch normalization, dropout, 
+
 ### Hyper parameter
 They are tons of parameter. Not gonna to list it all. 
 - Learning rate
 - 
 ## Building process
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
+### Backward propagation
+
 
 ## Real Case problme
 ### T-series problem
@@ -133,10 +139,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI5MzM2OTQsLTEyNjkxNzg0NzEsNT
-E2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcw
-Nzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOS
-wzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4
-ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MC
-w0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbMTMxODg4NzY2LC0xMjY5MTc4NDcxLDUxNj
+YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
+NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
+E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
+NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNzk2ODkyOTAsND
+EyMjk4Nzc5XX0=
 -->
