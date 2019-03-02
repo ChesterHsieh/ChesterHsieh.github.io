@@ -73,6 +73,8 @@ Wait to answer :P
  3. Edit Distance
 ## What is beam search?
 
+# Classifer problem
+For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is re
 # Deeplearning !?
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
 ## All the bricks 
@@ -111,7 +113,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTgwMDg0MiwtMTI2OTE3ODQ3MSw1MT
+eyJoaXN0b3J5IjpbMTA2NzQ1NDE0MCwtMTI2OTE3ODQ3MSw1MT
 Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
 ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
 MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
