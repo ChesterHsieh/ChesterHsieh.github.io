@@ -73,6 +73,10 @@ Wait to answer :P
  3. Edit Distance
 ## What is beam search?
 
+# Deeplearning !?
+Collect most common problem here
+## Deep learning very basic type?
+MLP, 
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -93,9 +97,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNz
-Q5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2
-NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NT
-I4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2
-NTYyLDE3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNT
+M2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5
+NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLT
+U2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcw
+NTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MCw0MTIyOTg3NzldfQ
+==
 -->
