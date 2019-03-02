@@ -76,7 +76,10 @@ Wait to answer :P
 # Deeplearning !?
 Collect most common problem here
 ## Deep learning very basic type?
-MLP, 
+MLP, Boltzman machine, 
+## Activation machine
+##
+sigmo
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -97,10 +100,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNT
-M2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5
-NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLT
-U2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcw
-NTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MCw0MTIyOTg3NzldfQ
-==
+eyJoaXN0b3J5IjpbODE3NTk3NjA1LC0xMjY5MTc4NDcxLDUxNj
+YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
+NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
+E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
+NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNzk2ODkyOTAsND
+EyMjk4Nzc5XX0=
 -->
