@@ -74,12 +74,13 @@ Wait to answer :P
 ## What is beam search?
 
 # Deeplearning !?
-Collect most common problem here
-## Deep learning very basic type?
+## All the brci
+### Deep learning very basic type?
 MLP, Boltzman machine, 
-## Activation machine
-##
-sigmo
+### Activation machine
+sigmoid, Relu, Step, Tanh,
+### Cost function
+
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -100,7 +101,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NTk3NjA1LC0xMjY5MTc4NDcxLDUxNj
+eyJoaXN0b3J5IjpbMjMyNTgwMjI2LC0xMjY5MTc4NDcxLDUxNj
 YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
 NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
 E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
