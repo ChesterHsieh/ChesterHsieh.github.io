@@ -13,22 +13,26 @@ tags:
 
 ---
 
-## Introduction
+# Introduction
 This post is series of Tensorflow exploring. It's personal study note. I assume reader should have basic idea about how deep learning works. 
+## Tensorflow Basics
+### Tensor rank
+scaler => 0 rank
+image = > 2 rank
+text => 
 
-
-## Embedded
+# Embedded
 #### embedding_lookup
 
-## LSTMCell
+# LSTMCell
 
 
-## Some nn 
+# Some nn 
 
 
 
 
-## Key knowledge
+# Key knowledge
  - stepwise_cross_entropy
  - AdamOptimizer
 
@@ -38,7 +42,8 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODg5NTQ0MywxMTU0OTk4NzMzLDQ2NT
-QxMDQ0MSwtOTUzOTQ1NzMzLC0xMzEzOTQ2NjUzLDEyMDkzMTM3
-NTksMTA5NDUwNjg0Miw2NDE3NjIyMjIsLTY3NjEzMDQ4NV19
+eyJoaXN0b3J5IjpbLTQyMjI1NTM4MSwtNDk4ODk1NDQzLDExNT
+Q5OTg3MzMsNDY1NDEwNDQxLC05NTM5NDU3MzMsLTEzMTM5NDY2
+NTMsMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MTc2MjIyMiwtNj
+c2MTMwNDg1XX0=
 -->
