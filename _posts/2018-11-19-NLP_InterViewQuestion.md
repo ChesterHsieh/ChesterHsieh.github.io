@@ -112,7 +112,8 @@ Tensorflow is the the only library I've used so far.( I assume the keras as part
 ### Backward propagation
 
 ## Tricky Question
-
+### Greadient Vanishing & exploding
+### Epoch & batch & iteration
 
 ## Real Case problme
 ### T-series problem
@@ -144,7 +145,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODU3NjA4NCwtMTI2OTE3ODQ3MSw1MT
+eyJoaXN0b3J5IjpbMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MT
 Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
 ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
 MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
