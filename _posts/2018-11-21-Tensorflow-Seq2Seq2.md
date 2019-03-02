@@ -20,6 +20,14 @@ This post is series of Tensorflow exploring. It's personal study note. I assume 
 scaler => 0 rank
 image = > 2 rank
 text => 
+### Data type
+### Graph 
+build the computational graph. 
+It's unlikely general function work. 
+- build graph
+- build session
+- run
+### 
 
 # Embedded
 #### embedding_lookup
@@ -42,7 +50,7 @@ text =>
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjI1NTM4MSwtNDk4ODk1NDQzLDExNT
+eyJoaXN0b3J5IjpbMTIxNjk0NjQwOCwtNDk4ODk1NDQzLDExNT
 Q5OTg3MzMsNDY1NDEwNDQxLC05NTM5NDU3MzMsLTEzMTM5NDY2
 NTMsMTIwOTMxMzc1OSwxMDk0NTA2ODQyLDY0MTc2MjIyMiwtNj
 c2MTMwNDg1XX0=
