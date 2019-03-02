@@ -74,13 +74,16 @@ Wait to answer :P
 ## What is beam search?
 
 # Deeplearning !?
-## All the brci
+Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
+## All the bricks 
 ### Deep learning very basic type?
 MLP, Boltzman machine, 
 ### Activation machine
 sigmoid, Relu, Step, Tanh,
 ### Cost function
 
+
+# Ad
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -101,10 +104,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNTgwMjI2LC0xMjY5MTc4NDcxLDUxNj
-YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
-NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
-E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
-NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNzk2ODkyOTAsND
-EyMjk4Nzc5XX0=
+eyJoaXN0b3J5IjpbMTUyMzUxMDc0NiwtMTI2OTE3ODQ3MSw1MT
+Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
+ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
+MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
+Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5MjkwLD
+QxMjI5ODc3OV19
 -->
