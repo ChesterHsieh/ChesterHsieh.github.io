@@ -67,6 +67,8 @@ Wait to answer :P
 ## How would you design a model to predict whether a movie review was positive or negative?
 Wait to answer :P
 
+
+
 ## How to implement flexible text matching
  1. Soundex 
  2. Metaphone
@@ -89,7 +91,10 @@ sigmoid, Relu, Step, Tanh, softmax
 ### Gradiaent descent
 Adam ..SGD,,
 ### Backward propagation
-###
+### Hyper parameter
+They are tons of parameter. Not gonna to list it all. 
+- Learning rate
+- 
 ## Building process
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 
@@ -123,7 +128,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ0MTY2ODQsLTEyNjkxNzg0NzEsNT
+eyJoaXN0b3J5IjpbLTE2NTUxNTE4NzQsLTEyNjkxNzg0NzEsNT
 E2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcw
 Nzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOS
 wzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4
