@@ -78,8 +78,8 @@ Wait to answer :P
 # Classifer problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
 ## cost function
-softmax_cross_entropy_with_logits,
-
+- softmax_cross_entropy_with_logits,
+- tf.nn.weighted_cross_entropy_with_logits
 
 ## Imblanced training data?
 
@@ -150,11 +150,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDg3MzY2LDQ5ODA4MzMzNSwtODkxMD
-I0NTM0LC0zMTk4MzM3NywxNzM0ODAwNDEyLC0xMjY5MTc4NDcx
-LDUxNjYxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3Nz
-E3MDc4NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYz
-MDksMzE0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OT
-QyODg3NzgsLTEwMDA3MDU3MDYsMTQ5MDQxNjU2MiwxNzk2ODky
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MD
+gzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MTIs
+LTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNz
+Q5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2
+NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NT
+I4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2
+NTYyXX0=
 -->
