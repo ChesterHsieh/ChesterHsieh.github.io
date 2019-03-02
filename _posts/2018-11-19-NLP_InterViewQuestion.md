@@ -84,7 +84,7 @@ Try to list better structure to formula an MECE list to cover most topic I expec
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
 MLP, Boltzman machine, CNN,RNN,GAN,.
 ### Activation machine
-sigmoid, Relu, Step, Tanh,
+sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
 ### Gradiaent descent
 Adam ..SGD,,
@@ -93,6 +93,10 @@ Adam ..SGD,,
 ## Building process
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 
+## Real Case problme
+### T-series problem
+### Caption ball in screen
+### I dentitfy 
 
 # Advanced research 
 Sometime we need to excting the interviewer and show them we catch up on the trend. 
@@ -119,7 +123,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc0MTkyOTEsLTEyNjkxNzg0NzEsNT
+eyJoaXN0b3J5IjpbLTEwNjQ0MTY2ODQsLTEyNjkxNzg0NzEsNT
 E2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcw
 Nzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOS
 wzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4
