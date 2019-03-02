@@ -86,6 +86,8 @@ MLP, Boltzman machine,
 ### Activation machine
 sigmoid, Relu, Step, Tanh,
 ### Cost function
+### Gradiaent descent
+Adam ..SGD,,
 ## Building process
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 
@@ -115,7 +117,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MDQ1ODUwLC0xMjY5MTc4NDcxLDUxNj
+eyJoaXN0b3J5IjpbNjc1MDc0ODY1LC0xMjY5MTc4NDcxLDUxNj
 YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
 NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
 E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
