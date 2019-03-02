@@ -91,7 +91,7 @@ Try to list better structure to formula an MECE list to cover most topic I expec
 ## All the bricks 
 ### Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
--MLP, Boltzman machine, CNN,RNN,GAN, LSTM, 
+-MLP, Boltzman machine, CNN,RNN,GAN, LSTM, autoencoder
 -pooling layer, Relu Layer, full connected layer, 
 
 ### Initialize 
@@ -141,15 +141,17 @@ There's are two example using HMM concept.
 -   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
     -   e.g.,  yiyi  is part-of-speech tag at time  i
 
+## bagging & boosting
+
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNj
-kxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUw
-LC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMT
-AwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEz
-OTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLD
-E3OTY4OTI5MCw0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbLTg5MTAyNDUzNCwtMzE5ODMzNzcsMTczND
+gwMDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMzksLTE1MzY1MjI4
+MCw1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMT
+UzNjIwMDY0MSwxMDAzMzY2MzA5LDMxNDkxNjYyOSwtNTYxMzAx
+NTExLDQ1MjgxMTM5NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1NzA2LD
+E0OTA0MTY1NjIsMTc5Njg5MjkwLDQxMjI5ODc3OV19
 -->
