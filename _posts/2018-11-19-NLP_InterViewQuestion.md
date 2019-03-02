@@ -77,6 +77,8 @@ Wait to answer :P
 
 # Classifer problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
+## cost function
+
 
 ## Imblanced training data?
 
@@ -147,7 +149,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0Nzg0MjgwLC04OTEwMjQ1MzQsLTMxOT
+eyJoaXN0b3J5IjpbNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOT
 gzMzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3MDM5
 LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNz
 Y0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2
