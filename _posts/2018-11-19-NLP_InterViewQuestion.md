@@ -78,9 +78,14 @@ Wait to answer :P
 # Classifer problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
 
+## Imblanced training data?
+
+ 1. Upsampling/Down sampling
+ 2. Change the weight 
 
 # Deeplearning !?
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
+
 ## All the bricks 
 ### Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
@@ -128,7 +133,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUxNTE4NzQsLTEyNjkxNzg0NzEsNT
+eyJoaXN0b3J5IjpbLTE4NDI5MzM2OTQsLTEyNjkxNzg0NzEsNT
 E2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcw
 Nzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOS
 wzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4
