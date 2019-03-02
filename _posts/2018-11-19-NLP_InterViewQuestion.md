@@ -102,7 +102,8 @@ sigmoid, Relu, Step, Tanh, softmax
 Adam ..SGD,,
 ### Overfitting
 batch normalization, dropout, 
-
+### tensorflow 
+constant,variable, placeholder, session, 
 ### Hyper parameter
 They are tons of parameter. Not gonna to list it all. 
 - Learning rate
@@ -145,10 +146,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MT
-Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
-ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
-MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
-Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5MjkwLD
-QxMjI5ODc3OV19
+eyJoaXN0b3J5IjpbLTMxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNj
+kxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUw
+LC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMT
+AwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEz
+OTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLD
+E3OTY4OTI5MCw0MTIyOTg3NzldfQ==
 -->
