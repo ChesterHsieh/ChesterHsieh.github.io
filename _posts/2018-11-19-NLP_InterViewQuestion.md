@@ -91,10 +91,9 @@ Try to list better structure to formula an MECE list to cover most topic I expec
 ## All the bricks 
 ### Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
-MLP, Boltzman machine, CNN,RNN,GAN,.
+-MLP, Boltzman machine, CNN,RNN,GAN, LSTM, 
+-pooling layer, Relu Layer, full connected layer, 
 
-### Special layer 
-pooling layer
 ### Initialize 
 ### Activation machine
 sigmoid, Relu, Step, Tanh, softmax
@@ -111,6 +110,8 @@ They are tons of parameter. Not gonna to list it all.
 ## Building process
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 ### Backward propagation
+
+## Tricky Question
 
 
 ## Real Case problme
@@ -143,10 +144,10 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4NDc4MjMsLTEyNjkxNzg0NzEsNT
-E2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcw
-Nzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOS
-wzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NTI4MTEzOTYsLTQ5NDI4
-ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2NTYyLDE3OTY4OTI5MC
-w0MTIyOTg3NzldfQ==
+eyJoaXN0b3J5IjpbLTk5ODU3NjA4NCwtMTI2OTE3ODQ3MSw1MT
+Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
+ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
+MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
+Nzc4LC0xMDAwNzA1NzA2LDE0OTA0MTY1NjIsMTc5Njg5MjkwLD
+QxMjI5ODc3OV19
 -->
