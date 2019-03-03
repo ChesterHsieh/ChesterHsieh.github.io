@@ -85,6 +85,7 @@ For lot of small taks on building chatbot, the classifer problem is more common 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
  1. Over sampling /Down sampling /Mixtur / SMOTE
  2.  Ensamble algorithm=> bagging/boosting
+ 3.  Weighting change. 
 
 ##
 
@@ -150,11 +151,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTQyMjI0NywxOTkwMzI4MTIwLDE1MD
-kzODQ0MTAsLTMyNDg3MzY2LDQ5ODA4MzMzNSwtODkxMDI0NTM0
-LC0zMTk4MzM3NywxNzM0ODAwNDEyLC0xMjY5MTc4NDcxLDUxNj
-YxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1MCwtMTI3NzE3MDc4
-NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLDEwMDMzNjYzMDksMz
-E0OTE2NjI5LC01NjEzMDE1MTEsNDUyODExMzk2LC00OTQyODg3
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNT
+A5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUz
+NCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MT
+Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
+ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
+MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
+Nzc4XX0=
 -->
