@@ -95,9 +95,9 @@ Try to list better structure to formula an MECE list to cover most topic I expec
 ## All the bricks 
 ### Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
--MLP, Boltzman machine, CNN,RNN,GAN, LSTM, autoencoder
--pooling layer, Relu Layer, full connected layer, 
-
+- MLP, Boltzman machine, CNN,RNN,GAN, LSTM, autoencoder
+- pooling layer, Relu Layer, full connected layer, 
+- BatchNormalization
 ### Initialize 
 ### Activation machine
 sigmoid, Relu, Step, Tanh, softmax
@@ -151,11 +151,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjIwNzMxMCwtMTQ5ODYwNDI0MiwxOT
-kwMzI4MTIwLDE1MDkzODQ0MTAsLTMyNDg3MzY2LDQ5ODA4MzMz
-NSwtODkxMDI0NTM0LC0zMTk4MzM3NywxNzM0ODAwNDEyLC0xMj
-Y5MTc4NDcxLDUxNjYxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1
-MCwtMTI3NzE3MDc4NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLD
-EwMDMzNjYzMDksMzE0OTE2NjI5LC01NjEzMDE1MTEsNDUyODEx
-Mzk2XX0=
+eyJoaXN0b3J5IjpbMTc3MjY4ODIzMiwxOTAyMjA3MzEwLC0xND
+k4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMCwtMzI0ODcz
+NjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3Mz
+Q4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIy
+ODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLT
+E1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMw
+MTUxMV19
 -->
