@@ -82,7 +82,7 @@ For lot of small taks on building chatbot, the classifer problem is more common 
 - tf.nn.weighted_cross_entropy_with_logits
 
 ## Imblanced training data?
-
+[How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
  1. Upsampling/Down sampling
  2. Change the weight 
 
@@ -150,11 +150,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MD
-gzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MTIs
-LTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNz
-Q5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2
-NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMwMTUxMSw0NT
-I4MTEzOTYsLTQ5NDI4ODc3OCwtMTAwMDcwNTcwNiwxNDkwNDE2
-NTYyXX0=
+eyJoaXN0b3J5IjpbMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMj
+Q4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5ODMzNzcs
+MTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMzksLTE1Mz
+Y1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3NjQ4Mzk2
+OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LDMxNDkxNjYyOSwtNT
+YxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4Nzc4LC0xMDAwNzA1
+NzA2XX0=
 -->
