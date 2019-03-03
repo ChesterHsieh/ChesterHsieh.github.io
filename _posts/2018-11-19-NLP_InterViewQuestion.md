@@ -146,16 +146,27 @@ There's are two example using HMM concept.
     -   e.g.,  yiyi  is part-of-speech tag at time  i
 
 ## bagging & boosting
+
+
+
+1. filling the empty 
+2. review the old story
+ - SVM
+ - Random forest
+ - Decsion tree
+ - A/B test basic
+ - Index f-1 precision recall
+ - 
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjY4ODIzMiwxOTAyMjA3MzEwLC0xND
-k4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMCwtMzI0ODcz
-NjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3Mz
-Q4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIy
-ODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLT
-E1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5MTY2MjksLTU2MTMw
-MTUxMV19
+eyJoaXN0b3J5IjpbLTExMjc4MjQ2NTUsMTc3MjY4ODIzMiwxOT
+AyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4
+NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLT
+MxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3
+MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LD
+IwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5
+MTY2MjldfQ==
 -->
