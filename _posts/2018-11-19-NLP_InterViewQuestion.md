@@ -125,7 +125,7 @@ Tensorflow is the the only library I've used so far.( I assume the keras as part
 ### Caption ball in screen
 ### I dentitfy 
 
-# Advanced research 
+# Advanced Research 
 Sometime we need to excting the interviewer and show them we catch up on the trend. 
 ## Bert
 Google provide another state of art embbed way. 
@@ -151,11 +151,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNT
-A5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUz
-NCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MT
-Y2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3
-ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAzMzY2MzA5LD
-MxNDkxNjYyOSwtNTYxMzAxNTExLDQ1MjgxMTM5NiwtNDk0Mjg4
-Nzc4XX0=
+eyJoaXN0b3J5IjpbMTkwMjIwNzMxMCwtMTQ5ODYwNDI0MiwxOT
+kwMzI4MTIwLDE1MDkzODQ0MTAsLTMyNDg3MzY2LDQ5ODA4MzMz
+NSwtODkxMDI0NTM0LC0zMTk4MzM3NywxNzM0ODAwNDEyLC0xMj
+Y5MTc4NDcxLDUxNjYxNzAzOSwtMTUzNjUyMjgwLDUwMDc0OTI1
+MCwtMTI3NzE3MDc4NiwyMDc2NDgzOTY4LC0xNTM2MjAwNjQxLD
+EwMDMzNjYzMDksMzE0OTE2NjI5LC01NjEzMDE1MTEsNDUyODEx
+Mzk2XX0=
 -->
