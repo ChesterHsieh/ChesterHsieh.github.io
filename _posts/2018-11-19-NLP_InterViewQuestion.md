@@ -156,13 +156,18 @@ There's are two example using HMM concept.
  - Decsion tree
  - A/B test basic
  - Index f-1 precision recall
- - 
+3. language model
+4. RNN family
+ - GRU
+ - LSTM
+5. 
+6. 
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc4MjQ2NTUsMTc3MjY4ODIzMiwxOT
+eyJoaXN0b3J5IjpbLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOT
 AyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4
 NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLT
 MxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3
