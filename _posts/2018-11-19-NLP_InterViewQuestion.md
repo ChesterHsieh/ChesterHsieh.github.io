@@ -162,18 +162,18 @@ There's are two example using HMM concept.
 [Best grpahical explaination](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 	 - GRU
 	 - LSTM
-6. 
+6. Attention model
 7. 
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNz
-cyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MDQyNDIsMTk5MDMy
-ODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLT
-g5MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3
-ODQ3MSw1MTY2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLT
-EyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAz
-MzY2MzA5XX0=
+eyJoaXN0b3J5IjpbLTE1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMT
+IwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2
+MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Ni
+w0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgw
+MDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMzksLTE1MzY1MjI4MC
+w1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMTUz
+NjIwMDY0MV19
 -->
