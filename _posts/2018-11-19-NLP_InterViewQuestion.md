@@ -158,20 +158,21 @@ There's are two example using HMM concept.
  - Index f-1 precision recall
 3. language model
 4. RNN family
- - GRU
- - LSTM
-5. 
+[Best grpahical explaination](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
+	 - GRU
+	 - LSTM
 6. 
+7. 
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOT
-AyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4
-NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLT
-MxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3
-MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LD
-IwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAwMzM2NjMwOSwzMTQ5
-MTY2MjldfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg2ODUxNTMsLTEyMDQ2MTE4ODEsMT
+c3MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAz
+MjgxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC
+04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNjkx
+Nzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC
+0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAw
+MzM2NjMwOV19
 -->
