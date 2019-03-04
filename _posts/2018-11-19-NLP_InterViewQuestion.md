@@ -157,7 +157,8 @@ There's are two example using HMM concept.
  - A/B test basic
  - Index f-1 precision recall
 3. language model
-4. RNN family
+	 - Transformer-Decoder architecture
+5. RNN family
 [Best grpahical explaination](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 	 - GRU
 	 - LSTM
@@ -168,11 +169,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg2ODUxNTMsLTEyMDQ2MTE4ODEsMT
-c3MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAz
-MjgxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC
-04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MTIsLTEyNjkx
-Nzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAwNzQ5MjUwLC
-0xMjc3MTcwNzg2LDIwNzY0ODM5NjgsLTE1MzYyMDA2NDEsMTAw
-MzM2NjMwOV19
+eyJoaXN0b3J5IjpbLTY5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNz
+cyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MDQyNDIsMTk5MDMy
+ODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLT
+g5MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3
+ODQ3MSw1MTY2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLT
+EyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMTUzNjIwMDY0MSwxMDAz
+MzY2MzA5XX0=
 -->
