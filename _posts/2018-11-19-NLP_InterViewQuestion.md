@@ -102,7 +102,6 @@ The real answer here is infinity. However, I don't believe anyone can actually d
 ### Activation machine
 Sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
-- softmax_cross_entropy_with_logits,
 - tf.nn.weighted_cross_entropy_with_logits
 - 
 ### Gradiaent descent
@@ -172,11 +171,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NTY1MjMxLC0xNTIyNTIyNDI3LC02OT
-EyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOTAyMjA3
-MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMC
-wtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgz
-Mzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC
-0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0
-ODM5NjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMDAxMjAzNDMsLTE1MjI1MjI0MjcsLT
+Y5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIy
+MDczMTAsLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0ND
+EwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5
+ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMz
+ksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3
+NjQ4Mzk2OF19
 -->
