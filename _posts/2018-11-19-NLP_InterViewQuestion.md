@@ -103,6 +103,7 @@ The real answer here is infinity. However, I don't believe anyone can actually d
 Sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
 - tf.nn.weighted_cross_entropy_with_logits
+- Noise Constrastive Estimation
 - 
 ### Gradiaent descent
 Adam ..SGD,,
@@ -171,7 +172,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAxMjAzNDMsLTE1MjI1MjI0MjcsLT
+eyJoaXN0b3J5IjpbLTEyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLT
 Y5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIy
 MDczMTAsLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0ND
 EwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5
