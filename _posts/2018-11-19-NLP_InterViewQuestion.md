@@ -100,8 +100,11 @@ The real answer here is infinity. However, I don't believe anyone can actually d
 - BatchNormalization
 ### Initialize 
 ### Activation machine
-sigmoid, Relu, Step, Tanh, softmax
+Sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
+- softmax_cross_entropy_with_logits,
+- tf.nn.weighted_cross_entropy_with_logits
+- 
 ### Gradiaent descent
 Adam ..SGD,,
 ### Overfitting
@@ -169,11 +172,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMT
-IwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2
-MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Ni
-w0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgw
-MDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMzksLTE1MzY1MjI4MC
-w1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3NjQ4Mzk2OCwtMTUz
-NjIwMDY0MV19
+eyJoaXN0b3J5IjpbNTk0NTY1MjMxLC0xNTIyNTIyNDI3LC02OT
+EyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOTAyMjA3
+MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMC
+wtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgz
+Mzc3LDE3MzQ4MDA0MTIsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC
+0xNTM2NTIyODAsNTAwNzQ5MjUwLC0xMjc3MTcwNzg2LDIwNzY0
+ODM5NjhdfQ==
 -->
