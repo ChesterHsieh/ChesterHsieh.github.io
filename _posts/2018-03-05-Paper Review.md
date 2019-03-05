@@ -12,6 +12,11 @@ It's kind of wired to write down note for note. In turn this isn't the typical N
 How to map this problem to the binary classification problem
 => Naive Bayes classifier
 We generate θ to simulate real distribution. 
+
+![](https://media.licdn.com/dms/image/C5112AQHERXeLbNM3Lw/article-inline_image-shrink_400_744/0?e=1557360000&v=beta&t=xXg5F_XPxGxLa4-_aisW4Kiw60D7x4bo_AUye0kLZo8)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDE1OTk0LDY4MDIyMDYwM119
+eyJoaXN0b3J5IjpbMjE5ODYwMDAzLC02NjAxNTk5NCw2ODAyMj
+A2MDNdfQ==
 -->
