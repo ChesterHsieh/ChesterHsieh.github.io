@@ -183,13 +183,13 @@ Android,
 visual team, screw or not, 
 - network, 
 - similairy search embeding . 
-screw  > object detection model > 
+screw  > object detection model > segmentation model > classifier > probability > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc2MDA1NiwtMTEzMzUzNTE2MSwtMT
-IwMjQ0Nzc4NCwtMTUyMjUyMjQyNywtNjkxMjE1MjkyLC0xMjA0
-NjExODgxLDE3NzI2ODgyMzIsMTkwMjIwNzMxMCwtMTQ5ODYwND
-I0MiwxOTkwMzI4MTIwLDE1MDkzODQ0MTAsLTMyNDg3MzY2LDQ5
-ODA4MzMzNSwtODkxMDI0NTM0LC0zMTk4MzM3NywxNzM0ODAwND
-EyLC0xMjY5MTc4NDcxLDUxNjYxNzAzOSwtMTUzNjUyMjgwLDUw
-MDc0OTI1MF19
+eyJoaXN0b3J5IjpbMzA3MjAzMzQ1LC0xMTMzNTM1MTYxLC0xMj
+AyNDQ3Nzg0LC0xNTIyNTIyNDI3LC02OTEyMTUyOTIsLTEyMDQ2
+MTE4ODEsMTc3MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0Mj
+QyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4
+MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MT
+IsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAw
+NzQ5MjUwXX0=
 -->
