@@ -21,8 +21,10 @@ We generate θ to simulate real distribution.
 
 ## Assumption
 ## Improvement
+Given the framework on 2 dialog agent pratice together. 
 ## 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk0MTQ3MTMsMjE5ODYwMDAzLC02Nj
-AxNTk5NCw2ODAyMjA2MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTkxNzQzNzksLTE0NDk0MTQ3MTMsMj
+E5ODYwMDAzLC02NjAxNTk5NCw2ODAyMjA2MDNdfQ==
 -->
