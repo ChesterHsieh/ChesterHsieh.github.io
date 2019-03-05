@@ -166,7 +166,9 @@ There's are two example using HMM concept.
 	 - GRU
 	 - LSTM
 6. Attention model
-7. 
+# Deployment
+## Flask API wrapper
+
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
@@ -177,19 +179,13 @@ There's are two example using HMM concept.
 # Chatlog
 take log => topic mining,
 
-QA ->
 
-Android, 
-visual team, screw or not, 
-- network, 
-- similairy search embeding . 
-screw  > object detection model > segmentation model > classifier > probability > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MjAzMzQ1LC0xMTMzNTM1MTYxLC0xMj
-AyNDQ3Nzg0LC0xNTIyNTIyNDI3LC02OTEyMTUyOTIsLTEyMDQ2
-MTE4ODEsMTc3MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0Mj
-QyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4
-MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4MDA0MT
-IsLTEyNjkxNzg0NzEsNTE2NjE3MDM5LC0xNTM2NTIyODAsNTAw
-NzQ5MjUwXX0=
+eyJoaXN0b3J5IjpbMTU5MzY4NjA2MSwzMDcyMDMzNDUsLTExMz
+M1MzUxNjEsLTEyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLTY5MTIx
+NTI5MiwtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMT
+AsLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0z
+MjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5ODMzNz
+csMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMzksLTE1
+MzY1MjI4MF19
 -->
