@@ -171,12 +171,19 @@ There's are two example using HMM concept.
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
+
+
+
+# Chatlog
+take log => topic mining,
+
+QA ->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLT
-Y5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIy
-MDczMTAsLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0ND
-EwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5
-ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3ODQ3MSw1MTY2MTcwMz
-ksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEyNzcxNzA3ODYsMjA3
-NjQ4Mzk2OF19
+eyJoaXN0b3J5IjpbLTExMzM1MzUxNjEsLTEyMDI0NDc3ODQsLT
+E1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMTIwNDYxMTg4MSwxNzcy
+Njg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MDQyNDIsMTk5MDMyOD
+EyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMzUsLTg5
+MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2OTE3OD
+Q3MSw1MTY2MTcwMzksLTE1MzY1MjI4MCw1MDA3NDkyNTAsLTEy
+NzcxNzA3ODZdfQ==
 -->
