@@ -16,7 +16,13 @@ We generate θ to simulate real distribution.
 ![](https://media.licdn.com/dms/image/C5112AQHERXeLbNM3Lw/article-inline_image-shrink_400_744/0?e=1557360000&v=beta&t=xXg5F_XPxGxLa4-_aisW4Kiw60D7x4bo_AUye0kLZo8)
 
 
+
+# [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf)
+
+## Assumption
+## Improvement
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5ODYwMDAzLC02NjAxNTk5NCw2ODAyMj
-A2MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDk0MTQ3MTMsMjE5ODYwMDAzLC02Nj
+AxNTk5NCw2ODAyMjA2MDNdfQ==
 -->
