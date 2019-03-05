@@ -11,7 +11,7 @@ It's kind of wired to write down note for note. In turn this isn't the typical N
 ![Probability for ***context** *c* for ***word*** *w*](https://media.licdn.com/dms/image/C5112AQGTvxJFr-qXLA/article-inline_image-shrink_1000_1488/0?e=1557360000&v=beta&t=wkUHIU5P-LPHks6tGQ8sx_zqX5Xuuwi7EymCIBuuc-w)
 How to map this problem to the binary classification problem
 => Naive Bayes classifier
-We generate θ to simulate real distribution
+We generate θ to simulate real distribution. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzg5ODQ4OCw2ODAyMjA2MDNdfQ==
+eyJoaXN0b3J5IjpbLTY2MDE1OTk0LDY4MDIyMDYwM119
 -->
