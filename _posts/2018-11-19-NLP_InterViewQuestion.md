@@ -178,9 +178,11 @@ There's are two example using HMM concept.
 
 # TF-serving
 1. Serverable
+	Central part of the tf serving
 2. Loader
 3. Source
-4. Manager
+    Eat the module, th
+5. Manager
 ## JAVA wrapper as client service
 ## Flask
 ## 
@@ -189,11 +191,11 @@ There's are two example using HMM concept.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDg5OTkzLC04MTM4MDg4MTQsMTU5Mz
-Y4NjA2MSwzMDcyMDMzNDUsLTExMzM1MzUxNjEsLTEyMDI0NDc3
-ODQsLTE1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMTIwNDYxMTg4MS
-wxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MDQyNDIsMTk5
-MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0OTgwODMzMz
-UsLTg5MTAyNDUzNCwtMzE5ODMzNzcsMTczNDgwMDQxMiwtMTI2
-OTE3ODQ3MV19
+eyJoaXN0b3J5IjpbLTE0MzcwNjU5MDUsMTg2MDg5OTkzLC04MT
+M4MDg4MTQsMTU5MzY4NjA2MSwzMDcyMDMzNDUsLTExMzM1MzUx
+NjEsLTEyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLTY5MTIxNTI5Mi
+wtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0
+OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4Nz
+M2Niw0OTgwODMzMzUsLTg5MTAyNDUzNCwtMzE5ODMzNzcsMTcz
+NDgwMDQxMl19
 -->
