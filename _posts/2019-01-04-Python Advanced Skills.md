@@ -6,7 +6,8 @@ It's black magic when you try to scrape with API. Every limitations on server yo
 
 
 
-# Class inherit   
+# Pycharm debug technique
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNTQ4Nzc0LDE3OTgzNDk5NzZdfQ==
+eyJoaXN0b3J5IjpbODk0MzEwNTYsMzEwNTQ4Nzc0LDE3OTgzND
+k5NzZdfQ==
 -->
