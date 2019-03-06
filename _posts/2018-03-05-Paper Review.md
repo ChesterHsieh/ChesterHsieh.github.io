@@ -32,8 +32,9 @@ user click the same document => query are the same meaning.
 Generate the synonym by co-clicked. 
 ## How?
 Measure the similairt by click activity
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzY1NjQ2OCwtMTI1OTE3NDM3OSwtMT
+eyJoaXN0b3J5IjpbMTI4NjA5OTEzOCwtMTI1OTE3NDM3OSwtMT
 Q0OTQxNDcxMywyMTk4NjAwMDMsLTY2MDE1OTk0LDY4MDIyMDYw
 M119
 -->
