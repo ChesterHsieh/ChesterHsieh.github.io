@@ -181,9 +181,10 @@ There's are two example using HMM concept.
 	- Central part of the tf serving
 	- Can be push new module when serive is alive.
 2. Loader
+	- Need to wrap out the servable function.
 3. Source
     Eat the module, that's it.
-5. Manager
+4. Manager
 ## JAVA wrapper as client service
 ## Flask
 ## 
@@ -192,11 +193,11 @@ There's are two example using HMM concept.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjU4NjM2NSwxODYwODk5OTMsLTgxMz
-gwODgxNCwxNTkzNjg2MDYxLDMwNzIwMzM0NSwtMTEzMzUzNTE2
-MSwtMTIwMjQ0Nzc4NCwtMTUyMjUyMjQyNywtNjkxMjE1MjkyLC
-0xMjA0NjExODgxLDE3NzI2ODgyMzIsMTkwMjIwNzMxMCwtMTQ5
-ODYwNDI0MiwxOTkwMzI4MTIwLDE1MDkzODQ0MTAsLTMyNDg3Mz
-Y2LDQ5ODA4MzMzNSwtODkxMDI0NTM0LC0zMTk4MzM3NywxNzM0
-ODAwNDEyXX0=
+eyJoaXN0b3J5IjpbLTMzMTA3ODg4NSwtNjIyNTg2MzY1LDE4Nj
+A4OTk5MywtODEzODA4ODE0LDE1OTM2ODYwNjEsMzA3MjAzMzQ1
+LC0xMTMzNTM1MTYxLC0xMjAyNDQ3Nzg0LC0xNTIyNTIyNDI3LC
+02OTEyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOTAy
+MjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4ND
+QxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMx
+OTgzMzc3XX0=
 -->
