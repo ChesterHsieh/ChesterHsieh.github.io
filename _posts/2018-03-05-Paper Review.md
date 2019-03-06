@@ -24,7 +24,16 @@ We generate θ to simulate real distribution.
 Given the framework on 2 dialog agent pratice together. 
 ## 
 
+
+# Context Sensitive Synonym Discovery for Web Search
+## Assumption
+user click the same document => query are the same meaning.
+## Improvement
+Generate the synonym by co-clicked. 
+## How?
+Measure the similairt by click activity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxNzQzNzksLTE0NDk0MTQ3MTMsMj
-E5ODYwMDAzLC02NjAxNTk5NCw2ODAyMjA2MDNdfQ==
+eyJoaXN0b3J5IjpbMTMxNzY1NjQ2OCwtMTI1OTE3NDM3OSwtMT
+Q0OTQxNDcxMywyMTk4NjAwMDMsLTY2MDE1OTk0LDY4MDIyMDYw
+M119
 -->
