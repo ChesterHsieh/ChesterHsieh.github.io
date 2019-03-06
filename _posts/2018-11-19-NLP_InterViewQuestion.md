@@ -178,7 +178,8 @@ There's are two example using HMM concept.
 
 # TF-serving
 1. Serverable
-	Central part of the tf serving
+	- Central part of the tf serving
+	- Can be push new module when serive is alive.
 2. Loader
 3. Source
     Eat the module, that's it.
@@ -191,11 +192,11 @@ There's are two example using HMM concept.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNDQ4NDkzLDE4NjA4OTk5MywtODEzOD
-A4ODE0LDE1OTM2ODYwNjEsMzA3MjAzMzQ1LC0xMTMzNTM1MTYx
-LC0xMjAyNDQ3Nzg0LC0xNTIyNTIyNDI3LC02OTEyMTUyOTIsLT
-EyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4
-NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4NDQxMCwtMzI0ODczNj
-YsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMxOTgzMzc3LDE3MzQ4
-MDA0MTJdfQ==
+eyJoaXN0b3J5IjpbLTYyMjU4NjM2NSwxODYwODk5OTMsLTgxMz
+gwODgxNCwxNTkzNjg2MDYxLDMwNzIwMzM0NSwtMTEzMzUzNTE2
+MSwtMTIwMjQ0Nzc4NCwtMTUyMjUyMjQyNywtNjkxMjE1MjkyLC
+0xMjA0NjExODgxLDE3NzI2ODgyMzIsMTkwMjIwNzMxMCwtMTQ5
+ODYwNDI0MiwxOTkwMzI4MTIwLDE1MDkzODQ0MTAsLTMyNDg3Mz
+Y2LDQ5ODA4MzMzNSwtODkxMDI0NTM0LC0zMTk4MzM3NywxNzM0
+ODAwNDEyXX0=
 -->
