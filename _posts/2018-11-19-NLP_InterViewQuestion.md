@@ -12,17 +12,14 @@ tags:
 
 ---
 # Question Collection 
-## What's word embedding and how to implement?
+# What's word embedding and how to implement?
 >[Vector space models](https://en.wikipedia.org/wiki/Vector_space_model) (VSMs) represent (embed) words in a continuous vector space where semantically similar words are mapped to nearby points ('are embedded nearby each other'). VSMs have a long, rich history in NLP, but all methods depend in some way or another on the [Distributional Hypothesis](https://en.wikipedia.org/wiki/Distributional_semantics#Distributional_Hypothesis), which states that words that appear in the same contexts share semantic meaning. The different approaches that leverage this principle can be divided into two categories: _count-based methods_ (e.g. [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)), and _predictive methods_ (e.g. [neural probabilistic language models](http://www.scholarpedia.org/article/Neural_net_language_models)).
-
-
-
 
 ## count-based model
 - LSA
 ## predictive model
 
-## General Preprocessing Process?
+# General Preprocessing Process?
 
 1.  Metamorphosis by Franz Kafka
 2.  Text Cleaning is Task Specific
@@ -63,11 +60,8 @@ Wait to answer :P
 
 ## What are stop words? Describe an application in which stop words should be removed.
 Wait to answer :P
-
 ## How would you design a model to predict whether a movie review was positive or negative?
 Wait to answer :P
-
-
 
 ## How to implement flexible text matching
  1. Soundex 
@@ -192,12 +186,30 @@ There's are two example using HMM concept.
 # Shell Script
 
 
+# Knowledge supplement :)
+While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
+
+#### [HMM & POS](http://nbviewer.jupyter.org/github/iit-cs585/main/blob/master/lec/l07/L07.ipynb)
+The main idea of Hidden Markov models
+
+The output at time  ii  depends on the input at time  ii  and the output at previous times  i−1i−1,  i−2i−2, ...:
+
+There's are two example using HMM concept.
+
+-   **Language model**:  p(wi|wi−2,wi−1)p(wi|wi−2,wi−1)
+-   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
+    -   e.g.,  yiyi  is part-of-speech tag at time  i
+
+# Reference
+- [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
+- [Question Source-2]()
+- [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTA3ODg4NSwtNjIyNTg2MzY1LDE4Nj
-A4OTk5MywtODEzODA4ODE0LDE1OTM2ODYwNjEsMzA3MjAzMzQ1
-LC0xMTMzNTM1MTYxLC0xMjAyNDQ3Nzg0LC0xNTIyNTIyNDI3LC
-02OTEyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3MjY4ODIzMiwxOTAy
-MjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMjgxMjAsMTUwOTM4ND
-QxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04OTEwMjQ1MzQsLTMx
-OTgzMzc3XX0=
+eyJoaXN0b3J5IjpbLTE2Nzk3Mjk2OTUsLTMzMTA3ODg4NSwtNj
+IyNTg2MzY1LDE4NjA4OTk5MywtODEzODA4ODE0LDE1OTM2ODYw
+NjEsMzA3MjAzMzQ1LC0xMTMzNTM1MTYxLC0xMjAyNDQ3Nzg0LC
+0xNTIyNTIyNDI3LC02OTEyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3
+MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMj
+gxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04
+OTEwMjQ1MzRdfQ==
 -->
