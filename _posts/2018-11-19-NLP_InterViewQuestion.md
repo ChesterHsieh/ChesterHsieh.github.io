@@ -19,7 +19,7 @@ tags:
 - LSA
 ## predictive model
 
-# General Preprocessing Process?
+ General Preprocessing Process?
 
 1.  Metamorphosis by Franz Kafka
 2.  Text Cleaning is Task Specific
@@ -205,11 +205,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk3Mjk2OTUsLTMzMTA3ODg4NSwtNj
-IyNTg2MzY1LDE4NjA4OTk5MywtODEzODA4ODE0LDE1OTM2ODYw
-NjEsMzA3MjAzMzQ1LC0xMTMzNTM1MTYxLC0xMjAyNDQ3Nzg0LC
-0xNTIyNTIyNDI3LC02OTEyMTUyOTIsLTEyMDQ2MTE4ODEsMTc3
-MjY4ODIzMiwxOTAyMjA3MzEwLC0xNDk4NjA0MjQyLDE5OTAzMj
-gxMjAsMTUwOTM4NDQxMCwtMzI0ODczNjYsNDk4MDgzMzM1LC04
-OTEwMjQ1MzRdfQ==
+eyJoaXN0b3J5IjpbMTkyMzY3NTM1NiwtMTY3OTcyOTY5NSwtMz
+MxMDc4ODg1LC02MjI1ODYzNjUsMTg2MDg5OTkzLC04MTM4MDg4
+MTQsMTU5MzY4NjA2MSwzMDcyMDMzNDUsLTExMzM1MzUxNjEsLT
+EyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMTIw
+NDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MD
+QyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0
+OTgwODMzMzVdfQ==
 -->
