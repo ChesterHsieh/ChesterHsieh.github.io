@@ -21,7 +21,13 @@ One pharse might include many uselss content. Entity is the part actually we nee
 
 # Agent assist
 
+# Big 5
+-   [Google Dialogflow]
+-   [Microsoft LUIS]
+-   [Facebook's Wit.ai]
+-   [IBM Watson]
+-   [Amazon Lex]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEwNjYxMDYsLTExNzY5MTUyMywtNz
-M1MDAzMTI4XX0=
+eyJoaXN0b3J5IjpbLTk1MjkxNDQ0MCwtMTgwMTA2NjEwNiwtMT
+E3NjkxNTIzLC03MzUwMDMxMjhdfQ==
 -->
