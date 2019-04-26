@@ -17,6 +17,8 @@ To create the cluster
 ## Send the job
  
 
+# Compute Engine
+## To setup a new machine
 
 # Spark 
 ## Initial setting
@@ -57,5 +59,5 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTY4NzY2Nl19
+eyJoaXN0b3J5IjpbLTU3ODA3NDI5NCwxNTc5Njg3NjY2XX0=
 -->
