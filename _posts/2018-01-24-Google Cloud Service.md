@@ -19,6 +19,10 @@ To create the cluster
 
 # Compute Engine
 ## To setup a new machine
+```
+gcloud compute instances create my-instance
+```
+## To run sqlova .sh initial shell file
 
 # Spark 
 ## Initial setting
@@ -59,5 +63,6 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODA3NDI5NCwxNTc5Njg3NjY2XX0=
+eyJoaXN0b3J5IjpbLTg3NDcxMDYzMiwtNTc4MDc0Mjk0LDE1Nz
+k2ODc2NjZdfQ==
 -->
