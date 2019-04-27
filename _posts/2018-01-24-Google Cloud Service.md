@@ -34,6 +34,8 @@ pip3 install
  4. 
 ## Dump postgres sql 2 sqlite
 [BLOG provide solution](https://manuelvanrijn.nl/blog/2012/01/18/convert-postgresql-to-sqlite/)
+
+
 # Spark 
 ## Initial setting
 The process to ask resource from computer. Here's two example for **Local** and **Cluster**
@@ -73,6 +75,6 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjM2MjQ1OSwtODc3MDU0MTU4LC04Nz
-Q3MTA2MzIsLTU3ODA3NDI5NCwxNTc5Njg3NjY2XX0=
+eyJoaXN0b3J5IjpbLTIwODI4NDIyNDEsLTg3NzA1NDE1OCwtOD
+c0NzEwNjMyLC01NzgwNzQyOTQsMTU3OTY4NzY2Nl19
 -->
