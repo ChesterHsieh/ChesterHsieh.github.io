@@ -17,7 +17,7 @@ To create the cluster
 ## Send the job
  
 
-# Compute Engine
+# Run sqlova sample code
 ## To setup a new machine
 ```
 gcloud compute instances create my-instance
@@ -32,7 +32,8 @@ pip3 install
  2. python download_gdrive.py 1iJvsf38f16el58H4NPINQ7uzal5-V4v4 /jet/prs/workspace/sqlova/annotated_data/
  3. modify file train.py line 558 & 559 path_h = '/jet/prs/workspace/sqlova/data/'
  4. 
-
+## Dump postgres sql 2 sqlite
+[BLOG provide solution](https://manuelvanrijn.nl/blog/2012/01/18/convert-postgresql-to-sqlite/)
 # Spark 
 ## Initial setting
 The process to ask resource from computer. Here's two example for **Local** and **Cluster**
@@ -72,6 +73,6 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDYyNzk5NSwtODc3MDU0MTU4LC04Nz
+eyJoaXN0b3J5IjpbMjEwNjM2MjQ1OSwtODc3MDU0MTU4LC04Nz
 Q3MTA2MzIsLTU3ODA3NDI5NCwxNTc5Njg3NjY2XX0=
 -->
