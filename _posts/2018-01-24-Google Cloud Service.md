@@ -28,7 +28,9 @@ pip3 install records
 pip3 install 
 ## Need to download raw data
 
- 1. download google drive download tool
+ 1. [download google drive download tool](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb))
+ 2. python download_gdrive.py 1iJvsf38f16el58H4NPINQ7uzal5-V4v4 /jet/prs/workspace/sqlova/annotated_data/
+ 3. Change file 
 
 # Spark 
 ## Initial setting
@@ -69,6 +71,6 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzA1NDE1OCwtODc0NzEwNjMyLC01Nz
-gwNzQyOTQsMTU3OTY4NzY2Nl19
+eyJoaXN0b3J5IjpbNTk3Mzc5MjU5LC04NzcwNTQxNTgsLTg3ND
+cxMDYzMiwtNTc4MDc0Mjk0LDE1Nzk2ODc2NjZdfQ==
 -->
