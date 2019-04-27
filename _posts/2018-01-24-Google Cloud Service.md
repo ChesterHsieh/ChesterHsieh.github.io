@@ -23,6 +23,12 @@ To create the cluster
 gcloud compute instances create my-instance
 ```
 ## To run sqlova .sh initial shell file
+pip3 install requests
+pip3 install records
+pip3 install 
+## Need to download raw data
+
+ 1. download google drive download tool
 
 # Spark 
 ## Initial setting
@@ -63,6 +69,6 @@ When some failure is reproducible only at cluster and each retry takes 2 hours y
 Job was failing a lot because of not enough memory.
 Also initially I created cluster with single machine. Now I run 1+4 machines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDcxMDYzMiwtNTc4MDc0Mjk0LDE1Nz
-k2ODc2NjZdfQ==
+eyJoaXN0b3J5IjpbLTg3NzA1NDE1OCwtODc0NzEwNjMyLC01Nz
+gwNzQyOTQsMTU3OTY4NzY2Nl19
 -->
