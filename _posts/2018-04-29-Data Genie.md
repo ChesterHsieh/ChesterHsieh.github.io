@@ -27,7 +27,8 @@ pip3 install
 
 
 
-
+# Pytorch Basics
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIxNzk4NDRdfQ==
+eyJoaXN0b3J5IjpbLTYxNjA5NDIxNV19
 -->
