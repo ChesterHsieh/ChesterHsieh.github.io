@@ -15,7 +15,8 @@ gcloud compute instances create my-instance
 ## To run sqlova .sh initial shell file
 pip3 install requests
 pip3 install records
-pip3 install 
+pip3 install tqdm
+
 ## Need to download raw data
 
  1. [download google drive download tool](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb)
@@ -30,5 +31,5 @@ pip3 install
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjAzMjkzMCwtNjE2MDk0MjE1XX0=
+eyJoaXN0b3J5IjpbMTI3MjQ3MTkyNiwtNjE2MDk0MjE1XX0=
 -->
