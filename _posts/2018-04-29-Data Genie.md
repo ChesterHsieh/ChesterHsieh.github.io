@@ -1,5 +1,11 @@
 # Milestone
-1. 
+1. Run Sqlova test code
+	1.1 Start to train with wikisql
+	1.2
+2.	 Modified 
+	2.1 To understand the data format
+3. Pytorch Tutorial
+	3.1 Know where's invent
 
 # Run sqlova sample code
 ## To setup a new machine
@@ -23,5 +29,5 @@ pip3 install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ1MzMwNV19
+eyJoaXN0b3J5IjpbNjk2OTE0NjQyXX0=
 -->
