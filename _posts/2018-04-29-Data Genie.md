@@ -18,11 +18,12 @@ pip3 install records
 pip3 install tqdm
 
 install zip
+sudo apt install unzip
 
 ## Need to download raw data
 
  1. [download google drive download tool](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb)
- 2. python download_gdrive.py 1iJvsf38f16el58H4NPINQ7uzal5-V4v4 /jet/prs/workspace/sqlova/annotated_data/
+ 2. python download_gdrive.py 1iJvsf38f16el58H4NPINQ7uzal5-V4v4 /jet/prs/workspace/sqlova/annotated_data/xxx.zip
  3. 
  4. modify file train.py line 558 & 559 path_h = '/jet/prs/workspace/sqlova/data/'
  5. 
@@ -34,6 +35,6 @@ install zip
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTIzNjQ3NywxMjcyNDcxOTI2LC02MT
+eyJoaXN0b3J5IjpbMTk3NjA1NTA0NywxMjcyNDcxOTI2LC02MT
 YwOTQyMTVdfQ==
 -->
