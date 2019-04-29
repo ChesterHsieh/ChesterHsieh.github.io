@@ -17,12 +17,15 @@ pip3 install requests
 pip3 install records
 pip3 install tqdm
 
+install zip
+
 ## Need to download raw data
 
  1. [download google drive download tool](https://medium.com/tinghaochen/how-to-download-files-from-google-drive-through-terminal-4a6802707dbb)
  2. python download_gdrive.py 1iJvsf38f16el58H4NPINQ7uzal5-V4v4 /jet/prs/workspace/sqlova/annotated_data/
- 3. modify file train.py line 558 & 559 path_h = '/jet/prs/workspace/sqlova/data/'
- 4. 
+ 3. 
+ 4. modify file train.py line 558 & 559 path_h = '/jet/prs/workspace/sqlova/data/'
+ 5. 
 ## Dump postgres sql 2 sqlite
 [BLOG provide solution](https://manuelvanrijn.nl/blog/2012/01/18/convert-postgresql-to-sqlite/)
 
@@ -31,5 +34,6 @@ pip3 install tqdm
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjQ3MTkyNiwtNjE2MDk0MjE1XX0=
+eyJoaXN0b3J5IjpbMTM4MTIzNjQ3NywxMjcyNDcxOTI2LC02MT
+YwOTQyMTVdfQ==
 -->
