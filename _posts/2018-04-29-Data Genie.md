@@ -5,7 +5,7 @@
 2.	 Modified 
 	2.1 To understand the data format
 3. Pytorch Tutorial
-	3.1 Know where's invent
+	3.1 Know where's entry point
 
 # Run sqlova sample code
 ## To setup a new machine
@@ -29,5 +29,5 @@ pip3 install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2OTE0NjQyXX0=
+eyJoaXN0b3J5IjpbLTEwODIxNzk4NDRdfQ==
 -->
