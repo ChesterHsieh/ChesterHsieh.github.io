@@ -16,7 +16,9 @@ gcloud compute instances create my-instance
 pip3 install requests
 pip3 install records
 pip3 install tqdm
-
+pip3 install babel
+pip3 install matplotlib
+-   `conda install defusedxml`
 install zip
 sudo apt install unzip
 
@@ -35,6 +37,6 @@ sudo apt install unzip
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjA1NTA0NywxMjcyNDcxOTI2LC02MT
-YwOTQyMTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQyMjkwOTEsMTk3NjA1NTA0NywxMj
+cyNDcxOTI2LC02MTYwOTQyMTVdfQ==
 -->
