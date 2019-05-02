@@ -34,10 +34,14 @@ sudo apt install unzip
 [BLOG provide solution](https://manuelvanrijn.nl/blog/2012/01/18/convert-postgresql-to-sqlite/)
 
 
+## File summery
+evaluation_ws.py : take results_xxx.jsonl and xxx.jsonl to compute accuracy
+train.py: Not only train the file but also prediction and generate re
+
 
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMzU4ODI3LDE5NzYwNTUwNDcsMTI3Mj
-Q3MTkyNiwtNjE2MDk0MjE1XX0=
+eyJoaXN0b3J5IjpbLTI4NDg3ODc3OCwzNTEzNTg4MjcsMTk3Nj
+A1NTA0NywxMjcyNDcxOTI2LC02MTYwOTQyMTVdfQ==
 -->
