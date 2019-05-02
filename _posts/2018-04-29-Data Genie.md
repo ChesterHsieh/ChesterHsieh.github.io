@@ -36,12 +36,12 @@ sudo apt install unzip
 
 ## File summery
 evaluation_ws.py : take results_xxx.jsonl and xxx.jsonl to compute accuracy
-train.py: Not only train the file but also prediction and generate re
+train.py: Not only train the file but also prediction and generate result_xxx.json1 file.
 
 
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDg3ODc3OCwzNTEzNTg4MjcsMTk3Nj
+eyJoaXN0b3J5IjpbLTU1MzI0MDI5OCwzNTEzNTg4MjcsMTk3Nj
 A1NTA0NywxMjcyNDcxOTI2LC02MTYwOTQyMTVdfQ==
 -->
