@@ -38,10 +38,14 @@ sudo apt install unzip
 evaluation_ws.py : take results_xxx.jsonl and xxx.jsonl to compute accuracy
 train.py: Not only train the file but also prediction and generate result_xxx.json1 file.
 
+## train.py mod
+Need
+
 
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzI0MDI5OCwzNTEzNTg4MjcsMTk3Nj
-A1NTA0NywxMjcyNDcxOTI2LC02MTYwOTQyMTVdfQ==
+eyJoaXN0b3J5IjpbLTk4Njc2OTY2MywtNTUzMjQwMjk4LDM1MT
+M1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIx
+NV19
 -->
