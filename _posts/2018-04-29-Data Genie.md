@@ -15,7 +15,9 @@
 ## Environment
 must be installed as python2
 - conda create -n env_psudo
-- 
+
+
+
 # Run sqlova sample code
 ## To setup a new machine
 ```
@@ -56,9 +58,12 @@ https://github.com/Powerspace/pg2bq
 Most of the code can rely on this.
 Follow the instruction it will be fine. 
 # Pytorch Basics
-## 
+
+
+# Rasa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NjEwNjAxLDE5Nzc3MzcyNDYsLTEyMz
-I4MDE0OTAsLTk4Njc2OTY2MywtNTUzMjQwMjk4LDM1MTM1ODgy
-NywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIxNV19
+eyJoaXN0b3J5IjpbLTE0MDgxOTExNzYsMjc5NjEwNjAxLDE5Nz
+c3MzcyNDYsLTEyMzI4MDE0OTAsLTk4Njc2OTY2MywtNTUzMjQw
+Mjk4LDM1MTM1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLT
+YxNjA5NDIxNV19
 -->
