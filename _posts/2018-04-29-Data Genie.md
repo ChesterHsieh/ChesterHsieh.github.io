@@ -7,6 +7,13 @@
 3. Pytorch Tutorial
 	3.1 Know where's entry point
 
+# Run NLIDB-transfer learning
+## Download
+- might need to add __init__.py file
+- change some file prvlig:
+
+## Environment
+must be installed as python2,
 # Run sqlova sample code
 ## To setup a new machine
 ```
@@ -49,7 +56,7 @@ Follow the instruction it will be fine.
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI4MDE0OTAsLTk4Njc2OTY2MywtNT
-UzMjQwMjk4LDM1MTM1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5
-MjYsLTYxNjA5NDIxNV19
+eyJoaXN0b3J5IjpbLTE1MzM5OTM4OTAsLTEyMzI4MDE0OTAsLT
+k4Njc2OTY2MywtNTUzMjQwMjk4LDM1MTM1ODgyNywxOTc2MDU1
+MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIxNV19
 -->
