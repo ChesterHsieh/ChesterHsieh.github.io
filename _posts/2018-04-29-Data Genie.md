@@ -14,7 +14,8 @@
 - Need download glove embeddeding file
 ## Environment
 must be installed as python2
-##
+- conda create -n env_psudo
+- 
 # Run sqlova sample code
 ## To setup a new machine
 ```
@@ -57,7 +58,7 @@ Follow the instruction it will be fine.
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzczNzI0NiwtMTIzMjgwMTQ5MCwtOT
-g2NzY5NjYzLC01NTMyNDAyOTgsMzUxMzU4ODI3LDE5NzYwNTUw
-NDcsMTI3MjQ3MTkyNiwtNjE2MDk0MjE1XX0=
+eyJoaXN0b3J5IjpbMjc5NjEwNjAxLDE5Nzc3MzcyNDYsLTEyMz
+I4MDE0OTAsLTk4Njc2OTY2MywtNTUzMjQwMjk4LDM1MTM1ODgy
+NywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIxNV19
 -->
