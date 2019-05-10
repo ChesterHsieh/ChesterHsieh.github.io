@@ -9,11 +9,12 @@
 
 # Run NLIDB-transfer learning
 ## Download
-- might need to add __init__.py file
-- change some file prvlig:
-
+- might need to add **__init__.py** file
+- change some file prvlig: **chmod -R 777 desired_location/**
+- Need download glove embeddeding file
 ## Environment
-must be installed as python2,
+must be installed as python2
+##
 # Run sqlova sample code
 ## To setup a new machine
 ```
@@ -56,7 +57,7 @@ Follow the instruction it will be fine.
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5OTM4OTAsLTEyMzI4MDE0OTAsLT
-k4Njc2OTY2MywtNTUzMjQwMjk4LDM1MTM1ODgyNywxOTc2MDU1
-MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIxNV19
+eyJoaXN0b3J5IjpbMTk3NzczNzI0NiwtMTIzMjgwMTQ5MCwtOT
+g2NzY5NjYzLC01NTMyNDAyOTgsMzUxMzU4ODI3LDE5NzYwNTUw
+NDcsMTI3MjQ3MTkyNiwtNjE2MDk0MjE1XX0=
 -->
