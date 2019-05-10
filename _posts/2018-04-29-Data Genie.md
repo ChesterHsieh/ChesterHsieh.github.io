@@ -42,10 +42,14 @@ train.py: Not only train the file but also prediction and generate result_xxx.js
 Need
 
 
+# ETL - postgres SQL -> BQ
+https://github.com/Powerspace/pg2bq
+Most of the code can rely on this.
+Follow the instruction it will be fine. 
 # Pytorch Basics
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Njc2OTY2MywtNTUzMjQwMjk4LDM1MT
-M1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLTYxNjA5NDIx
-NV19
+eyJoaXN0b3J5IjpbLTEyMzI4MDE0OTAsLTk4Njc2OTY2MywtNT
+UzMjQwMjk4LDM1MTM1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5
+MjYsLTYxNjA5NDIxNV19
 -->
