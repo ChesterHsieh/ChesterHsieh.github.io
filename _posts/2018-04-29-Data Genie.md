@@ -16,7 +16,7 @@
 must be installed as python2
 - conda create -n env_psudo
 
-
+## Data source format
 
 # Run sqlova sample code
 ## To setup a new machine
@@ -62,8 +62,8 @@ Follow the instruction it will be fine.
 
 # Rasa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgxOTExNzYsMjc5NjEwNjAxLDE5Nz
-c3MzcyNDYsLTEyMzI4MDE0OTAsLTk4Njc2OTY2MywtNTUzMjQw
-Mjk4LDM1MTM1ODgyNywxOTc2MDU1MDQ3LDEyNzI0NzE5MjYsLT
-YxNjA5NDIxNV19
+eyJoaXN0b3J5IjpbLTE2MDA0NzAzMTYsLTE0MDgxOTExNzYsMj
+c5NjEwNjAxLDE5Nzc3MzcyNDYsLTEyMzI4MDE0OTAsLTk4Njc2
+OTY2MywtNTUzMjQwMjk4LDM1MTM1ODgyNywxOTc2MDU1MDQ3LD
+EyNzI0NzE5MjYsLTYxNjA5NDIxNV19
 -->
