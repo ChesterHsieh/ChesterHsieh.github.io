@@ -12,14 +12,17 @@ tags:
 
 ---
 # Question Collection 
-# What's word embedding and how to implement?
+## What's word embedding and how to implement?
 >[Vector space models](https://en.wikipedia.org/wiki/Vector_space_model) (VSMs) represent (embed) words in a continuous vector space where semantically similar words are mapped to nearby points ('are embedded nearby each other'). VSMs have a long, rich history in NLP, but all methods depend in some way or another on the [Distributional Hypothesis](https://en.wikipedia.org/wiki/Distributional_semantics#Distributional_Hypothesis), which states that words that appear in the same contexts share semantic meaning. The different approaches that leverage this principle can be divided into two categories: _count-based methods_ (e.g. [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)), and _predictive methods_ (e.g. [neural probabilistic language models](http://www.scholarpedia.org/article/Neural_net_language_models)).
+
+
+
 
 ## count-based model
 - LSA
 ## predictive model
 
- General Preprocessing Process?
+## General Preprocessing Process?
 
 1.  Metamorphosis by Franz Kafka
 2.  Text Cleaning is Task Specific
@@ -60,6 +63,7 @@ Wait to answer :P
 
 ## What are stop words? Describe an application in which stop words should be removed.
 Wait to answer :P
+
 ## How would you design a model to predict whether a movie review was positive or negative?
 Wait to answer :P
 
@@ -205,11 +209,11 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzY3NTM1NiwtMTY3OTcyOTY5NSwtMz
-MxMDc4ODg1LC02MjI1ODYzNjUsMTg2MDg5OTkzLC04MTM4MDg4
-MTQsMTU5MzY4NjA2MSwzMDcyMDMzNDUsLTExMzM1MzUxNjEsLT
-EyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLTY5MTIxNTI5MiwtMTIw
-NDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMDczMTAsLTE0OTg2MD
-QyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEwLC0zMjQ4NzM2Niw0
-OTgwODMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTExNjM4MjM3NTUsMTkyMzY3NTM1NiwtMT
+Y3OTcyOTY5NSwtMzMxMDc4ODg1LC02MjI1ODYzNjUsMTg2MDg5
+OTkzLC04MTM4MDg4MTQsMTU5MzY4NjA2MSwzMDcyMDMzNDUsLT
+ExMzM1MzUxNjEsLTEyMDI0NDc3ODQsLTE1MjI1MjI0MjcsLTY5
+MTIxNTI5MiwtMTIwNDYxMTg4MSwxNzcyNjg4MjMyLDE5MDIyMD
+czMTAsLTE0OTg2MDQyNDIsMTk5MDMyODEyMCwxNTA5Mzg0NDEw
+LC0zMjQ4NzM2Nl19
 -->
