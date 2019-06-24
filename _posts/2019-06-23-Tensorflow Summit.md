@@ -14,8 +14,8 @@ The freature in tensorflow eco-system
 - Binding for other languages
 
 # Training workflow
-tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed Stratagy + te -> 
+tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed Stratagy + tensorboard -> Saving model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzAyMzI5LC0yOTM4MjkxLC0yMTI5Mj
+eyJoaXN0b3J5IjpbNTA2ODUyOTI0LC0yOTM4MjkxLC0yMTI5Mj
 U1ODY5XX0=
 -->
