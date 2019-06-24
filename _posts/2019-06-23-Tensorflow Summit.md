@@ -6,9 +6,6 @@ The freature in tensorflow eco-system
 # Some speed unit
 1.13 exaFLOPs
 
-# Better API
-Keras
-eager execution
 
 # Deployment
 - Tensorflow serving
@@ -17,8 +14,8 @@ eager execution
 - Binding for other languages
 
 # Training workflow
-
+tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed Stratagy + te -> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjc1NjU0NywtMjkzODI5MSwtMjEyOT
-I1NTg2OV19
+eyJoaXN0b3J5IjpbMTc0NzAyMzI5LC0yOTM4MjkxLC0yMTI5Mj
+U1ODY5XX0=
 -->
