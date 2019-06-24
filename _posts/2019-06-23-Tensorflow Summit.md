@@ -15,7 +15,11 @@ The freature in tensorflow eco-system
 
 # Training workflow
 tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed Stratagy + tensorboard -> Saving model
+
+## tf.distributed.MirrowedStrategy
+## Tensorflow HUB
+Provide the pre-traind model for future purpose. It's like 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODUyOTI0LC0yOTM4MjkxLC0yMTI5Mj
-U1ODY5XX0=
+eyJoaXN0b3J5IjpbMTQ3MDI3MjYxOCwtMjkzODI5MSwtMjEyOT
+I1NTg2OV19
 -->
