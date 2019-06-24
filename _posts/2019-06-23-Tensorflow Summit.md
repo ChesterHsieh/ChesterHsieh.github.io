@@ -10,8 +10,15 @@ The freature in tensorflow eco-system
 Keras
 eager execution
 
-# D
+# Deployment
+- Tensorflow serving
+- Tensorflow lite
+- Tensorflow .js
+- Binding for other languages
+
+# Training workflow
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NDY1MjgzLC0yOTM4MjkxLC0yMTI5Mj
-U1ODY5XX0=
+eyJoaXN0b3J5IjpbLTUzMjc1NjU0NywtMjkzODI5MSwtMjEyOT
+I1NTg2OV19
 -->
