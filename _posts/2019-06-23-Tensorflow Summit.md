@@ -18,8 +18,8 @@ tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed 
 
 ## tf.distributed.MirrowedStrategy
 ## Tensorflow HUB
-Provide the pre-traind model for future purpose. It's like 
+Provide the pre-traind model for future purpose. It's like github but tf model version.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDI3MjYxOCwtMjkzODI5MSwtMjEyOT
-I1NTg2OV19
+eyJoaXN0b3J5IjpbLTE1OTQ0NzYyMTMsLTI5MzgyOTEsLTIxMj
+kyNTU4NjldfQ==
 -->
