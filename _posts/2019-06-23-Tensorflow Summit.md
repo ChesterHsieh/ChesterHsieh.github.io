@@ -22,7 +22,11 @@ Provide the pre-traind model for future purpose. It's like github but tf model v
 
 ## tf.function
 in eager execution mode, it should be like a label to show the function block for eager execution mode.
+
+# Javascript
+**Why is so important to announce this ?**
+JS is the dynamic language, it strongly support the front end design. I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTE1MTE1NiwtMTU5NDQ3NjIxMywtMj
-kzODI5MSwtMjEyOTI1NTg2OV19
+eyJoaXN0b3J5IjpbNzE2MzU3NDI2LC01NzUxNTExNTYsLTE1OT
+Q0NzYyMTMsLTI5MzgyOTEsLTIxMjkyNTU4NjldfQ==
 -->
