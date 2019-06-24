@@ -26,7 +26,11 @@ in eager execution mode, it should be like a label to show the function block fo
 # Javascript
 **Why is so important to announce this ?**
 JS is the dynamic language, it strongly support the front end design. It turn to give another question. How does it connect to DS or backend? 
+
+# Swift support
+swift as a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkwODI1MDgsLTU3NTE1MTE1NiwtMT
-U5NDQ3NjIxMywtMjkzODI5MSwtMjEyOTI1NTg2OV19
+eyJoaXN0b3J5IjpbMTcwOTIyMjY2OSwtMTg0OTA4MjUwOCwtNT
+c1MTUxMTU2LC0xNTk0NDc2MjEzLC0yOTM4MjkxLC0yMTI5MjU1
+ODY5XX0=
 -->
