@@ -6,6 +6,12 @@ The freature in tensorflow eco-system
 # Some speed unit
 1.13 exaFLOPs
 
+# Better API
+Keras
+eager execution
+
+# D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzgyOTEsLTIxMjkyNTU4NjldfQ==
+eyJoaXN0b3J5IjpbNDc0NDY1MjgzLC0yOTM4MjkxLC0yMTI5Mj
+U1ODY5XX0=
 -->
