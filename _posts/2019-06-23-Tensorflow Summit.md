@@ -19,7 +19,10 @@ tf.data -> keras+premade estimator -> Eager Execution + autograph + Distributed 
 ## tf.distributed.MirrowedStrategy
 ## Tensorflow HUB
 Provide the pre-traind model for future purpose. It's like github but tf model version.
+
+## tf.function
+in eager execution mode, it should be like a label to show the function block for eager execution mode.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ0NzYyMTMsLTI5MzgyOTEsLTIxMj
-kyNTU4NjldfQ==
+eyJoaXN0b3J5IjpbLTU3NTE1MTE1NiwtMTU5NDQ3NjIxMywtMj
+kzODI5MSwtMjEyOTI1NTg2OV19
 -->
