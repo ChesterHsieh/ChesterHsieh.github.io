@@ -28,9 +28,9 @@ in eager execution mode, it should be like a label to show the function block fo
 JS is the dynamic language, it strongly support the front end design. It turn to give another question. How does it connect to DS or backend? 
 
 # Swift support
-swift as a
+swift as another option for developing API. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTIyMjY2OSwtMTg0OTA4MjUwOCwtNT
+eyJoaXN0b3J5IjpbMTYzNDU2MjYxNiwtMTg0OTA4MjUwOCwtNT
 c1MTUxMTU2LC0xNTk0NDc2MjEzLC0yOTM4MjkxLC0yMTI5MjU1
 ODY5XX0=
 -->
