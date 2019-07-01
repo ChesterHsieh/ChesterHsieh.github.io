@@ -94,7 +94,7 @@ There's very very common issue is that  **Do I have perfect resume?**. I don't t
 ![](https://cdn-images-1.medium.com/max/1600/1*gBLsSYp3M9gYhsgprRHVww.jpeg)
 
 ## Networking v.s. Apply as much as you can
-We all know networking is very important. You'll always heard someone said you shouldn't waste your time on apply many jobs but spend on networking. I don't agree with this. We can be greedy and shoot the both target. To do networking has hot time 
+We all know networking is very important. You'll always heard someone said you shouldn't waste your time on apply many jobs but spend on networking. I don't agree with this. We can be greedy and shoot the both target. To do networking has   **peak period** , you can arrange the schedule to achieve both.
 
 # Interview 
 There's are few general types for  interview.
@@ -106,8 +106,8 @@ There's are few general types for  interview.
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTI1NTk5LC01MzA1ODk5NTAsLTE0MD
-kzMjg0ODcsNTI3MTI2ODE2LDM5MTA5Nzk2MywxNDAzMTc4MjQ5
-LC0zOTQyNDE3MjAsLTc0NzY4MTgwMywtNjQ2Nzk3MTg0LDEzMj
-M5OTY0MjcsMTk5NTc2NDgxMywtODI3Njg2NzczXX0=
+eyJoaXN0b3J5IjpbLTEzMjg5ODg1MywtNTMwNTg5OTUwLC0xND
+A5MzI4NDg3LDUyNzEyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0
+OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMz
+IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
 -->
