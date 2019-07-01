@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title: Behavior Question
-subtitle: What I learn from Amazon and Preparation
+title: Amazon 12 Principle
+subtitle: What I learn from Amazon and my story
 date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
@@ -150,6 +150,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTM0OTQyLDYzOTM3MjMyOSwtMzQ4OD
-cwMjM1LC02NjM3MjkzNjZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDYyNTYwNzksLTgyMTM0OTQyLDYzOT
+M3MjMyOSwtMzQ4ODcwMjM1LC02NjM3MjkzNjZdfQ==
 -->
