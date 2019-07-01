@@ -1,3 +1,13 @@
+﻿---
+layout:     post
+title:      Data scientist interview
+subtitle:   What's kind of interview we'll have?
+date:       2018-11-30
+author:    Chester
+catalog: true
+tags:
+    - Job
+---
 # Interview 
 There's are few general types for  interview.
 1. Phone interview
@@ -8,5 +18,5 @@ There's are few general types for  interview.
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODY2NzA3MF19
+eyJoaXN0b3J5IjpbLTE0NDYwMTU5NjksLTUwODY2NzA3MF19
 -->
