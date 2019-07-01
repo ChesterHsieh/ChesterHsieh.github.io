@@ -79,7 +79,7 @@ I have no idea about pytorch. Keras and tensorflow have well documented API. I s
 
 
 ## DS question
-I spend ton of times to crack the DS questions. It's series trial and errors. However it turn out few scenario on designing question. 
+While I start to prepare the interview, I wonder if there's a list can be checked one by
 
 
 
@@ -102,8 +102,8 @@ There's are few general types for  interview.
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDU4OTk1MCwtMTQwOTMyODQ4Nyw1Mj
-cxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgyNDksLTM5NDI0MTcy
-MCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMTMyMzk5NjQyNywxOT
-k1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTE1Mzk3MjEsLTUzMDU4OTk1MCwtMT
+QwOTMyODQ4Nyw1MjcxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgy
+NDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMT
+MyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
 -->
