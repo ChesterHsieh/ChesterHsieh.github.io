@@ -79,7 +79,9 @@ I have no idea about pytorch. Keras and tensorflow have well documented API. I s
 
 
 ## DS question
-While I start to prepare the interview, I wonder if there's a list can be checked one by
+While I start to prepare the interview, I wonder if there's a list can be checked one by one. Once I finish all the question, I'll pass most of interview. **I don't think it should be there** 
+
+Most exciting interview I
 
 
 
@@ -102,7 +104,7 @@ There's are few general types for  interview.
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE1Mzk3MjEsLTUzMDU4OTk1MCwtMT
+eyJoaXN0b3J5IjpbLTEzODg4ODgwMTYsLTUzMDU4OTk1MCwtMT
 QwOTMyODQ4Nyw1MjcxMjY4MTYsMzkxMDk3OTYzLDE0MDMxNzgy
 NDksLTM5NDI0MTcyMCwtNzQ3NjgxODAzLC02NDY3OTcxODQsMT
 MyMzk5NjQyNywxOTk1NzY0ODEzLC04Mjc2ODY3NzNdfQ==
