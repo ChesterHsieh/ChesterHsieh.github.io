@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      How to become data scientist
-subtitle:   Not PHD, Not Experienced, Not top 30 School
+subtitle:   No PHD, No Experience, Not in top 30
 date:       2018-11-30
 author:    Chester
 header-img: img/failure.jpg
@@ -99,8 +99,9 @@ We all know networking is very important. You'll always heard someone said you s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcxOTEwMywtNTMwNTg5OTUwLC0xND
-A5MzI4NDg3LDUyNzEyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0
-OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMz
-IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
+eyJoaXN0b3J5IjpbLTIwOTcyNTk1NzYsLTE2NTcxOTEwMywtNT
+MwNTg5OTUwLC0xNDA5MzI4NDg3LDUyNzEyNjgxNiwzOTEwOTc5
+NjMsMTQwMzE3ODI0OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLT
+Y0Njc5NzE4NCwxMzIzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4
+Njc3M119
 -->
