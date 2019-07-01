@@ -96,17 +96,10 @@ There's very very common issue is that  **Do I have perfect resume?**. I don't t
 ## Networking v.s. Apply as much as you can
 We all know networking is very important. You'll always heard someone said you shouldn't waste your time on apply many jobs but spend on networking. I don't agree with this. We can be greedy and shoot the both target. To do networking has   **peak period** , you can arrange the schedule to achieve both.
 
-# Interview 
-There's are few general types for  interview.
-1. Phone interview
-2. Online assessment
-3. Machine learning case study
-4. On-site( I can't tell, since I haven't being the on-site).
 
-## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg5ODg1MywtNTMwNTg5OTUwLC0xND
+eyJoaXN0b3J5IjpbLTE2NTcxOTEwMywtNTMwNTg5OTUwLC0xND
 A5MzI4NDg3LDUyNzEyNjgxNiwzOTEwOTc5NjMsMTQwMzE3ODI0
 OSwtMzk0MjQxNzIwLC03NDc2ODE4MDMsLTY0Njc5NzE4NCwxMz
 IzOTk2NDI3LDE5OTU3NjQ4MTMsLTgyNzY4Njc3M119
