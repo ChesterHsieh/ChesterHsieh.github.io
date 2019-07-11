@@ -6,7 +6,6 @@
 - How's the team formula:
 		4 ppl so far.
 # Phase 2 Case study
-3124599759
 
 ## 這邊是給我3個不同的目標去選擇
 1) 生出一個指數 取代 consumer price index, first-buy (消費者物價指數)
@@ -28,8 +27,8 @@ Help you scrape one website or entrepreneur 方案
 ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzkwODE0LDE0NjIzMjAzNDEsLTE1NT
-kyMDkwNjIsLTE2NTEyODc5MjQsLTUxNTAwMDM1LC0xMTk0NDA4
-MDYxLC0xODMzMzUyNDIxLDkxNjEyMDY0NiwxOTE0NTUzODY3XX
-0=
+eyJoaXN0b3J5IjpbLTEzNjgzMjE2MDYsLTc5NzkwODE0LDE0Nj
+IzMjAzNDEsLTE1NTkyMDkwNjIsLTE2NTEyODc5MjQsLTUxNTAw
+MDM1LC0xMTk0NDA4MDYxLC0xODMzMzUyNDIxLDkxNjEyMDY0Ni
+wxOTE0NTUzODY3XX0=
 -->
