@@ -18,9 +18,10 @@
 要說會當然會
 . 你知道公司level的產品跟我們這種想想的差很多等級.
 但是idea無價, 但Idea也便宜的嚇人. 這邊比較看思路. 真正難還是實作. 
+3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEyODc5MjQsLTUxNTAwMDM1LC0xMT
-k0NDA4MDYxLC0xODMzMzUyNDIxLDkxNjEyMDY0NiwxOTE0NTUz
-ODY3XX0=
+eyJoaXN0b3J5IjpbLTQ1MDc2MDIyMSwtMTY1MTI4NzkyNCwtNT
+E1MDAwMzUsLTExOTQ0MDgwNjEsLTE4MzMzNTI0MjEsOTE2MTIw
+NjQ2LDE5MTQ1NTM4NjddfQ==
 -->
