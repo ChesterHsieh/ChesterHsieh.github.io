@@ -22,12 +22,14 @@
 ## Vender Study
 1. grepsr
 Help you scrape one website or entrepreneur 方案 
-2. QL@
+2. QL2
+實際上提供資訊的網站 TODO: study what kind of data they provdied
+3. 
 ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMzMzUzNTIsMTQ2MjMyMDM0MSwtMT
-U1OTIwOTA2MiwtMTY1MTI4NzkyNCwtNTE1MDAwMzUsLTExOTQ0
-MDgwNjEsLTE4MzMzNTI0MjEsOTE2MTIwNjQ2LDE5MTQ1NTM4Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTc5NzkwODE0LDE0NjIzMjAzNDEsLTE1NT
+kyMDkwNjIsLTE2NTEyODc5MjQsLTUxNTAwMDM1LC0xMTk0NDA4
+MDYxLC0xODMzMzUyNDIxLDkxNjEyMDY0NiwxOTE0NTUzODY3XX
+0=
 -->
