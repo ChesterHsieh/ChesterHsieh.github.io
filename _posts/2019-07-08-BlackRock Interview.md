@@ -6,8 +6,8 @@
 - How's the team formula:
 		4 ppl so far.
 ## Case study
-
+31
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ0MDgwNjEsLTE4MzMzNTI0MjEsOT
-E2MTIwNjQ2LDE5MTQ1NTM4NjddfQ==
+eyJoaXN0b3J5IjpbMTIzNTM1Mjk5NywtMTE5NDQwODA2MSwtMT
+gzMzM1MjQyMSw5MTYxMjA2NDYsMTkxNDU1Mzg2N119
 -->
