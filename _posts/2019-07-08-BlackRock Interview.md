@@ -20,12 +20,14 @@
 但是idea無價, 但Idea也便宜的嚇人. 這邊比較看思路. 真正難還是實作. 
 
 ## Vender Study
-1) g 
+1. grepsr
+Help you scrape one website or entrepreneur 方案 
+2. QL@
 ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjMzMjIyMiwxNDYyMzIwMzQxLC0xNT
-U5MjA5MDYyLC0xNjUxMjg3OTI0LC01MTUwMDAzNSwtMTE5NDQw
-ODA2MSwtMTgzMzM1MjQyMSw5MTYxMjA2NDYsMTkxNDU1Mzg2N1
-19
+eyJoaXN0b3J5IjpbLTEwOTMzMzUzNTIsMTQ2MjMyMDM0MSwtMT
+U1OTIwOTA2MiwtMTY1MTI4NzkyNCwtNTE1MDAwMzUsLTExOTQ0
+MDgwNjEsLTE4MzMzNTI0MjEsOTE2MTIwNjQ2LDE5MTQ1NTM4Nj
+ddfQ==
 -->
