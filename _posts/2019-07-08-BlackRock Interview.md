@@ -19,11 +19,12 @@
 . 你知道公司level的產品跟我們這種想想的差很多等級.
 但是idea無價, 但Idea也便宜的嚇人. 這邊比較看思路. 真正難還是實作. 
 
-## 
+## Vender Study
+1)  
 ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkyMDkwNjIsLTE2NTEyODc5MjQsLT
-UxNTAwMDM1LC0xMTk0NDA4MDYxLC0xODMzMzUyNDIxLDkxNjEy
-MDY0NiwxOTE0NTUzODY3XX0=
+eyJoaXN0b3J5IjpbMTQ2MjMyMDM0MSwtMTU1OTIwOTA2MiwtMT
+Y1MTI4NzkyNCwtNTE1MDAwMzUsLTExOTQ0MDgwNjEsLTE4MzMz
+NTI0MjEsOTE2MTIwNjQ2LDE5MTQ1NTM4NjddfQ==
 -->
