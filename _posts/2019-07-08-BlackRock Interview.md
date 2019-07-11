@@ -20,11 +20,12 @@
 但是idea無價, 但Idea也便宜的嚇人. 這邊比較看思路. 真正難還是實作. 
 
 ## Vender Study
-1)  
+1) g 
 ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjMyMDM0MSwtMTU1OTIwOTA2MiwtMT
-Y1MTI4NzkyNCwtNTE1MDAwMzUsLTExOTQ0MDgwNjEsLTE4MzMz
-NTI0MjEsOTE2MTIwNjQ2LDE5MTQ1NTM4NjddfQ==
+eyJoaXN0b3J5IjpbMTMyMjMzMjIyMiwxNDYyMzIwMzQxLC0xNT
+U5MjA5MDYyLC0xNjUxMjg3OTI0LC01MTUwMDAzNSwtMTE5NDQw
+ODA2MSwtMTgzMzM1MjQyMSw5MTYxMjA2NDYsMTkxNDU1Mzg2N1
+19
 -->
