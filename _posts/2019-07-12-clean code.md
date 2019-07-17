@@ -4,6 +4,9 @@ There's no free lunch in this world. **Writing clean code requires the disciplin
 Key point I grab from book:
 1. Clean code is focused
 2. 
+-----
+每一次 commit 都要比上一次更乾淨.  如同童軍一樣.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbLTE4MzMzNjg2MTYsMTYwNTExMTUxNCwxMz
+MxNDgzNDIxXX0=
 -->
