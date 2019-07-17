@@ -5,8 +5,9 @@ Key point I grab from book:
 1. Clean code is focused
 2. 
 -----
-每一次 commit 都要比上一次更乾淨.  如同童軍一樣.
+- 每一次 commit 都要比上一次更乾淨.  如同童軍一樣.
+- 所有的function應該儘量服膺一個目的而已
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzNjg2MTYsMTYwNTExMTUxNCwxMz
-MxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbMTg3NzYxMzI2MSwxNjA1MTExNTE0LDEzMz
+E0ODM0MjFdfQ==
 -->
