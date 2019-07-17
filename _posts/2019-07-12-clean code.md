@@ -5,7 +5,12 @@
 - 每一次 commit 都要比上一次更乾淨.  如同童軍一樣.
 - 所有的function應該儘量服膺一個目的而已
 - 有利於搜尋,  這也就代表說過於短的文字不利於程式編碼.
+
+
+## CI/CD + PEP8補充
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzND
-E5MzU4NjgsMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMT
+M3OTQ0NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0
+MjFdfQ==
 -->
