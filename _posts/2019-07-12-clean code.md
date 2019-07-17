@@ -4,8 +4,8 @@
 	=> 還有Tab 是現代IDE都有的. 必須思考到使用者根本不看說明....variable本身提供足夠多的訊息
 - 每一次 commit 都要比上一次更乾淨.  如同童軍一樣.
 - 所有的function應該儘量服膺一個目的而已
-- 有利於搜尋,  這也就代表說過於短的文字不利於
+- 有利於搜尋,  這也就代表說過於短的文字不利於程式編碼.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM4NDQ1NjksLTIxMzc5NDQ1MTAsMz
-QxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzND
+E5MzU4NjgsMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
 -->
