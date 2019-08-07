@@ -11,7 +11,8 @@ Assume We'll develop a search engine on creaking zillow.
 
 碧蓮姊你好,
 
-我這邊有一個問題想請教你,  我目前人在海外. 然後我想起之前帳號密碼輸入錯誤被鎖住了. 現在想處理 應該我
+我這邊有一個問題想請教你,  我目前人在海外. 然後我想起之前用手機app登入帳號密碼輸入錯誤被鎖住了. 現在想處理 應該走什麼程序呢?
+謝其宏, P123683920
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE1MDI4NjAsLTUwODU2ODA5OF19
+eyJoaXN0b3J5IjpbODE3Mzg0NzcsLTUwODU2ODA5OF19
 -->
