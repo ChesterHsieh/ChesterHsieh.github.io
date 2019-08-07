@@ -9,7 +9,7 @@ Assume We'll develop a search engine on creaking zillow.
 5. 第二個部份要有合適的分類
 6. 第三個則是要創造出房子的和適度. 以房屋搜尋, 地址位置 離學校遠近, office location都可以是一個多重目標.
 
-
+碧蓮姊你好
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODU2ODA5OF19
+eyJoaXN0b3J5IjpbLTMwMTk2OTA2LC01MDg1NjgwOThdfQ==
 -->
