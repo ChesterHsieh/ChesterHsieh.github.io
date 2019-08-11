@@ -10,9 +10,10 @@
 ## CI/CD + PEP8補充
 PEP8
 # Function
-
+# Exception
+Prefer run time exception
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5OTgxMzgsMTAwMTU2ODk3NiwxNjY2Nz
-Q0Mjc5LC0yMTM3OTQ0NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0
-LDEzMzE0ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbMTczNjExODM3LDg4OTk4MTM4LDEwMDE1Nj
+g5NzYsMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4Njgs
+MTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
 -->
