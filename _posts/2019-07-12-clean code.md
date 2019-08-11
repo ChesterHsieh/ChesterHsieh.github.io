@@ -11,7 +11,7 @@
 PEP8
 # Function
 # Exception
-Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制. 以python為例子. 如果 
+Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制. 以python為例子.  可以透過繼承 Exceptions class 去創造屬於自己的exception type. 
 ```python
 if deletePage(page) == E_OK:
 	react(page)
@@ -30,7 +30,7 @@ else:
 	doSthElse()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUwMTIwOTQsLTEyOTUyMDA5MzEsOD
+eyJoaXN0b3J5IjpbLTE1OTcyNzMzMzYsLTEyOTUyMDA5MzEsOD
 g5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0
 NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ
 ==
