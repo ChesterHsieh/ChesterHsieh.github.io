@@ -11,9 +11,9 @@
 PEP8
 # Function
 # Exception
-Prefer run time exception
+Prefer doing exception instead of running error code. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjExODM3LDg4OTk4MTM4LDEwMDE1Nj
-g5NzYsMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4Njgs
-MTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbLTEyOTUyMDA5MzEsODg5OTgxMzgsMTAwMT
+U2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0MTkzNTg2
+OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
 -->
