@@ -7,7 +7,7 @@
 - 有利於搜尋,  這也就代表說過於短的文字不利於程式編碼.
 
 
-## CI/CD + PEP8補充
+## PEP8補充
 PEP8
 # Function
 # Exception
@@ -32,8 +32,8 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsOD
-g5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0
-NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ
-==
+eyJoaXN0b3J5IjpbLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMT
+I5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQy
+NzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMT
+MzMTQ4MzQyMV19
 -->
