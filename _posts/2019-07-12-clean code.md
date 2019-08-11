@@ -30,9 +30,9 @@ else:
 	doSthElse()
 ```
 
-Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在
+Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI5NDMxODAsLTEyOTUyMDA5MzEsOD
+eyJoaXN0b3J5IjpbLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsOD
 g5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0
 NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ
 ==
