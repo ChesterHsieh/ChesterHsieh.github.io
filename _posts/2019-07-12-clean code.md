@@ -11,9 +11,14 @@
 PEP8
 # Function
 # Exception
-Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制
+Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制. 以python為例子. 如果 
+```python
+if deletePage(page) == E_OK:
+else:
+	if deletePage(page)== E_invalid
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDM3ODM0NSwtMTI5NTIwMDkzMSw4OD
-k5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1
-MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbMTkwODU1NTk5LC0xMjk1MjAwOTMxLDg4OT
+k4MTM4LDEwMDE1Njg5NzYsMTY2Njc0NDI3OSwtMjEzNzk0NDUx
+MCwzNDE5MzU4NjgsMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
 -->
