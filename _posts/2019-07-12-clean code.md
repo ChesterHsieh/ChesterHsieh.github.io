@@ -11,9 +11,9 @@
 PEP8
 # Function
 # Exception
-Prefer doing exception instead of running error code. 
+Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUyMDA5MzEsODg5OTgxMzgsMTAwMT
-U2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0MTkzNTg2
-OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDM3ODM0NSwtMTI5NTIwMDkzMSw4OD
+k5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1
+MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
 -->
