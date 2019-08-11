@@ -17,16 +17,21 @@ if deletePage(page) == E_OK:
 	react(page)
 else:
 	if deletePage(page)== E_invalidPage:
-		doSth()
+		reactInvalidPage()
 	else:
 		doSthElse()
 
 try:
 	deletePage(page)
-except
+except E_invalidPage:
+	reactInvalidPage()
+except B:
+else:
+	doSthElse()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTgyMzExMSwtMTI5NTIwMDkzMSw4OD
-k5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1
-MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbLTIxNDUwMTIwOTQsLTEyOTUyMDA5MzEsOD
+g5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0
+NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ
+==
 -->
