@@ -20,7 +20,10 @@ This document is mean to collect all the simple rule and try to explain my way a
 **As key to craft the function is to remember all the simple rule and follow it all the time**. Really? 
 I can't do it as my first trial for some function. Design pattern before code is a proper way to avoid produce shit code. However, it's not possible for everyone. Refactoring is the compromise method to achieve clean code. 
 
-**How to refactor giant god function ~1000 lines?>**
+**How to refactor giant god function 100~1000 lines?**
+- promote it as a class
+- 
+
 
 ***TIP:*** IDE can help you adjust structure and check the some rule, blank line or indent.....
 # Formating
@@ -49,7 +52,7 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk2MzMyNTksLTE1MjIxMzM1MDcsLT
+eyJoaXN0b3J5IjpbLTE2MjMxNzEzNjYsLTE1MjIxMzM1MDcsLT
 IwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3
 Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OT
 c2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2
