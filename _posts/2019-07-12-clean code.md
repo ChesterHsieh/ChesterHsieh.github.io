@@ -20,7 +20,7 @@ This document is mean to collect all the simple rule and try to explain my way a
 **As key to craft the function is to remember all the simple rule and follow it all the time**. Really? 
 I can't do it as my first trial for some function. Design pattern before code is a proper way to avoid produce shit code. However, it's not possible for everyone. Refactoring is the compromise method to achieve clean code. 
 
-***TIP:*** IDE can help you adujest structure and check the some rule, blank line or indednt.....
+***TIP:*** IDE can help you adjust structure and check the some rule, blank line or indent.....
 # Exception
 Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制. 以python為例子.  可以透過繼承 Exceptions class 去創造屬於自己的exception type. 
 ```python
@@ -43,9 +43,9 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NzY0NTcwLC0yMDMzNjMxNjEyLC0xMT
-c3MDI5NDY4LC00MjMwNjQwMTMsLTE0NzY3NjM0NTgsLTEyOTUy
-MDA5MzEsODg5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC
-0yMTM3OTQ0NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0
-ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLT
+ExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5
+NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNz
+ksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMz
+MTQ4MzQyMV19
 -->
