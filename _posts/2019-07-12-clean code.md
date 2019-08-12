@@ -22,7 +22,8 @@ I can't do it as my first trial for some function. Design pattern before code is
 
 **How to refactor giant god function 100~1000 lines?**
 - promote it as a class
-- 
+
+# Object OOP utopia
 
 
 ***TIP:*** IDE can help you adjust structure and check the some rule, blank line or indent.....
@@ -52,9 +53,9 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxNzEzNjYsLTE1MjIxMzM1MDcsLT
-IwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3
-Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OT
-c2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2
-MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMj
+AzMzYzMTYxMiwtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2
+NzYzNDU4LC0xMjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5Nz
+YsMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYw
+NTExMTUxNCwxMzMxNDgzNDIxXX0=
 -->
