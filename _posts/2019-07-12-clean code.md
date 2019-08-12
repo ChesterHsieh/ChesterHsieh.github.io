@@ -1,3 +1,6 @@
+# Intro
+SPR: simple rule policy. 
+This document is mean to collect all the simple rule and try to explain my way as much as possible.
 # Variable naming
 - 避免誤導. List, 不應該出現在變數..
 	=> 這跟匈牙利命名法,現在IDE take care them. 所以 python 這種語言更加的用不到...
@@ -35,8 +38,8 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMT
-Q3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4
-OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LD
-E2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbLTIwMzM2MzE2MTIsLTExNzcwMjk0NjgsLT
+QyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5
+ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MT
+AsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
 -->
