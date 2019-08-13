@@ -24,13 +24,19 @@ I can't do it as my first trial for some function. Design pattern before code is
 - promote it as a class
 
 # Object OOP utopia
+Rule number 1:
+Object should express **behavior** not data.
 
 
-***TIP:*** IDE can help you adjust structure and check the some rule, blank line or indent.....
+
+
 # Formating
 SRP:
 - No 3 tabs
 - One function never exceed 10 lines.
+
+***TIP:*** IDE can help you adjust structure and check the some rule, blank line or indent.....
+
 # Exception
 Prefer doing exception instead of running error code. 有一個絕大的好處, 就是可以切割exception的處理機制. 以python為例子.  可以透過繼承 Exceptions class 去創造屬於自己的exception type. 
 ```python
@@ -53,9 +59,9 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMj
-AzMzYzMTYxMiwtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2
-NzYzNDU4LC0xMjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5Nz
-YsMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYw
-NTExMTUxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbMTU1NDU5NDI0NCwtNDAzNjE4MDY3LC0xNT
+IyMTMzNTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMw
+NjQwMTMsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMz
+gsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0
+MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
 -->
