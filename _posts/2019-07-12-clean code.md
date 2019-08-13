@@ -59,11 +59,15 @@ else:
 ```
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
+
+# Comment
+SRP:
+Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MD
-M2MTgwNjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcw
-Mjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMD
-kzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIx
-Mzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4Mz
-QyMV19
+eyJoaXN0b3J5IjpbMTg4NjkzMDY4OCwtMTU5NjE3MjA5NSw5Mj
+E4NjMzMTMsLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMjAzMzYz
+MTYxMiwtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2NzYzND
+U4LC0xMjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5NzYsMTY2
+Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYwNTExMT
+UxNCwxMzMxNDgzNDIxXX0=
 -->
