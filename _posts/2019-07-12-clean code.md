@@ -27,6 +27,8 @@ I can't do it as my first trial for some function. Design pattern before code is
 SRP:
 Don't use OOP, go with procedure code.
 
+Except:
+Your code is going to provide outside world(client) ?! 我這邊有點困惑
 
 
 # Formating
@@ -58,9 +60,10 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxODYzMzEzLC00MDM2MTgwNjcsLTE1Mj
-IxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQyMzA2
-NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOC
-wxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQx
-OTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MD
+M2MTgwNjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcw
+Mjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMD
+kzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIx
+Mzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4Mz
+QyMV19
 -->
