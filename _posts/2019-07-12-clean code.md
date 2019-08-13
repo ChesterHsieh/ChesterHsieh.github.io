@@ -24,9 +24,8 @@ I can't do it as my first trial for some function. Design pattern before code is
 - promote it as a class
 
 # Object OOP utopia
-Rule number 1:
-Object should express **behavior** not data.
-
+SRP:
+Don't use 
 
 
 
@@ -59,7 +58,7 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDU5NDI0NCwtNDAzNjE4MDY3LC0xNT
+eyJoaXN0b3J5IjpbMTUwMzkwNDgzNSwtNDAzNjE4MDY3LC0xNT
 IyMTMzNTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMw
 NjQwMTMsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMz
 gsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0
