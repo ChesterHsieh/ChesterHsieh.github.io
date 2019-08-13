@@ -25,7 +25,7 @@ I can't do it as my first trial for some function. Design pattern before code is
 
 # Object OOP utopia
 SRP:
-Don't use 
+Don't use OOP, go with procedure code.
 
 
 
@@ -58,9 +58,9 @@ else:
 
 Follow 上面function的原則. 如果需要在function中作例外處理.  Try 一定是寫在最頂頭.  也不會有別的Code跟在finally or else clause
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzkwNDgzNSwtNDAzNjE4MDY3LC0xNT
-IyMTMzNTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMw
-NjQwMTMsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMz
-gsMTAwMTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0
-MTkzNTg2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbOTIxODYzMzEzLC00MDM2MTgwNjcsLTE1Mj
+IxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQyMzA2
+NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOC
+wxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQx
+OTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
 -->
