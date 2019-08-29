@@ -8,8 +8,7 @@ header-img: img/failure.jpg
 catalog: true
 tags:
     - Job
-   - NLP
-
+    - NLP
 ---
 # Question Collection 
 ## What's word embedding and how to implement?
@@ -209,5 +208,5 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM4MjM3NTVdfQ==
+eyJoaXN0b3J5IjpbMTEwOTA0MDg4OV19
 -->
