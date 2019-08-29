@@ -1,12 +1,12 @@
 ﻿---
 layout:     post
-title:      DS Question Collection-A/B Test
+title:      Notes on Noise Contrastive Estimation and Negative Sampling
 subtitle:   Failure doesn't defeat you
 date:       2018-11-09
 author:    Chester
 catalog: true
 tags:
-    Job
+	-paper
 ---
 # [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf_)
 
@@ -44,7 +44,7 @@ Generate the synonym by co-clicked.
 Measure the similairt by click activity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDU5NjI2NSwxMjg2MDk5MTM4LC0xMj
+eyJoaXN0b3J5IjpbMTU4NTkyNTQ5MywxMjg2MDk5MTM4LC0xMj
 U5MTc0Mzc5LC0xNDQ5NDE0NzEzLDIxOTg2MDAwMywtNjYwMTU5
 OTQsNjgwMjIwNjAzXX0=
 -->
