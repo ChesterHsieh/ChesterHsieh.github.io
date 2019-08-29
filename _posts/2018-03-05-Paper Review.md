@@ -1,3 +1,13 @@
+﻿---
+layout:     post
+title:      DS Question Collection-A/B Test
+subtitle:   Failure doesn't defeat you
+date:       2018-11-09
+author:    Chester
+catalog: true
+tags:
+    Job
+---
 # [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf_)
 
 It's kind of wired to write down note for note. In turn this isn't the typical NLP paper. 
@@ -34,7 +44,7 @@ Generate the synonym by co-clicked.
 Measure the similairt by click activity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjA5OTEzOCwtMTI1OTE3NDM3OSwtMT
-Q0OTQxNDcxMywyMTk4NjAwMDMsLTY2MDE1OTk0LDY4MDIyMDYw
-M119
+eyJoaXN0b3J5IjpbLTUyNDU5NjI2NSwxMjg2MDk5MTM4LC0xMj
+U5MTc0Mzc5LC0xNDQ5NDE0NzEzLDIxOTg2MDAwMywtNjYwMTU5
+OTQsNjgwMjIwNjAzXX0=
 -->
