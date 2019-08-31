@@ -1,7 +1,8 @@
 ---  
 layout: post  
 title: Amazon 14 Principle
-subtitle: My funny(Fake) story
+subtitle: My funny(Fake) storyBehavior Question
+subtitle: What I learn from Amazon and Preparation
 date: 2018-11-20
 author: Chester  
 header-img: img/failure.jpg  
@@ -150,5 +151,5 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
