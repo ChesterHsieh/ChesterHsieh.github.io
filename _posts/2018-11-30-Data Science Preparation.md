@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      How to become data scientist
-subtitle:   No PHD, No Experience, Not in top 30
+subtitle:   Not PHD, Not Experienced, Not in top 30 School
 date:       2018-11-30
 author:    Chester
 header-img: img/failure.jpg
@@ -79,11 +79,11 @@ I have no idea about pytorch. Keras and tensorflow have well documented API. I s
 
 
 ## DS question
-While I start to prepare the interview, I wonder if there's a list can be checked one by one. Once I finish all the question, I'll pass most of interview. **I don't think it should be there** 
+While I start to prepare the interview, I wonder if there's a list can be checked one by one. Once I finish allI spend ton of times to crack the DS question, I'll pass most of interview. **I don't think it should be there** 
 
-Most exciting interview is coming from Amazon. I applied the application engineer, not a data scientist. A good interview should have much more knowledge base than you, either in breadth or depth of knowledge. The questions should push you to the edge of your knowledge. It's like exploring unknown dugent. Try to get as far as you can. 
+Most exciting ints. It's serview is coming from Amazon. I applied the application engineer, not a data scientist. A good interview should have much more knowledge base than you, either in breadth or depth of knowledge. The questions should push you to the edge of your knowledge. It's like exploring unknown dugent. Try to get as far as you can. 
 
-However there's still really basic questions, some of the job seeker can't answer. 
+However there's still really basic questions, some of the job seeker can't answers trial and errors. However it turn out few scenario on designing question. 
 
 
 
@@ -94,10 +94,19 @@ There's very very common issue is that  **Do I have perfect resume?**. I don't t
 ![](https://cdn-images-1.medium.com/max/1600/1*gBLsSYp3M9gYhsgprRHVww.jpeg)
 
 ## Networking v.s. Apply as much as you can
-We all know networking is very important. You'll always heard someone said you shouldn't waste your time on apply many jobs but spend on networking. I don't agree with this. We can be greedy and shoot the both target. To do networking has   **peak period** , you can arrange the schedule to achieve both.
+We all know networking is very important. You'll always heard someone said you shouldn't waste your time on apply many jobs but spend on networking. I don't agree with this. We can be greedy and shoot the both target. To do networking has   **peak period** , you can arra
 
+# Interview 
+There's are few general types for  interview.
+1. Phone interview
+2. Online assessment
+3. Machine learning case study
+4. On-site( I can't tell, since I haven't beinge the schedule to achieve both.
 
+on-site).
+
+## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcyNTk1NzZdfQ==
+eyJoaXN0b3J5IjpbODk4MzcxNjEwLC0yMDk3MjU5NTc2XX0=
 -->
