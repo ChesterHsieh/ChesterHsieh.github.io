@@ -8,7 +8,7 @@
 # Version evolve
 Design pattern
 v1 -> v2
-S
+Dive the common function into different part.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDQwODUxLC0xNTc3MjU2NTg3XX0=
+eyJoaXN0b3J5IjpbOTI4MTg0ODY4LC0xNTc3MjU2NTg3XX0=
 -->
