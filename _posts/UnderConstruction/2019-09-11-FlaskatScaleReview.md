@@ -7,13 +7,19 @@
 []()
 # Version evolve
 Design pattern
-v1 -> v2
-Dive the common function into different part.
+v0.1 
 Move the dictionary code into json
+
+v0.2
+add utils.py. Move some function into other part. Try to break down big chunk flack file into se
+
+
+v0.3
+
 
 # Extra Flask function
 ## @token_auth.login_required
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwOTE1MjIyLDkyODE4NDg2OCwtMTU3Nz
-I1NjU4N119
+eyJoaXN0b3J5IjpbMTg2NTQxNzg2Miw4NDA5MTUyMjIsOTI4MT
+g0ODY4LC0xNTc3MjU2NTg3XX0=
 -->
