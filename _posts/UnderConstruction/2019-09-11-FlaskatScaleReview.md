@@ -9,6 +9,11 @@
 Design pattern
 v1 -> v2
 Dive the common function into different part.
+Move the dictionary code into json
+
+# Extra Flask function
+## @token_auth.login_required
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MTg0ODY4LC0xNTc3MjU2NTg3XX0=
+eyJoaXN0b3J5IjpbODQwOTE1MjIyLDkyODE4NDg2OCwtMTU3Nz
+I1NjU4N119
 -->
