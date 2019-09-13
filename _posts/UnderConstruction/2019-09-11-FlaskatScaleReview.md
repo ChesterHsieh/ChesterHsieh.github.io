@@ -17,9 +17,9 @@ v0.3
 # Extra Flask function
 ## @token_auth.login_required
 
-# How t test code runs?
+# How to test code runs?
 It
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzQ5NzU4NywtMTQyNDEyNTg5OSw4ND
+eyJoaXN0b3J5IjpbLTk0NzY3NDcwMCwtMTQyNDEyNTg5OSw4ND
 A5MTUyMjIsOTI4MTg0ODY4LC0xNTc3MjU2NTg3XX0=
 -->
