@@ -18,9 +18,7 @@ sidebar-avatar: /img/about_me.png     # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
 github_username:    ChesterHsieh
-#twitter_username:   qiubaiying
 
 
 
@@ -59,11 +57,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 3c92358d031319276e3b                            #生成的clientID
+  clientSecret: fdeb31ce99952d19e592d4ccaff29c9969783907    #生成的clientSecret
+  repo: ChesterHsieh.github.io    #仓库名称
+  owner: ChesterHsieh    #github用户名
+  admin: ChesterHsieh
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
