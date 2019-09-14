@@ -13,6 +13,10 @@ v0.2
 add utils.py. Move some function into other part. Try to break down big chunk flack file into several easier understand file.
 v0.3
 
+#Flask function block study
+## Token
+[token-based-authentication-with-flask]([https://realpython.com/token-based-authentication-with-flask/](https://realpython.com/token-based-authentication-with-flask/)) refer a method on how to build the 
+
 
 # Extra Flask function
 ## @token_auth.login_required
@@ -20,6 +24,7 @@ v0.3
 # How to test code runs?
 It
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzY3NDcwMCwtMTQyNDEyNTg5OSw4ND
-A5MTUyMjIsOTI4MTg0ODY4LC0xNTc3MjU2NTg3XX0=
+eyJoaXN0b3J5IjpbMTk1ODE5ODIzOSwtOTQ3Njc0NzAwLC0xND
+I0MTI1ODk5LDg0MDkxNTIyMiw5MjgxODQ4NjgsLTE1NzcyNTY1
+ODddfQ==
 -->
