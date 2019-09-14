@@ -15,7 +15,9 @@ v0.3
 
 #Flask function block study
 ## Token
-[token-based-authentication-with-flask]([https://realpython.com/token-based-authentication-with-flask/](https://realpython.com/token-based-authentication-with-flask/)) refer a method on how to build the 
+[token-based-authentication-with-flask]([https://realpython.com/token-based-authentication-with-flask/](https://realpython.com/token-based-authentication-with-flask/)) refer a method on how to build the auth login system. 
+
+
 
 
 # Extra Flask function
@@ -24,7 +26,7 @@ v0.3
 # How to test code runs?
 It
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODE5ODIzOSwtOTQ3Njc0NzAwLC0xND
-I0MTI1ODk5LDg0MDkxNTIyMiw5MjgxODQ4NjgsLTE1NzcyNTY1
-ODddfQ==
+eyJoaXN0b3J5IjpbOTMyMjY0MTI1LC05NDc2NzQ3MDAsLTE0Mj
+QxMjU4OTksODQwOTE1MjIyLDkyODE4NDg2OCwtMTU3NzI1NjU4
+N119
 -->
