@@ -28,8 +28,11 @@ request, current_app, Flask
 
 # How to test code runs?
 It
+
+# Deployment
+## nginx+ uwsgi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjI3ODcyNSwyNzA4OTY5MDYsOTMyMj
-Y0MTI1LC05NDc2NzQ3MDAsLTE0MjQxMjU4OTksODQwOTE1MjIy
-LDkyODE4NDg2OCwtMTU3NzI1NjU4N119
+eyJoaXN0b3J5IjpbLTUzNjA1MjQ1LDEyODIyNzg3MjUsMjcwOD
+k2OTA2LDkzMjI2NDEyNSwtOTQ3Njc0NzAwLC0xNDI0MTI1ODk5
+LDg0MDkxNTIyMiw5MjgxODQ4NjgsLTE1NzcyNTY1ODddfQ==
 -->
