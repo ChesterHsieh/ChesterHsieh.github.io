@@ -11,6 +11,8 @@ In SQL can be write  as **NOT IN** to achieve this concept
 Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
 **BETWEEN** can be apply to date format.
 
+## pick the maximum concept
+
 
 
 # Question STACK
@@ -26,6 +28,6 @@ HAVING MIN(sale_date) >= CAST('2019-01-01' AS DATE) AND
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTEwNzY5NiwxMDk5MTM5MDUzLDE5NT
-IzODIwODIsMTc0MjUyMjU5OV19
+eyJoaXN0b3J5IjpbMTM0MzUyMzAyNCwxMzQ5MTA3Njk2LDEwOT
+kxMzkwNTMsMTk1MjM4MjA4MiwxNzQyNTIyNTk5XX0=
 -->
