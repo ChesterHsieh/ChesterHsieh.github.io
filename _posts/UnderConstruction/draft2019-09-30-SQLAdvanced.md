@@ -5,7 +5,8 @@ In SQL can be write  as **NOT IN** to achieve this concept
 
 [Sales-Analysis]([https://leetcode.com/problems/sales-analysis-ii/](https://leetcode.com/problems/sales-analysis-ii/))
 
-## 
+## Time Stamp
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg5NTM1NzEsMTc0MjUyMjU5OV19
+eyJoaXN0b3J5IjpbNjEwMjM5NjQzLDE3NDI1MjI1OTldfQ==
 -->
