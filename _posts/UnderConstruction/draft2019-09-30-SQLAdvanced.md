@@ -7,7 +7,9 @@ In SQL can be write  as **NOT IN** to achieve this concept
 
 ## Time Stamp
 **DATEADD()**
+**DATEDIFF()**
+Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDcyODYyNywxNzQyNTIyNTk5XX0=
+eyJoaXN0b3J5IjpbMTk1MjM4MjA4MiwxNzQyNTIyNTk5XX0=
 -->
