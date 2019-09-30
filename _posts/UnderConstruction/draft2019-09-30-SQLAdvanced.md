@@ -6,7 +6,8 @@ In SQL can be write  as **NOT IN** to achieve this concept
 [Sales-Analysis]([https://leetcode.com/problems/sales-analysis-ii/](https://leetcode.com/problems/sales-analysis-ii/))
 
 ## Time Stamp
+**DATEADD()**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMjM5NjQzLDE3NDI1MjI1OTldfQ==
+eyJoaXN0b3J5IjpbMTIzNDcyODYyNywxNzQyNTIyNTk5XX0=
 -->
