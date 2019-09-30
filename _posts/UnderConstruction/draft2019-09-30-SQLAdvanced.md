@@ -9,7 +9,9 @@ In SQL can be write  as **NOT IN** to achieve this concept
 **DATEADD()**
 **DATEDIFF()**
 Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
+**BETWEEN** can be apply to date format.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjM4MjA4MiwxNzQyNTIyNTk5XX0=
+eyJoaXN0b3J5IjpbMTA5OTEzOTA1MywxOTUyMzgyMDgyLDE3ND
+I1MjI1OTldfQ==
 -->
