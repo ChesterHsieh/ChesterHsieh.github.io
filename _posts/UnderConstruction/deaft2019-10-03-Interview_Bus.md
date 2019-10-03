@@ -33,9 +33,10 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 ------------------
 JMEX
 4. Project manager 
-New concept in
+New Product Development
+5.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg0MzgzMTMsMTg2MzY3MDMsLTgxNz
+eyJoaXN0b3J5IjpbLTEyMzE2Nzg5OTcsMTg2MzY3MDMsLTgxNz
 k4ODEzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYy
 LC0xODAyMzA5OTczXX0=
 -->
