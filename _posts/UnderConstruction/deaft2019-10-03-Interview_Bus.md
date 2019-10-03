@@ -13,14 +13,14 @@ Always know where's the limitation and not give up to find the compromise. That'
 - ORDER BY
 - STICK to some 
 ## Dashboard
-
 1. Airport experience. 
-2. Production
+2. Production on NLP
+## Condense c
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc5ODcyMCwtMTAwMzc5NTM3NSwyND
-EyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbOTA5OTYwNzE1LC0xMDAzNzk1Mzc1LDI0MT
+I3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5NzNdfQ==
 -->
