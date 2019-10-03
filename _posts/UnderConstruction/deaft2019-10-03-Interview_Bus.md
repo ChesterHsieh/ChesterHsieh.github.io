@@ -17,7 +17,10 @@ Always know where's the limitation and not give up to find the compromise. That'
 2. Production on NLP
 ## Condense complex concept
 ## Cross the deadlines
-When I worked in 
+When I worked in one of our client, we're dealing with very large date set.  The job can only running on cloud cluster and take more than 12 hours to run. 
+
+
+In technique, we should fail early in soe
 
 Learn:
 - fail early
@@ -28,7 +31,7 @@ Learn:
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzQxNjc0OCwtODE3OTg4MTMwLC0xMD
-AzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTI0MTM1MDc5LC04MTc5ODgxMzAsLTEwMD
+M3OTUzNzUsMjQxMjcwNzIwLDI5OTk1NjU2MiwtMTgwMjMwOTk3
+M119
 -->
