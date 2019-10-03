@@ -25,7 +25,7 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 # Introduction
 - Business experience
 - Transfer to subscription
-
+- 
 I'm creative ver·sa·tile, ,, love to learning
 1. POC internal product
 	- Translator 
@@ -39,7 +39,7 @@ JMEX
 New Product Development
 5.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgxNTY3NzYsMTg2MzY3MDMsLTgxNz
-k4ODEzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYy
-LC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbLTgyMjgxODM5NSwtMTk2ODE1Njc3NiwxOD
+YzNjcwMywtODE3OTg4MTMwLC0xMDAzNzk1Mzc1LDI0MTI3MDcy
+MCwyOTk5NTY1NjIsLTE4MDIzMDk5NzNdfQ==
 -->
