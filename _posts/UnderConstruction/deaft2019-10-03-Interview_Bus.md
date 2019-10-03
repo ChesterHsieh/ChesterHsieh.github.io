@@ -28,9 +28,10 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 
 
 1. POC internal product
-	- Translate
-	-
-3. Search Engine Optimization
+	- Translator 
+	- Python backend and put it on the cloud
+2. Search Engine Optimization
+     - 
 4. Master Degree, research on NLP
 ------------------
 JMEX
@@ -38,7 +39,7 @@ JMEX
 New Product Development
 5.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MzIyODIsMTg2MzY3MDMsLTgxNzk4OD
-EzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYyLC0x
-ODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbMTA1ODQwNjIzMiwxODYzNjcwMywtODE3OT
+g4MTMwLC0xMDAzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIs
+LTE4MDIzMDk5NzNdfQ==
 -->
