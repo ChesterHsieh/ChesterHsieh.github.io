@@ -25,8 +25,17 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 # Introduction
 - Business experience
 - Transfer to subscription
+
+
+1. POC internal product
+2. Search Engine Optimization
+3. Master Degree, research on NLP
+------------------
+JMEX
+4. Project manager 
+New concept in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzY3MDMsLTgxNzk4ODEzMCwtMTAwMz
-c5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTcz
-XX0=
+eyJoaXN0b3J5IjpbLTEwNTg0MzgzMTMsMTg2MzY3MDMsLTgxNz
+k4ODEzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYy
+LC0xODAyMzA5OTczXX0=
 -->
