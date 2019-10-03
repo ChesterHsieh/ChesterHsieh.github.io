@@ -17,6 +17,7 @@ Always know where's the limitation and not give up to find the compromise. That'
 2. Production on NLP
 ## Condense complex concept
 ## Cross the deadlines
+When I worked in 
 
 Learn:
 - fail early
@@ -27,7 +28,7 @@ Learn:
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzYxOTE0NiwtODE3OTg4MTMwLC0xMD
+eyJoaXN0b3J5IjpbLTgyNzQxNjc0OCwtODE3OTg4MTMwLC0xMD
 AzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5
 NzNdfQ==
 -->
