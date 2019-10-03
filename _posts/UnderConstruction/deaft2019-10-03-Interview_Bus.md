@@ -17,21 +17,16 @@ Always know where's the limitation and not give up to find the compromise. That'
 2. Production on NLP
 ## Condense complex concept
 ## Cross the deadlines
-When I worked in one of our client, we're dealing with very large date set.  The job can only running on cloud cluster and take more than 12 hours to run. We al
-
+When I worked in one of our client, we're dealing with very large date set.  The job can only running on cloud cluster and take more than 12 hours to run. 
 
 In technique, we should fail early in for some test. Randomly to pick the some part of sample set. It need to be big enough to test the machine. And some signal should be implement in the beginning.  No matter how the work is urgent, write the test is necessary in anyway.  
 
-Learn:
-- fail early
-- Be honest to client
-- 
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDU0NDg0OCwtODE3OTg4MTMwLC0xMD
-AzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTg2MzY3MDMsLTgxNzk4ODEzMCwtMTAwMz
+c5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTcz
+XX0=
 -->
