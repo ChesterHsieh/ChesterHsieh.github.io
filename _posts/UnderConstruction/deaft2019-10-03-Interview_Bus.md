@@ -6,7 +6,12 @@ PM experience
 Always know where's the limitation and not give up to find the compromise. That's the key
 
 
-##  
+##  DS experience v.s. JD
+
+# Introduction
+- Business experience
+- Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjcwODA1LC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbLTE5NjkxMDczMzMsLTE4MDIzMDk5NzNdfQ
+==
 -->
