@@ -26,7 +26,7 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 - Business experience
 - Transfer to subscription
 
-
+I'm creative ver·sa·tile, ,, love to learning
 1. POC internal product
 	- Translator 
 	- Python backend and put it on the cloud
@@ -39,7 +39,7 @@ JMEX
 New Product Development
 5.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODQwNjIzMiwxODYzNjcwMywtODE3OT
-g4MTMwLC0xMDAzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIs
-LTE4MDIzMDk5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjgxNTY3NzYsMTg2MzY3MDMsLTgxNz
+k4ODEzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYy
+LC0xODAyMzA5OTczXX0=
 -->
