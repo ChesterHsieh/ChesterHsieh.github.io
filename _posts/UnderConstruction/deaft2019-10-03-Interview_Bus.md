@@ -14,12 +14,13 @@ Always know where's the limitation and not give up to find the compromise. That'
 - STICK to some 
 ## Dashboard
 
-
+1. Airport experience. 
+2. Production
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNzY1ODUsLTEwMDM3OTUzNzUsMjQxMj
-cwNzIwLDI5OTk1NjU2MiwtMTgwMjMwOTk3M119
+eyJoaXN0b3J5IjpbLTIwNDc5ODcyMCwtMTAwMzc5NTM3NSwyND
+EyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
 -->
