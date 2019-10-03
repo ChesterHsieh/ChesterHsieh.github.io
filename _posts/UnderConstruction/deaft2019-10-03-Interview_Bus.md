@@ -20,7 +20,7 @@ Always know where's the limitation and not give up to find the compromise. That'
 When I worked in one of our client, we're dealing with very large date set.  The job can only running on cloud cluster and take more than 12 hours to run. 
 
 
-In technique, we should fail early in soe
+In technique, we should fail early in for some test. Randomly to pick the some part of sample set. It need to be big enough to test the machine. And some signal should be im
 
 Learn:
 - fail early
@@ -31,7 +31,7 @@ Learn:
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTM1MDc5LC04MTc5ODgxMzAsLTEwMD
+eyJoaXN0b3J5IjpbMzkyNzgwMTgxLC04MTc5ODgxMzAsLTEwMD
 M3OTUzNzUsMjQxMjcwNzIwLDI5OTk1NjU2MiwtMTgwMjMwOTk3
 M119
 -->
