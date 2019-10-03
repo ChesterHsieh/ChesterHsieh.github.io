@@ -8,7 +8,7 @@ Always know where's the limitation and not give up to find the compromise. That'
 
 ##  DS experience v.s. JD
 
-## BigQuery
+## insight synthesis and presentation
 - APPROX_COUNT_DISTINCT()
 - ORDER BY
 - STICK to some 
@@ -18,6 +18,6 @@ Always know where's the limitation and not give up to find the compromise. That'
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMjcwNzIwLDI5OTk1NjU2MiwtMTgwMj
-MwOTk3M119
+eyJoaXN0b3J5IjpbLTEwMDM3OTUzNzUsMjQxMjcwNzIwLDI5OT
+k1NjU2MiwtMTgwMjMwOTk3M119
 -->
