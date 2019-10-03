@@ -11,10 +11,12 @@ Always know where's the limitation and not give up to find the compromise. That'
 ## BigQuery
 - APPROX_COUNT_DISTINCT()
 - ORDER BY
+- STICK to some 
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbMTc5NDU5MjQzMCwyOTk5NTY1NjIsLTE4MD
+IzMDk5NzNdfQ==
 -->
