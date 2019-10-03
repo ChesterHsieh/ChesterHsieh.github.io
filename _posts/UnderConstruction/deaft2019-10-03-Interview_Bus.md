@@ -15,12 +15,13 @@ Always know where's the limitation and not give up to find the compromise. That'
 ## Dashboard
 1. Airport experience. 
 2. Production on NLP
-## Condense c
+## Condense complex concept
+## Cross the deadlines
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTYwNzE1LC0xMDAzNzk1Mzc1LDI0MT
-I3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5NzNdfQ==
+eyJoaXN0b3J5IjpbLTgxNzk4ODEzMCwtMTAwMzc5NTM3NSwyND
+EyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
 -->
