@@ -28,15 +28,17 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 
 
 1. POC internal product
-2. Search Engine Optimization
-3. Master Degree, research on NLP
+	- Translate
+	-
+3. Search Engine Optimization
+4. Master Degree, research on NLP
 ------------------
 JMEX
-4. Project manager 
+5. Project manager 
 New Product Development
 5.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE2Nzg5OTcsMTg2MzY3MDMsLTgxNz
-k4ODEzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYy
-LC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbMzA3MzIyODIsMTg2MzY3MDMsLTgxNzk4OD
+EzMCwtMTAwMzc5NTM3NSwyNDEyNzA3MjAsMjk5OTU2NTYyLC0x
+ODAyMzA5OTczXX0=
 -->
