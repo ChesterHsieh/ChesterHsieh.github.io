@@ -18,10 +18,16 @@ Always know where's the limitation and not give up to find the compromise. That'
 ## Condense complex concept
 ## Cross the deadlines
 
+Learn:
+- fail early
+- Be honest to client
+- 
+
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzk4ODEzMCwtMTAwMzc5NTM3NSwyND
-EyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
+eyJoaXN0b3J5IjpbMTc4NzYxOTE0NiwtODE3OTg4MTMwLC0xMD
+AzNzk1Mzc1LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5
+NzNdfQ==
 -->
