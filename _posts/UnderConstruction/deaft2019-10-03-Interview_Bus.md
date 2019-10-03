@@ -13,10 +13,11 @@ Always know where's the limitation and not give up to find the compromise. That'
 - ORDER BY
 - STICK to some 
 
+
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDU5MjQzMCwyOTk5NTY1NjIsLTE4MD
-IzMDk5NzNdfQ==
+eyJoaXN0b3J5IjpbMjQxMjcwNzIwLDI5OTk1NjU2MiwtMTgwMj
+MwOTk3M119
 -->
