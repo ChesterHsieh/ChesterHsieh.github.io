@@ -8,10 +8,13 @@ Always know where's the limitation and not give up to find the compromise. That'
 
 ##  DS experience v.s. JD
 
+## BigQuery
+- APPROX_COUNT_DISTINCT()
+- 
+
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkxMDczMzMsLTE4MDIzMDk5NzNdfQ
-==
+eyJoaXN0b3J5IjpbMzA3MjE1MTEzLC0xODAyMzA5OTczXX0=
 -->
