@@ -12,12 +12,14 @@ Always know where's the limitation and not give up to find the compromise. That'
 - APPROX_COUNT_DISTINCT()
 - ORDER BY
 - STICK to some 
+## Dashboard
+
 
 
 # Introduction
 - Business experience
 - Transfer to subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM3OTUzNzUsMjQxMjcwNzIwLDI5OT
-k1NjU2MiwtMTgwMjMwOTk3M119
+eyJoaXN0b3J5IjpbODIwNzY1ODUsLTEwMDM3OTUzNzUsMjQxMj
+cwNzIwLDI5OTk1NjU2MiwtMTgwMjMwOTk3M119
 -->
