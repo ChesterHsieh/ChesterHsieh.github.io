@@ -11,7 +11,7 @@ github_repo: "https://github.com/ChesterHsieh/ChesterHsieh.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "That's show time"
+sidebar-about-description: "Always look for better challenge :)"
 sidebar-avatar: /img/about_me.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
