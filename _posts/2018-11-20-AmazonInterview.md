@@ -11,37 +11,8 @@ tags:
 - Job
   
 ---
-Amazon interview question
 
-L1/L2 difference
 
-feature selection
-
-ADAM
-
-momentum
-
-GAN
-
-stochastic gradient descent
-
-validation set
-
-ranking evaluation metrics
-
-sampling on missing value
-
-online clustering
-
-Least discriminative analysis
-
-#### Reservoir sampling(水塘問題)
-
-rand-> p  
-if P< 1/n:  
-Replace  
-Else:  
-Return Value before
 
 ## Behavior Questions - 14 Principle
 1. Customer Obsession
@@ -151,5 +122,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4OD
+g0ODUzMDVdfQ==
 -->
