@@ -16,6 +16,7 @@ Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
 - There's should be columns names.
 - Select more columns to avoid the duplicated. Not using *distinct*
 - Create joins with INNER JOIN rather than WHERE
+- Use Sliding Window technique to maintain data
 
 # Question STACK
 why cast ?
@@ -30,7 +31,7 @@ HAVING MIN(sale_date) >= CAST('2019-01-01' AS DATE) AND
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjM4MTc3OCwxMzQzNTIzMDI0LDEzND
-kxMDc2OTYsMTA5OTEzOTA1MywxOTUyMzgyMDgyLDE3NDI1MjI1
-OTldfQ==
+eyJoaXN0b3J5IjpbNzk5ODIwMTYyLDExNzYzODE3NzgsMTM0Mz
+UyMzAyNCwxMzQ5MTA3Njk2LDEwOTkxMzkwNTMsMTk1MjM4MjA4
+MiwxNzQyNTIyNTk5XX0=
 -->
