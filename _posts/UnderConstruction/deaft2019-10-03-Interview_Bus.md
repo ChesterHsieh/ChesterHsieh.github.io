@@ -39,9 +39,12 @@ I'm creative ver·sa·tile, ,, love to learning
 JMEX
 5. Project manager 
 New Product Development
-5.
+
+
+
+## New Product manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MTczMDk1LC0xOTY4MTU2Nzc2LDE4Nj
-M2NzAzLC04MTc5ODgxMzAsLTEwMDM3OTUzNzUsMjQxMjcwNzIw
-LDI5OTk1NjU2MiwtMTgwMjMwOTk3M119
+eyJoaXN0b3J5IjpbOTM5NjkwNTQyLDYyODE3MzA5NSwtMTk2OD
+E1Njc3NiwxODYzNjcwMywtODE3OTg4MTMwLC0xMDAzNzk1Mzc1
+LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5NzNdfQ==
 -->
