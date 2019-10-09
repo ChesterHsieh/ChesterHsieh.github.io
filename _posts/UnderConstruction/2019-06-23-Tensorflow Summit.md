@@ -1,3 +1,18 @@
+---
+layout:     post
+title:     Tensorflow
+subtitle:   How we save time in modern world
+date:       2018-11-22
+author:    Chester
+header-img: 
+catalog: true
+tags:
+    DeepLearning
+   Tensorflow
+   NLP
+
+---
+
 # Some feature already exist
 The freature in tensorflow eco-system
 - tensorboard
@@ -30,5 +45,5 @@ JS is the dynamic language, it strongly support the front end design. It turn to
 # Swift support
 swift as another option for developing API. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDU2MjYxNl19
+eyJoaXN0b3J5IjpbMTY3NTYxNzYxNSwxNjM0NTYyNjE2XX0=
 -->
