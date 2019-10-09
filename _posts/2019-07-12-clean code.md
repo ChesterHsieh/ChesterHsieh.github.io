@@ -1,6 +1,8 @@
 # Intro
 SPR: simple rule policy. 
 This document is mean to collect all the simple rule and try to explain my way as much as possible.
+
+
 # Variable naming
 - 避免誤導. List, 不應該出現在變數..
 	=> 這跟匈牙利命名法,現在IDE take care them. 所以 python 這種語言更加的用不到...
@@ -14,6 +16,8 @@ This document is mean to collect all the simple rule and try to explain my way a
 - function: lower_and_underline
 - variable: lower_and_underline
 - class: CapWords
+
+
 
 # Function
 ## Refactoring! 
@@ -64,10 +68,10 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjkzMDY4OCwtMTU5NjE3MjA5NSw5Mj
-E4NjMzMTMsLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMjAzMzYz
-MTYxMiwtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2NzYzND
-U4LC0xMjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5NzYsMTY2
-Njc0NDI3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYwNTExMT
-UxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbMjA5OTczODg4MCwxODg2OTMwNjg4LC0xNT
+k2MTcyMDk1LDkyMTg2MzMxMywtNDAzNjE4MDY3LC0xNTIyMTMz
+NTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMwNjQwMT
+MsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMzgsMTAw
+MTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0MTkzNT
+g2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
 -->
