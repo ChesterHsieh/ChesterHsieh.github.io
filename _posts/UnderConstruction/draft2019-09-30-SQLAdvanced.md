@@ -13,7 +13,8 @@ Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
 
 ## pick the maximum concept
 
-
+- There's should be columns names.
+- 
 
 # Question STACK
 why cast ?
@@ -28,6 +29,7 @@ HAVING MIN(sale_date) >= CAST('2019-01-01' AS DATE) AND
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzUyMzAyNCwxMzQ5MTA3Njk2LDEwOT
-kxMzkwNTMsMTk1MjM4MjA4MiwxNzQyNTIyNTk5XX0=
+eyJoaXN0b3J5IjpbNjc1Mzk1MDMsMTM0MzUyMzAyNCwxMzQ5MT
+A3Njk2LDEwOTkxMzkwNTMsMTk1MjM4MjA4MiwxNzQyNTIyNTk5
+XX0=
 -->
