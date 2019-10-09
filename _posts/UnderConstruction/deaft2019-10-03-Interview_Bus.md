@@ -1,7 +1,7 @@
-# Job Description
+# Job Description Key point
 ## Track business needs
 PM experience
-那是我身為pm的故事. One of the core function for the position is try to understand what's the client's requirement.  Following my experience, the client usually don't know what's the real issue. My job is to know the background and solve the problem in limited resource. Here's the story. Our client ask us to build the gym tracker, they're asking to monitor very detail. Not just count the repetition on each exercises but speed, tension time or more. In the limited computing power, our smart band can't handle it. I realize the client is equipment provider. Instead of putting the device on user, we can put it on the weight plate. Successful to remove the individual difference and cost down. 
+**那是我身為pm的故事.** One of the core function for the position is try to understand what's the client's requirement.  Following my experience, the client usually don't know what's the real issue. My job is to know the background and solve the problem in limited resource. Here's the story. Our client ask us to build the gym tracker, they're asking to monitor very detail. Not just count the repetition on each exercises but speed, tension time or more. In the limited computing power, our smart band can't handle it. I realize the client is equipment provider. Instead of putting the device on user, we can put it on the weight plate. Successful to remove the individual difference and cost down. 
 
 Always know where's the limitation and not give up to find the compromise. That's the key
 
@@ -28,7 +28,7 @@ In technique, we should fail early in for some test. Randomly to pick the some p
 - achievement
 ---------------
 
-I'm creative ver·sa·tile, ,, love to learning
+
 1. POC internal product
 	- Translator 
 	- Python backend and put it on the cloud
@@ -44,7 +44,7 @@ New Product Development
 
 ## New Product manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NjkwNTQyLDYyODE3MzA5NSwtMTk2OD
-E1Njc3NiwxODYzNjcwMywtODE3OTg4MTMwLC0xMDAzNzk1Mzc1
-LDI0MTI3MDcyMCwyOTk5NTY1NjIsLTE4MDIzMDk5NzNdfQ==
+eyJoaXN0b3J5IjpbMjA2MTIzOTg3Myw2MjgxNzMwOTUsLTE5Nj
+gxNTY3NzYsMTg2MzY3MDMsLTgxNzk4ODEzMCwtMTAwMzc5NTM3
+NSwyNDEyNzA3MjAsMjk5OTU2NTYyLC0xODAyMzA5OTczXX0=
 -->
