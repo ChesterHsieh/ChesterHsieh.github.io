@@ -28,12 +28,15 @@ Here's some expectation on interview doesn't related to actual process. All of t
 - topic modeling 
 - contextual text mining
 - application of machine learning to NLP
-- semantic similarity, phrasal semantic analysis, text matching and similarity
+- semantic similarity
+- phrasal semantic analysis
+- text matching and similarity
 - word embedding
 - lexicon normalization
 - named entity recognition
 
 # Knowledge graph
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTM0Mzc3NiwyMTgzMzM3MzZdfQ==
+eyJoaXN0b3J5IjpbLTkyNTUwNjU2LC04MzUzNDM3NzYsMjE4Mz
+MzNzM2XX0=
 -->
