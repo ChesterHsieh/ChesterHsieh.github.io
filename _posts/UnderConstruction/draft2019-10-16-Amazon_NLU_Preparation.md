@@ -21,7 +21,16 @@ Here's some expectation on interview doesn't related to actual process. All of t
 4. [NAACL: North American Chapter of the Association for Computational Linguistics](http://naacl.org/ "North American Chapter of the Association for Computational Linguistics")
 5. [Alexa AI works]([https://amazon.jobs/zh/teams/alexa-ai)
 ## Topic selection
-
+- word categorization and tagging
+- syntactic parsing
+- word sense disambiguation 
+- topic modeling 
+- contextual text mining
+- application of machine learning to NLP
+- semantic similarity, phrasal semantic analysis, text matching and similarity
+- word embedding
+- lexicon normalization
+- named entity recognition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NDkxMTIsMjE4MzMzNzM2XX0=
+eyJoaXN0b3J5IjpbMjA2MjEwOTIxMSwyMTgzMzM3MzZdfQ==
 -->
