@@ -11,7 +11,11 @@ tags:
     - NLP
 ---
 # Warning
-Here's al
+Here's some expectation on interview doesn't related to actual process. All of the works are done before the real interview. 
+
+# Intro 
+# Top conference
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzU4MjQ5NiwyMTgzMzM3MzZdfQ==
+eyJoaXN0b3J5IjpbNTI5Mzc4ODEsMjE4MzMzNzM2XX0=
 -->
