@@ -25,7 +25,7 @@ I want to share the experience about how I prepare data scientist. Here's my bac
 ### dffkjsdfkj
 #### dfsklfjsdlk
 
-**asdkfjlk**
+
 
 ## Check LIST
 The basic preparation you should finish to gain the basic knowledge to overcome interview. Be prepare for those steps. 
@@ -112,6 +112,6 @@ on-site).
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDAxODUwMCw4OTgzNzE2MTAsLTIwOT
-cyNTk1NzZdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ1NTU1NzYsODk4MzcxNjEwLC0yMD
+k3MjU5NTc2XX0=
 -->
