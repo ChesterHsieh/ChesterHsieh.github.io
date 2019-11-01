@@ -73,7 +73,7 @@ For unsupervised learning sentiment analysis is one simple idea. Collect positiv
  3. Edit Distance
 ## What is beam search?
 ![This is the beam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bending.svg/320px-Bending.svg.png)
-In optimization problem, any solution rely on BFS or DFS, the idea is try to exhaustively search all the possible solution. If the problem know the score(performance)
+In optimization problem, any solution rely on BFS or DFS, the idea is try to exhaustively search all the possible solution. If the problem know the score(performance) in half way(tree), we can set up some threshold to remove part of the tree. The prons is obvious that save computing/memory resource, however, it can't garentee best soulution. 
 
 # Classifer problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
@@ -211,6 +211,6 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjEyMjM4OSwtNzg4OTk4NDA0LC01Nj
+eyJoaXN0b3J5IjpbLTI1MDU4ODgxMCwtNzg4OTk4NDA0LC01Nj
 c0NzIzNDUsMTEwOTA0MDg4OV19
 -->
