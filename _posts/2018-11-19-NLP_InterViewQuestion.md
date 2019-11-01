@@ -72,6 +72,7 @@ For unsupervised learning sentiment analysis is one simple idea. Collect positiv
  2. Metaphone
  3. Edit Distance
 ## What is beam search?
+beam
 
 # Classifer problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
@@ -209,6 +210,6 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMD
-kwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbLTE0MDQ3MjI3MjUsLTc4ODk5ODQwNCwtNT
+Y3NDcyMzQ1LDExMDkwNDA4ODldfQ==
 -->
