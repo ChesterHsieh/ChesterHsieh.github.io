@@ -62,10 +62,10 @@ Here's the one big problem we having standard solution today. [Language model](h
 Projection into another space matrix. LDA is one the way doing this. Try to get best result from compressing. It can be understand as compressed information with minimum information loss.
 
 ## What are stop words? Describe an application in which stop words should be removed.
-Stop word usually refer to useless information in sentence. It vary be user scenario, however, following the NLTK stop word's list: me, I , myself are 
+Stop word usually refer to useless information in sentence. It vary be user scenario, however, following the NLTK stop word's list: me, I , myself are common cases for stop words.
 
 ## How would you design a model to predict whether a movie review was positive or negative?
-Wait to answer :P
+For unsupervised learning sentiment analysis is one simple idea. Collect positive and negative word. This question can be treated as very deep problem. 
 
 ## How to implement flexible text matching
  1. Soundex 
@@ -209,6 +209,6 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIyODAyNzQsLTU2NzQ3MjM0NSwxMT
-A5MDQwODg5XX0=
+eyJoaXN0b3J5IjpbLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMD
+kwNDA4ODldfQ==
 -->
