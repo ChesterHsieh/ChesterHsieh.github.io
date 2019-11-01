@@ -59,7 +59,7 @@ a hand-crafted extractor may not be such a bad thing, especially if you need to 
 Here's the one big problem we having standard solution today. [Language model](https://en.wikipedia.org/wiki/Language_model) is one of solution. There's are different between common language model. We need to generate [character-level language model](https://towardsdatascience.com/language-models-spellchecking-and-autocorrection-dd10f739443c)
 
 ## What is latent semantic indexing and where can it be applied?
-Wait to answer :P
+Projection into another space matrix. Word2vec is one the way doing this. Give you a word and prediction next few words(skip gram). 
 
 ## What are stop words? Describe an application in which stop words should be removed.
 Wait to answer :P
@@ -209,5 +209,6 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX0=
+eyJoaXN0b3J5IjpbMTk0NTM5NTUxNywtNTY3NDcyMzQ1LDExMD
+kwNDA4ODldfQ==
 -->
