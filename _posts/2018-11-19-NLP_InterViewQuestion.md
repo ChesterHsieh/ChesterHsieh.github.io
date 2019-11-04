@@ -87,7 +87,7 @@ For lot of small taks on building chatbot, the classifer problem is more common 
  2.  Ensamble algorithm=> bagging/boosting
  3.  Weighting change. 
 
-##
+#
 
 # Deeplearning !?
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
@@ -134,7 +134,9 @@ Sometime we need to excting the interviewer and show them we catch up on the tre
 Google provide another state of art embbed way. 
 #
 
-# 
+# Specific domain knowledge
+
+
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -209,6 +211,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MjIzMDUzLDE2OTAyNjYyMTksLTc4OD
-k5ODQwNCwtNTY3NDcyMzQ1LDExMDkwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbLTEyNzIwOTkwMjQsNjU2MjIzMDUzLDE2OT
+AyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMDkwNDA4
+ODldfQ==
 -->
