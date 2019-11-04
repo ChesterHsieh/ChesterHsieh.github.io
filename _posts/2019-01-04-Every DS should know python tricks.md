@@ -8,6 +8,8 @@ It's black magic when you try to scrape with API. Every limitations on server yo
 
 
 # Pycharm debug technique
+
+# Parallel computing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEyMzY3ODldfQ==
+eyJoaXN0b3J5IjpbMTc5MTY4NDc1MSwtMTc3MTIzNjc4OV19
 -->
