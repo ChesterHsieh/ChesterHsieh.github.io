@@ -132,7 +132,9 @@ Tensorflow is the the only library I've used so far.( I assume the keras as part
 Sometime we need to excting the interviewer and show them we catch up on the trend. 
 ## Bert
 Google provide another state of art embbed way. 
-##
+#
+
+# 
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -186,12 +188,8 @@ There's are two example using HMM concept.
     Eat the module, that's it.
 4. Manager
 ## JAVA wrapper as client service
-## Flask
-## 
 
-# Shell Script
-
-
+# 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
 
@@ -211,6 +209,6 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Nj
-c0NzIzNDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbNjU2MjIzMDUzLDE2OTAyNjYyMTksLTc4OD
+k5ODQwNCwtNTY3NDcyMzQ1LDExMDkwNDA4ODldfQ==
 -->
