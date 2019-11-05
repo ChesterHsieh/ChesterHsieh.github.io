@@ -220,9 +220,9 @@ There's are two example using HMM concept.
 - Adam
 - Binary Search Tree Iterator
 - 高频9道题
-- 
+- streaming data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDM5NTEzMCwtMTI3MjA5OTAyNCw2NT
+eyJoaXN0b3J5IjpbMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NT
 YyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIz
 NDUsMTEwOTA0MDg4OV19
 -->
