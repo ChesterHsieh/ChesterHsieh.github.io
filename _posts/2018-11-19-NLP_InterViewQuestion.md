@@ -213,9 +213,16 @@ There's are two example using HMM concept.
 
 # 題
 - bst转成按顺序排列的双链表。我很久以前刷锅这个题
+- logistic regression
+- underfitting， overfitting。 generative
+- 在迷宫里判断两个点是否可达。
+- overfitting
+- Adam
+- Binary Search Tree Iterator
+- 高频9道题
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE1MjY5NDAsLTEyNzIwOTkwMjQsNj
-U2MjIzMDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcy
-MzQ1LDExMDkwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbMTgzNDM5NTEzMCwtMTI3MjA5OTAyNCw2NT
+YyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIz
+NDUsMTEwOTA0MDg4OV19
 -->
