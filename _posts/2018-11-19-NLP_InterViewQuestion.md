@@ -221,8 +221,10 @@ There's are two example using HMM concept.
 - Binary Search Tree Iterator
 - 高频9道题
 - streaming data
+- Boy or Girl paradox
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NT
-YyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIz
-NDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMT
+I3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4
+NDA0LC01Njc0NzIzNDUsMTEwOTA0MDg4OV19
 -->
