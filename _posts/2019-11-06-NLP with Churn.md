@@ -12,13 +12,14 @@ If the service is subscription type business. For example e-commerce. Customer d
 Everyone new to this problem should take look on [Kaggle data](https://www.kaggle.com/blastchar/telco-customer-churn) first. There are already good solution on predict. This post is trying to target text data.
 
 ## NLP source
-Call log/Email/Online assistance history are the three major resource the company can utilize. Do you remember everytime you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
-Except that, When customer don’t receive g exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
+Call log/Email/Online assistance history are the three major resource the company can utilize. Do you remember every time you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
+
+Except that, When customer don’t receive exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
 
 # Pain Point
+
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI5MTkwOTIsLTE3NTAwMzQ5MjJdfQ
-==
+eyJoaXN0b3J5IjpbNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
 -->
