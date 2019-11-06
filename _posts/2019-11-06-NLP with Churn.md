@@ -12,11 +12,11 @@ If the service is subscription type business. For example e-commerce. Customer d
 Everyone new to this problem should take look on [Kaggle data](https://www.kaggle.com/blastchar/telco-customer-churn) first. There are already good solution on predict. This post is trying to target text data.
 
 ## NLP source
-
+Call log/Email/Online assistance history are the three major resou
 
 # Pain Point
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwMzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbMTU1OTM3MzQ1NywtMTc1MDAzNDkyMl19
 -->
