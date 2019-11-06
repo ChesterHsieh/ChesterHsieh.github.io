@@ -30,8 +30,11 @@ In big company. There's enough data set show the customer has churn issue. Howev
 **Very long review**
 **
 
+**Zero-shot discovery of typical user types**
 
+**Handling correlated multi-dimensional behavior data**
 
+**
 # Paper solution
 - [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). -> 6 user type + churn data -> LSTM+attention ->
@@ -40,7 +43,7 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTU4NTEyNywtMTI2ODE1OTIwMCwtMz
-cwNzMyMzM4LC0xMDc3MzQ5MzEyLDk1ODE0MzcwMSw2NzAyNDUx
-MTcsNjkzNDUwMTY0LDUwOTIyMjA4OSwtMTc1MDAzNDkyMl19
+eyJoaXN0b3J5IjpbNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNz
+A3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTEx
+Nyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
 -->
