@@ -26,9 +26,12 @@ Except that, When customer don’t receive exceptional customer service and expe
 [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 
 # Paper solution
+
+- [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
+	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MD
-I0NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIy
-XX0=
+eyJoaXN0b3J5IjpbLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NT
+gxNDM3MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODks
+LTE3NTAwMzQ5MjJdfQ==
 -->
