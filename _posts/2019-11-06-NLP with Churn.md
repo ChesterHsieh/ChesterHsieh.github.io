@@ -12,7 +12,7 @@ If the service is subscription type business. For example e-commerce. Customer d
 Everyone new to this problem should take look on [Kaggle data](https://www.kaggle.com/blastchar/telco-customer-churn) first. There are already good solution on predict. This post is trying to target text data.
 
 ## NLP source
-Call log/Email/Online assistance history are the three major resource the company can utilize. Do you remember every time you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
+Call log/Email/Online assistance (CRM)history are the three major resource the company can utilize. Do you remember every time you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
 
 Except that, When customer don’t receive exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
 
@@ -22,6 +22,6 @@ Except that, When customer don’t receive exceptional customer service and expe
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNDUwMTY0LDUwOTIyMjA4OSwtMTc1MD
-AzNDkyMl19
+eyJoaXN0b3J5IjpbNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMj
+IwODksLTE3NTAwMzQ5MjJdfQ==
 -->
