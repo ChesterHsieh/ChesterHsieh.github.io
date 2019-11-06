@@ -4,7 +4,7 @@ Customer churn occurs when customers or subscribers stop doing business with a c
 All the telecom/cable/tv services need to know what happen. 
 **Why** the customer leave?
 **When** they gonna leave? 
-**How** they change their mind?
+**How** they change their mind? Explicitly “retention-first” care strategy or marketing strategy to hedge against their risk of leaving.
 
 If the service is subscription type business. For example e-commerce. Customer don't need to pay periodically. Another question comes out.
 **How** to define the churn?
@@ -22,6 +22,6 @@ Except that, When customer don’t receive exceptional customer service and expe
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMj
-IwODksLTE3NTAwMzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbOTU4MTQzNzAxLDY3MDI0NTExNyw2OTM0NT
+AxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
 -->
