@@ -13,10 +13,12 @@ Everyone new to this problem should take look on [Kaggle data](https://www.kaggl
 
 ## NLP source
 Call log/Email/Online assistance history are the three major resource the company can utilize. Do you remember everytime you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
+Except that, When customer don’t receive g exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
 
 # Pain Point
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTExNjg0NywtMTc1MDAzNDkyMl19
+eyJoaXN0b3J5IjpbLTE4MTI5MTkwOTIsLTE3NTAwMzQ5MjJdfQ
+==
 -->
