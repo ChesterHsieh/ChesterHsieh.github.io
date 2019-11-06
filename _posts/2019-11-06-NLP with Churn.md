@@ -34,13 +34,14 @@ In big company. There's enough data set show the customer has churn issue. Howev
 
 # Paper solution
 - [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
-Doing cluster on user(*cluschurn*).
+Doing cluster on user(*cluschurn*). -> 6 user type + churn data -> LSTM+attention ->
 
 - [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDE1NDA0MSwtMTI2ODE1OTIwMCwtMz
-cwNzMyMzM4LC0xMDc3MzQ5MzEyLDk1ODE0MzcwMSw2NzAyNDUx
-MTcsNjkzNDUwMTY0LDUwOTIyMjA4OSwtMTc1MDAzNDkyMl19
+eyJoaXN0b3J5IjpbLTE1OTI2MzY2ODEsLTEyNjgxNTkyMDAsLT
+M3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3MDEsNjcwMjQ1
+MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NTAwMzQ5MjJdfQ
+==
 -->
