@@ -17,9 +17,11 @@ Call log/Email/Online assistance history are the three major resource the compan
 Except that, When customer don’t receive exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
 
 # Pain Point
+[I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
+eyJoaXN0b3J5IjpbNjkzNDUwMTY0LDUwOTIyMjA4OSwtMTc1MD
+AzNDkyMl19
 -->
