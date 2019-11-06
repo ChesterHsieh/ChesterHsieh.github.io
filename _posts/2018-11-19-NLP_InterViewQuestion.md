@@ -87,7 +87,8 @@ For lot of small taks on building chatbot, the classifer problem is more common 
  2.  Ensamble algorithm=> bagging/boosting
  3.  Weighting change. 
 
-#
+# Topical Modeling
+
 
 # Deeplearning !?
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
@@ -136,7 +137,7 @@ Google provide another state of art embbed way.
 
 # Specific domain knowledge
 
-
+#
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -224,7 +225,8 @@ There's are two example using HMM concept.
 - Boy or Girl paradox
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMT
-I3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4
-NDA0LC01Njc0NzIzNDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOT
+I3NTAxMzk0LC0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2
+MjE5LC03ODg5OTg0MDQsLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX
+0=
 -->
