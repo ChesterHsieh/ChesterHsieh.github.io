@@ -26,7 +26,9 @@ Except that, When customer don’t receive exceptional customer service and expe
 **Unbalanced data set**
 In big company. There's enough data set show the customer has churn issue. However it doesn't mean they'll all complain on customer service.
 
-**Intwgr
+**Integration with other data**
+**Very long review**
+**
 
 
 
@@ -38,7 +40,7 @@ In big company. There's enough data set show the customer has churn issue. Howev
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM2NTk1ODcsLTM3MDczMjMzOCwtMT
+eyJoaXN0b3J5IjpbLTEyNjgxNTkyMDAsLTM3MDczMjMzOCwtMT
 A3NzM0OTMxMiw5NTgxNDM3MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2
 NCw1MDkyMjIwODksLTE3NTAwMzQ5MjJdfQ==
 -->
