@@ -17,9 +17,10 @@ Call log/Email/Online assistance history are the three major resource the compan
 Except that, When customer don’t receive exceptional customer service and experiences, they flock to competitors and share their negative experiences on [social media](https://www.salesforce.com/blog/2015/01/ten-customer-service-stats-what-they-mean-your-contact-center-gp.html): 59% of 25-34-year-olds share poor customer experiences online.
 
 # Pain Point
-
+$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+$$$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$
 # Paper solution
 # Sample code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
+eyJoaXN0b3J5IjpbMTQ2NDM4ODA0OSwtMTc1MDAzNDkyMl19
 -->
