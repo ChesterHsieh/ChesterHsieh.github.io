@@ -87,13 +87,13 @@ For lot of small taks on building chatbot, the classifer problem is more common 
  2.  Ensamble algorithm=> bagging/boosting
  3.  Weighting change. 
 
-# Topical Modeling
+# # Topic Modeling & Summarization
 
 
-# Deeplearning !?
+# Deeplearning Related
 Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
 
-## All the bricks 
+## Summery
 ### Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
 - MLP, Boltzman machine, CNN,RNN,GAN, LSTM, autoencoder
@@ -225,8 +225,8 @@ There's are two example using HMM concept.
 - Boy or Girl paradox
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOT
-I3NTAxMzk0LC0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2
-MjE5LC03ODg5OTg0MDQsLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX
-0=
+eyJoaXN0b3J5IjpbMzc5MTU3NTA0LDE2OTEyNDkxMzQsLTE4NT
+E0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYyMjMw
+NTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIzNDUsMT
+EwOTA0MDg4OV19
 -->
