@@ -120,24 +120,11 @@ They are tons of parameter. Not gonna to list it all.
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 ### Backward propagation
 
-## Tricky Question
-### Greadient Vanishing & exploding
-### Epoch & batch & iteration
+## Some problem 
+- Greadient Vanishing & exploding
+- Epoch & batch & iteration
+ 
 
-## Real Case problme
-### T-series problem
-### Caption ball in screen
-### I dentitfy 
-
-# Advanced Research 
-Sometime we need to excting the interviewer and show them we catch up on the trend. 
-## Bert
-Google provide another state of art embbed way. 
-#
-
-# Specific domain knowledge
-
-#
 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
@@ -225,8 +212,8 @@ There's are two example using HMM concept.
 - Boy or Girl paradox
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MTU3NTA0LDE2OTEyNDkxMzQsLTE4NT
-E0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYyMjMw
-NTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIzNDUsMT
-EwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbLTMxOTY0MTc3OCwxNjkxMjQ5MTM0LC0xOD
+UxNDI1NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIz
+MDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LD
+ExMDkwNDA4ODldfQ==
 -->
