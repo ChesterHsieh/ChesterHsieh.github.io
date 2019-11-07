@@ -42,8 +42,14 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 # Sample code
+
+# Terminology
+- LTV
+	$LTV= MA/APV$
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNz
-A3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTEx
-Nyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
+eyJoaXN0b3J5IjpbMTQwMzYzMTQxMyw2MzM2NTE4MjQsLTEyNj
+gxNTkyMDAsLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3
+MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NT
+AwMzQ5MjJdfQ==
 -->
