@@ -10,7 +10,7 @@ If the service is subscription type business. For example e-commerce. Customer d
 **How** to define the churn?
 
 Everyone new to this problem should take look on [Kaggle data](https://www.kaggle.com/blastchar/telco-customer-churn) first. There are already good solution on predict. This post is trying to target text data.
-
+## 
 ## NLP source
 Call log/Email/Online assistance (CRM)history are the three major resource the company can utilize. Do you remember every time you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
 
@@ -51,8 +51,8 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - Churn triggers
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzM1MDUzNCw2MzM2NTE4MjQsLTEyNj
-gxNTkyMDAsLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3
-MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NT
-AwMzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTA5MTQ5NTgsNjMzNjUxODI0LC0xMj
+Y4MTU5MjAwLC0zNzA3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQz
+NzAxLDY3MDI0NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNz
+UwMDM0OTIyXX0=
 -->
