@@ -45,11 +45,12 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 
 # Terminology
 - LTV [life time value](https://baike.baidu.com/item/LTV/10692626)
-	
-- 
+- Churn probability
+- Port out probability for individual competitors
+- median remaining tenure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2OTgzMzI2LDYzMzY1MTgyNCwtMTI2OD
-E1OTIwMCwtMzcwNzMyMzM4LC0xMDc3MzQ5MzEyLDk1ODE0Mzcw
-MSw2NzAyNDUxMTcsNjkzNDUwMTY0LDUwOTIyMjA4OSwtMTc1MD
-AzNDkyMl19
+eyJoaXN0b3J5IjpbMTM4MjMxMTA5MSw2MzM2NTE4MjQsLTEyNj
+gxNTkyMDAsLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3
+MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NT
+AwMzQ5MjJdfQ==
 -->
