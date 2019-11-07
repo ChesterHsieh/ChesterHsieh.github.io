@@ -87,7 +87,8 @@ For lot of small taks on building chatbot, the classifer problem is more common 
  2.  Ensamble algorithm=> bagging/boosting
  3.  Weighting change. 
 
-# # Topic Modeling & Summarization
+# ANOVA
+# Topic Modeling & Summarization
 
 
 # Deeplearning Related
@@ -212,7 +213,7 @@ There's are two example using HMM concept.
 - Boy or Girl paradox
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTY0MTc3OCwxNjkxMjQ5MTM0LC0xOD
+eyJoaXN0b3J5IjpbMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xOD
 UxNDI1NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIz
 MDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LD
 ExMDkwNDA4ODldfQ==
