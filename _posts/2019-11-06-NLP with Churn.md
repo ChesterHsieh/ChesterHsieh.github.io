@@ -37,7 +37,10 @@ In big company. There's enough data set show the customer has churn issue. Howev
 
 - **Model explainability**
 - **Evaluate the solution in production**
-# Paper solution
+#  Solution
+## Long review
+Implement text summarization. *Pick the important sentences.*
+
 - [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). -> 6 user type + churn data -> LSTM+attention ->
 
@@ -51,8 +54,8 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTU1MzkyOSwxNTU1MjM0MTI3LDYzMz
-Y1MTgyNCwtMTI2ODE1OTIwMCwtMzcwNzMyMzM4LC0xMDc3MzQ5
-MzEyLDk1ODE0MzcwMSw2NzAyNDUxMTcsNjkzNDUwMTY0LDUwOT
-IyMjA4OSwtMTc1MDAzNDkyMl19
+eyJoaXN0b3J5IjpbMTAyNjYxMTQzOCwtNTM5NTUzOTI5LDE1NT
+UyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNzA3MzIz
+MzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTExNyw2OT
+M0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
 -->
