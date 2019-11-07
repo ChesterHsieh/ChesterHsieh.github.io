@@ -13,7 +13,8 @@ Everyone new to this problem should take look on [Kaggle data](https://www.kaggl
 ## Submission
 - Customer segmentation
 - Identify churn triggers
-- Treat cost/effect estima
+- Treat cost/effect estimation
+- 
 ## NLP source
 Call log/Email/Online assistance (CRM)history are the three major resource the company can utilize. Do you remember every time you call for customer service you'll heard **For quality purpose, this call might be recorded**. 
 
@@ -37,7 +38,7 @@ In big company. There's enough data set show the customer has churn issue. Howev
 
 **Handling correlated multi-dimensional behavior data**
 
-**
+**Model explainability**
 # Paper solution
 - [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). -> 6 user type + churn data -> LSTM+attention ->
@@ -54,7 +55,7 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - Churn triggers
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE3ODc0MCw2MzM2NTE4MjQsLTEyNj
+eyJoaXN0b3J5IjpbMTU1NTIzNDEyNyw2MzM2NTE4MjQsLTEyNj
 gxNTkyMDAsLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3
 MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NT
 AwMzQ5MjJdfQ==
