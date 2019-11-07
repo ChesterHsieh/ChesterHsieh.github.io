@@ -48,8 +48,10 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - Churn probability
 - Port out probability for individual competitors
 - median remaining tenure
+- Churn triggers
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjMxMTA5MSw2MzM2NTE4MjQsLTEyNj
+eyJoaXN0b3J5IjpbLTYxNzM1MDUzNCw2MzM2NTE4MjQsLTEyNj
 gxNTkyMDAsLTM3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3
 MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NT
 AwMzQ5MjJdfQ==
