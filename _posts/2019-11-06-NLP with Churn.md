@@ -32,6 +32,7 @@ In big company. There's enough data set show the customer has churn issue. Howev
 	This problem involve topic modeling/summarization issue.
 
 - **Zero-shot discovery of typical user types**
+- **Transcript doesn't work well**
 
 - **Handling correlated multi-dimensional behavior data**
 
@@ -54,8 +55,9 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjYxMTQzOCwtNTM5NTUzOTI5LDE1NT
-UyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNzA3MzIz
-MzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTExNyw2OT
-M0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
+eyJoaXN0b3J5IjpbLTIxNDE5NzcxNjQsMTAyNjYxMTQzOCwtNT
+M5NTUzOTI5LDE1NTUyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5
+MjAwLC0zNzA3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLD
+Y3MDI0NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0
+OTIyXX0=
 -->
