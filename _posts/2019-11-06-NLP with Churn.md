@@ -27,7 +27,7 @@ Except that, When customer don’t receive exceptional customer service and expe
 - **Unbalanced data set**
 In big company. There's enough data set show the customer has churn issue. However it doesn't mean they'll all complain on customer service.
 - **Interpretable model**
-	The Gap between marketing & tech side. 
+	NLP problem and deep learning, 
 - **Integration with other data**
 - **Long review** 
 	This problem involve topic modeling/summarization issue.
@@ -67,10 +67,10 @@ In big company. There's enough data set show the customer has churn issue. Howev
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE0MTU2MzgsLTEwMTQyNzAwMTMsNT
-U1MjI3MTMsLTIxNDE5NzcxNjQsMTAyNjYxMTQzOCwtNTM5NTUz
-OTI5LDE1NTUyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC
-0zNzA3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0
-NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX
-0=
+eyJoaXN0b3J5IjpbMTkzNTk0MDM2MiwtMTAxNDI3MDAxMyw1NT
+UyMjcxMywtMjE0MTk3NzE2NCwxMDI2NjExNDM4LC01Mzk1NTM5
+MjksMTU1NTIzNDEyNyw2MzM2NTE4MjQsLTEyNjgxNTkyMDAsLT
+M3MDczMjMzOCwtMTA3NzM0OTMxMiw5NTgxNDM3MDEsNjcwMjQ1
+MTE3LDY5MzQ1MDE2NCw1MDkyMjIwODksLTE3NTAwMzQ5MjJdfQ
+==
 -->
