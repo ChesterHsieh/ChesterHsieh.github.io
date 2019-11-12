@@ -43,7 +43,8 @@ In big company. There's enough data set show the customer has churn issue. Howev
 Implement text summarization. *Pick the important sentences.*
 
 - [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
-Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). -> 6 user type + churn data -> LSTM+attention ->
+	- Use 1 month snapchat new register data 
+	- Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). 
 
 - [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
@@ -55,9 +56,9 @@ Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](ht
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE5NzcxNjQsMTAyNjYxMTQzOCwtNT
-M5NTUzOTI5LDE1NTUyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5
-MjAwLC0zNzA3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLD
-Y3MDI0NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0
-OTIyXX0=
+eyJoaXN0b3J5IjpbOTUwNjQwNzEzLC0yMTQxOTc3MTY0LDEwMj
+Y2MTE0MzgsLTUzOTU1MzkyOSwxNTU1MjM0MTI3LDYzMzY1MTgy
+NCwtMTI2ODE1OTIwMCwtMzcwNzMyMzM4LC0xMDc3MzQ5MzEyLD
+k1ODE0MzcwMSw2NzAyNDUxMTcsNjkzNDUwMTY0LDUwOTIyMjA4
+OSwtMTc1MDAzNDkyMl19
 -->
