@@ -21,7 +21,7 @@ Except that, When customer don’t receive exceptional customer service and expe
 - Social media monitoring
 - Voice of employee/turnover prevention
 - Voice of Customer (VoC) & Customer Experience Management
-- 
+- Text summery
 
 # Pain Point
 - **Unbalanced data set**
@@ -56,7 +56,7 @@ In big company. There's enough data set show the customer has churn issue. Howev
 - Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). 
 - Build LSTM model predict sequence behavior
 ## [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
-	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
+ This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
 ## Implement text summarization. *Pick the important sentences.*
 # Sample code
 
@@ -66,9 +66,9 @@ In big company. There's enough data set show the customer has churn issue. Howev
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzg4NzczMCw1NTUyMjcxMywtMjE0MT
-k3NzE2NCwxMDI2NjExNDM4LC01Mzk1NTM5MjksMTU1NTIzNDEy
-Nyw2MzM2NTE4MjQsLTEyNjgxNTkyMDAsLTM3MDczMjMzOCwtMT
-A3NzM0OTMxMiw5NTgxNDM3MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2
-NCw1MDkyMjIwODksLTE3NTAwMzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTQyNzAwMTMsNTU1MjI3MTMsLTIxND
+E5NzcxNjQsMTAyNjYxMTQzOCwtNTM5NTUzOTI5LDE1NTUyMzQx
+MjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNzA3MzIzMzgsLT
+EwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTExNyw2OTM0NTAx
+NjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
 -->
