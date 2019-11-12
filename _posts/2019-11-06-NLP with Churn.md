@@ -26,7 +26,8 @@ Except that, When customer don’t receive exceptional customer service and expe
 # Pain Point
 - **Unbalanced data set**
 In big company. There's enough data set show the customer has churn issue. However it doesn't mean they'll all complain on customer service.
-
+- **Interpretable model**
+	The Gap between marketing & tech side. 
 - **Integration with other data**
 - **Long review** 
 	This problem involve topic modeling/summarization issue.
@@ -66,9 +67,10 @@ In big company. There's enough data set show the customer has churn issue. Howev
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQyNzAwMTMsNTU1MjI3MTMsLTIxND
-E5NzcxNjQsMTAyNjYxMTQzOCwtNTM5NTUzOTI5LDE1NTUyMzQx
-MjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC0zNzA3MzIzMzgsLT
-EwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0NTExNyw2OTM0NTAx
-NjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX0=
+eyJoaXN0b3J5IjpbLTEyMDE0MTU2MzgsLTEwMTQyNzAwMTMsNT
+U1MjI3MTMsLTIxNDE5NzcxNjQsMTAyNjYxMTQzOCwtNTM5NTUz
+OTI5LDE1NTUyMzQxMjcsNjMzNjUxODI0LC0xMjY4MTU5MjAwLC
+0zNzA3MzIzMzgsLTEwNzczNDkzMTIsOTU4MTQzNzAxLDY3MDI0
+NTExNyw2OTM0NTAxNjQsNTA5MjIyMDg5LC0xNzUwMDM0OTIyXX
+0=
 -->
