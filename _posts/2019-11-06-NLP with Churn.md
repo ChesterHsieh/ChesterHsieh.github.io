@@ -42,8 +42,7 @@ In big company. There's enough data set show the customer has churn issue. Howev
 ## [I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application](http://hanj.cs.illinois.edu/pdf/kdd18_cyang.pdf)
 
 
-- 
-	- Track 1 month snapchat new register account information to predict user behavior
+- Track 1 month snapchat new register account information to predict user behavior
 
 | ID | Name Feat. | Description |
 |----|-----------------|---------------------------------------|
@@ -54,10 +53,11 @@ In big company. There's enough data set show the customer has churn issue. Howev
 | 4 | story_viewed | stories viewed by the user |
 | 5 | discover_viewed | discovers viewed by the user |
 
-	- Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). 
-Implement text summarization. *Pick the important sentences.*
-- [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
+- Doing cluster on user([*cluschurn*]([https://github.com/yangji9181/ClusChurn](https://github.com/yangji9181/ClusChurn))). 
+- Build LSTM model predict sequence behavior
+## [Text Classification by Bootstrapping with Keywords, EM and Shrinkage](https://www.aclweb.org/anthology/W99-0908.pdf) 
 	This is 1999 paper. Pretty old. But it do provide a solution to generate sample set. Dealing with unbalanced issue.
+## Implement text summarization. *Pick the important sentences.*
 # Sample code
 
 # Terminology
@@ -66,7 +66,7 @@ Implement text summarization. *Pick the important sentences.*
 - ROI [_Return On Investment_](https://wiki.mbalib.com/zh-tw/%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E7%8E%87)
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTMyNzYyNCw1NTUyMjcxMywtMjE0MT
+eyJoaXN0b3J5IjpbMTAxMzg4NzczMCw1NTUyMjcxMywtMjE0MT
 k3NzE2NCwxMDI2NjExNDM4LC01Mzk1NTM5MjksMTU1NTIzNDEy
 Nyw2MzM2NTE4MjQsLTEyNjgxNTkyMDAsLTM3MDczMjMzOCwtMT
 A3NzM0OTMxMiw5NTgxNDM3MDEsNjcwMjQ1MTE3LDY5MzQ1MDE2
