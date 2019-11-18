@@ -15,7 +15,9 @@ Skill requirement
 -   hands-on experience in deep learning and its applications to computer vision (e.g. object detection and tracking, semantic segmentation).
 - Tensorflow or Pytorch
 - C/C++, CUDA
-- 
+- porting computer vision algorithms to embedded systems
+- Experience in research of convolutional neural network, recurrent neural network, or reinforcement learning is a strong plus.
+	**My only research is utilize those on social media data. It **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE5MTM1MzcsMTQ0MzY2NDgyNl19
+eyJoaXN0b3J5IjpbLTcwMzE2Mjc4LDE0NDM2NjQ4MjZdfQ==
 -->
