@@ -13,7 +13,9 @@ It's a little bit wired to see the recruiter invite me on indeed. it has been a 
 
 Skill requirement
 -   hands-on experience in deep learning and its applications to computer vision (e.g. object detection and tracking, semantic segmentation).
+- Tensorflow or Pytorch
+- C/C++, CUDA
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMDg2NTAsMTQ0MzY2NDgyNl19
+eyJoaXN0b3J5IjpbLTExNDE5MTM1MzcsMTQ0MzY2NDgyNl19
 -->
