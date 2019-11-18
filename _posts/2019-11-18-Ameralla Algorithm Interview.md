@@ -16,8 +16,9 @@ Skill requirement
 - Tensorflow or Pytorch
 - C/C++, CUDA
 - porting computer vision algorithms to embedded systems
+    **I have porting experience on turn matlab code into C. Ho**
 - Experience in research of convolutional neural network, recurrent neural network, or reinforcement learning is a strong plus.
-	**My only research is utilize those on social media data. It **
+	**My only research is utilize those on social media data. It will be hard for me to get points on this item.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzE2Mjc4LDE0NDM2NjQ4MjZdfQ==
+eyJoaXN0b3J5IjpbLTk1OTMzMzM5MywxNDQzNjY0ODI2XX0=
 -->
