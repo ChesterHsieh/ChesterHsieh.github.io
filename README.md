@@ -10,12 +10,12 @@
 
 HEY! I'm Chester. 
 
-To be honest, this blog is a proof for HR. 
-While I put the more time on it, I realize the desire deep in my mind. To help other's who are suffering job hunting.
-There are 3 Catogry in this Blog
+
+There are 4 big chulk in this Blog
 - Side project report
 - Interview Experience
 - Paper review.
+- Pesonal experience. yup It's diary.
 
 
 ## Thankx for every contributor
