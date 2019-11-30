@@ -211,10 +211,12 @@ There's are two example using HMM concept.
 - 高频9道题
 - streaming data
 - Boy or Girl paradox
-- 
+# Speech Recognition
+Collceting the most common DL framework accoding to **Speech Recognition Using Deep Neural Networks: A Systematic Review**
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xOD
-UxNDI1NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIz
-MDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LD
-ExMDkwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbLTE0OTI5OTg3MTIsMTg1OTI1NjU2NSwxNj
+kxMjQ5MTM0LC0xODUxNDI1NDI0LDE5Mjc1MDEzOTQsLTEyNzIw
+OTkwMjQsNjU2MjIzMDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNC
+wtNTY3NDcyMzQ1LDExMDkwNDA4ODldfQ==
 -->
