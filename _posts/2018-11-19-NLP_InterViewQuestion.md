@@ -213,10 +213,11 @@ There's are two example using HMM concept.
 - Boy or Girl paradox
 # Speech Recognition
 Collceting the most common DL framework accoding to **Speech Recognition Using Deep Neural Networks: A Systematic Review**
-## 
+## Pointer network
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI5OTg3MTIsMTg1OTI1NjU2NSwxNj
-kxMjQ5MTM0LC0xODUxNDI1NDI0LDE5Mjc1MDEzOTQsLTEyNzIw
-OTkwMjQsNjU2MjIzMDUzLDE2OTAyNjYyMTksLTc4ODk5ODQwNC
-wtNTY3NDcyMzQ1LDExMDkwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbLTMxMTk5NzQyNSwxODU5MjU2NTY1LDE2OT
+EyNDkxMzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5
+OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC
+01Njc0NzIzNDUsMTEwOTA0MDg4OV19
 -->
