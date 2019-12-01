@@ -8,7 +8,6 @@ header-img:
 catalog: true
 tags:
     DeepLearning
-   Tensorflow
    NLP
 
 ---
@@ -41,5 +40,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY2NDE0ODddfQ==
+eyJoaXN0b3J5IjpbMzI4Nzk1Njc4LC0xNzI2NjQxNDg3XX0=
 -->
