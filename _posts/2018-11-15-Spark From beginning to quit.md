@@ -7,8 +7,6 @@ author:    Chester
 header-img: img/makeup_title.jpeg
 catalog: true
 tags:
-    Project
-    BIG DATA
    Spark
 ---
 # Intro
@@ -58,5 +56,5 @@ Instead to use map or apply
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMTYxMzk5XX0=
+eyJoaXN0b3J5IjpbLTEzMjkxOTQ0OTYsMzIzMTYxMzk5XX0=
 -->
