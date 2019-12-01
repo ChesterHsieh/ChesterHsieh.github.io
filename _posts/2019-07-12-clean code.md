@@ -2,11 +2,11 @@
 layout:     post
 title:      CLEAN CODE reivew
 subtitle:   Rule of thumb = only thing can remain in my mind when coding
-date:       2019-07-11
+date:       2019-07-12
 author:    Chester
 catalog: true
 tags:
-	-Tool
+
 ---
 # Intro
 SPR: simple rule policy. 
@@ -78,7 +78,7 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODY1NjIyOSwxODg2OTMwNjg4LC0xNT
+eyJoaXN0b3J5IjpbMTUwMzUxOTI0MywxODg2OTMwNjg4LC0xNT
 k2MTcyMDk1LDkyMTg2MzMxMywtNDAzNjE4MDY3LC0xNTIyMTMz
 NTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMwNjQwMT
 MsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMzgsMTAw
