@@ -8,10 +8,8 @@ header-img:
 catalog: true
 tags:
     paper
-    DeepLearning
-   Tensorflow
-
+   DeepLearning
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzE0MjQwOF19
+eyJoaXN0b3J5IjpbOTUzMjM3ODc3XX0=
 -->
