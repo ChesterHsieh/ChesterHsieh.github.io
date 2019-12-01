@@ -24,9 +24,11 @@ Skill requirement
 
 # Verizon-Data science
 ## Failure
-- Poor explain on previous job.
+- Poor explain on previous job
+- Word embedding
+- Boost faimly
 - Flask wrapper problem. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTgzNTc0NywtNDU2MDM1ODk4LDE0ND
-M2NjQ4MjZdfQ==
+eyJoaXN0b3J5IjpbLTc3Njc1NjAxLC00NTYwMzU4OTgsMTQ0Mz
+Y2NDgyNl19
 -->
