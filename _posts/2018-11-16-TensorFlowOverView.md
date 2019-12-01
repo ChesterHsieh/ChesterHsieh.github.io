@@ -9,7 +9,6 @@ catalog: true
 tags:
     Project
     DeepLearning
-   Tensorflow
 ---
 ## Prerequisite
 This article is try to bring those who has basic knowledge about the deep learning and neural network. I strongly recommend the [course](https://www.coursera.org/specializations/deep-learning) for deep learning.
@@ -178,11 +177,11 @@ Here's the advantage to use dataflow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTE5NzY2NiwxNDAyNjAyODI4LC0xMT
-AyNTM0OTIwLDE2NDg4NjQyNCwtMjA0NDQ1MTQwOCwxNTM5MTcw
-NzA5LC02MjgxMzQ1MjgsOTM2MTIxMDU5LC0yNjc5NDIxMCwxOT
-g2MTM0NDk4LC0zODI0NjQzNTMsLTUzMjk3MDksLTIzMTMzNzQ5
-OCwtMzc3MTg0NjUzLC00MDQ3MDk2OTYsLTE0NDE0NTgxODMsLT
-E1OTEzNDAzNDksLTI5MjA2NzUzMCwxODI3NTUxOTkyLC0xNTAw
-MjM1NTIxXX0=
+eyJoaXN0b3J5IjpbLTE5NzQ5NjUxNTksMTg1OTE5NzY2NiwxND
+AyNjAyODI4LC0xMTAyNTM0OTIwLDE2NDg4NjQyNCwtMjA0NDQ1
+MTQwOCwxNTM5MTcwNzA5LC02MjgxMzQ1MjgsOTM2MTIxMDU5LC
+0yNjc5NDIxMCwxOTg2MTM0NDk4LC0zODI0NjQzNTMsLTUzMjk3
+MDksLTIzMTMzNzQ5OCwtMzc3MTg0NjUzLC00MDQ3MDk2OTYsLT
+E0NDE0NTgxODMsLTE1OTEzNDAzNDksLTI5MjA2NzUzMCwxODI3
+NTUxOTkyXX0=
 -->
