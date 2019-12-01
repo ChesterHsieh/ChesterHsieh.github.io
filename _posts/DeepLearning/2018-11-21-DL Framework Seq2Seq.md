@@ -9,8 +9,6 @@ catalog: true
 tags:
     paper
     DeepLearning
-   Tensorflow
-
 ---
 
 # Introduction
@@ -50,5 +48,5 @@ It's unlikely general function work.
 ## Reference
 [Tensorflow official tutorial about Word embedding](https://www.tensorflow.org/tutorials/representation/word2vec)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MjE4NTc2XX0=
+eyJoaXN0b3J5IjpbMjAzOTYzNjc1NSw1NzYyMTg1NzZdfQ==
 -->
