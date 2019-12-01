@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      Ameralla Algorithm Engineer Interview
-subtitle:   Interview
+title:      Collection interview experience
+subtitle:  Remeb
 date:       2019-11-18
 author:    Chester
 catalog: true
 tags:
    job
 ---
-# Plan & Initial idea
+# Ameralla Algorithm Engineer Interview
+## Plan & Initial idea
 It's a little bit wired to see the recruiter invite me on indeed. it has been a year not updating on indeed profile. That's extremely important progression on this year.
 
 Skill requirement
@@ -20,6 +21,9 @@ Skill requirement
     **I have porting experience on turn matlab code into C. It's the time-series data and filter. Unlike the **
 - Experience in research of convolutional neural network, recurrent neural network, or reinforcement learning is a strong plus.
 	**My only research is utilize those on social media data. It will be hard for me to get points on this item.**
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjAzNTg5OCwxNDQzNjY0ODI2XX0=
+eyJoaXN0b3J5IjpbMTQxNDM4MzU3NCwtNDU2MDM1ODk4LDE0ND
+M2NjQ4MjZdfQ==
 -->
