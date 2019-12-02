@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      PaperOverview on Speach
+title:      PaperOverview on Speech
 subtitle:  Let's predict what kind of interview come out from Alexa team
 date:       2019-10-16
 author:    Chester
@@ -37,6 +37,6 @@ Here's some expectation on interview doesn't related to actual process. All of t
 
 # Knowledge graph
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTUwNjU2LC04MzUzNDM3NzYsMjE4Mz
-MzNzM2XX0=
+eyJoaXN0b3J5IjpbMTY5NTgwNDEyLC05MjU1MDY1NiwtODM1Mz
+QzNzc2LDIxODMzMzczNl19
 -->
