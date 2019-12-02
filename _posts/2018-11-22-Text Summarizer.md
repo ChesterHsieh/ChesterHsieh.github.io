@@ -12,10 +12,10 @@ tags:
 
 ---
 
-## Introduction
+# Introduction
 
 
-## Terminology
+
 #### Semantics Density
 #### Abstrative
 #### Attention
@@ -40,5 +40,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Nzk1Njc4LC0xNzI2NjQxNDg3XX0=
+eyJoaXN0b3J5IjpbLTQ2MTY2NjY0LC0xNzI2NjQxNDg3XX0=
 -->
