@@ -13,8 +13,9 @@ tags:
 ---
 
 # Introduction
-## Abstractive Summarization
-## 
+
+- Abstractive Text Summarization
+- Extractive Text Summarization
 
 
 #### Semantics Density
@@ -41,6 +42,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ0ODc3NzksLTE3MjY2NDE0ODddfQ
-==
+eyJoaXN0b3J5IjpbLTI5MjUyMjc3LC0xNzI2NjQxNDg3XX0=
 -->
