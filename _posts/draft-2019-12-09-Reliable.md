@@ -26,8 +26,10 @@ Attack face ID, reverse to black box
 # Solution
 - stranger can tocuh database
 - adversarial detecting. 
-- 
+- 本質上建構更強健的structure
+- adversarial traininng: 跟假資料一起進行 training
+# Future Re
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NDMyNjY5XX0=
+eyJoaXN0b3J5IjpbLTE2MDQ1NjIyNl19
 -->
