@@ -15,13 +15,18 @@ Attack face ID, reverse to black box
 
 如何生成奇怪的 data, 創造出robust的DL的問題..
 # 4 types
-- 猜model weight, gradient based attack. 
-- iterative fast gradient sign
+- 猜model weight, gradient based attack.  
+	- iterative fast gradient sign
 - score basd attack
   改變圖片中一個pixel, 就會完全改變結果. 
 - Boundary based attack
-   貓無止盡一直
+   貓無止盡一直改變 到狗的圖片
+ - model 算出一個可以對整個dataset的改變整體運算
+
+# Solution
+- stranger can tocuh database
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTgzNDYwM119
+eyJoaXN0b3J5IjpbOTQwMTEwOTI1XX0=
 -->
