@@ -12,8 +12,11 @@ speed limit/ case by case, we can't decide waht to learn
 ## Security
 Attack face ID, reverse to black box
 -----------
-
+# 4 types
+- 猜model weight, gradient based attack
+- decsiion base
+- New model 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc1ODg1NTZdfQ==
+eyJoaXN0b3J5IjpbMTUyMzQ5NDEwM119
 -->
