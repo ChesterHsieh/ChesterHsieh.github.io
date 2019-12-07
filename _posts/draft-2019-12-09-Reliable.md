@@ -31,8 +31,10 @@ Attack face ID, reverse to black box
 # Future Research
 - incrsing treansferaability
 - 
-- Evalution
+---------------------------
+AI Resume
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NTEwMjY4XX0=
+eyJoaXN0b3J5IjpbNTkyODc0MTc4LDgwNDUxMDI2OF19
 -->
