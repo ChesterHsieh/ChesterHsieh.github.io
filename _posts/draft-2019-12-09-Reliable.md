@@ -13,10 +13,11 @@ speed limit/ case by case, we can't decide waht to learn
 Attack face ID, reverse to black box
 -----------
 # 4 types
-- 猜model weight, gradient based attack
+- 猜model weight, gradient based attack. 
+- iterative fast gradient sign
 - decsiion base
 - New model 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzQ5NDEwM119
+eyJoaXN0b3J5IjpbLTE1MTAyMzU0MTRdfQ==
 -->
