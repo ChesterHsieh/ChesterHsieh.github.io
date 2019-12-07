@@ -12,12 +12,15 @@ speed limit/ case by case, we can't decide waht to learn
 ## Security
 Attack face ID, reverse to black box
 -----------
+
+如何生成奇怪的 data, 創造出robust的DL的問題..
 # 4 types
 - 猜model weight, gradient based attack. 
 - iterative fast gradient sign
-- decsiion base
+- score basd attack
+  改變圖片中一個pixel, 就會完全改變結果. 
 - New model 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAyMzU0MTRdfQ==
+eyJoaXN0b3J5IjpbLTE4NDMzMTY1NzRdfQ==
 -->
