@@ -25,8 +25,9 @@ Attack face ID, reverse to black box
 
 # Solution
 - stranger can tocuh database
+- adversarial detecting. 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMTEwOTI1XX0=
+eyJoaXN0b3J5IjpbODA3NDMyNjY5XX0=
 -->
