@@ -28,8 +28,11 @@ Attack face ID, reverse to black box
 - adversarial detecting. 
 - 本質上建構更強健的structure
 - adversarial traininng: 跟假資料一起進行 training
-# Future Re
+# Future Research
+- incrsing treansferaability
+- 
+- Evalution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ1NjIyNl19
+eyJoaXN0b3J5IjpbODA0NTEwMjY4XX0=
 -->
