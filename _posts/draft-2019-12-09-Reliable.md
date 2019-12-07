@@ -19,8 +19,9 @@ Attack face ID, reverse to black box
 - iterative fast gradient sign
 - score basd attack
   改變圖片中一個pixel, 就會完全改變結果. 
-- New model 
+- Boundary based attack
+   貓無止盡一直
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMzMTY1NzRdfQ==
+eyJoaXN0b3J5IjpbLTg0NTgzNDYwM119
 -->
