@@ -1,13 +1,16 @@
 ﻿---
 layout:     post
 title:      NLP sub class
-subtitle:   Failure doesn't defeat you
-date:       2018-11-09
+subtitle:   stand on giant shoulder
+date:       2018-12-09
 author:    Chester
 catalog: true
 tags:
 	-paper
 ---
+# Sub task list
+- OCR
+- Speech recognition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjcwNzA1NV19
+eyJoaXN0b3J5IjpbLTg5NjIwMDk5XX0=
 -->
