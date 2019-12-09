@@ -11,6 +11,7 @@ tags:
 # Sub task list
 - OCR
 - Speech recognition
+- [Entity linking](https://en.wikipedia.org/wiki/Entity_linking)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjIwMDk5XX0=
+eyJoaXN0b3J5IjpbMTYxMjkxNTA5MSwtODk2MjAwOTldfQ==
 -->
