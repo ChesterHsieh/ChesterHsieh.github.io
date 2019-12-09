@@ -200,7 +200,7 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 
-# 題
+# Coding interview
 - bst转成按顺序排列的双链表。我很久以前刷锅这个题
 - logistic regression
 - underfitting， overfitting。 generative
@@ -216,8 +216,8 @@ Collceting the most common DL framework accoding to **Speech Recognition Using D
 ## Pointer network
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTk5NzQyNSwxODU5MjU2NTY1LDE2OT
-EyNDkxMzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5
-OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC
-01Njc0NzIzNDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbMTc0NTIxNzk0NiwtMzExOTk3NDI1LDE4NT
+kyNTY1NjUsMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOTI3NTAx
+Mzk0LC0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2MjE5LC
+03ODg5OTg0MDQsLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX0=
 -->
