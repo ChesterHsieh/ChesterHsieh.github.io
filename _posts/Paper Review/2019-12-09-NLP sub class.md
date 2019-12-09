@@ -12,7 +12,9 @@ tags:
 - OCR
 - Speech recognition
 - [Entity linking](https://en.wikipedia.org/wiki/Entity_linking)
-- -   [Named-entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition "Named-entity recognition")
+- [Named-entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition "Named-entity recognition")
+- Text segmentation
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3MDUxNTIsLTg5NjIwMDk5XX0=
+eyJoaXN0b3J5IjpbLTc1OTc4MjkyNiwtODk2MjAwOTldfQ==
 -->
