@@ -68,11 +68,13 @@ Skill requirement
 	**My only research is utilize those on social media data. It will be hard for me to get points on this item.**
 
 # Verizon-Data science
+## Question
+- Spacy function?
 ## Failure
 - Poor explain on previous job
 - Word embedding
 - Boost faimly
 - Flask wrapper problem. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
 -->
