@@ -75,6 +75,16 @@ Skill requirement
 - Word embedding
 - Boost faimly
 - Flask wrapper problem. 
+
+# D interview
+## Question
+3 sum + 2 d
+## Failure
+- Reinforcment lenaring keep up 
+- Pytorch implment
+- y = e^x
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbMTQzMzc0NjIyOSwtMTgyMDA0NDUwLC0xMz
+cwNTgzMDE4XX0=
 -->
