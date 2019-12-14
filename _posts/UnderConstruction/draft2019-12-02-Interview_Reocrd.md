@@ -87,9 +87,10 @@ Skill requirement
 - Story. Should be implmented more.
 ## Plan
 - rebuild profile
+- Review the 
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Njg4MTM4LC0xODIwMDQ0NTAsLTEzNz
-A1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC0xMz
+cwNTgzMDE4XX0=
 -->
