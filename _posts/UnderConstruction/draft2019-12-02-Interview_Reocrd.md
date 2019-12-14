@@ -82,9 +82,11 @@ Skill requirement
 ## Failure
 - Reinforcment lenaring keep up 
 - Pytorch implment
-- y = e^x
+- y = e^x activation function, why not?
+- Accuracy loss function
+- 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzc0NjIyOSwtMTgyMDA0NDUwLC0xMz
+eyJoaXN0b3J5IjpbLTMxMDIzODc0OSwtMTgyMDA0NDUwLC0xMz
 cwNTgzMDE4XX0=
 -->
