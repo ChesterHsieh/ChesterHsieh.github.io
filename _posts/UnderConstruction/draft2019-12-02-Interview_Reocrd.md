@@ -81,12 +81,15 @@ Skill requirement
 3 sum + 2 d
 ## Failure
 - Reinforcment lenaring keep up 
-- Pytorch implment
+- Pytorch implment, hidden layer number rule of thum
 - y = e^x activation function, why not?
 - Accuracy loss function
+- Story. Should be implmented more.
+## Plan
+- rebuild profile
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDIzODc0OSwtMTgyMDA0NDUwLC0xMz
-cwNTgzMDE4XX0=
+eyJoaXN0b3J5IjpbLTk3Njg4MTM4LC0xODIwMDQ0NTAsLTEzNz
+A1ODMwMThdfQ==
 -->
