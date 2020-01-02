@@ -17,9 +17,10 @@ Ubuntu version:18
 $ sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 ## Supported storage drivers
+Docker support graphDriver
 `overlay2`, `aufs` and `btrfs`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTcwNzAxMCwxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbMTI5NjIzNTQ5OSwxMTMwNTQ4MDc3XX0=
 -->
