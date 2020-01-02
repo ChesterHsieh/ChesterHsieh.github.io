@@ -39,11 +39,16 @@ Help to find out if the docker service will start when we power on the system.
 # Usage
 ## Run
 ```
-docker run [image]
+docker run [option][image:TAG][COMMAND][ARG]```
+
 ```
+```
+docker run busybox echo hello world!
+```
+**Detach Mode**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDg0MzEyMCwtNjM2NjMwNTM2LC00MD
-k1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OCwtNDkxMTc5
-MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbLTEzMjY0MDc4NzUsLTYzNjYzMDUzNiwtND
+A5NTI2OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3
+OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
