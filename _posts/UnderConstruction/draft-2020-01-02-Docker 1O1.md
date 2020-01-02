@@ -56,9 +56,9 @@ For the web service, we hope it'll always being running.
 ```-p 8080:70```
 
 ***--memory 500M --memory-reservation 256M nginx***
-Memory to restrict
+Memory to restrict to docker. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY2MTc0NDEsLTYzNjYzMDUzNiwtND
+eyJoaXN0b3J5IjpbLTE0NTM4MDcwMzIsLTYzNjYzMDUzNiwtND
 A5NTI2OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3
 OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
