@@ -49,10 +49,10 @@ docker run busybox echo hello world!
 Run on the background. Some severice just to run all the time. Yes, we can run machine leaning Saas on this mode.
 **--name**
 Give the name for the running container. (not image name)
-**--restart on-failutre** or **--restart always** 
-For the web service, we hope it
+**--restart on-failutre** or **--restart always**  or **--restart unless-stopped** 
+For the web service, we hope it'll always being running. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTE4Njg0NCwtNjM2NjMwNTM2LC00MD
-k1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OCwtNDkxMTc5
-MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbLTEzOTMwMjA0ODQsLTYzNjYzMDUzNiwtND
+A5NTI2OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3
+OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
