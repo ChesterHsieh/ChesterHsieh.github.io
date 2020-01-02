@@ -61,8 +61,12 @@ Memory to restrict to docker.
 ## Login Driver
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
+## Docker Swarm
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDUxMTQ2MCwtMTQ1MzgwNzAzMiwtNj
-M2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4
-NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbNzY2OTI2NDYsMTY3NDUxMTQ2MCwtMTQ1Mz
+gwNzAzMiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1
+MywtMTY2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ
+==
 -->
