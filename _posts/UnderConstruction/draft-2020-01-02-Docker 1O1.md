@@ -11,16 +11,17 @@ tags:
 ---
 
 # Installation
-Ubuntu version:18
+It should be good enough to follow instruction from [offcial web]([https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/)) for Ubuntu 18. 
+Please step by step. 
 
-```
-$ sudo apt-get remove docker docker-engine docker.io containerd runc
-```
+
 ## Supported storage drivers
 Docker support graphDriver, included:
 `overlay2`, `aufs` and `btrfs`
 Default driver is overlay2,
 
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbLTE2NjYxODQ0OTgsLTQ5MTE3OTA5OCwxMT
+MwNTQ4MDc3XX0=
 -->
