@@ -89,7 +89,8 @@ Memory to restrict to docker.
 ## Login Driver
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
-
+# Image
+Latered file system. Play like lego. Every
 # Docker Swarm
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
@@ -126,8 +127,8 @@ This technology allows containers to operate independently and securely.
 
 ***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMjcxODc0LC03ODE1MDE4NDEsLTM2MT
-I5NDE0NCwxNjc0NTExNDYwLC0xNDUzODA3MDMyLC02MzY2MzA1
-MzYsLTQwOTUyNjk5NSwyMDk3MTgzOTUzLC0xNjY2MTg0NDk4LC
-00OTExNzkwOTgsMTEzMDU0ODA3N119
+eyJoaXN0b3J5IjpbMTI4OTQ4ODgyNywzMzEyNzE4NzQsLTc4MT
+UwMTg0MSwtMzYxMjk0MTQ0LDE2NzQ1MTE0NjAsLTE0NTM4MDcw
+MzIsLTYzNjYzMDUzNiwtNDA5NTI2OTk1LDIwOTcxODM5NTMsLT
+E2NjYxODQ0OTgsLTQ5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
