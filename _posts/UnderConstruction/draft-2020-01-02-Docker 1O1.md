@@ -20,8 +20,10 @@ Docker support graphDriver, included:
 `overlay2`, `aufs` and `btrfs`
 Default driver is overlay2,
 
-#
+## Permission
+Unlike CentOS, the following install instruction give enoguh access for user on using docker command.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYxODQ0OTgsLTQ5MTE3OTA5OCwxMT
-MwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbLTE1OTU2OTE1NDQsLTE2NjYxODQ0OTgsLT
+Q5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
