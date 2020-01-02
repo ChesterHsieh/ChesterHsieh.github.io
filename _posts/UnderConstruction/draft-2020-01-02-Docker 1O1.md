@@ -90,7 +90,8 @@ Memory to restrict to docker.
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
 # Image
-Latered file system. Play like lego. Every
+Latered file system. Play like lego.
+They can't be chage while container running. Except ***writable container Laye***
 # Docker Swarm
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
@@ -127,8 +128,8 @@ This technology allows containers to operate independently and securely.
 
 ***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQ4ODgyNywzMzEyNzE4NzQsLTc4MT
-UwMTg0MSwtMzYxMjk0MTQ0LDE2NzQ1MTE0NjAsLTE0NTM4MDcw
-MzIsLTYzNjYzMDUzNiwtNDA5NTI2OTk1LDIwOTcxODM5NTMsLT
-E2NjYxODQ0OTgsLTQ5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbMzg5NjAzOTQ0LDMzMTI3MTg3NCwtNzgxNT
+AxODQxLC0zNjEyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAz
+MiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMT
+Y2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
 -->
