@@ -14,6 +14,34 @@ tags:
 It should be good enough to follow instruction from [offcial web]([https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/)) for Ubuntu 18. 
 Please step by step. 
 
+Run the script below with shell script:
+Don't forget to chmod +x xxx.sh
+```
+sudo apt-get update
+
+sudo apt-get -y install \
+  apt-transport-https \
+  ca-certificates \
+  curl \
+  gnupg-agent \
+  software-properties-common
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo apt-key fingerprint 0EBFCD88
+
+sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+
+sudo apt-get update
+
+sudo apt-get install -y docker-ce=5:18.09.5~3-0~ubuntu-bionic docker-ce-cli=5:18.09.5~3-0~ubuntu-bionic containerd.io
+
+sudo usermod -a -G docker cloud_user
+newgrp docker
+```
 
 ## Supported storage drivers
 Docker support graph driver, included:
@@ -65,8 +93,8 @@ Framework for accessing log data from servvices and containers in Docker. Docker
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTI5NDE0NCwxNjc0NTExNDYwLC0xND
-UzODA3MDMyLC02MzY2MzA1MzYsLTQwOTUyNjk5NSwyMDk3MTgz
-OTUzLC0xNjY2MTg0NDk4LC00OTExNzkwOTgsMTEzMDU0ODA3N1
-19
+eyJoaXN0b3J5IjpbLTc4MTUwMTg0MSwtMzYxMjk0MTQ0LDE2Nz
+Q1MTE0NjAsLTE0NTM4MDcwMzIsLTYzNjYzMDUzNiwtNDA5NTI2
+OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3OTA5OC
+wxMTMwNTQ4MDc3XX0=
 -->
