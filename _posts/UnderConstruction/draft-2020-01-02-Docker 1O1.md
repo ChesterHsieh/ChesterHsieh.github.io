@@ -89,12 +89,36 @@ Memory to restrict to docker.
 ## Login Driver
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
-## Docker Swarm
+# Docker Swarm
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
+## Restore and backup
+#### Create the Backup
+
+On the manager:
+
+```
+sudo systemctl stop docker
+sudo tar -zvcf backup.tar.gz -C /var/lib/docker/swarm
+sudo systemctl start docker
+```
+
+#### Restore from Backup
+
+On the manager:
+
+```
+sudo systemctl stop docker
+sudo rm -rf /var/lib/docker/swarm/*
+sudo tar -zxvf backup.tar.gz -C /var/lib/docker/swarm/
+sudo systemctl start docker
+docker node ls
+```
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTUwMTg0MSwtMzYxMjk0MTQ0LDE2Nz
-Q1MTE0NjAsLTE0NTM4MDcwMzIsLTYzNjYzMDUzNiwtNDA5NTI2
-OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3OTA5OC
-wxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbMTY3ODU5Mzc0NSwtNzgxNTAxODQxLC0zNj
+EyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAzMiwtNjM2NjMw
+NTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OC
+wtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
 -->
