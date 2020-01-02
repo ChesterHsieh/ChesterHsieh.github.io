@@ -89,6 +89,7 @@ Memory to restrict to docker.
 ## Login Driver
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
+
 # Docker Swarm
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
@@ -116,8 +117,12 @@ docker node ls
 ```
 
 ##
+
+# Backgound Knowledge
+## Linux Namespace
+Linux Namespace provide core-level enviroment isolation method. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODU5Mzc0NSwtNzgxNTAxODQxLC0zNj
+eyJoaXN0b3J5IjpbMTMzNDQ1OTY2OSwtNzgxNTAxODQxLC0zNj
 EyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAzMiwtNjM2NjMw
 NTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OC
 wtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
