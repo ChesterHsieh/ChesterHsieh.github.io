@@ -18,7 +18,7 @@ Please step by step.
 ## Supported storage drivers
 Docker support graph driver, included:
 `overlay2`, `aufs` and `btrfs`
-Default driver is overlay2 for Cen
+Default driver is overlay2 for CentOS and Ubuntu.
 
 Allow us write the data on internal container
 
@@ -38,6 +38,6 @@ systemctl list-unit-files | grep docker
 Help to find out if the docker service will start when we power on the system.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2OTIyMzksMjA5NzE4Mzk1MywtMTY2Nj
-E4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbLTQwOTUyNjk5NSwyMDk3MTgzOTUzLC0xNj
+Y2MTg0NDk4LC00OTExNzkwOTgsMTEzMDU0ODA3N119
 -->
