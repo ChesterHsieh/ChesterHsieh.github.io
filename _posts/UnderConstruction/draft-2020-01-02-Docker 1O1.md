@@ -122,8 +122,11 @@ docker node ls
 ## Linux Namespace
 Linux Namespace provide core-level enviroment isolation method. We can say, this method jail some process in to prison. 
 
+This technology allows containers to operate independently and securely. 
+
+*pid,net,ipc,mnt,uts,user namespaces** are all 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTg3NjYxOSwtNzgxNTAxODQxLC0zNj
+eyJoaXN0b3J5IjpbMTMyMjU3NDczOSwtNzgxNTAxODQxLC0zNj
 EyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAzMiwtNjM2NjMw
 NTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OC
 wtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
