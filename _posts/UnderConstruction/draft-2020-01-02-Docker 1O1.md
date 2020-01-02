@@ -55,8 +55,10 @@ For the web service, we hope it'll always being running.
 ***Publish port***
 ```-p 8080:70```
 
+***--memory 500M --memory-reservation 256M nginx***
+Memory to restrict
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTM5NDI2MiwtNjM2NjMwNTM2LC00MD
-k1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OCwtNDkxMTc5
-MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbLTE5MTY2MTc0NDEsLTYzNjYzMDUzNiwtND
+A5NTI2OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3
+OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
