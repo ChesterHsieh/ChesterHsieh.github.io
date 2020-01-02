@@ -22,9 +22,12 @@ Default driver is overlay2,
 
 ## Permission
 ```
-Unlike CentOS, the following install instruction give enoguh access for user on using docker command.
-`
+Unlike CentOS, the following install instruction give enoguh access for user on using docker command.?????
+```
+Not really. Don't forget the local machine is always using root account to control most of command. In the cloud server, other user need to be set for being in the dcoker group.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMzMwNzAyLC0xNjY2MTg0NDk4LC00OT
-ExNzkwOTgsMTEzMDU0ODA3N119
+eyJoaXN0b3J5IjpbLTE2ODU4NTM4MTQsLTE2NjYxODQ0OTgsLT
+Q5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
 -->
