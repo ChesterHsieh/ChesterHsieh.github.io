@@ -93,10 +93,10 @@ Framework for accessing log data from servvices and containers in Docker. Docker
 Latered file system. Play like lego.
 They can't be chage while container running. Except ***writable container Laye***
 Layer can be shared by images. It mean we no longer need t ocopy it all the time.
-## pull
 ```
 docker image pull [image_name]
 ```
+## Dockerfiles
 
 
 # Docker Swarm
@@ -135,7 +135,7 @@ This technology allows containers to operate independently and securely.
 
 ***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDMzMDQ0LDMzMTI3MTg3NCwtNzgxNT
+eyJoaXN0b3J5IjpbNDI0NTg2NTcyLDMzMTI3MTg3NCwtNzgxNT
 AxODQxLC0zNjEyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAz
 MiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMT
 Y2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
