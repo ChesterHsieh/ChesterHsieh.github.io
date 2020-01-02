@@ -62,11 +62,11 @@ Memory to restrict to docker.
 Framework for accessing log data from servvices and containers in Docker. Docker supports a variert of logging driver.
 
 ## Docker Swarm
-
+It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2OTI2NDYsMTY3NDUxMTQ2MCwtMTQ1Mz
-gwNzAzMiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1
-MywtMTY2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ
-==
+eyJoaXN0b3J5IjpbLTM2MTI5NDE0NCwxNjc0NTExNDYwLC0xND
+UzODA3MDMyLC02MzY2MzA1MzYsLTQwOTUyNjk5NSwyMDk3MTgz
+OTUzLC0xNjY2MTg0NDk4LC00OTExNzkwOTgsMTEzMDU0ODA3N1
+19
 -->
