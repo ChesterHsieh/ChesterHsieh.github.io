@@ -10,7 +10,16 @@ tags:
     Project
 ---
 
+# Installation
+Ubuntu version:18
+
+```
+$ sudo apt-get remove docker docker-engine docker.io containerd runc
+```
+## Supported storage drivers
+`overlay2`, `aufs` and `btrfs`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDU0ODA3N119
+eyJoaXN0b3J5IjpbMTcyNTcwNzAxMCwxMTMwNTQ4MDc3XX0=
 -->
