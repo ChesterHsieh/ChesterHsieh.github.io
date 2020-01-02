@@ -30,8 +30,9 @@ Not really. Don't forget the local machine is always using root account to contr
 ```
 systemctl list-unit-files | grep docker
 ```
-Help to find out if the docker service will start in the 
+Help to find out if the docker service will start when we power on the system.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYyODcxNTEsLTE2NjYxODQ0OTgsLT
-Q5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OCwtND
+kxMTc5MDk4LDExMzA1NDgwNzddfQ==
 -->
