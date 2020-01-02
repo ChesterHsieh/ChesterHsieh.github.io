@@ -30,17 +30,20 @@ Unlike CentOS, the following install instruction give enoguh access for user on 
 
 Not really. Don't forget the local machine is always using root account to control most of command. In the cloud server, other user need to be set for being in the dcoker group.
 
-``````
+```
 sudo usermod -a -G docker cloud_user
-``````
 systemctl list-unit-files | grep docker
 ```
 Help to find out if the docker service will start when we power on the system.
 
 # Usage
 ## Run
+```
+docker run [image]
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjYzMDUzNiwtNDA5NTI2OTk1LDIwOT
-cxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3OTA5OCwxMTMwNTQ4
-MDc3XX0=
+eyJoaXN0b3J5IjpbMTc5MDg0MzEyMCwtNjM2NjMwNTM2LC00MD
+k1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OCwtNDkxMTc5
+MDk4LDExMzA1NDgwNzddfQ==
 -->
