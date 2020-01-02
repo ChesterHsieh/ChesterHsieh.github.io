@@ -92,6 +92,7 @@ Framework for accessing log data from servvices and containers in Docker. Docker
 # Image
 Latered file system. Play like lego.
 They can't be chage while container running. Except ***writable container Laye***
+Layer can be shared by images. It mean we no longer need t ocopy it all the time.
 # Docker Swarm
 It allows for easily building a distributed cluster where a container can be run across multiple available servers.
 
@@ -128,8 +129,8 @@ This technology allows containers to operate independently and securely.
 
 ***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NjAzOTQ0LDMzMTI3MTg3NCwtNzgxNT
-AxODQxLC0zNjEyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAz
-MiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMT
-Y2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbMjQzMDMxOTQsMzMxMjcxODc0LC03ODE1MD
+E4NDEsLTM2MTI5NDE0NCwxNjc0NTExNDYwLC0xNDUzODA3MDMy
+LC02MzY2MzA1MzYsLTQwOTUyNjk5NSwyMDk3MTgzOTUzLC0xNj
+Y2MTg0NDk4LC00OTExNzkwOTgsMTEzMDU0ODA3N119
 -->
