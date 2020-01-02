@@ -21,9 +21,10 @@ Docker support graphDriver, included:
 Default driver is overlay2,
 
 ## Permission
+```
 Unlike CentOS, the following install instruction give enoguh access for user on using docker command.
-
+`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU2OTE1NDQsLTE2NjYxODQ0OTgsLT
-Q5MTE3OTA5OCwxMTMwNTQ4MDc3XX0=
+eyJoaXN0b3J5IjpbNzYwMzMwNzAyLC0xNjY2MTg0NDk4LC00OT
+ExNzkwOTgsMTEzMDU0ODA3N119
 -->
