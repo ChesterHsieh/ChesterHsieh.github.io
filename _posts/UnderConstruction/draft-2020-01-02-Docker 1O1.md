@@ -97,6 +97,17 @@ Layer can be shared by images. It mean we no longer need t ocopy it all the time
 docker image pull [image_name]
 ```
 ## Dockerfiles
+```
+# Simple nginx image
+FROM ubuntu:bionic
+
+ENV NGINX_VERSION 1.14.0-0ubuntu1.6
+
+RUN apt-get update && apt-get install -y curl
+RUN apt-get update && apt-get install -y nginx=$NGINX_VERSION
+
+CMD ["nginx", "-g", "daemon off;"]
+```
 
 
 # Docker Swarm
@@ -135,8 +146,16 @@ This technology allows containers to operate independently and securely.
 
 ***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NTg2NTcyLDMzMTI3MTg3NCwtNzgxNT
-AxODQxLC0zNjEyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAz
-MiwtNjM2NjMwNTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMT
-Y2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJkaXNjdXNzaW9ucyI6eyJlVk5FVXRrOEFZOFY3RTFVIjp7In
+N0YXJ0IjoyODU0LCJlbmQiOjI4NjUsInRleHQiOiJSVU4gYXB0
+LWdldCJ9fSwiY29tbWVudHMiOnsibm12UUdQRXJWZWVORURJYy
+I6eyJkaXNjdXNzaW9uSWQiOiJlVk5FVXRrOEFZOFY3RTFVIiwi
+c3ViIjoiZ2g6MjI4NjIyNzQiLCJ0ZXh0IjoiR290IHRvIGJlIH
+J1biBhZ2FpbiBzaW5jZSB3ZSB3YW50IHRvIGZvcmNlIHRvIGNy
+ZWF0ZSBhbm90aGVyIGxheWVyLiIsImNyZWF0ZWQiOjE1Nzc5Nj
+kwODIyNTd9fSwiaGlzdG9yeSI6Wy0xODg2MDI3MzQ0LDQyNDU4
+NjU3MiwzMzEyNzE4NzQsLTc4MTUwMTg0MSwtMzYxMjk0MTQ0LD
+E2NzQ1MTE0NjAsLTE0NTM4MDcwMzIsLTYzNjYzMDUzNiwtNDA5
+NTI2OTk1LDIwOTcxODM5NTMsLTE2NjYxODQ0OTgsLTQ5MTE3OT
+A5OCwxMTMwNTQ4MDc3XX0=
 -->
