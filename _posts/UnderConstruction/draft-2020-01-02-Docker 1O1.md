@@ -16,11 +16,11 @@ Please step by step.
 
 
 ## Supported storage drivers
-Docker support graphDriver, included:
+Docker support graph driver, included:
 `overlay2`, `aufs` and `btrfs`
-Default driver is overlay2,
+Default driver is overlay2 for Cen
 
-Allow us write the data i
+Allow us write the data on internal container
 
 ## Permission
 ```
@@ -38,6 +38,6 @@ systemctl list-unit-files | grep docker
 Help to find out if the docker service will start when we power on the system.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI4MTkyMzYsMjA5NzE4Mzk1MywtMT
-Y2NjE4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbNjA2OTIyMzksMjA5NzE4Mzk1MywtMTY2Nj
+E4NDQ5OCwtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
 -->
