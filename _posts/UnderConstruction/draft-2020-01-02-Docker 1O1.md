@@ -124,10 +124,10 @@ Linux Namespace provide core-level enviroment isolation method. We can say, this
 
 This technology allows containers to operate independently and securely. 
 
-*pid,net,ipc,mnt,uts,user namespaces** are all 
+***pid,net,ipc,mnt,uts,user namespaces*** are all unique.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjU3NDczOSwtNzgxNTAxODQxLC0zNj
-EyOTQxNDQsMTY3NDUxMTQ2MCwtMTQ1MzgwNzAzMiwtNjM2NjMw
-NTM2LC00MDk1MjY5OTUsMjA5NzE4Mzk1MywtMTY2NjE4NDQ5OC
-wtNDkxMTc5MDk4LDExMzA1NDgwNzddfQ==
+eyJoaXN0b3J5IjpbMzMxMjcxODc0LC03ODE1MDE4NDEsLTM2MT
+I5NDE0NCwxNjc0NTExNDYwLC0xNDUzODA3MDMyLC02MzY2MzA1
+MzYsLTQwOTUyNjk5NSwyMDk3MTgzOTUzLC0xNjY2MTg0NDk4LC
+00OTExNzkwOTgsMTEzMDU0ODA3N119
 -->
