@@ -76,6 +76,10 @@ Skill requirement
 - Boost faimly
 - Flask wrapper problem. 
 
+# KSMC consulting
+
+
+
 # DoComo interview
 ## Question
 3 sum + 2 d
@@ -135,8 +139,8 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTgyMjcxNiwyMDA1ODA3ODYwLDMwMj
-cxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2MjY2NDQ3
-LDE5MjM1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC0xMz
-cwNTgzMDE4XX0=
+eyJoaXN0b3J5IjpbODUxNTIwNDgxLC0zNTE4MjI3MTYsMjAwNT
+gwNzg2MCwzMDI3MTA4ODksMTA3MzY2ODcxLC0xOTc2MDU2NDc0
+LDE5NjI2NjQ0NywxOTIzNTEyNTkwLDE0MzIzNjgwMjQsLTE4Mj
+AwNDQ1MCwtMTM3MDU4MzAxOF19
 -->
