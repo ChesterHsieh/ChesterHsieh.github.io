@@ -104,7 +104,11 @@ Skill requirement
 - stationary: **Stationarity** is an important characteristic of time series. A time series is said to be stationary if its statistical properties do not change over time
 - seasonality: **Seasonality** refers to periodic fluctuations. For example, electricity consumption is high during the day and low during night, or online sales increase during Christmas before slowing down again.
 - autocorrelated :**autocorrelation** is the similarity between observations as a function of the time lag between them.
+
+## Question
+- nn with feature importance:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMj
-M2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
+eyJoaXN0b3J5IjpbMTE4NDgyMzQxMiwxOTYyNjY0NDcsMTkyMz
+UxMjU5MCwxNDMyMzY4MDI0LC0xODIwMDQ0NTAsLTEzNzA1ODMw
+MThdfQ==
 -->
