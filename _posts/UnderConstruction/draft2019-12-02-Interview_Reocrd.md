@@ -108,7 +108,7 @@ Skill requirement
 - seasonality: **Seasonality** refers to periodic fluctuations. For example, electricity consumption is high during the day and low during night, or online sales increase during Christmas before slowing down again.
 - autocorrelated :**autocorrelation** is the similarity between observations as a function of the time lag between them.
 
-## Question
+## Technical Questions
 - nn with feature importance:
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
 	- **Granger causality test**
@@ -138,7 +138,7 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjkwNjYwNyw4NTE1MjA0ODEsLTM1MT
+eyJoaXN0b3J5IjpbLTcyNTU5NzM0OSw4NTE1MjA0ODEsLTM1MT
 gyMjcxNiwyMDA1ODA3ODYwLDMwMjcxMDg4OSwxMDczNjY4NzEs
 LTE5NzYwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMj
 M2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
