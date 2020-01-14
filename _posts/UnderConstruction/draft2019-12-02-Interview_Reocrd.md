@@ -96,13 +96,14 @@ Skill requirement
 - Gradient Vanish
 - stationary
 - Arima
-- Attention in Bert
+- Attention in Bert: **self-attention allows each word in the sentence to look at other words to better know which word contribute for the current word.**
+
 # Amazon
 ## Time-Series Data focasting
 - stationary: **Stationarity** is an important characteristic of time series. A time series is said to be stationary if its statistical properties do not change over time
 - seasonality: **Seasonality** refers to periodic fluctuations. For example, electricity consumption is high during the day and low during night, or online sales increase during Christmas before slowing down again.
 - autocorrelated :**autocorrelation** is the similarity between observations as a function of the time lag between them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE0ODI1OTEsMTkyMzUxMjU5MCwxND
-MyMzY4MDI0LC0xODIwMDQ0NTAsLTEzNzA1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbNTA1MzQ3NTY5LDE5MjM1MTI1OTAsMTQzMj
+M2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
 -->
