@@ -93,7 +93,12 @@ Skill requirement
 - 
 # JD
 # AI Palate
+- Gradient Vanish
+- 
+# Amazon
+Time-Series Data focasting
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDk5OTA0NSwxOTIzNTEyNTkwLDE0Mz
-IzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbLTIwODM1MjkwMTQsMTkyMzUxMjU5MCwxND
+MyMzY4MDI0LC0xODIwMDQ0NTAsLTEzNzA1ODMwMThdfQ==
 -->
