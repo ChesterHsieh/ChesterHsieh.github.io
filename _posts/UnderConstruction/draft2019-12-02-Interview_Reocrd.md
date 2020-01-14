@@ -109,8 +109,19 @@ Skill requirement
 - nn with feature importance:
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
 	- **Granger causality test**
+
+# C3.ai
+## Multiple choice questions
+- neuron ， wide neural network & deep neural network which one can be traind faster.
+- 
+
+
+
+----
+## Codeing
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzY2ODcxLC0xOTc2MDU2NDc0LDE5Nj
-I2NjQ0NywxOTIzNTEyNTkwLDE0MzIzNjgwMjQsLTE4MjAwNDQ1
-MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbLTM0MTUxNTczMiwxMDczNjY4NzEsLTE5Nz
+YwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMjM2ODAy
+NCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
 -->
