@@ -120,9 +120,9 @@ Skill requirement
 ----
 ## Codeing
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
-- 
+- w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNzEwODg5LDEwNzM2Njg3MSwtMTk3Nj
-A1NjQ3NCwxOTYyNjY0NDcsMTkyMzUxMjU5MCwxNDMyMzY4MDI0
-LC0xODIwMDQ0NTAsLTEzNzA1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbMjAwNTgwNzg2MCwzMDI3MTA4ODksMTA3Mz
+Y2ODcxLC0xOTc2MDU2NDc0LDE5NjI2NjQ0NywxOTIzNTEyNTkw
+LDE0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
 -->
