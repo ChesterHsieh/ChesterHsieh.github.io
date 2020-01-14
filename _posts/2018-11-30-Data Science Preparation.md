@@ -20,10 +20,6 @@ I want to share the experience about how I prepare data scientist. Here's my bac
  
  It's  easy to have better starting situation than my case,  so don't worry.
  
-# Preparation
-## fd
-### dffkjsdfkj
-#### dfsklfjsdlk
 
 
 
@@ -112,6 +108,6 @@ on-site).
 ## Phone interview 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ1NTU1NzYsODk4MzcxNjEwLC0yMD
-k3MjU5NTc2XX0=
+eyJoaXN0b3J5IjpbLTYxMjk2MzE1NiwtMTY2NDU1NTU3Niw4OT
+gzNzE2MTAsLTIwOTcyNTk1NzZdfQ==
 -->
