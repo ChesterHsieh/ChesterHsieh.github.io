@@ -76,7 +76,7 @@ Skill requirement
 - Boost faimly
 - Flask wrapper problem. 
 
-# D interview
+# DoComo interview
 ## Question
 3 sum + 2 d
 ## Failure
@@ -91,8 +91,9 @@ Skill requirement
 - 
 - 
 - 
-- 
+# JD
+# AI Palate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzUxMjU5MCwxNDMyMzY4MDI0LC0xOD
-IwMDQ0NTAsLTEzNzA1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbLTc3MDk5OTA0NSwxOTIzNTEyNTkwLDE0Mz
+IzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
 -->
