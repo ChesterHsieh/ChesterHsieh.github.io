@@ -52,7 +52,6 @@ New Product Development
 
 
 
-# CoStar interview
 # Ameralla-Algorithm Engineer Interview
 ## Plan & Initial idea
 It's a little bit wired to see the recruiter invite me on indeed. it has been a year not updating on indeed profile. That's extremely important progression on this year.
@@ -139,8 +138,8 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNTIwNDgxLC0zNTE4MjI3MTYsMjAwNT
-gwNzg2MCwzMDI3MTA4ODksMTA3MzY2ODcxLC0xOTc2MDU2NDc0
-LDE5NjI2NjQ0NywxOTIzNTEyNTkwLDE0MzIzNjgwMjQsLTE4Mj
-AwNDQ1MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbMTI0MjkwNjYwNyw4NTE1MjA0ODEsLTM1MT
+gyMjcxNiwyMDA1ODA3ODYwLDMwMjcxMDg4OSwxMDczNjY4NzEs
+LTE5NzYwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMj
+M2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
 -->
