@@ -125,6 +125,10 @@ Skill requirement
 - 高频9道题
 - streaming data
 - Boy or Girl paradox
+
+## Real Question
+- what's activation function we shouldn't use on last layer?
+- activation function I know
 - 
 # C3.ai
 ## Multiple choice questions
@@ -138,8 +142,9 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTU5NzM0OSw4NTE1MjA0ODEsLTM1MT
-gyMjcxNiwyMDA1ODA3ODYwLDMwMjcxMDg4OSwxMDczNjY4NzEs
-LTE5NzYwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMj
-M2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
+eyJoaXN0b3J5IjpbMTkwMzAwNDA5LC03MjU1OTczNDksODUxNT
+IwNDgxLC0zNTE4MjI3MTYsMjAwNTgwNzg2MCwzMDI3MTA4ODks
+MTA3MzY2ODcxLC0xOTc2MDU2NDc0LDE5NjI2NjQ0NywxOTIzNT
+EyNTkwLDE0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAx
+OF19
 -->
