@@ -169,18 +169,7 @@ There's are two example using HMM concept.
 
 
 
-# TF-serving
-1. Serverable
-	- Central part of the tf serving
-	- Can be push new module when serive is alive.
-2. Loader
-	- Need to wrap out the servable function.
-3. Source
-    Eat the module, that's it.
-4. Manager
-## JAVA wrapper as client service
 
-# 
 # Knowledge supplement :)
 While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
 
@@ -216,8 +205,9 @@ Collceting the most common DL framework accoding to **Speech Recognition Using D
 ## Pointer network
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTIxNzk0NiwtMzExOTk3NDI1LDE4NT
-kyNTY1NjUsMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOTI3NTAx
-Mzk0LC0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2MjE5LC
-03ODg5OTg0MDQsLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX0=
+eyJoaXN0b3J5IjpbMTAxMDU2MDMyOCwxNzQ1MjE3OTQ2LC0zMT
+E5OTc0MjUsMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xODUxNDI1
+NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIzMDUzLD
+E2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMDkw
+NDA4ODldfQ==
 -->
