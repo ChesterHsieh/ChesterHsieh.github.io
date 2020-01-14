@@ -131,6 +131,8 @@ Skill requirement
 - List all activation function 
 - Hypothsis of linear regression
 - Decesion tree
+- What's dropout
+- Onder fitting, What can you try?
 - 
 # C3.ai
 ## Multiple choice questions
@@ -144,7 +146,7 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDk0MjYxNCwxOTAzMDA0MDksLTcyNT
+eyJoaXN0b3J5IjpbLTIzNzUzNTAyMywxOTAzMDA0MDksLTcyNT
 U5NzM0OSw4NTE1MjA0ODEsLTM1MTgyMjcxNiwyMDA1ODA3ODYw
 LDMwMjcxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2Mj
 Y2NDQ3LDE5MjM1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUw
