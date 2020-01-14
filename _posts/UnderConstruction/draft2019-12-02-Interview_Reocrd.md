@@ -108,9 +108,9 @@ Skill requirement
 ## Question
 - nn with feature importance:
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
-	- 
+	- **Granger causality test**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYwNTY0NzQsMTk2MjY2NDQ3LDE5Mj
-M1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgz
-MDE4XX0=
+eyJoaXN0b3J5IjpbMTA3MzY2ODcxLC0xOTc2MDU2NDc0LDE5Nj
+I2NjQ0NywxOTIzNTEyNTkwLDE0MzIzNjgwMjQsLTE4MjAwNDQ1
+MCwtMTM3MDU4MzAxOF19
 -->
