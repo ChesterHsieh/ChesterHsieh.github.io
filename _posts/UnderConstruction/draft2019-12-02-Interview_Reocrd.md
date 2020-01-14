@@ -107,8 +107,10 @@ Skill requirement
 
 ## Question
 - nn with feature importance:
+	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDgyMzQxMiwxOTYyNjY0NDcsMTkyMz
-UxMjU5MCwxNDMyMzY4MDI0LC0xODIwMDQ0NTAsLTEzNzA1ODMw
-MThdfQ==
+eyJoaXN0b3J5IjpbNDc5MTUwMzgxLDE5NjI2NjQ0NywxOTIzNT
+EyNTkwLDE0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAx
+OF19
 -->
