@@ -189,23 +189,14 @@ There's are two example using HMM concept.
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 
-# Coding interview
-- bst转成按顺序排列的双链表。我很久以前刷锅这个题
-- logistic regression
-- underfitting， overfitting。 generative
-- 在迷宫里判断两个点是否可达。
-- overfitting
-- Adam
-- Binary Search Tree Iterator
-- 高频9道题
-- streaming data
-- Boy or Girl paradox
+
+
 # Speech Recognition
 Collceting the most common DL framework accoding to **Speech Recognition Using Deep Neural Networks: A Systematic Review**
 ## Pointer network
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDU2MDMyOCwxNzQ1MjE3OTQ2LC0zMT
+eyJoaXN0b3J5IjpbMTUxODQyMzQ2MiwxNzQ1MjE3OTQ2LC0zMT
 E5OTc0MjUsMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xODUxNDI1
 NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIzMDUzLD
 E2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMDkw
