@@ -94,11 +94,15 @@ Skill requirement
 # JD
 # AI Palate
 - Gradient Vanish
+- stationary
+- Arima
 - 
 # Amazon
 Time-Series Data focasting
-
+- stationary
+- seasonality
+- autocorrelated :
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM1MjkwMTQsMTkyMzUxMjU5MCwxND
-MyMzY4MDI0LC0xODIwMDQ0NTAsLTEzNzA1ODMwMThdfQ==
+eyJoaXN0b3J5IjpbMTQ5ODYzMTI2NywxOTIzNTEyNTkwLDE0Mz
+IzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
 -->
