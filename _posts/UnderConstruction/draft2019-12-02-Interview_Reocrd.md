@@ -110,6 +110,19 @@ Skill requirement
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
 	- **Granger causality test**
 
+
+## High Frequency Coding interview
+- bst转成按顺序排列的双链表。我很久以前刷锅这个题
+- logistic regression
+- underfitting， overfitting。 generative
+- 在迷宫里判断两个点是否可达。
+- overfitting
+- Adam
+- Binary Search Tree Iterator
+- 高频9道题
+- streaming data
+- Boy or Girl paradox
+- 
 # C3.ai
 ## Multiple choice questions
 - neuron ， wide neural network & deep neural network which one can be traind faster.
@@ -122,7 +135,8 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTgwNzg2MCwzMDI3MTA4ODksMTA3Mz
-Y2ODcxLC0xOTc2MDU2NDc0LDE5NjI2NjQ0NywxOTIzNTEyNTkw
-LDE0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbLTM1MTgyMjcxNiwyMDA1ODA3ODYwLDMwMj
+cxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2MjY2NDQ3
+LDE5MjM1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC0xMz
+cwNTgzMDE4XX0=
 -->
