@@ -114,6 +114,24 @@ Skill requirement
 	- **Granger causality test**
 
 
+GAN
+
+ranking evaluation metrics
+
+sampling on missing value
+
+online clustering
+
+Least discriminative analysis
+
+Reservoir sampling(水塘問題)
+rand-> p  
+if P< 1/n:  
+Replace  
+Else:  
+Return Value before
+
+
 ## High Frequency Coding interview
 - bst转成按顺序排列的双链表。我很久以前刷锅这个题
 - logistic regression
@@ -146,9 +164,9 @@ Skill requirement
 - Is this a tree? Given list(set( NodaA, NodeB) return True/False 
 - w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzUzNTAyMywxOTAzMDA0MDksLTcyNT
-U5NzM0OSw4NTE1MjA0ODEsLTM1MTgyMjcxNiwyMDA1ODA3ODYw
-LDMwMjcxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2Mj
-Y2NDQ3LDE5MjM1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUw
-LC0xMzcwNTgzMDE4XX0=
+eyJoaXN0b3J5IjpbLTEzNjAxMzQ4MDYsLTIzNzUzNTAyMywxOT
+AzMDA0MDksLTcyNTU5NzM0OSw4NTE1MjA0ODEsLTM1MTgyMjcx
+NiwyMDA1ODA3ODYwLDMwMjcxMDg4OSwxMDczNjY4NzEsLTE5Nz
+YwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1OTAsMTQzMjM2ODAy
+NCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX0=
 -->
