@@ -82,16 +82,12 @@ In optimization problem, any solution rely on BFS or DFS, the idea is try to exh
 # Topic Modeling & Summarization
 
 
-# Deeplearning Related
-Try to list better structure to formula an MECE list to cover most topic I expect for interview. Pretend to be build up the house, here's some idea
-
-## Summery
-### Deep learning very basic type?
+# Deep learning very basic type?
 The real answer here is infinity. However, I don't believe anyone can actually doing that good for knowing everything. 
 - MLP, Boltzman machine, CNN,RNN,GAN, LSTM, autoencoder
 - pooling layer, Relu Layer, full connected layer, 
 - BatchNormalization
-### Initialize 
+#Initialize 
 ### Activation machine
 Sigmoid, Relu, Step, Tanh, softmax
 ### Cost function
@@ -112,10 +108,7 @@ They are tons of parameter. Not gonna to list it all.
 Tensorflow is the the only library I've used so far.( I assume the keras as part of tensorflow) Following google's talk , they strongerly suggest peoeple to use Keras and other high level tool first. In this post, I hope to write down higher level idea for interview mainly. 
 ### Backward propagation
 
-## Some problem 
-- Greadient Vanishing & exploding
-- Epoch & batch & iteration
- 
+
 
 
 # Knowledge supplement :)
@@ -132,7 +125,6 @@ There's are two example using HMM concept.
 -   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
     -   e.g.,  yiyi  is part-of-speech tag at time  i
 
-## bagging & boosting
 
 
 
@@ -150,42 +142,28 @@ There's are two example using HMM concept.
 	 - GRU
 	 - LSTM
 6. Attention model
-# Deployment
-## Flask API wrapper
-
-# Reference
-- [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
-- [Question Source-2]()
-- [NLTK for POS](https://www.nltk.org/book/ch05.html)
 
 
 
 
-# Knowledge supplement :)
-While I collect questions and try answer them, I review some key tool. I hope they'll also helpful for reader. 
 
-#### [HMM & POS](http://nbviewer.jupyter.org/github/iit-cs585/main/blob/master/lec/l07/L07.ipynb)
-The main idea of Hidden Markov models
-
-The output at time  ii  depends on the input at time  ii  and the output at previous times  i−1i−1,  i−2i−2, ...:
-
-There's are two example using HMM concept.
-
--   **Language model**:  p(wi|wi−2,wi−1)p(wi|wi−2,wi−1)
--   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
-    -   e.g.,  yiyi  is part-of-speech tag at time  i
 
 
 
 
 # Speech Recognition
 Collceting the most common DL framework accoding to **Speech Recognition Using Deep Neural Networks: A Systematic Review**
-## Pointer network
-##
+
+# Pointer network
+# Reference
+- [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
+- [Question Source-2]()
+- [NLTK for POS](https://www.nltk.org/book/ch05.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMT
-k5NzQyNSwxODU5MjU2NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0
-MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMT
-Y5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIzNDUsMTEwOTA0
-MDg4OV19
+eyJoaXN0b3J5IjpbLTExNDkxMTE2NTAsNjEyMjM4NDA1LDE3ND
+UyMTc5NDYsLTMxMTk5NzQyNSwxODU5MjU2NTY1LDE2OTEyNDkx
+MzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNC
+w2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0
+NzIzNDUsMTEwOTA0MDg4OV19
 -->
