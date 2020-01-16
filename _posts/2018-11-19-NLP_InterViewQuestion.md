@@ -75,12 +75,8 @@ For unsupervised learning sentiment analysis is one simple idea. Collect positiv
 ![This is the beam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bending.svg/320px-Bending.svg.png)
 In optimization problem, any solution rely on BFS or DFS, the idea is try to exhaustively search all the possible solution. If the problem know the score(performance) in half way(tree), we can set up some threshold to remove part of the tree. The prons is obvious that save computing/memory resource, however, it can't garentee best solution. 
 
-# classification problem
-For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
-## cost function
-- softmax_cross_entropy_with_logits,
-- tf.nn.weighted_cross_entropy_with_logits
-
+# Language Modeling
+- Online training on word2vec? For gensim, is possible to add new vocab into exist model
 
 
 # Topic Modeling & Summarization
@@ -187,9 +183,9 @@ Collceting the most common DL framework accoding to **Speech Recognition Using D
 ## Pointer network
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDgxNzUyMywxNzQ1MjE3OTQ2LC0zMT
-E5OTc0MjUsMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xODUxNDI1
-NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIzMDUzLD
-E2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMDkw
-NDA4ODldfQ==
+eyJoaXN0b3J5IjpbNjEyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMT
+k5NzQyNSwxODU5MjU2NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0
+MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMT
+Y5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIzNDUsMTEwOTA0
+MDg4OV19
 -->
