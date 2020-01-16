@@ -83,39 +83,15 @@ I've been asking this question for at least 3 companies(Stich Fix, Grid Dynamic,
 ## Deep Learning
 #### Why we need the max pool in CNN?
 
-# Amazon interview question
 
-L1/L2 difference
 
-feature selection
 
-ADAM
-
-momentum
-
-GAN
-
-stochastic gradient descent
-
-validation set
-
-ranking evaluation metrics
-
-sampling on missing value
-
-online clustering
-
-Least discriminative analysis
-
-#### Reservoir sampling(水塘問題)
-
-rand-> p  
-if P< 1/n:  
-Replace  
-Else:  
-Return Value before
-
+## Imblanced training data?
+[How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+ 1. Over sampling /Down sampling /Mixtur / SMOTE
+ 2.  Ensamble algorithm=> bagging/boosting
+ 3.  Weighting change. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDMwOTEwNSwxNjkxMzUwNDIxXX0=
+eyJoaXN0b3J5IjpbMTE1MzQyNjk2MCwxNjkxMzUwNDIxXX0=
 -->
