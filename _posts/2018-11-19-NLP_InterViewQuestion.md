@@ -75,19 +75,14 @@ For unsupervised learning sentiment analysis is one simple idea. Collect positiv
 ![This is the beam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bending.svg/320px-Bending.svg.png)
 In optimization problem, any solution rely on BFS or DFS, the idea is try to exhaustively search all the possible solution. If the problem know the score(performance) in half way(tree), we can set up some threshold to remove part of the tree. The prons is obvious that save computing/memory resource, however, it can't garentee best solution. 
 
-# Classifer problem
+# classification problem
 For lot of small taks on building chatbot, the classifer problem is more common than the regression problem. (hmmm. ranking result is regression though. ...) .
 ## cost function
 - softmax_cross_entropy_with_logits,
 - tf.nn.weighted_cross_entropy_with_logits
 
-## Imblanced training data?
-[How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
- 1. Over sampling /Down sampling /Mixtur / SMOTE
- 2.  Ensamble algorithm=> bagging/boosting
- 3.  Weighting change. 
 
-# ANOVA
+
 # Topic Modeling & Summarization
 
 
@@ -184,10 +179,6 @@ There's are two example using HMM concept.
 -   **Hidden Markov model**:  p(yi|wi,yi−1,yi−2,…)p(yi|wi,yi−1,yi−2,…)
     -   e.g.,  yiyi  is part-of-speech tag at time  i
 
-# Reference
-- [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
-- [Question Source-2]()
-- [NLTK for POS](https://www.nltk.org/book/ch05.html)
 
 
 
@@ -196,7 +187,7 @@ Collceting the most common DL framework accoding to **Speech Recognition Using D
 ## Pointer network
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODQyMzQ2MiwxNzQ1MjE3OTQ2LC0zMT
+eyJoaXN0b3J5IjpbMTUyNDgxNzUyMywxNzQ1MjE3OTQ2LC0zMT
 E5OTc0MjUsMTg1OTI1NjU2NSwxNjkxMjQ5MTM0LC0xODUxNDI1
 NDI0LDE5Mjc1MDEzOTQsLTEyNzIwOTkwMjQsNjU2MjIzMDUzLD
 E2OTAyNjYyMTksLTc4ODk5ODQwNCwtNTY3NDcyMzQ1LDExMDkw
