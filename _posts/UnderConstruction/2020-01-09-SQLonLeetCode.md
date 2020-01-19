@@ -19,6 +19,12 @@ OVER ([ <PARTITION BY clause> ]
 	  [ <ORDER BY clause> ] 
 	  [ <ROW or RANGE clause> ] )
 ```
+# Date data
+## Time Stamp
+- **DATEADD()**
+- **DATEDIFF()**
+	Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
+- **BETWEEN** can be apply to date format.
 
 # Data type
 ## Enumerate
@@ -59,6 +65,6 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI0MTIxMzUsMjAxMzQ5NjU3Nyw3Nz
-M0NjUzNjEsLTE0NTYxNzkwMTNdfQ==
+eyJoaXN0b3J5IjpbMTUwNTA1NTg3LDIwMTM0OTY1NzcsNzczND
+Y1MzYxLC0xNDU2MTc5MDEzXX0=
 -->
