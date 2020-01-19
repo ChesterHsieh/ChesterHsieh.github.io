@@ -15,10 +15,13 @@ If the question can be divide and conque. Union can simply add the result.
 # Window function
 Leetcode 185
 ```sql
-OVER ([ <PARTITION BY clause> ] 
+FUNCTION() OVER ([ <PARTITION BY clause> ] 
 	  [ <ORDER BY clause> ] 
 	  [ <ROW or RANGE clause> ] )
 ```
+It can share groupy by feeling and function(aggregate/rank)
+
+## RANK & DENSERANK
 # Date data
 ## Time Stamp
 - **DATEADD()**
@@ -65,6 +68,7 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMT
-M0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbLTQyODIzODc3OSwtMTI0MDE0NjMxNCwxNT
+A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
+MTNdfQ==
 -->
