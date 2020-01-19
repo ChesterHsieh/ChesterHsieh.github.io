@@ -36,7 +36,7 @@ ELSE
 Here's the example show, if else result can be directly use in other function.
 ```sql
 SELECT Request_at as Day,
-       ROUND(COUNT(IF(Status != 'completed', TRUE, NULL)) / COUNT(*), 2) AS 'Cancellation Rate'
+       ROUND(COUNT(iff(Status != 'completed', TRUE, NULL)) / COUNT(*), 2) AS 'Cancellation Rate'
 FROM Trips
 WHERE (Request_at BETWEEN '2013-10-01' AND '2013-10-03')
       AND Client_id NOT IN (SELECT Users_Id FROM Users WHERE Banned = 'Yes')
@@ -45,5 +45,6 @@ GROUP BY Request_at;
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NT
+YxNzkwMTNdfQ==
 -->
