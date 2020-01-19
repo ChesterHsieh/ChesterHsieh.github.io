@@ -20,7 +20,12 @@ Leetcode 262
 # Logic Process
 ## IF ELSE statement
 Leetcode 608
-
+```sql
+IF DATENAME(weekday, GETDATE()) IN (N'Saturday', N'Sunday')
+       SELECT 'Weekend';
+ELSE 
+       SELECT 'Weekday';
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzM2ODA4Nl19
+eyJoaXN0b3J5IjpbLTExNzU3Mjg5MTddfQ==
 -->
