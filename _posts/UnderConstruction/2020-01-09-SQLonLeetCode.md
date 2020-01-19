@@ -22,6 +22,17 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 It can share groupy by feeling and function(aggregate/rank)
 
 ## RANK & DENSERANK
+RANK gives you the ranking within your ordered partition. Ties are assigned the same rank, with the next ranking(s) skipped. So, if you have 3 items at rank 2, the next rank listed would be ranked 5.
+
+DENSE_RANK again gives you the ranking within your ordered partition, but the ranks are consecutive. No ranks are skipped if there are ranks with multiple items.
+
+| number   |      DENSERANK      |  RANK |
+|----------|:-------------:|------:|
+| 1|  1| $1600 |
+| 1 |    1   |   $12 |
+| 2 | right-aligned |    $1 |
+| 3 | right-aligned |    $1 |
+
 # Date data
 ## Time Stamp
 - **DATEADD()**
@@ -68,7 +79,7 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODIzODc3OSwtMTI0MDE0NjMxNCwxNT
+eyJoaXN0b3J5IjpbMTQyOTExMjc4MSwtMTI0MDE0NjMxNCwxNT
 A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
 MTNdfQ==
 -->
