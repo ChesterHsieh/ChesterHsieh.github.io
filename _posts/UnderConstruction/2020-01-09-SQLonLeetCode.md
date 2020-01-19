@@ -27,12 +27,8 @@ Leetcode 262
 ## IF ELSE statement
 Leetcode 608
 ```sql
-IF DATENAME(weekday, GETDATE()) IN (N'Saturday', N'Sunday')
-       SELECT 'Weekend';
-ELSE 
-       SELECT 'Weekday';
+iff(regulation, return1,return2)
 ```
-
 Here's the example show, if else result can be directly use in other function.
 ```sql
 SELECT Request_at as Day,
@@ -42,9 +38,14 @@ WHERE (Request_at BETWEEN '2013-10-01' AND '2013-10-03')
       AND Client_id NOT IN (SELECT Users_Id FROM Users WHERE Banned = 'Yes')
 GROUP BY Request_at;
 ```
+## WHEN case end
+If the if-else case more than 2 split point, when/case is easier
+```sql
+
+```
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NT
-YxNzkwMTNdfQ==
+eyJoaXN0b3J5IjpbMTU1OTAyNTg3MywyMDEzNDk2NTc3LDc3Mz
+Q2NTM2MSwtMTQ1NjE3OTAxM119
 -->
