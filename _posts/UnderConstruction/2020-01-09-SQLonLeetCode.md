@@ -6,6 +6,11 @@
 # Join
 # Window function
 
+```sql
+OVER ([ <PARTITION BY clause> ] 
+	  [ <ORDER BY clause> ] 
+	  [ <ROW or RANGE clause> ] )
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzM2ODI3NV19
+eyJoaXN0b3J5IjpbMjA5NDc4NTIzM119
 -->
