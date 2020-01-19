@@ -24,7 +24,14 @@ OVER ([ <PARTITION BY clause> ]
 ## Enumerate
 Leetcode 262
 ## CAST & CONVERT
-They are the same. 
+They are the same. Try use **CONVERT** only. Keep it simple and easy to rememver. 
+```sql
+-- CAST Syntax:  
+CAST ( expression AS data_type [ ( length ) ] )  
+  
+-- CONVERT Syntax:  
+CONVERT ( data_type [ ( length ) ] , expression [ , style ] )
+```
 # Logic Process
 ## IF ELSE statement
 Leetcode 608
@@ -52,6 +59,6 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY1NDc2MDQsMjAxMzQ5NjU3Nyw3Nz
+eyJoaXN0b3J5IjpbLTIxMDI0MTIxMzUsMjAxMzQ5NjU3Nyw3Nz
 M0NjUzNjEsLTE0NTYxNzkwMTNdfQ==
 -->
