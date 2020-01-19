@@ -5,6 +5,7 @@
 - Date data 
 - Data type
 - Logic Process
+- Variable
 # Join mulitple table
 ## UNION
 leetcode 608
@@ -41,7 +42,8 @@ WHERE (Request_at BETWEEN '2013-10-01' AND '2013-10-03')
       AND Client_id NOT IN (SELECT Users_Id FROM Users WHERE Banned = 'Yes')
 GROUP BY Request_at;
 ```
+# Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYxNzkwMTNdfQ==
+eyJoaXN0b3J5IjpbNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
 -->
