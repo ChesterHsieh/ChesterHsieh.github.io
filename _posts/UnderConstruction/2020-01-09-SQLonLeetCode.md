@@ -23,6 +23,8 @@ OVER ([ <PARTITION BY clause> ]
 # Data type
 ## Enumerate
 Leetcode 262
+## CAST & CONVERT
+They are the same. 
 # Logic Process
 ## IF ELSE statement
 Leetcode 608
@@ -50,6 +52,6 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTc4MTkyNywyMDEzNDk2NTc3LDc3Mz
-Q2NTM2MSwtMTQ1NjE3OTAxM119
+eyJoaXN0b3J5IjpbLTE3OTY1NDc2MDQsMjAxMzQ5NjU3Nyw3Nz
+M0NjUzNjEsLTE0NTYxNzkwMTNdfQ==
 -->
