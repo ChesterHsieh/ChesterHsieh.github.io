@@ -28,10 +28,10 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 
 | number   |      DENSERANK      |  RANK |
 |----------|:-------------:|------:|
-| 1|  1| $1600 |
-| 1 |    1   |   $12 |
-| 2 | right-aligned |    $1 |
-| 3 | right-aligned |    $1 |
+| 1|  1| 1 |
+| 1 |1 |   1 |
+| 2 | 2 | 3|
+| 3 | 3 | 4 |
 
 # Date data
 ## Time Stamp
@@ -79,7 +79,7 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTExMjc4MSwtMTI0MDE0NjMxNCwxNT
+eyJoaXN0b3J5IjpbMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
 A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
 MTNdfQ==
 -->
