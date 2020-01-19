@@ -41,11 +41,15 @@ GROUP BY Request_at;
 ## WHEN case end
 If the if-else case more than 2 split point, when/case is easier
 ```sql
-
+WHEN statement
+CASE case1 THEN value_1
+CASE .... THEN value_....
+ELSE value_else
+END
 ```
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTAyNTg3MywyMDEzNDk2NTc3LDc3Mz
+eyJoaXN0b3J5IjpbLTg4OTc4MTkyNywyMDEzNDk2NTc3LDc3Mz
 Q2NTM2MSwtMTQ1NjE3OTAxM119
 -->
