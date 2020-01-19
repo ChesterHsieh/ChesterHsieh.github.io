@@ -5,7 +5,12 @@
 - Date data 
 - Data type
 - Logic Process
-# Join
+# Join mulitple table
+## UNION
+leetcode 608
+If the question can be divide and conque. Union can simply add the result.
+
+
 # Window function
 
 ```sql
@@ -27,5 +32,5 @@ ELSE
        SELECT 'Weekday';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU3Mjg5MTddfQ==
+eyJoaXN0b3J5IjpbMjQzMTA1Nzk1XX0=
 -->
