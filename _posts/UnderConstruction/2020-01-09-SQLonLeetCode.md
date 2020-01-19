@@ -13,7 +13,7 @@ If the question can be divide and conque. Union can simply add the result.
 
 ## 
 # Window function
-
+Leetcode 185
 ```sql
 OVER ([ <PARTITION BY clause> ] 
 	  [ <ORDER BY clause> ] 
@@ -65,6 +65,6 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTA1NTg3LDIwMTM0OTY1NzcsNzczND
-Y1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbLTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMT
+M0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
 -->
