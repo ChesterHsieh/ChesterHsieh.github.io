@@ -44,6 +44,8 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 | 3 | 3 | 4 |
 
 # Date data
+## Different type of date data type
+- 
 ## Time Stamp
 - **DATEADD()**
 - **DATEDIFF()**
@@ -91,8 +93,8 @@ END
 ## ORDER BY
 - Rows cluase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTc0NjUzOSw3MDc0NjQzNjMsMjQxMz
-AyNDg1LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMjQwMTQ2MzE0
-LDE1MDUwNTU4NywyMDEzNDk2NTc3LDc3MzQ2NTM2MSwtMTQ1Nj
-E3OTAxM119
+eyJoaXN0b3J5IjpbMjAxMzMyODUwMCwxNjY5NzQ2NTM5LDcwNz
+Q2NDM2MywyNDEzMDI0ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUs
+LTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMTM0OTY1NzcsNzczND
+Y1MzYxLC0xNDU2MTc5MDEzXX0=
 -->
