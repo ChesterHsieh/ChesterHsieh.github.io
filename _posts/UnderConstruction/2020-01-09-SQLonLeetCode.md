@@ -26,6 +26,7 @@ It can share groupy by feeling and function(aggregate/rank)
 ROW_NUMBER ( ) 
 OVER ( [ PARTITION BY value_expression , ... [ n ] ] order_by_clause )
 ```
+## 
 
 
 ## RANK & DENSERANK
@@ -86,7 +87,7 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY0NzYxMzAsMTA0NzAwNjMyNSwtMT
-I0MDE0NjMxNCwxNTA1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUz
-NjEsLTE0NTYxNzkwMTNdfQ==
+eyJoaXN0b3J5IjpbNjk2NjQ4OTU0LDEwNDcwMDYzMjUsLTEyND
+AxNDYzMTQsMTUwNTA1NTg3LDIwMTM0OTY1NzcsNzczNDY1MzYx
+LC0xNDU2MTc5MDEzXX0=
 -->
