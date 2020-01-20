@@ -21,6 +21,13 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 ```
 It can share groupy by feeling and function(aggregate/rank)
 
+## ROW_NUMBER
+```sql
+ROW_NUMBER ( ) 
+OVER ( [ PARTITION BY value_expression , ... [ n ] ] order_by_clause )
+```
+
+
 ## RANK & DENSERANK
 RANK gives you the ranking within your ordered partition. Ties are assigned the same rank, with the next ranking(s) skipped. So, if you have 3 items at rank 2, the next rank listed would be ranked 5.
 
@@ -79,7 +86,7 @@ END
 # Variable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
-A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzY0NzYxMzAsMTA0NzAwNjMyNSwtMT
+I0MDE0NjMxNCwxNTA1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUz
+NjEsLTE0NTYxNzkwMTNdfQ==
 -->
