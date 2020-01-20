@@ -64,6 +64,10 @@ CAST ( expression AS data_type [ ( length ) ] )
 -- CONVERT Syntax:  
 CONVERT ( data_type [ ( length ) ] , expression [ , style ] )
 ```
+Example :
+```sql
+CONVERT(int, ListPrice)
+```
 # Logic Process
 ## IF ELSE statement
 Leetcode 608
@@ -93,8 +97,8 @@ END
 ## ORDER BY
 - Rows cluase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzMyODUwMCwxNjY5NzQ2NTM5LDcwNz
-Q2NDM2MywyNDEzMDI0ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUs
-LTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMTM0OTY1NzcsNzczND
-Y1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbLTE1MTUwNzI5MzAsMTY2OTc0NjUzOSw3MD
+c0NjQzNjMsMjQxMzAyNDg1LDY5NjY0ODk1NCwxMDQ3MDA2MzI1
+LC0xMjQwMTQ2MzE0LDE1MDUwNTU4NywyMDEzNDk2NTc3LDc3Mz
+Q2NTM2MSwtMTQ1NjE3OTAxM119
 -->
