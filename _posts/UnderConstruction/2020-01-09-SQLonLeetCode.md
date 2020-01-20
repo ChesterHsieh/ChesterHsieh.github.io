@@ -6,6 +6,7 @@
 - Data type
 - Logic Process
 - Variable
+- Clause
 # Join mulitple table
 ## UNION
 leetcode 608
@@ -86,9 +87,10 @@ ELSE value_else
 END
 ```
 # Variable
-
+# Clause
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMzAyNDg1LDY5NjY0ODk1NCwxMDQ3MD
-A2MzI1LC0xMjQwMTQ2MzE0LDE1MDUwNTU4NywyMDEzNDk2NTc3
-LDc3MzQ2NTM2MSwtMTQ1NjE3OTAxM119
+eyJoaXN0b3J5IjpbNzA3NDY0MzYzLDI0MTMwMjQ4NSw2OTY2ND
+g5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNTA1MDU1ODcs
+MjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkwMTNdfQ==
 -->
