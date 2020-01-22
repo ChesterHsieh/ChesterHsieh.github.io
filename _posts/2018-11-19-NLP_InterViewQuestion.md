@@ -185,9 +185,11 @@ text = pytesseract.image_to_data(im,config=config,output= data.frame)
 ## Image preprocssing
 ## Retraining
 
-## Tabl
+## Table Scan
+- Table area
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUyNzg3MDUsLTU4NzQwNDYzOSwyOD
+eyJoaXN0b3J5IjpbLTE1MjM2MjMzMTQsLTU4NzQwNDYzOSwyOD
 gyNTE2OTgsLTExNDkxMTE2NTAsNjEyMjM4NDA1LDE3NDUyMTc5
 NDYsLTMxMTk5NzQyNSwxODU5MjU2NTY1LDE2OTEyNDkxMzQsLT
 E4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYy
