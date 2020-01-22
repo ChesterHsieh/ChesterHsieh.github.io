@@ -176,9 +176,13 @@ Cons:
 - Need W ,L  M 
 ## Tesseract OCR
 - Amazon Textract
-- 
+- Version 4 using LSTM for 
+- Multiple langauge, support 
+- Pytesseract
+- OpenCV
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc2NDc1NDIsLTExNDkxMTE2NTAsNj
+eyJoaXN0b3J5IjpbLTE2MTY3ODA5OTcsLTExNDkxMTE2NTAsNj
 EyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMTk5NzQyNSwxODU5MjU2
 NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NC
 wtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4
