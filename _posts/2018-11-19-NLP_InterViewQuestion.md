@@ -184,10 +184,14 @@ Cons:
 text = pytesseract.image_to_data(im,config=config,output= data.frame)
 ## Image preprocssing
 ## Retraining
+
+## Handwritten Text Recongnition
+Line detection
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4MjUxNjk4LC0xMTQ5MTExNjUwLDYxMj
-IzODQwNSwxNzQ1MjE3OTQ2LC0zMTE5OTc0MjUsMTg1OTI1NjU2
-NSwxNjkxMjQ5MTM0LC0xODUxNDI1NDI0LDE5Mjc1MDEzOTQsLT
-EyNzIwOTkwMjQsNjU2MjIzMDUzLDE2OTAyNjYyMTksLTc4ODk5
-ODQwNCwtNTY3NDcyMzQ1LDExMDkwNDA4ODldfQ==
+eyJoaXN0b3J5IjpbLTU4NzQwNDYzOSwyODgyNTE2OTgsLTExND
+kxMTE2NTAsNjEyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMTk5NzQy
+NSwxODU5MjU2NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0MjQsMT
+kyNzUwMTM5NCwtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2
+NjIxOSwtNzg4OTk4NDA0LC01Njc0NzIzNDUsMTEwOTA0MDg4OV
+19
 -->
