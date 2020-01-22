@@ -170,10 +170,12 @@ PDF + Image + Hand wrritting
 ```bash
 pip3 install pdfminer.six
 ```
-Prons: Asian 
-Cons: Text based pdf only. 
+Prons: Asian language CJK support
+Cons: 
+- Text based pdf only.
+- Need W ,L  M 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTU3NTExNCwtMTE0OTExMTY1MCw2MT
+eyJoaXN0b3J5IjpbMTIzMTc3MjMyNSwtMTE0OTExMTY1MCw2MT
 IyMzg0MDUsMTc0NTIxNzk0NiwtMzExOTk3NDI1LDE4NTkyNTY1
 NjUsMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOTI3NTAxMzk0LC
 0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2MjE5LC03ODg5
