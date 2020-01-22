@@ -154,16 +154,24 @@ There's are two example using HMM concept.
 # Speech Recognition
 Collceting the most common DL framework accoding to **Speech Recognition Using Deep Neural Networks: A Systematic Review**
 
+
+
 # Pointer network
 # Reference
 - [Question Source-1](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
 - [Question Source-2]()
 - [NLTK for POS](https://www.nltk.org/book/ch05.html)
 
+
+# PDF Extraction
+**Purpose:**
+PDF + Image + Hand wrritting
+## PDF Miner
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkxMTE2NTAsNjEyMjM4NDA1LDE3ND
-UyMTc5NDYsLTMxMTk5NzQyNSwxODU5MjU2NTY1LDE2OTEyNDkx
-MzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NCwtMTI3MjA5OTAyNC
-w2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4OTk4NDA0LC01Njc0
-NzIzNDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbLTE1NDcxMDQwNzcsLTExNDkxMTE2NTAsNj
+EyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMTk5NzQyNSwxODU5MjU2
+NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NC
+wtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4
+OTk4NDA0LC01Njc0NzIzNDUsMTEwOTA0MDg4OV19
 -->
