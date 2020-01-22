@@ -167,11 +167,15 @@ Collceting the most common DL framework accoding to **Speech Recognition Using D
 **Purpose:**
 PDF + Image + Hand wrritting
 ## PDF Miner
-
+```bash
+pip3 install pdfminer.six
+```
+Prons: Asian 
+Cons: Text based pdf only. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDcxMDQwNzcsLTExNDkxMTE2NTAsNj
-EyMjM4NDA1LDE3NDUyMTc5NDYsLTMxMTk5NzQyNSwxODU5MjU2
-NTY1LDE2OTEyNDkxMzQsLTE4NTE0MjU0MjQsMTkyNzUwMTM5NC
-wtMTI3MjA5OTAyNCw2NTYyMjMwNTMsMTY5MDI2NjIxOSwtNzg4
-OTk4NDA0LC01Njc0NzIzNDUsMTEwOTA0MDg4OV19
+eyJoaXN0b3J5IjpbLTQ2MTU3NTExNCwtMTE0OTExMTY1MCw2MT
+IyMzg0MDUsMTc0NTIxNzk0NiwtMzExOTk3NDI1LDE4NTkyNTY1
+NjUsMTY5MTI0OTEzNCwtMTg1MTQyNTQyNCwxOTI3NTAxMzk0LC
+0xMjcyMDk5MDI0LDY1NjIyMzA1MywxNjkwMjY2MjE5LC03ODg5
+OTg0MDQsLTU2NzQ3MjM0NSwxMTA5MDQwODg5XX0=
 -->
