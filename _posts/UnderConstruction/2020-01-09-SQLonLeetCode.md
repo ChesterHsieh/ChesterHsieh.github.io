@@ -130,9 +130,11 @@ Leetcode 1179
 | 3    | null        | 10000       | null        | ... | null        |
 +------+-------------+-------------+-------------+-----+-------------+
 ```
-every Row has unique la
+every Row has months label, we expect it as new columns. It's the typical question we can easier to get from ***PIVOT***
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg2OTgwMywtNzc0MTg1MDUyLC0xNT
+eyJoaXN0b3J5IjpbLTY3NDE4NTM3MywtNzc0MTg1MDUyLC0xNT
 E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
 NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
 A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
