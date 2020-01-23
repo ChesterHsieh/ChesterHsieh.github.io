@@ -111,10 +111,28 @@ pivot: rows-> Columns
 unpivot -> columns ->rows
 
 Leetcode 1179
-
-
+```sql
++---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| id            | int     |
+| revenue       | int     |
+| month         | varchar |
++---------------+---------+
+```
+=>
+```sql
++------+-------------+-------------+-------------+-----+-------------+
+| id   | Jan_Revenue | Feb_Revenue | Mar_Revenue | ... | Dec_Revenue |
++------+-------------+-------------+-------------+-----+-------------+
+| 1    | 8000        | 7000        | 6000        | ... | null        |
+| 2    | 9000        | null        | null        | ... | null        |
+| 3    | null        | 10000       | null        | ... | null        |
++------+-------------+-------------+-------------+-----+-------------+
+```
+every Row has unique la
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTM4NTUzMiwtNzc0MTg1MDUyLC0xNT
+eyJoaXN0b3J5IjpbLTE5OTg2OTgwMywtNzc0MTg1MDUyLC0xNT
 E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
 NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
 A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
