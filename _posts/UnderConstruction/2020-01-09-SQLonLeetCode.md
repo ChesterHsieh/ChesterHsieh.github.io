@@ -151,14 +151,35 @@ FOR
 <optional ORDER BY clause>;
 
 Example :
+```sql
+SELECT 
+    id,
+    Jan AS Jan_Revenue,
+    Feb AS Feb_Revenue, 
+    Mar AS Mar_Revenue, 
+    Apr AS Apr_Revenue,
+    May AS May_Revenue,
+    Jun AS Jun_Revenue,
+    Jul AS Jul_Revenue,
+    Aug AS Aug_Revenue,
+    Sep AS Sep_Revenue,
+    Oct AS Oct_Revenue,
+    Nov AS Nov_Revenue,
+    Dec AS Dec_Revenue
+FROM Department
+PIVOT 
+(
+    MAX(revenue)
+    FOR month IN (Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec)        
+) AS MonthsRevenue
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU1MTUyNDcsLTc3NDE4NTA1MiwtMT
-UxNTA3MjkzMCwxNjY5NzQ2NTM5LDcwNzQ2NDM2MywyNDEzMDI0
-ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUsLTEyNDAxNDYzMTQsMT
-UwNTA1NTg3LDIwMTM0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5
-MDEzXX0=
+eyJoaXN0b3J5IjpbMTg3OTExNTA0LC03NzQxODUwNTIsLTE1MT
+UwNzI5MzAsMTY2OTc0NjUzOSw3MDc0NjQzNjMsMjQxMzAyNDg1
+LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMjQwMTQ2MzE0LDE1MD
+UwNTU4NywyMDEzNDk2NTc3LDc3MzQ2NTM2MSwtMTQ1NjE3OTAx
+M119
 -->
