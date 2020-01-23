@@ -132,11 +132,33 @@ Leetcode 1179
 ```
 every Row has months label, we expect it as new columns. It's the typical question we can easier to get from ***PIVOT***
 
+SELECT <non-pivoted column>,  
+    [first pivoted column] AS <column name>,  
+    [second pivoted column] AS <column name>,  
+    ...  
+    [last pivoted column] AS <column name>  
+FROM  
+    (<SELECT query that produces the data>)   
+    AS <alias for the source query>  
+PIVOT  
+(  
+    <aggregation function>(<column being aggregated>)  
+FOR   
+[<column that contains the values that will become column headers>]   
+    IN ( [first pivoted column], [second pivoted column],  
+    ... [last pivoted column])  
+) AS <alias for the pivot table>  
+<optional ORDER BY clause>;
+
+Example :
+```
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDE4NTM3MywtNzc0MTg1MDUyLC0xNT
-E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
-NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
-A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzU1MTUyNDcsLTc3NDE4NTA1MiwtMT
+UxNTA3MjkzMCwxNjY5NzQ2NTM5LDcwNzQ2NDM2MywyNDEzMDI0
+ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUsLTEyNDAxNDYzMTQsMT
+UwNTA1NTg3LDIwMTM0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5
+MDEzXX0=
 -->
