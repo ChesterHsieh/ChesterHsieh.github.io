@@ -150,6 +150,11 @@ FOR
 ) AS <alias for the pivot table>  
 <optional ORDER BY clause>;
 
+## Improtant! 
+	[<column that contains the values that will become column headers>]   :
+Represent the original column cotains the future column headers
+
+
 Example :
 ```sql
 SELECT 
@@ -177,9 +182,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTExNTA0LC03NzQxODUwNTIsLTE1MT
-UwNzI5MzAsMTY2OTc0NjUzOSw3MDc0NjQzNjMsMjQxMzAyNDg1
-LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMjQwMTQ2MzE0LDE1MD
-UwNTU4NywyMDEzNDk2NTc3LDc3MzQ2NTM2MSwtMTQ1NjE3OTAx
-M119
+eyJoaXN0b3J5IjpbMTgyMTM4MzIwNSwtNzc0MTg1MDUyLC0xNT
+E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
+NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
+A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
+MTNdfQ==
 -->
