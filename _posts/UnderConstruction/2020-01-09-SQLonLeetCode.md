@@ -106,11 +106,17 @@ END
 
 
 # PIVOT
+When the question ask about column and rows transfer, pivot is very useful to deal with.
+pivot: rows-> Columns
+unpivot -> columns ->rows
+
 Leetcode 1179
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc4NTI2NDUsLTc3NDE4NTA1MiwtMT
-UxNTA3MjkzMCwxNjY5NzQ2NTM5LDcwNzQ2NDM2MywyNDEzMDI0
-ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUsLTEyNDAxNDYzMTQsMT
-UwNTA1NTg3LDIwMTM0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5
-MDEzXX0=
+eyJoaXN0b3J5IjpbLTU4NTM4NTUzMiwtNzc0MTg1MDUyLC0xNT
+E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
+NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
+A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
+MTNdfQ==
 -->
