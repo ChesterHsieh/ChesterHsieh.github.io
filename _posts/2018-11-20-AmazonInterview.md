@@ -45,7 +45,7 @@ Situation
 Task
 Action:
 Result:
-	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always i
+	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always import to evaluate . Two woodcutters story isn't always correct 
 5. Learn and Be Curious
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
@@ -135,7 +135,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTU1MzAzNiwxNzg0MzM3MzQ0LDU5MT
+eyJoaXN0b3J5IjpbMTkwNDA5MDc1MiwxNzg0MzM3MzQ0LDU5MT
 I1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0
 LC0xODg4NDg1MzA1XX0=
 -->
