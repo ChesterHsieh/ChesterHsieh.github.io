@@ -38,7 +38,9 @@ Leaders expect and require innovation and invention from their teams and always 
 决策正确(寻求多样的视角,挑战自己的观念)
 Leaders are right a lot. They have strong judgement and good instincts.  They seek diverse perspectives and work to disconfirm their beliefs.
 --------
-Tell me about a time when you observed two business opportunities to improve ROI, and how did you determine that they were connected?
+## Tell me about a time when you were wrong?
+Situation
+Task
 
 
 5. Learn and Be Curious
@@ -130,7 +132,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mz
-c4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMw
-NV19
+eyJoaXN0b3J5IjpbMTQ1NzUxNTU5MiwxNzg0MzM3MzQ0LDU5MT
+I1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0
+LC0xODg4NDg1MzA1XX0=
 -->
