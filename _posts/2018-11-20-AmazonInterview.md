@@ -31,7 +31,7 @@ Give me a example of when you took a risk and it failed?
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
 ------
-Tell me a time when you created an innovative product?
+## Tell me a time when you created an innovative product?
 
 
 4.  Are Right, A Lot
@@ -124,6 +124,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3OD
-Y5OTQxNCwtMTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbODM5MTI4MTgzLC04NjM3ODE3NzMsLTMxNz
+Y1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
 -->
