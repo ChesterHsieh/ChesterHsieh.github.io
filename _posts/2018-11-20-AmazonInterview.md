@@ -62,7 +62,8 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 ## Story: Doxygen
 Situation: Busy working time. One of biggest bluetooth sample code
-Task: 
+Task: Delivery proper format and automatically matain document.
+Actioin: Take extra time after work. To prepare all the tutorial material. And give the esay sample to approve value and ask for extra resouce(other's employees
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 
@@ -127,7 +128,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ4NjIzODUsNTkxMjUwNzA4LC04Nj
-M3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUz
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTYyNTk1MTk5OCw1OTEyNTA3MDgsLTg2Mz
+c4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMw
+NV19
 -->
