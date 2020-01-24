@@ -47,7 +47,7 @@ Action:
 Result:
 	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always import to evaluate . Two woodcutters story isn't always correct on favor one strategy. 
 
-## Story- 
+## Story- Not on time
     The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
 
     I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
@@ -135,7 +135,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MTk0NzQsMTc4NDMzNzM0NCw1OTEyNT
-A3MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwt
-MTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbMTY2ODM4NDgwNSwxNzg0MzM3MzQ0LDU5MT
+I1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0
+LC0xODg4NDg1MzA1XX0=
 -->
