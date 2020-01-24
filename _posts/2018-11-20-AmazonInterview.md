@@ -19,7 +19,7 @@ tags:
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 ## 1.1 Story
 ## 1.2
-## Diffcult customer
+## who was your most diffcult customer?
 
 2. Ownership
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
@@ -124,6 +124,6 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2ODE2MTksLTMxNzY1NzUwNiw1Nzg2OT
-k0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3OD
+Y5OTQxNCwtMTg4ODQ4NTMwNV19
 -->
