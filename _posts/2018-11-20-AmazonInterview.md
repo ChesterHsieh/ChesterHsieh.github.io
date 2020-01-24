@@ -57,10 +57,12 @@ Leaders have relentlessly high standards – many people may think these standar
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 ## Story: 
 
-9. Bias for Action
+# 9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
-----
+## Story: Doxygen
+Situation: Busy working time. One of biggest bluetooth sample code
+Task: 
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 
@@ -125,7 +127,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjA3MjE2NCw1OTEyNTA3MDgsLTg2Mz
-c4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMw
-NV19
+eyJoaXN0b3J5IjpbLTE0NjQ4NjIzODUsNTkxMjUwNzA4LC04Nj
+M3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUz
+MDVdfQ==
 -->
