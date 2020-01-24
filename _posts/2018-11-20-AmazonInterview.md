@@ -21,13 +21,15 @@ Leaders start with the customer and work backward. They work vigorously to earn 
 ## 1.2
 ## who was your most diffcult customer?
 
-2. Ownership
+# 2. Ownership
+
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
 ------
 Give me a example of when you took a risk and it failed?
 
 # 3. Invent and Simplify
+
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
 ------
@@ -41,8 +43,9 @@ Leaders are right a lot. They have strong judgement and good instincts.  They se
 ## Tell me about a time when you were wrong?
 Situation
 Task
-
-
+Action:
+Result:
+	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always i
 5. Learn and Be Curious
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
@@ -132,7 +135,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzUxNTU5MiwxNzg0MzM3MzQ0LDU5MT
+eyJoaXN0b3J5IjpbLTg4NTU1MzAzNiwxNzg0MzM3MzQ0LDU5MT
 I1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0
 LC0xODg4NDg1MzA1XX0=
 -->
