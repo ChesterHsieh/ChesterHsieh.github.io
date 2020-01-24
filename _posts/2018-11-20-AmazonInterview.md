@@ -52,9 +52,10 @@ Leaders raise the performance bar with every hire and promotion. They recognise 
 7. Insist on the Highest Standards
 最高标准(确保问题不会蔓延,解决问题,不再出现)
 Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
-8. Think Big
+# 8. Think Big
 远见卓识(大局策略,不同角度看问题,寻找如何服务客户)
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
+## Story: 
 
 9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
@@ -124,6 +125,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNz
-Y1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbMTcyNjA3MjE2NCw1OTEyNTA3MDgsLTg2Mz
+c4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMw
+NV19
 -->
