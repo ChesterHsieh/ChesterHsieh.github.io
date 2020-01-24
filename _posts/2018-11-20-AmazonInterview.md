@@ -46,6 +46,14 @@ Task
 Action:
 Result:
 	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always import to evaluate . Two woodcutters story isn't always correct on favor one strategy. 
+
+## Story- 
+    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
+
+    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
+
+    I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
+
 5. Learn and Be Curious
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
@@ -101,6 +109,10 @@ I love mathmatics.
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 ----
 ## Tell me about a time you handled a difficult situation?
+- S:
+- T
+- A
+- R
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
@@ -118,16 +130,12 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 #### Doxygen Story(deep dive, bias for action, backbone, ownership)
 Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
 
-#### The biggest mistake you made and what did you learn from it?  (1,11,14).
-    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
 
-    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
 
-    I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQyNjI5MDgsMTc4NDMzNzM0NCw1OT
-EyNTA3MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQx
-NCwtMTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbNjk0MTk0NzQsMTc4NDMzNzM0NCw1OTEyNT
+A3MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwt
+MTg4ODQ4NTMwNV19
 -->
