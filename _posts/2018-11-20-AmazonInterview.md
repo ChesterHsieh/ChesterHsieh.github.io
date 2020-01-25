@@ -84,7 +84,7 @@ New cooperation Story: When I was working in JMEX. I need to play the role of de
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 ## 
 
-10. Frugality
+# 10. Frugality
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
 ----
@@ -137,7 +137,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3OD
-QzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUw
-Niw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTg2MTYxMzY0NiwtODE2OTcyNDk3LDE2Nj
+gzODQ4MDUsMTc4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3
+MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
 -->
