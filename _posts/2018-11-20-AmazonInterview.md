@@ -81,6 +81,7 @@ Resut: I got meaninful bounous 1 dollar.
 
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
+## 
 
 10. Frugality
 勤俭节约(更少投入更大产出)
@@ -135,7 +136,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODM4NDgwNSwxNzg0MzM3MzQ0LDU5MT
-I1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0
-LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbMTE3NDIwNjkxMywxNjY4Mzg0ODA1LDE3OD
+QzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUw
+Niw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
 -->
