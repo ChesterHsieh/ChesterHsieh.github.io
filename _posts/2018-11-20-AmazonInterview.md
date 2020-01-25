@@ -17,8 +17,8 @@ tags:
 
 # 1. Customer Obsession
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
-## 1.1 Story
-## 1.2
+## 
+## 
 ## who was your most diffcult customer?
 
 # 2. Ownership
@@ -125,6 +125,9 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
+## Story-
+
+## By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
 
 # Behavior Questions - Very General One
 ## Why Amazon?
@@ -144,8 +147,8 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMzIxODc3LC01NTQ0NDQxOTQsLTE1Mz
-Y3NzU2NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzcz
-NDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nz
-g2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNT
+M2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNzg0MzM3
+MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNT
+c4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
