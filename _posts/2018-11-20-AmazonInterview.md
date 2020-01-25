@@ -91,19 +91,25 @@ Accomplish more with less. Constraints breed resourcefulness, self-sufficiency a
 
 ## Tell me about a time when you had to work with limited time or resources?
 
-11. Earn Trust
+# 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  Leaders do not believe their or their team’s body odour smells of perfume.  They benchmark themselves and their teams against the best.
 ----
-Tell me a time when you earned trust of a group.
-How's 
+## Tell me a time when you earned trust of a group.
+S:
+T:
+A:
+R:
 I believe to make mistake and honest to knowledge is key to becoming better. In the beginning, the team leader didn't trust me on dealing the problem. I'm one say I don't know for 50% time. After days co-work, they know how I'm working on.
 
 12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 ---
-Tell me about a time when you had to dive deep into the data and the results you achieved.
-I love mathmatics.
+## Tell me about a time when you had to dive deep into the data and the results you achieved?
+S:
+T:
+A:
+R:
 
 
 
@@ -138,8 +144,8 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNj
-Y4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3
-NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ
-==
+eyJoaXN0b3J5IjpbLTU1NDQ0NDE5NCwtMTUzNjc3NTY0MCwtOD
+E2OTcyNDk3LDE2NjgzODQ4MDUsMTc4NDMzNzM0NCw1OTEyNTA3
+MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMT
+g4ODQ4NTMwNV19
 -->
