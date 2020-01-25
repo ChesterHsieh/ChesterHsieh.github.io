@@ -78,7 +78,6 @@ Situation: Busy working time. One of biggest bluetooth sample code
 Task: Delivery proper format and automatically matain document.
 Actioin: Take extra time after work. To prepare all the tutorial material. And give the esay sample to approve value and ask for extra resouce(other's employee's time). Host a meeting
 Resut: I got meaninful bounous 1 dollar. 
-
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 ## 
@@ -136,7 +135,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDIwNjkxMywxNjY4Mzg0ODA1LDE3OD
-QzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUw
-Niw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjUzMDI4MDEsMTY2ODM4NDgwNSwxNz
+g0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1
+MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
