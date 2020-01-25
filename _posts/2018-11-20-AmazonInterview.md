@@ -41,7 +41,7 @@ Leaders expect and require innovation and invention from their teams and always 
 Leaders are right a lot. They have strong judgement and good instincts.  They seek diverse perspectives and work to disconfirm their beliefs.
 --------
 ## Tell me about a time when you were wrong?
-Situation
+Situation: Gym tracker, 
 Task
 Action:
 Result:
@@ -147,8 +147,8 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNT
-M2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNzg0MzM3
-MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNT
-c4Njk5NDE0LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1ND
+Q0NDE5NCwtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4
+MDUsMTc4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3MywtMz
+E3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
 -->
