@@ -36,7 +36,7 @@ Leaders expect and require innovation and invention from their teams and always 
 ## Tell me a time when you created an innovative product?
 
 
-4.  Are Right, A Lot
+# 4.  Are Right, A Lot
 决策正确(寻求多样的视角,挑战自己的观念)
 Leaders are right a lot. They have strong judgement and good instincts.  They seek diverse perspectives and work to disconfirm their beliefs.
 --------
@@ -54,15 +54,15 @@ Result:
 
     I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
 
-5. Learn and Be Curious
+# 5. Learn and Be Curious
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
-6. Hire and Develop the Best
+# 6. Hire and Develop the Best
 选贤任能(从员工角度出发,创建职业发展机制)
 Leaders raise the performance bar with every hire and promotion. They recognise people with exceptional talent and will move them throughout the organisation. Leaders develop leaders and are serious about their role in coaching others.  We work on behalf of our people to invent mechanisms for development like Career Choice.
 
-7. Insist on the Highest Standards
+# 7. Insist on the Highest Standards
 最高标准(确保问题不会蔓延,解决问题,不再出现)
 Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 # 8. Think Big
@@ -102,7 +102,7 @@ A:
 R:
 I believe to make mistake and honest to knowledge is key to becoming better. In the beginning, the team leader didn't trust me on dealing the problem. I'm one say I don't know for 50% time. After days co-work, they know how I'm working on.
 
-12. Dive Deep
+# 12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 ---
 ## Tell me about a time when you had to dive deep into the data and the results you achieved?
@@ -144,8 +144,8 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDQ0NDE5NCwtMTUzNjc3NTY0MCwtOD
-E2OTcyNDk3LDE2NjgzODQ4MDUsMTc4NDMzNzM0NCw1OTEyNTA3
-MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMT
-g4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbNDUwMzIxODc3LC01NTQ0NDQxOTQsLTE1Mz
+Y3NzU2NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzcz
+NDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nz
+g2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
 -->
