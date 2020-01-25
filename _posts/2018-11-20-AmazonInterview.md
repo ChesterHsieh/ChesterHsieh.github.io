@@ -88,7 +88,9 @@ The risk is a reputation for the company.  However, it might be a new blue ocean
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
 ----
-Tell me about a time where you thought of a clever new way to save money for the company. 同樣for most challenge project !
+Tell me about a time where you thought of a clever new way to save money for the company. 同樣for most challenge project
+
+## Tell me about a time when you had to work with limited time or resources?
 
 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
@@ -137,7 +139,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTYxMzY0NiwtODE2OTcyNDk3LDE2Nj
-gzODQ4MDUsMTc4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3
-MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbLTE4MTUzODQ3LC04MTY5NzI0OTcsMTY2OD
+M4NDgwNSwxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzcz
+LC0zMTc2NTc1MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
