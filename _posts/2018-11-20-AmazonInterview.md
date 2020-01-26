@@ -155,16 +155,17 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 6. Give me example, influence to other ppl => Linear programming
 7. Tell me a time when someone convince you
 8.  How do you keep yourself motivated
-	9. sdfksdjf
+	- 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNj
-k1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5
-MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNT
-U0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4
-NDgwNSwxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC
-0zMTc2NTc1MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMD
+AxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2
+NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOT
+E2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3
+MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC
+04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0
+ODUzMDVdfQ==
 -->
