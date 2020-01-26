@@ -147,22 +147,23 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 
-1. Most diffcult
+1. Most diffcult challenge, what you learn form it
 2. Most complicated
 3. Convince someone
 4. Don't know what to do, 
 5. disagreement with manager/ Convince 
 6. Give me example, influence to other ppl => Linear programming
-7. 
+7. Tell me a time when someone convince you
+8.  How do you keep yourself motivated
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMD
-QzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1
-Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNT
-M2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNzg0MzM3
-MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1MDYsNT
-c4Njk5NDE0LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbLTU3OTEyNTk3NiwxMDAxNDk5MTE3LC02OT
+UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
+OTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgxLC01NT
+Q0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNjY4Mzg0
+ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLT
+MxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
 -->
