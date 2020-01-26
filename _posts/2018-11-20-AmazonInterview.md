@@ -17,8 +17,7 @@ tags:
 
 # 1. Customer Obsession
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
-## 
-## 
+
 ## who was your most diffcult customer?
 
 # 2. Ownership
@@ -148,9 +147,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTc2OTczOCw1MjMzOTIxOTQsLTkxNj
-kwMjE4MSwtNTU0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04MTY5NzI0
-OTcsMTY2ODM4NDgwNSwxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtOD
-YzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0LC0xODg4NDg1
-MzA1XX0=
+eyJoaXN0b3J5IjpbNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OT
+AyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5
+NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04Nj
+M3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUz
+MDVdfQ==
 -->
