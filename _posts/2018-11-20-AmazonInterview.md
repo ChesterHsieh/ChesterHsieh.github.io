@@ -123,6 +123,8 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 - T
 - A
 - R
+
+
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
@@ -148,9 +150,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMz
-M5MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2
-NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNT
-kxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0
-MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbMjExMjA4ODA2LC0xNDM4MTM5MTk4LDY5Nj
+M4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0
+LC0xNTM2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNz
+g0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1
+MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
