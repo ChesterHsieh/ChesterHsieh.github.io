@@ -82,7 +82,7 @@ Actioin: Take extra time after work. To prepare all the tutorial material. And g
 Resut: I got meaninful bounous 1 dollar. 
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
-## 
+
 
 # 10. Frugality
 勤俭节约(更少投入更大产出)
@@ -147,9 +147,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OT
-AyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5
-NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04Nj
-M3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUz
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDg1NjAyNzIsNjk2Mzg0MzU2LDUyMz
+M5MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2
+NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNT
+kxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0
+MTQsLTE4ODg0ODUzMDVdfQ==
 -->
