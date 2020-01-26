@@ -73,6 +73,7 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 崇尚行动(速度,深思熟虑下进行冒险)
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 提出權衡的過程.-> 連結到Customer osbssesion
+New result can be better./
 ## Question
 - Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
 ## Story: Doxygen
@@ -147,7 +148,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1NjAyNzIsNjk2Mzg0MzU2LDUyMz
+eyJoaXN0b3J5IjpbLTEzODA4MjY4MTksNjk2Mzg0MzU2LDUyMz
 M5MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2
 NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNT
 kxMjUwNzA4LC04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0
