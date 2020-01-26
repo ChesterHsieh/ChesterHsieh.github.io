@@ -67,7 +67,7 @@ Leaders have relentlessly high standards – many people may think these standar
 # 8. Think Big
 远见卓识(大局策略,不同角度看问题,寻找如何服务客户)
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
-## Story: 
+## Story:
 
 # 9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
@@ -149,10 +149,10 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0Mz
-gxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgx
-LC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNj
-Y4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3
-NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ
-==
+eyJoaXN0b3J5IjpbMTgwMTQ2MTIxMiwyMzA0MzExMjIsMTc3ND
+A3NjY1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNTIzMzkyMTk0
+LC05MTY5MDIxODEsLTU1NDQ0NDE5NCwtMTUzNjc3NTY0MCwtOD
+E2OTcyNDk3LDE2NjgzODQ4MDUsMTc4NDMzNzM0NCw1OTEyNTA3
+MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5OTQxNCwtMT
+g4ODQ4NTMwNV19
 -->
