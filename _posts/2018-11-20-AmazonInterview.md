@@ -141,7 +141,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 	Secondly, I’d like to work with solutions from a full-stack point of view, by engaging with requirements, frontend, middle tier, backend, storage, and all the other stuff, I can understand problems and solutions thoroughly, and thus scale and optimize them with the best practices. 
 	Thirdly, I’m happy to work in an environment with a lot of challenges so that I’ll never be boring. In Amazon, I can take ownership of the projects I am truly passionate about. I am sure I can take the challenges and provide successful solutions. 
 
-#### Doxygen Story(deep dive, bias for action, backbone, ownership)
+## Doxygen Story(deep dive, bias for action, backbone, ownership)
 Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
 
 
@@ -149,9 +149,10 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OT
-YzODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5
-NCwtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4MDUsMT
-c4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3MywtMzE3NjU3
-NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0Mz
+gxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgx
+LC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNj
+Y4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3
+NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ
+==
 -->
