@@ -120,10 +120,9 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 ----
 ## Tell me about a time you handled a difficult situation?
 - S:
-- T
-- A
-- R
-
+- T:
+- A:
+- R:
 
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
@@ -150,9 +149,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjA4ODA2LC0xNDM4MTM5MTk4LDY5Nj
-M4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0
-LC0xNTM2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNz
-g0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2NTc1
-MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
+eyJoaXN0b3J5IjpbMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OT
+YzODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5
+NCwtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4MDUsMT
+c4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3MywtMzE3NjU3
+NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
 -->
