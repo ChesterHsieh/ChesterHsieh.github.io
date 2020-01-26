@@ -73,6 +73,7 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 # 9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
+提出權衡的過程.-> 連結到Customer osbssesion
 ## Question
 - Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
 ## Story: Doxygen
@@ -147,8 +148,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1ND
-Q0NDE5NCwtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4
-MDUsMTc4NDMzNzM0NCw1OTEyNTA3MDgsLTg2Mzc4MTc3MywtMz
-E3NjU3NTA2LDU3ODY5OTQxNCwtMTg4ODQ4NTMwNV19
+eyJoaXN0b3J5IjpbLTk1MTc2OTczOCw1MjMzOTIxOTQsLTkxNj
+kwMjE4MSwtNTU0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04MTY5NzI0
+OTcsMTY2ODM4NDgwNSwxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtOD
+YzNzgxNzczLC0zMTc2NTc1MDYsNTc4Njk5NDE0LC0xODg4NDg1
+MzA1XX0=
 -->
