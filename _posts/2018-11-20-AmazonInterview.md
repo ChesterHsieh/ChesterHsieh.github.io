@@ -148,15 +148,16 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 1. Most diffcult
 2. Most complicated
 3. Convince someone
-4.
-4. 
-5
+4. Don't know what to do, 
+5. disagreement with manager/ Convince 
+6. 
+7.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcyMzkzOCwtNjk1MDk0MjYyLDIzMD
+eyJoaXN0b3J5IjpbMTU0MjgwMDI3NSwtNjk1MDk0MjYyLDIzMD
 QzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1
 Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNT
 M2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNSwxNzg0MzM3
