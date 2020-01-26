@@ -146,7 +146,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
 
 
-
+# Possible Questions
 1. Most diffcult challenge, what you learn form it
 2. Most complicated
 3. Convince someone
@@ -155,15 +155,16 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 6. Give me example, influence to other ppl => Linear programming
 7. Tell me a time when someone convince you
 8.  How do you keep yourself motivated
+	9. sdfksdjf
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTEyNTk3NiwxMDAxNDk5MTE3LC02OT
-UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
-OTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgxLC01NT
-Q0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNjY4Mzg0
-ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3ODE3NzMsLT
-MxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNj
+k1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5
+MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNT
+U0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4
+NDgwNSwxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC
+0zMTc2NTc1MDYsNTc4Njk5NDE0LC0xODg4NDg1MzA1XX0=
 -->
