@@ -23,12 +23,15 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 	  [ <ROW or RANGE clause> ] )
 ```
 It can share groupy by feeling and function(aggregate/rank)
+PARTION BY 必須配合其他的groupby
+
 
 ## ROW_NUMBER
 ```sql
 ROW_NUMBER ( ) 
 OVER ( [ PARTITION BY value_expression , ... [ n ] ] order_by_clause )
 ```
+
 ## Producing a moving average and cumulative total
 
 
@@ -44,7 +47,6 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 | 1 |1 |   1 |
 | 2 | 2 | 3|
 | 3 | 3 | 4 |
-
 
 
 # Date data
@@ -185,9 +187,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU2MjM0MjQsLTE2OTc0NTUwMCwxOD
-IxMzgzMjA1LC03NzQxODUwNTIsLTE1MTUwNzI5MzAsMTY2OTc0
-NjUzOSw3MDc0NjQzNjMsMjQxMzAyNDg1LDY5NjY0ODk1NCwxMD
-Q3MDA2MzI1LC0xMjQwMTQ2MzE0LDE1MDUwNTU4NywyMDEzNDk2
-NTc3LDc3MzQ2NTM2MSwtMTQ1NjE3OTAxM119
+eyJoaXN0b3J5IjpbMTIxOTkwNTQ2NiwtMTY5NzQ1NTAwLDE4Mj
+EzODMyMDUsLTc3NDE4NTA1MiwtMTUxNTA3MjkzMCwxNjY5NzQ2
+NTM5LDcwNzQ2NDM2MywyNDEzMDI0ODUsNjk2NjQ4OTU0LDEwND
+cwMDYzMjUsLTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMTM0OTY1
+NzcsNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
 -->
