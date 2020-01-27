@@ -9,9 +9,10 @@
 - Clause
 - Pivot
 # Join mulitple table
-## UNION
+## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
+
 
 ## 
 # Window function
@@ -182,9 +183,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTM4MzIwNSwtNzc0MTg1MDUyLC0xNT
-E1MDcyOTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4
-NSw2OTY2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNT
-A1MDU1ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkw
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc0NTUwMCwxODIxMzgzMjA1LC03Nz
+QxODUwNTIsLTE1MTUwNzI5MzAsMTY2OTc0NjUzOSw3MDc0NjQz
+NjMsMjQxMzAyNDg1LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMj
+QwMTQ2MzE0LDE1MDUwNTU4NywyMDEzNDk2NTc3LDc3MzQ2NTM2
+MSwtMTQ1NjE3OTAxM119
 -->
