@@ -56,7 +56,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 - **DATEADD()**
 - **DATEDIFF()**
 	Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
-- **BETWEEN** can be apply to date format.
+- **BETWEEN** can be apply to date format. Berween is inclusive both bound.
 
 # Data type
 ## Enumerate
@@ -108,6 +108,8 @@ END
 # Clause
 ## ORDER BY
 - Rows cluase
+## MS SQL special
+don't allow wher PAIR in SELECT .
 
 
 # PIVOT
@@ -187,9 +189,10 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTkwNTQ2NiwtMTY5NzQ1NTAwLDE4Mj
-EzODMyMDUsLTc3NDE4NTA1MiwtMTUxNTA3MjkzMCwxNjY5NzQ2
-NTM5LDcwNzQ2NDM2MywyNDEzMDI0ODUsNjk2NjQ4OTU0LDEwND
-cwMDYzMjUsLTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMTM0OTY1
-NzcsNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbLTU3MjU4NTkxNCwxMjE5OTA1NDY2LC0xNj
+k3NDU1MDAsMTgyMTM4MzIwNSwtNzc0MTg1MDUyLC0xNTE1MDcy
+OTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4NSw2OT
+Y2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNTA1MDU1
+ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkwMTNdfQ
+==
 -->
