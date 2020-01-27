@@ -7,6 +7,7 @@
 - Logic Process
 - Variable
 - Clause
+- Function
 - Pivot
 # Join mulitple table
 ## UNION/EXCEPT/INTERSET
@@ -111,6 +112,7 @@ END
 ## MS SQL special
 don't allow wher PAIR in SELECT .
 
+# Function
 
 # PIVOT
 When the question ask about column and rows transfer, pivot is very useful to deal with.
@@ -189,10 +191,10 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjU4NTkxNCwxMjE5OTA1NDY2LC0xNj
-k3NDU1MDAsMTgyMTM4MzIwNSwtNzc0MTg1MDUyLC0xNTE1MDcy
-OTMwLDE2Njk3NDY1MzksNzA3NDY0MzYzLDI0MTMwMjQ4NSw2OT
-Y2NDg5NTQsMTA0NzAwNjMyNSwtMTI0MDE0NjMxNCwxNTA1MDU1
-ODcsMjAxMzQ5NjU3Nyw3NzM0NjUzNjEsLTE0NTYxNzkwMTNdfQ
-==
+eyJoaXN0b3J5IjpbMTIzMzQ5NzQxOCwtNTcyNTg1OTE0LDEyMT
+k5MDU0NjYsLTE2OTc0NTUwMCwxODIxMzgzMjA1LC03NzQxODUw
+NTIsLTE1MTUwNzI5MzAsMTY2OTc0NjUzOSw3MDc0NjQzNjMsMj
+QxMzAyNDg1LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMjQwMTQ2
+MzE0LDE1MDUwNTU4NywyMDEzNDk2NTc3LDc3MzQ2NTM2MSwtMT
+Q1NjE3OTAxM119
 -->
