@@ -114,8 +114,16 @@ don't allow wher PAIR in SELECT .
 
 # Function
 - Variable @/ DECLARE
-- ```sql
- ```CREATE FUNCTION function_name(@xxxxvairable datatpye)
+```sql
+CREATE  FUNCTION dbo.ufnGetInventoryStock(@ProductID int) 
+RETURNS  int  
+AS 
+BEGIN  
+DECLARE @ret int; 
+SELECT @ret = SUM(p.Quantity) FROM Production.ProductInventory p WHERE p.ProductID = @ProductID AND p.LocationID = '6'; IF (@ret IS NULL) SET @ret = 0; 
+RETURN @ret; 
+END;
+```
 
 # PIVOT
 When the question ask about column and rows transfer, pivot is very useful to deal with.
@@ -194,7 +202,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDYzNzYyNCwtNTcyNTg1OTE0LDEyMT
+eyJoaXN0b3J5IjpbMTAxNjc0MDcyNSwtNTcyNTg1OTE0LDEyMT
 k5MDU0NjYsLTE2OTc0NTUwMCwxODIxMzgzMjA1LC03NzQxODUw
 NTIsLTE1MTUwNzI5MzAsMTY2OTc0NjUzOSw3MDc0NjQzNjMsMj
 QxMzAyNDg1LDY5NjY0ODk1NCwxMDQ3MDA2MzI1LC0xMjQwMTQ2
