@@ -113,10 +113,10 @@ Skill requirement
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
 	- **Granger causality test**
 	- Linear model assumption:
-		1)**linearity** **and additivity** of the relationship between dependent and independent variables
+		1) **linearity** **and additivity** of the relationship between dependent and independent variables
 		2) **statistical independence** of the errors
 		3) **homoscedasticity**
-		4) 
+		4) **normality** of the error distribution
 
 
 GAN
@@ -162,7 +162,7 @@ Return Value before
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIyMjg2OTEsLTE0OTU5OTQ2MzcsLT
+eyJoaXN0b3J5IjpbLTEyMzg1Mzg3MDYsLTE0OTU5OTQ2MzcsLT
 EzNjAxMzQ4MDYsLTIzNzUzNTAyMywxOTAzMDA0MDksLTcyNTU5
 NzM0OSw4NTE1MjA0ODEsLTM1MTgyMjcxNiwyMDA1ODA3ODYwLD
 MwMjcxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2MjY2
