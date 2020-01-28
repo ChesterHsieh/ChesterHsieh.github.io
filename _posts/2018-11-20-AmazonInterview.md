@@ -184,16 +184,17 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 - named entity recognition
 
 # Time-series Focasting
+## Paper-DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks
 
-- rise
+
 
 # Case Study prep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMD
-MwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0
-MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LD
-Y5NjM4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0
-MTk0LC0xNTM2Nzc1NjQwLC04MTY5NzI0OTcsMTY2ODM4NDgwNS
-wxNzg0MzM3MzQ0LDU5MTI1MDcwOCwtODYzNzgxNzczLC0zMTc2
-NTc1MDZdfQ==
+eyJoaXN0b3J5IjpbMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3ND
+YzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5
+MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLT
+E0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAy
+MTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5Ny
+wxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3
+ODE3NzNdfQ==
 -->
