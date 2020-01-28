@@ -112,6 +112,11 @@ Skill requirement
 - nn with feature importance:
 	- PERMUTATION IMPORTANCE: After training model, we shuffle one feature and see how it affect overall perfomance. We can show chage of pecertange of loss function/metric.
 	- **Granger causality test**
+	- Linear model assumption:
+		1)**linearity** **and additivity** of the relationship between dependent and independent variables
+		2) **statistical independence** of the errors
+		3) **homoscedasticity**
+		4) 
 
 
 GAN
@@ -157,10 +162,10 @@ Return Value before
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU5OTQ2MzcsLTEzNjAxMzQ4MDYsLT
-IzNzUzNTAyMywxOTAzMDA0MDksLTcyNTU5NzM0OSw4NTE1MjA0
-ODEsLTM1MTgyMjcxNiwyMDA1ODA3ODYwLDMwMjcxMDg4OSwxMD
-czNjY4NzEsLTE5NzYwNTY0NzQsMTk2MjY2NDQ3LDE5MjM1MTI1
-OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC0xMzcwNTgzMDE4XX
-0=
+eyJoaXN0b3J5IjpbLTExODIyMjg2OTEsLTE0OTU5OTQ2MzcsLT
+EzNjAxMzQ4MDYsLTIzNzUzNTAyMywxOTAzMDA0MDksLTcyNTU5
+NzM0OSw4NTE1MjA0ODEsLTM1MTgyMjcxNiwyMDA1ODA3ODYwLD
+MwMjcxMDg4OSwxMDczNjY4NzEsLTE5NzYwNTY0NzQsMTk2MjY2
+NDQ3LDE5MjM1MTI1OTAsMTQzMjM2ODAyNCwtMTgyMDA0NDUwLC
+0xMzcwNTgzMDE4XX0=
 -->
