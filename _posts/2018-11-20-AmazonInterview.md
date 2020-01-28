@@ -183,10 +183,12 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 - lexicon normalization
 - named entity recognition
 
+# Time-series Focasting
+
 
 # Case Study prep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTkxMzU2NCwyMTAzMDM0MjI0LC0xMj
+eyJoaXN0b3J5IjpbMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMj
 c5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzEx
 MjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNT
 IzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5NCwtMTUzNjc3
