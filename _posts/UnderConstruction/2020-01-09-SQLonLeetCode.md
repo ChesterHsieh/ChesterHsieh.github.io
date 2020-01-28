@@ -37,6 +37,11 @@ OVER ( [ PARTITION BY value_expression , ... [ n ] ] order_by_clause )
 LEAD/LAG(columns, step) OVER ([ PARTITION BY value_expression , ... [ n ] ] order_by_clause )
 ```
 
+## LIMIT
+there's no limit in ms sql
+use 
+offset + fetch 替代
+
 ## Producing a moving average and cumulative total
 
 
@@ -206,10 +211,11 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxOTIxNzM3LDE3OTQyMDIyMiwxMDE2Nz
-QwNzI1LC01NzI1ODU5MTQsMTIxOTkwNTQ2NiwtMTY5NzQ1NTAw
-LDE4MjEzODMyMDUsLTc3NDE4NTA1MiwtMTUxNTA3MjkzMCwxNj
-Y5NzQ2NTM5LDcwNzQ2NDM2MywyNDEzMDI0ODUsNjk2NjQ4OTU0
-LDEwNDcwMDYzMjUsLTEyNDAxNDYzMTQsMTUwNTA1NTg3LDIwMT
-M0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5MDEzXX0=
+eyJoaXN0b3J5IjpbLTIxMDE4MzcxNzgsMjkxOTIxNzM3LDE3OT
+QyMDIyMiwxMDE2NzQwNzI1LC01NzI1ODU5MTQsMTIxOTkwNTQ2
+NiwtMTY5NzQ1NTAwLDE4MjEzODMyMDUsLTc3NDE4NTA1MiwtMT
+UxNTA3MjkzMCwxNjY5NzQ2NTM5LDcwNzQ2NDM2MywyNDEzMDI0
+ODUsNjk2NjQ4OTU0LDEwNDcwMDYzMjUsLTEyNDAxNDYzMTQsMT
+UwNTA1NTg3LDIwMTM0OTY1NzcsNzczNDY1MzYxLC0xNDU2MTc5
+MDEzXX0=
 -->
