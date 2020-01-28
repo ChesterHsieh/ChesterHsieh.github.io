@@ -14,7 +14,7 @@ tags:
 
 
 
-
+# Leaderships
 # 1. Customer Obsession
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
@@ -159,13 +159,38 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 
+# NLP Related backup
 
+## Resource 
+## Top conference
+1. [ACL](http://www.aclweb.org/ "Association for Computational Linguistics")
+2. [AAAI: Association for the Advancement of Artificial Intelligence](http://www.aaai.org/ "Association for the Advancement of Artificial Intelligence")
+3. [EMNLP: Empirical Methods in Natural Language Processing](http://hum.csse.unimelb.edu.au/emnlp2013/ "Empirical Methods in Natural Language Processing")
+4. [NAACL: North American Chapter of the Association for Computational Linguistics](http://naacl.org/ "North American Chapter of the Association for Computational Linguistics")
+5. [Alexa AI works]([https://amazon.jobs/zh/teams/alexa-ai)
+
+## Topic selection
+- word categorization and tagging
+- syntactic parsing
+- word sense disambiguation 
+- topic modeling 
+- contextual text mining
+- application of machine learning to NLP
+- semantic similarity
+- phrasal semantic analysis
+- text matching and similarity
+- word embedding
+- lexicon normalization
+- named entity recognition
+
+
+# Case Study prep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMD
-AxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2
-NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOT
-E2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3
-MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC
-04NjM3ODE3NzMsLTMxNzY1NzUwNiw1Nzg2OTk0MTQsLTE4ODg0
-ODUzMDVdfQ==
+eyJoaXN0b3J5IjpbMTcyMTkxMzU2NCwyMTAzMDM0MjI0LC0xMj
+c5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzEx
+MjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNT
+IzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5NCwtMTUzNjc3
+NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4MDUsMTc4NDMzNzM0NC
+w1OTEyNTA3MDgsLTg2Mzc4MTc3MywtMzE3NjU3NTA2LDU3ODY5
+OTQxNF19
 -->
