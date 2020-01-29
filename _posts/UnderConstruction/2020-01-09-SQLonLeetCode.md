@@ -72,10 +72,10 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 ## Different type of date data type
 
 ## Time Stamp calucation function
-- **DATEADD()**
-- **DATEDIFF()**
-	Example SELECT  DATEDIFF(year,  '2017/08/25',  '2011/08/25')  AS  DateDiff;
-- **BETWEEN** can be apply to date format. Berween is inclusive both bound.
+- DATEADD(datepart, number, date)
+- DATEDIFF ( datepart , startdate , enddate)
+- DATEPART ( datepart , date )
+- BETWEEN can be apply to date format. Berween is inclusive both bound.
 
 # Data type
 ## Enumerate
@@ -220,7 +220,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDUyNTE2NiwxMjgyNTg1NTAwLDE5ND
+eyJoaXN0b3J5IjpbLTM2ODU5Mzk0NywxMjgyNTg1NTAwLDE5ND
 A2Mzc1NzQsLTIxMDE4MzcxNzgsMjkxOTIxNzM3LDE3OTQyMDIy
 MiwxMDE2NzQwNzI1LC01NzI1ODU5MTQsMTIxOTkwNTQ2NiwtMT
 Y5NzQ1NTAwLDE4MjEzODMyMDUsLTc3NDE4NTA1MiwtMTUxNTA3
