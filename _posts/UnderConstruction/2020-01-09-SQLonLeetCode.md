@@ -39,11 +39,16 @@ LEAD/LAG(columns, step) OVER ([ PARTITION BY value_expression , ... [ n ] ] orde
 ```
 
 ## LIMIT
+SQL server doesn't have limit. We can use alternative way to acieve the same result.
 - use **TOP**
-- OFFSET + FETCH
 	```sql
-	OFFSET n ROWSFETCH  
-NEXT m ROWS  ONLY
+	SELECT TOP 1 * FROM table_Name 
+	ORDER BY unique_column DESC 
+	```
+- OFFSET + FETCH 
+	```sql
+	OFFSET n ROWS
+	FETCH  NEXT m ROWS  ONLY
 	```
 
 ## Producing a moving average and cumulative total
@@ -215,7 +220,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTA5MTg4NSwxOTQwNjM3NTc0LC0yMT
+eyJoaXN0b3J5IjpbMTI4MjU4NTUwMCwxOTQwNjM3NTc0LC0yMT
 AxODM3MTc4LDI5MTkyMTczNywxNzk0MjAyMjIsMTAxNjc0MDcy
 NSwtNTcyNTg1OTE0LDEyMTk5MDU0NjYsLTE2OTc0NTUwMCwxOD
 IxMzgzMjA1LC03NzQxODUwNTIsLTE1MTUwNzI5MzAsMTY2OTc0
