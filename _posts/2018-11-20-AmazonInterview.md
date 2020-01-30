@@ -198,14 +198,15 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 - Fully Connected Layer:
 	
 ## Parallel SGD
-Key is asynchronous update on one node
+Key is asynchronous update on one node. We need have Parameter Server"BOSS", and workder 1, workder 2... etc.
+1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE2MDkyMzcsLTE4MDI4OTM5NDYsLT
-IxMTI5OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAy
-MTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OT
-M3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3
-NzQwNzY2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5Mj
-E5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAs
-LTgxNjk3MjQ5N119
+eyJoaXN0b3J5IjpbLTgyNjU3MzQzNiwtMTgwMjg5Mzk0NiwtMj
+ExMjk5OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIx
+MTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5Mz
+czLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3
+NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNTIzMzkyMT
+k0LC05MTY5MDIxODEsLTU1NDQ0NDE5NCwtMTUzNjc3NTY0MCwt
+ODE2OTcyNDk3XX0=
 -->
