@@ -192,12 +192,13 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 # Distributed Training
 - *Data parallelism:* Data is distributed across multiple machines. This can be used in case data is too large to be stored on a single machine or to achieve faster training.
+- *Model parallelism*: Out of core issue on model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMz
-AyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5
-OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLD
-E3NzQwNzY2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5
-MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2ND
-AsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkx
-MjUwNzA4XX0=
+eyJoaXN0b3J5IjpbLTU5MzczNjgzNywtMTU2NzA4OTM5MiwxNj
+c2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0
+MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2Mi
+wyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYz
+ODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5NC
+wtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4MDUsMTc4
+NDMzNzM0NF19
 -->
