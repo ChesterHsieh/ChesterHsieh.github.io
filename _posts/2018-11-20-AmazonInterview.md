@@ -192,9 +192,12 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 # Distributed Training
 - *Data parallelism:* Data is distributed across multiple machines. This can be used in case data is too large to be stored on a single machine or to achieve faster training.
-- *Model parallelism*: Out of core issue on model
+- *Model parallelism*: Out of core issue on model might casue the proble. Distributed training is not going to make the training process faster, is to make it possible to traing bigger model. Concate differet computer to compute the result. 
+## Type of NN
+- CNN
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzczNjgzNywtMTU2NzA4OTM5MiwxNj
+eyJoaXN0b3J5IjpbMjA0NjQzMjU2NSwtMTU2NzA4OTM5MiwxNj
 c2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0
 MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2Mi
 wyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYz
