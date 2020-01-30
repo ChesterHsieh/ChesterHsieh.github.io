@@ -199,10 +199,10 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 	
 ## Parallel SGD
 Key is asynchronous update on one node. We need have Parameter Server"BOSS", and workder 1, workder 2... etc.
-1)
+Worker is design to get
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjU3MzQzNiwtMTgwMjg5Mzk0NiwtMj
+eyJoaXN0b3J5IjpbLTQ3OTAyMDIwMywtMTgwMjg5Mzk0NiwtMj
 ExMjk5OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIx
 MTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5Mz
 czLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3
