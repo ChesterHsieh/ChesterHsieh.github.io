@@ -195,18 +195,18 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 - *Model parallelism*: Out of core issue on model might casue the proble. Distributed training is not going to make the training process faster, is to make it possible to traing bigger model. Concate differet computer to compute the result. 
 ## Type of NN
 - CNN ; Each frame can be seen as sigle calculation. If the mu
-- Fully Connected Layer:
+- Fully Connected Layer. Can't do it with multiple cores.
 	
 ## Parallel SGD
 Key is asynchronous update on one node. We need have Parameter Server"BOSS", and workder 1, workder 2... etc.
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODcyOTY5NywtMTgwMjg5Mzk0NiwtMj
-ExMjk5OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIx
-MTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5Mz
-czLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3
-NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNTIzMzkyMT
-k0LC05MTY5MDIxODEsLTU1NDQ0NDE5NCwtMTUzNjc3NTY0MCwt
-ODE2OTcyNDk3XX0=
+eyJoaXN0b3J5IjpbODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMT
+EyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjEx
+MDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNz
+MsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0
+MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOT
+QsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04
+MTY5NzI0OTddfQ==
 -->
