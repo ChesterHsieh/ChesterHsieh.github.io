@@ -189,12 +189,15 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 # Case Study prep
+
+# Distributed Training
+- *Data parallelism:* Data is distributed across multiple machines. This can be used in case data is too large to be stored on a single machine or to achieve faster training.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3ND
-YzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5
-MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLT
-E0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAy
-MTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5Ny
-wxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkxMjUwNzA4LC04NjM3
-ODE3NzNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMz
+AyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5
+OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLD
+E3NzQwNzY2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5
+MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOTQsLTE1MzY3NzU2ND
+AsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3ODQzMzczNDQsNTkx
+MjUwNzA4XX0=
 -->
