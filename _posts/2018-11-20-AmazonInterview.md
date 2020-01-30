@@ -194,14 +194,15 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 - *Data parallelism:* Data is distributed across multiple machines. This can be used in case data is too large to be stored on a single machine or to achieve faster training.
 - *Model parallelism*: Out of core issue on model might casue the proble. Distributed training is not going to make the training process faster, is to make it possible to traing bigger model. Concate differet computer to compute the result. 
 ## Type of NN
-- CNN
-- 
+- CNN ; Each frame can be seen as sigle calculation. If the mu
+- Fully Connected Layer:
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjQzMjU2NSwtMTU2NzA4OTM5MiwxNj
-c2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0
-MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2Mi
-wyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5OCw2OTYz
-ODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1NDQ0NDE5NC
-wtMTUzNjc3NTY0MCwtODE2OTcyNDk3LDE2NjgzODQ4MDUsMTc4
-NDMzNzM0NF19
+eyJoaXN0b3J5IjpbLTIxMTI5OTk5MTMsLTE1NjcwODkzOTIsMT
+Y3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAz
+NDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNj
+IsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkxOTgsNjk2
+Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgxLC01NTQ0NDQxOT
+QsLTE1MzY3NzU2NDAsLTgxNjk3MjQ5NywxNjY4Mzg0ODA1LDE3
+ODQzMzczNDRdfQ==
 -->
