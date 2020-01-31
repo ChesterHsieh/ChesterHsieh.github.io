@@ -35,7 +35,9 @@ R:
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
 ## Tell me a time when you created an innovative product?
-S: Old product is gym 
+S: Old product is gym smart band. New customer ask from equipment supplier
+T: Get the work done in short time with variery differnt compound movement
+A: Instead of wear on the user. We directly the put on weight. AS  a line
 
 
 # 4.  Are Right, A Lot
@@ -204,11 +206,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzM3MjEyLC0xOTg3OTQ4NDQ0LDg0ND
-gyNTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OTkxMywtMTU2NzA4
-OTM5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMC
-wyMTAzMDM0MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5
-NTA5NDI2MiwyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOT
-E5OCw2OTYzODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1
-NDQ0NDE5NF19
+eyJoaXN0b3J5IjpbMTY3ODkwNjE2NSwtMTk4Nzk0ODQ0NCw4ND
+Q4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1Njcw
+ODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4Mz
+AsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02
+OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMz
+kxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgxLC01
+NTQ0NDQxOTRdfQ==
 -->
