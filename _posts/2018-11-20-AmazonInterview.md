@@ -121,10 +121,10 @@ R: I still contact with them, the CEO write recommendation letter for me, even t
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 ---
 ## Tell me about a time when you had to dive deep into the data and the results you achieved?
-S: 
+S: The ecnomist versus the pepp
 T: To know who's correct
-A: 
-R: 
+A: To compare the number according to the same reoscurece. Re-implement the way they are doing. 
+R: Realize the truth, even the dataset in objective, doesn't mean it will give the same result to everyone
 
 
 
@@ -215,11 +215,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjU4NjI2OSwtMTA2NjEwMzcyMSwtMT
-k4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5
-OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMT
-AwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3Mywx
-MDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNz
-Y2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwt
-OTE2OTAyMTgxXX0=
+eyJoaXN0b3J5IjpbLTExMjgzMTExMjgsLTEwNjYxMDM3MjEsLT
+E5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEy
+OTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMD
+EwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMs
+MTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MD
+c2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQs
+LTkxNjkwMjE4MV19
 -->
