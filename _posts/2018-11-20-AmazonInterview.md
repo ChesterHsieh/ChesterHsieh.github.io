@@ -19,6 +19,11 @@ tags:
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
 ## who was your most diffcult customer?
+    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
+
+    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
+
+   Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
 
 # 2. Ownership
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
@@ -60,12 +65,6 @@ Action:
 Result:
 	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always import to evaluate . Two woodcutters story isn't always correct on favor one strategy. 
 
-## Story- Not on time
-    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
-
-    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
-
-    I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
 
 # 5. Learn and Be Curious
 好奇求知(不停止学习,对各种可能性充满好奇并加以行动)
@@ -104,13 +103,13 @@ The risk is a reputation for the company.  However, it might be a new blue ocean
 # 10. Frugality
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
-----
+
 ## Tell me about a time when you had to work with limited time or resources?
 
 # 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  Leaders do not believe their or their team’s body odour smells of perfume.  They benchmark themselves and their teams against the best.
-----
+
 ## Tell me a time when you earned trust of a group.
 S:
 T:
@@ -216,7 +215,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjUwOTM0MSwtMTA2NjEwMzcyMSwtMT
+eyJoaXN0b3J5IjpbMTgzNTYwMDE5NywtMTA2NjEwMzcyMSwtMT
 k4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5
 OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMT
 AwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3Mywx
