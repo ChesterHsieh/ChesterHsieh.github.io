@@ -34,10 +34,9 @@ R: Find out the problem right on the time. and did it better.
 S:
 T:
 A:
-R:
+R: Investment is very long-term. To build up the trust is neceesary for everyone.
 
 # 3. Invent and Simplify
-
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
 ## Tell me a time when you created an innovative product?
@@ -45,8 +44,11 @@ S: Old product is gym smart band. New customer ask from equipment supplier
 T: Get the work done in short time with variery differnt compound movement
 A: Instead of wear on the user. We directly the put on weight. AS  a linear move
 R: We can generize all the product into differnt function equipment
-
-
+## Tell me a time when you created an innovative product?
+S: Old product is gym smart band. New customer ask from equipment supplier
+T: Get the work done in short time with variery differnt compound movement
+A: Instead of wear on the user. We directly the put on weight. AS  a linear move
+R: We can generize all the product into differnt function equipment
 
 # 4.  Are Right, A Lot
 决策正确(寻求多样的视角,挑战自己的观念)
@@ -214,11 +216,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIwNzg1NDIsLTEwNjYxMDM3MjEsLT
-E5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEy
-OTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMD
-EwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMs
-MTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MD
-c2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQs
-LTkxNjkwMjE4MV19
+eyJoaXN0b3J5IjpbMTk4NjUwOTM0MSwtMTA2NjEwMzcyMSwtMT
+k4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5
+OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMT
+AwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3Mywx
+MDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNz
+Y2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwt
+OTE2OTAyMTgxXX0=
 -->
