@@ -25,12 +25,17 @@ Leaders start with the customer and work backward. They work vigorously to earn 
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
 
 ## Give me a example of when you took a risk and it failed?
+S:
+T:
+A:
+R:
 
 # 3. Invent and Simplify
 
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
 ## Tell me a time when you created an innovative product?
+S: Old product is gym 
 
 
 # 4.  Are Right, A Lot
@@ -199,11 +204,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xOD
-AyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYw
-Mzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMj
-QsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIz
-MDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4ND
-M1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0x
-NTM2Nzc1NjQwXX0=
+eyJoaXN0b3J5IjpbLTI2MzM3MjEyLC0xOTg3OTQ4NDQ0LDg0ND
+gyNTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OTkxMywtMTU2NzA4
+OTM5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMC
+wyMTAzMDM0MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5
+NTA5NDI2MiwyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOT
+E5OCw2OTYzODQzNTYsNTIzMzkyMTk0LC05MTY5MDIxODEsLTU1
+NDQ0NDE5NF19
 -->
