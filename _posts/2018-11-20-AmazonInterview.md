@@ -111,21 +111,20 @@ Accomplish more with less. Constraints breed resourcefulness, self-sufficiency a
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  Leaders do not believe their or their team’s body odour smells of perfume.  They benchmark themselves and their teams against the best.
 
 ## Tell me a time when you earned trust of a group.
-S: With very low GPA 2.7. It's incre
-T:
-A: Ask right answer
+S: With very low GPA 2.7. It's incredible to get hired that time. 
+T: Get the thing done on time. 
+A: Ask right answer. Keep following the the topic. Talk to everyone.
 R: I still contact with them, the CEO write recommendation letter for me, even though he knew I was leaving at that time.
 
-I believe to make mistake and honest to knowledge is key to becoming better. In the beginning, the team leader didn't trust me on dealing the problem. I'm one say I don't know for 50% time. After days co-work, they know how I'm working on.
 
 # 12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 ---
 ## Tell me about a time when you had to dive deep into the data and the results you achieved?
-S:
-T:
-A:
-R:
+S: 
+T: To know who's correct
+A: 
+R: 
 
 
 
@@ -216,11 +215,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NDQzODgzLC0xMDY2MTAzNzIxLC0xOT
-g3OTQ4NDQ0LDg0NDgyNTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5
-OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMD
-AsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5MzczLDEw
-MDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3NDA3Nj
-Y1OCwtMTQzODEzOTE5OCw2OTYzODQzNTYsNTIzMzkyMTk0LC05
-MTY5MDIxODFdfQ==
+eyJoaXN0b3J5IjpbMTU4NjU4NjI2OSwtMTA2NjEwMzcyMSwtMT
+k4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5
+OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMT
+AwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3Mywx
+MDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNz
+Y2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwt
+OTE2OTAyMTgxXX0=
 -->
