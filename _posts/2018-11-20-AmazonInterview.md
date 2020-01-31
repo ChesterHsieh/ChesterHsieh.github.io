@@ -27,7 +27,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ## Give me a example of when you took a risk and it failed?
 S:
 T:
-A:
+A: Learn something, 
 R:
 
 # 3. Invent and Simplify
@@ -37,7 +37,9 @@ Leaders expect and require innovation and invention from their teams and always 
 ## Tell me a time when you created an innovative product?
 S: Old product is gym smart band. New customer ask from equipment supplier
 T: Get the work done in short time with variery differnt compound movement
-A: Instead of wear on the user. We directly the put on weight. AS  a line
+A: Instead of wear on the user. We directly the put on weight. AS  a linear move
+R: We can generize all the product into differnt function equipment
+
 
 
 # 4.  Are Right, A Lot
@@ -206,7 +208,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODkwNjE2NSwtMTk4Nzk0ODQ0NCw4ND
+eyJoaXN0b3J5IjpbMTI5NDYyMjg0MywtMTk4Nzk0ODQ0NCw4ND
 Q4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1Njcw
 ODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4Mz
 AsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02
