@@ -21,24 +21,21 @@ Leaders start with the customer and work backward. They work vigorously to earn 
 ## who was your most diffcult customer?
 
 # 2. Ownership
-
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
-------
-Give me a example of when you took a risk and it failed?
+
+## Give me a example of when you took a risk and it failed?
 
 # 3. Invent and Simplify
 
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
-------
 ## Tell me a time when you created an innovative product?
 
 
 # 4.  Are Right, A Lot
 决策正确(寻求多样的视角,挑战自己的观念)
 Leaders are right a lot. They have strong judgement and good instincts.  They seek diverse perspectives and work to disconfirm their beliefs.
---------
 ## Tell me about a time when you were wrong?
 Situation: Gym tracker, 
 Task
@@ -202,11 +199,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMT
-EyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjEx
-MDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNz
-MsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0
-MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOT
-QsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0xNTM2Nzc1NjQwLC04
-MTY5NzI0OTddfQ==
+eyJoaXN0b3J5IjpbLTE5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xOD
+AyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYw
+Mzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMj
+QsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIz
+MDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4ND
+M1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwtNTU0NDQ0MTk0LC0x
+NTM2Nzc1NjQwXX0=
 -->
