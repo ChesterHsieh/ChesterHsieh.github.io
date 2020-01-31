@@ -25,10 +25,12 @@ Leaders start with the customer and work backward. They work vigorously to earn 
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
 
 ## Give me a example of when you took a risk and it failed?
-S:
-T:
+S: Cloud computing, off is off. I leave the machine to run
+T: To get it done on time
 A: Learn something, 
-R:
+R: Find out the problem right on the time. and did it better.
+
+## 
 
 # 3. Invent and Simplify
 
@@ -208,11 +210,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDYyMjg0MywtMTk4Nzk0ODQ0NCw4ND
-Q4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1Njcw
-ODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4Mz
-AsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02
-OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMz
-kxOTgsNjk2Mzg0MzU2LDUyMzM5MjE5NCwtOTE2OTAyMTgxLC01
-NTQ0NDQxOTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsOD
+Q0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3
+MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1OD
+MwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywt
+Njk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MT
+M5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwt
+NTU0NDQ0MTk0XX0=
 -->
