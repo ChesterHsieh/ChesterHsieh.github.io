@@ -62,8 +62,7 @@ Leaders are right a lot. They have strong judgement and good instincts.  They se
 Situation: She's kind person don't give the idea on the meeting and disagree privately
 Task: To get
 Action:
-Result:
-	Don't try to use latest tool all the time, It doen't mean we should stop to learn, but it's always import to evaluate . Two woodcutters story isn't always correct on favor one strategy. 
+Result: Onece we build up the trust. Everything goes smooth. She's willing to provide more confident information. 
 
 
 # 5. Learn and Be Curious
@@ -217,11 +216,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjY2OTA5MSwtMjA3NDM3NjI4MywtMT
-A2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4
-OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNz
-czMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwt
-MTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwND
-MxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkxOTgsNjk2Mzg0MzU2
-LDUyMzM5MjE5NF19
+eyJoaXN0b3J5IjpbLTEyMzkwODkyMDMsLTIwNzQzNzYyODMsLT
+EwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAy
+ODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMz
+c3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQs
+LTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMD
+QzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1
+Niw1MjMzOTIxOTRdfQ==
 -->
