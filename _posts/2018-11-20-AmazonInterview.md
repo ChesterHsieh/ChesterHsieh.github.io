@@ -119,9 +119,9 @@ R: I still contact with them, the CEO write recommendation letter for me, even t
 
 # 12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
----
+
 ## Tell me about a time when you had to dive deep into the data and the results you achieved?
-S: The ecnomist versus the pepp
+S: The ecnomist versus the people's feeling versus the 
 T: To know who's correct
 A: To compare the number according to the same reoscurece. Re-implement the way they are doing. 
 R: Realize the truth, even the dataset in objective, doesn't mean it will give the same result to everyone
@@ -131,12 +131,14 @@ R: Realize the truth, even the dataset in objective, doesn't mean it will give t
 # 13. Have Backbone; Disagree and Commit
 敢于谏言,服从大局(质疑无法苟同的决策,不为一团和气妥协,一旦决定,全身心实现目标)
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
-----
+
+
 ## Tell me about a time you handled a difficult situation?
 - S:
 - T:
 - A:
 - R:
+## Tell me a time you convince your manager.
 
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
@@ -162,7 +164,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 # Possible Questions
 1. Most diffcult challenge, what you learn form it
 2. Most complicated
-3. Convince someone
+
 4. Don't know what to do, 
 5. disagreement with manager/ Convince 
 6. Give me example, influence to other ppl => Linear programming
@@ -215,7 +217,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzMTExMjgsLTEwNjYxMDM3MjEsLT
+eyJoaXN0b3J5IjpbLTIwNzQzNzYyODMsLTEwNjYxMDM3MjEsLT
 E5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEy
 OTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMD
 EwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMs
