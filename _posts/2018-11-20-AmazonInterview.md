@@ -30,7 +30,11 @@ T: To get it done on time
 A: Learn something, 
 R: Find out the problem right on the time. and did it better.
 
-## 
+## Give an example of when you saw a peer struggling and decided to step in and help. 
+S:
+T:
+A:
+R:
 
 # 3. Invent and Simplify
 
@@ -210,11 +214,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsOD
-Q0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3
-MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1OD
-MwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywt
-Njk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MT
-M5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQsLTkxNjkwMjE4MSwt
-NTU0NDQ0MTk0XX0=
+eyJoaXN0b3J5IjpbLTIwMzIwNzg1NDIsLTEwNjYxMDM3MjEsLT
+E5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEy
+OTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMzc3MzEsMTMwMjExMD
+EwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMs
+MTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MD
+c2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1Niw1MjMzOTIxOTQs
+LTkxNjkwMjE4MV19
 -->
