@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Amazon 14 Principle
-subtitle: My funny(Fake) storyBehavior Question
+subtitle: My funny storyBehavior Question
 subtitle: What I learn from Amazon and Preparation
 date: 2018-11-20
 author: Chester  
@@ -238,11 +238,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzQwMDY0MiwtNTExMDUzMzMxLDE1Mz
-I4MzgwOTMsLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLTIwNzQz
-NzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1OD
-Q0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5Mzky
-LDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMD
-MwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0
-MjYyLDIzMDQzMTEyMl19
+eyJoaXN0b3J5IjpbMTExNjkyMDQ2NiwtNzIzNDAwNjQyLC01MT
+EwNTMzMzEsMTUzMjgzODA5MywtMjEzMTMxNjI2NiwtMTIzOTA4
+OTIwMywtMjA3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0OD
+Q0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMs
+LTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3ND
+YzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5
+MTE3LC02OTUwOTQyNjJdfQ==
 -->
