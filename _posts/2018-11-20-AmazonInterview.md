@@ -89,10 +89,10 @@ Speed matters in business. Many decisions and actions are reversible and do not 
 提出權衡的過程.-> 連結到Customer osbssesion
 
 ## Tell me the time when you face the difficult situation and had different solutions? Talk about which solution you choice.
-S: Not lucky to have 
-T
-A:
-R:
+S: Medtronics supply cost. Sales with wrong priceing  
+T: Make good decesion between the old but stable price/ new equipment price. 
+A: Neogtiate with the equipmenp supplier 
+R: Get the extra discount 50% for the devices. 
 
 
 
@@ -232,11 +232,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTUwNjQ5MiwtMTIzOTA4OTIwMywtMj
-A3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4
-MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwOD
-kzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAs
-MjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OT
-UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
-OTgsNjk2Mzg0MzU2XX0=
+eyJoaXN0b3J5IjpbLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLT
+IwNzQzNzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0
+ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MD
+g5MzkyLDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMw
+LDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNj
+k1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5
+MTk4LDY5NjM4NDM1Nl19
 -->
