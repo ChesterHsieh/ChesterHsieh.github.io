@@ -67,6 +67,12 @@ Leaders are never done learning and always seek to improve themselves. They are 
 选贤任能(从员工角度出发,创建职业发展机制)
 Leaders raise the performance bar with every hire and promotion. They recognise people with exceptional talent and will move them throughout the organisation. Leaders develop leaders and are serious about their role in coaching others.  We work on behalf of our people to invent mechanisms for development like Career Choice.
 
+## What's your biggest weakness
+S: It has been difficult for me to work with certain personalities
+T:
+A:
+R:
+
 # 7. Insist on the Highest Standards
 最高标准(确保问题不会蔓延,解决问题,不再出现)
 Leaders have relentlessly high standards – many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
@@ -226,11 +232,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjgzODA5MywtMjEzMTMxNjI2NiwtMT
-IzOTA4OTIwMywtMjA3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4
-Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OT
-k5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAw
-LDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMD
-AxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2
-NTgsLTE0MzgxMzkxOThdfQ==
+eyJoaXN0b3J5IjpbLTE3OTkzMDc2OTgsMTUzMjgzODA5MywtMj
+EzMTMxNjI2NiwtMTIzOTA4OTIwMywtMjA3NDM3NjI4MywtMTA2
+NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OT
+M5NDYsLTIxMTI5OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzcz
+MSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMT
+I3OTU5OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMx
+MTIyLDE3NzQwNzY2NThdfQ==
 -->
