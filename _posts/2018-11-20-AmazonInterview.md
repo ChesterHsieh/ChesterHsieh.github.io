@@ -94,10 +94,7 @@ T
 A:
 R:
 
-S: Test drive with friends and having 
-T:
-A:
-R:
+
 
 ## Question
 - Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
@@ -226,11 +223,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjU5NjYzMSwtMTIzOTA4OTIwMywtMj
-A3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4
-MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwOD
-kzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAs
-MjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OT
-UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
-OTgsNjk2Mzg0MzU2XX0=
+eyJoaXN0b3J5IjpbNzgyNjEzNDkyLC0xMjM5MDg5MjAzLC0yMD
+c0Mzc2MjgzLC0xMDY2MTAzNzIxLC0xOTg3OTQ4NDQ0LDg0NDgy
+NTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OTkxMywtMTU2NzA4OT
+M5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwy
+MTAzMDM0MjI0LC0xMjc5NTk5MzczLDEwMDE0OTkxMTcsLTY5NT
+A5NDI2MiwyMzA0MzExMjIsMTc3NDA3NjY1OCwtMTQzODEzOTE5
+OCw2OTYzODQzNTZdfQ==
 -->
