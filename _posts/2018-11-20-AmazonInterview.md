@@ -88,6 +88,8 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 提出權衡的過程.-> 連結到Customer osbssesion
 
+## Tell me the time when you face the difficult situation and had different solution
+
 ## Question
 - Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
 ## Story: Doxygen
@@ -142,7 +144,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 # 14. Deliver Results
 达成业绩(从不气馁,勇于挑战,及时完成工作)
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
-## Story-
 
 ## By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
 
@@ -216,11 +217,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkwODkyMDMsLTIwNzQzNzYyODMsLT
-EwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1ODQ0LC0xODAy
-ODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5MzkyLDE2NzYwMz
-c3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMDMwMzQyMjQs
-LTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0MjYyLDIzMD
-QzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5MTk4LDY5NjM4NDM1
-Niw1MjMzOTIxOTRdfQ==
+eyJoaXN0b3J5IjpbLTgwNzM1NjI3NSwtMTIzOTA4OTIwMywtMj
+A3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4
+MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwOD
+kzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAs
+MjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OT
+UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
+OTgsNjk2Mzg0MzU2XX0=
 -->
