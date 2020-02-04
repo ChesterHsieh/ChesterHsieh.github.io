@@ -30,7 +30,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ## Give me a example of when you took a risk and it failed?
 S: Cloud computing, off is off. I leave the machine to run
 T: To get it done on time
-A: Learn something, 
+A: Speaking Slack Notifications //
 R: Find out the problem right on the time. and did it better.
 
 
@@ -226,11 +226,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjExMTYxLC0yMTMxMzE2MjY2LC0xMj
-M5MDg5MjAzLC0yMDc0Mzc2MjgzLC0xMDY2MTAzNzIxLC0xOTg3
-OTQ4NDQ0LDg0NDgyNTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OT
-kxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAs
-MTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5MzczLDEwMD
-E0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3NDA3NjY1
-OCwtMTQzODEzOTE5OF19
+eyJoaXN0b3J5IjpbMTUzMjgzODA5MywtMjEzMTMxNjI2NiwtMT
+IzOTA4OTIwMywtMjA3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4
+Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OT
+k5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAw
+LDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMD
+AxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2
+NTgsLTE0MzgxMzkxOThdfQ==
 -->
