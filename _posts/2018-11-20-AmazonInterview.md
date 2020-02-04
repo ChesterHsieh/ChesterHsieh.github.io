@@ -114,8 +114,8 @@ Accomplish more with less. Constraints breed resourcefulness, self-sufficiency a
 ## Tell me about the time where you have to decide between perfectness over completing within deadline.
 S: NL2SQL, 2 optiion one is train the deeplearning model/ quick test
 T: To compelete on time
-A: Evaluation on both side. We find out the mediocre soulution
-
+A: Evaluation on both side. We find out the mediocre soulution /Negotioate with business team.
+R: We play hit and run in business. 
 
 # 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
@@ -137,7 +137,8 @@ T: To know who's correct
 A: To compare the number according to the same reoscurece. Re-implement the way they are doing. 
 R: Realize the truth, even the dataset in objective, doesn't mean it will give the same result to everyone
 
-
+S: MNIST data set
+T: 
 
 # 13. Have Backbone; Disagree and Commit
 敢于谏言,服从大局(质疑无法苟同的决策,不为一团和气妥协,一旦决定,全身心实现目标)
@@ -237,7 +238,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTM5ODMwMywtNTExMDUzMzMxLDE1Mz
+eyJoaXN0b3J5IjpbLTc4MjA4NzExNCwtNTExMDUzMzMxLDE1Mz
 I4MzgwOTMsLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLTIwNzQz
 NzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1OD
 Q0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5Mzky
