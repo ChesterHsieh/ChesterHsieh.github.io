@@ -68,10 +68,10 @@ Leaders are never done learning and always seek to improve themselves. They are 
 Leaders raise the performance bar with every hire and promotion. They recognise people with exceptional talent and will move them throughout the organisation. Leaders develop leaders and are serious about their role in coaching others.  We work on behalf of our people to invent mechanisms for development like Career Choice.
 
 ## What's your biggest weakness
-S: It has been difficult for me to work with certain personalities
-T:
-A:
-R:
+S: It has been difficult for me to work with certain personalities. Co-work with weaker team member.
+T: To co-work with different ppl
+A: Learn from them. Don't put the complain into all kind of situation
+R: I know there's no perfact work here
 
 # 7. Insist on the Highest Standards
 最高标准(确保问题不会蔓延,解决问题,不再出现)
@@ -232,11 +232,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMDc2OTgsMTUzMjgzODA5MywtMj
-EzMTMxNjI2NiwtMTIzOTA4OTIwMywtMjA3NDM3NjI4MywtMTA2
-NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OT
-M5NDYsLTIxMTI5OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzcz
-MSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMT
-I3OTU5OTM3MywxMDAxNDk5MTE3LC02OTUwOTQyNjIsMjMwNDMx
-MTIyLDE3NzQwNzY2NThdfQ==
+eyJoaXN0b3J5IjpbMTkxODg1MDU1MCwxNTMyODM4MDkzLC0yMT
+MxMzE2MjY2LC0xMjM5MDg5MjAzLC0yMDc0Mzc2MjgzLC0xMDY2
+MTAzNzIxLC0xOTg3OTQ4NDQ0LDg0NDgyNTg0NCwtMTgwMjg5Mz
+k0NiwtMjExMjk5OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMx
+LDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMj
+c5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzEx
+MjIsMTc3NDA3NjY1OF19
 -->
