@@ -111,7 +111,6 @@ The risk is a reputation for the company.  However, it might be a new blue ocean
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
 
-## Tell me about a time when you had to work with limited time or resources?
 
 # 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
@@ -152,6 +151,14 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never compromise.
 
 ## By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
+S: Breast cancer + 
+T:
+A:
+R:
+
+## Tell me about a time when you had to work with limited time or resources?
+
+
 
 # Behavior Questions - Very General One
 ## Why Amazon?
@@ -223,7 +230,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNjEzNDkyLC0xMjM5MDg5MjAzLC0yMD
+eyJoaXN0b3J5IjpbMzM3Njk2MjA0LC0xMjM5MDg5MjAzLC0yMD
 c0Mzc2MjgzLC0xMDY2MTAzNzIxLC0xOTg3OTQ4NDQ0LDg0NDgy
 NTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OTkxMywtMTU2NzA4OT
 M5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwy
