@@ -111,6 +111,11 @@ The risk is a reputation for the company.  However, it might be a new blue ocean
 勤俭节约(更少投入更大产出)
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention.  There are no extra points for growing headcount, budget size or fixed expense.
 
+## Tell me about the time where you have to decide between perfectness over completing within deadline.
+S: NL2SQL, 2 optiion one is train the deeplearning model/ quick test
+T: To compelete on time
+A: Evaluation on both side. We find out the mediocre soulution
+
 
 # 11. Earn Trust
 赢得信任(专注倾听,坦诚沟通,尊重他人,自我批评)
@@ -232,11 +237,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTA1MzMzMSwxNTMyODM4MDkzLC0yMT
-MxMzE2MjY2LC0xMjM5MDg5MjAzLC0yMDc0Mzc2MjgzLC0xMDY2
-MTAzNzIxLC0xOTg3OTQ4NDQ0LDg0NDgyNTg0NCwtMTgwMjg5Mz
-k0NiwtMjExMjk5OTkxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMx
-LDEzMDIxMTAxMDAsMTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMj
-c5NTk5MzczLDEwMDE0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzEx
-MjIsMTc3NDA3NjY1OF19
+eyJoaXN0b3J5IjpbLTQ4OTM5ODMwMywtNTExMDUzMzMxLDE1Mz
+I4MzgwOTMsLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLTIwNzQz
+NzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1OD
+Q0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5Mzky
+LDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMwLDIxMD
+MwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNjk1MDk0
+MjYyLDIzMDQzMTEyMl19
 -->
