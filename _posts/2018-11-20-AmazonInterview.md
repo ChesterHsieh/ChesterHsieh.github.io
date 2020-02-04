@@ -30,7 +30,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ## Give me a example of when you took a risk and it failed?
 S: Cloud computing, off is off. I leave the machine to run
 T: To get it done on time
-A: Speaking Slack Notifications 
+A: Speaking Slack Notifications I think failure is more than just not meeting a goal, it’s about not meeting a goal with the resources you’re given. If I end up taking more time or supplies than I was originally allotted, that feels like a failure to me.
 R: Find out the problem right on the time. and did it better.
 
 
@@ -238,7 +238,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzQxODI4MiwtNTExMDUzMzMxLDE1Mz
+eyJoaXN0b3J5IjpbLTcyMzQwMDY0MiwtNTExMDUzMzMxLDE1Mz
 I4MzgwOTMsLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLTIwNzQz
 NzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0ODI1OD
 Q0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MDg5Mzky
