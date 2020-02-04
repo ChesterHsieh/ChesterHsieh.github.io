@@ -153,12 +153,14 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 ## By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
 S: Breast cancer + prepare for the toefl + start a new project
 T: To finish all
-A: 1) identify the proirty for the task 2) explain when/ why 3) Let go something you can't control
-R: 
+A: 1) identify the proirty for the task 2) explain when/ why 3) Let go something you can't control 4) love the process.
+R: Everything in the end will be alright. 
 
 ## Tell me about a time when you had to work with limited time or resources?
-
-
+S
+T
+A
+R
 
 # Behavior Questions - Very General One
 ## Why Amazon?
@@ -230,11 +232,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE0ODI5NDMsLTEyMzkwODkyMDMsLT
-IwNzQzNzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0
-ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MD
-g5MzkyLDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMw
-LDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNj
-k1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5
-MTk4LDY5NjM4NDM1Nl19
+eyJoaXN0b3J5IjpbMTI0OTUwNjQ5MiwtMTIzOTA4OTIwMywtMj
+A3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4
+MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwOD
+kzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAs
+MjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5MTE3LC02OT
+UwOTQyNjIsMjMwNDMxMTIyLDE3NzQwNzY2NTgsLTE0MzgxMzkx
+OTgsNjk2Mzg0MzU2XX0=
 -->
