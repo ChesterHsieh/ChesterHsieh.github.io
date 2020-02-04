@@ -19,12 +19,10 @@ tags:
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
 ## who was your most diffcult customer?
-    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain product. I need to give the prospect schedule.
-
-    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
-
-   Throughout this process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate for all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
-
+S:
+T:
+A:
+R:
 # 2. Ownership
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
@@ -35,11 +33,7 @@ T: To get it done on time
 A: Learn something, 
 R: Find out the problem right on the time. and did it better.
 
-## Give an example of when you saw a peer struggling and decided to step in and help. 
-S:
-T:
-A:
-R: Investment is very long-term. To build up the trust is neceesary for everyone.
+
 
 # 3. Invent and Simplify
 创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
@@ -232,11 +226,11 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEzMTYyNjYsLTEyMzkwODkyMDMsLT
-IwNzQzNzYyODMsLTEwNjYxMDM3MjEsLTE5ODc5NDg0NDQsODQ0
-ODI1ODQ0LC0xODAyODkzOTQ2LC0yMTEyOTk5OTEzLC0xNTY3MD
-g5MzkyLDE2NzYwMzc3MzEsMTMwMjExMDEwMCwxNzQ2MzA1ODMw
-LDIxMDMwMzQyMjQsLTEyNzk1OTkzNzMsMTAwMTQ5OTExNywtNj
-k1MDk0MjYyLDIzMDQzMTEyMiwxNzc0MDc2NjU4LC0xNDM4MTM5
-MTk4LDY5NjM4NDM1Nl19
+eyJoaXN0b3J5IjpbLTI5MjExMTYxLC0yMTMxMzE2MjY2LC0xMj
+M5MDg5MjAzLC0yMDc0Mzc2MjgzLC0xMDY2MTAzNzIxLC0xOTg3
+OTQ4NDQ0LDg0NDgyNTg0NCwtMTgwMjg5Mzk0NiwtMjExMjk5OT
+kxMywtMTU2NzA4OTM5MiwxNjc2MDM3NzMxLDEzMDIxMTAxMDAs
+MTc0NjMwNTgzMCwyMTAzMDM0MjI0LC0xMjc5NTk5MzczLDEwMD
+E0OTkxMTcsLTY5NTA5NDI2MiwyMzA0MzExMjIsMTc3NDA3NjY1
+OCwtMTQzODEzOTE5OF19
 -->
