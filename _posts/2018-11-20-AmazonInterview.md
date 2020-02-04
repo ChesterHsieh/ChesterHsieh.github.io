@@ -88,7 +88,16 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 提出權衡的過程.-> 連結到Customer osbssesion
 
-## Tell me the time when you face the difficult situation and had different solution
+## Tell me the time when you face the difficult situation and had different solutions? Talk about which solution you choice.
+S: Not lucky to have 
+T
+A:
+R:
+
+S: Test drive with friends and having 
+T:
+A:
+R:
 
 ## Question
 - Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
@@ -217,7 +226,7 @@ Key is asynchronous update on one node. We need have Parameter Server"BOSS", and
 Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzM1NjI3NSwtMTIzOTA4OTIwMywtMj
+eyJoaXN0b3J5IjpbLTI5NjU5NjYzMSwtMTIzOTA4OTIwMywtMj
 A3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0ODQ0NCw4NDQ4
 MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMsLTE1NjcwOD
 kzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3NDYzMDU4MzAs
