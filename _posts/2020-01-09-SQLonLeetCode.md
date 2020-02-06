@@ -66,7 +66,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 | 3 | 3 | 4 |
 
 
-# Date data related 
+# Date data related useful function
 - DATEADD(datepart, number, date)
 - DATEDIFF ( datepart , startdate , enddate)
 - DATEPART ( datepart , date )
@@ -215,5 +215,5 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzUwNzIyOV19
+eyJoaXN0b3J5IjpbLTEyNjg3NzI4NzldfQ==
 -->
