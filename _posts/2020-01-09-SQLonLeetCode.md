@@ -23,9 +23,9 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 	  [ <ORDER BY clause> ] 
 	  [ <ROW or RANGE clause> ] )
 ```
-It can share groupy by feeling and function(aggregate/rank)
-## 
-PARTION BY 必須配合其他的groupby
+
+
+
 
 
 ## ROW_NUMBER
@@ -217,5 +217,6 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTQwNjU5ODQ0MSwtMjQxNjMwMzQwLC0xMj
+Y4NzcyODc5XX0=
 -->
