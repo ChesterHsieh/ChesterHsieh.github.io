@@ -25,6 +25,11 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 ```
 
 
+## ROW and Range clause
+UNBOUNDED  PRECEDING
+CURRENT ROW
+
+
 
 
 
@@ -217,6 +222,6 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjU5ODQ0MSwtMjQxNjMwMzQwLC0xMj
-Y4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTE5MjA1NjExODgsLTI0MTYzMDM0MCwtMT
+I2ODc3Mjg3OV19
 -->
