@@ -15,7 +15,11 @@ tags:
 
 
 # Leaderships
-# 1. Customer Obsession
+# # Behavior Questions - 14 Principle
+
+
+
+#1. Customer Obsession
 Leaders start with the customer and work backward. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
 ## who was your most diffcult customer?
@@ -23,7 +27,8 @@ S:
 T:
 A:
 R:
-# 2. Ownership
+# 
+2. Ownership
 主人翁(不为短期业绩牺牲长期价值,绝不会说不是我的工作)
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.”
 
@@ -49,7 +54,15 @@ T: Get the work done in short time with variery differnt compound movement
 A: Instead of wear on the user. We directly the put on weight. AS  a linear move
 R: We can generize all the product into differnt function equipment
 
-# 4.  Are Right, A Lot
+# 
+3. Invent and Simplify
+创新简化(使工作简化,开展新业务时,接受被长期误解的可能)
+Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here”. Because we do new things, we accept that we may be misunderstood for long periods of time.
+------
+Tell me a time when you created an innovative product?
+
+
+4.  Are Right, A Lot
 决策正确(寻求多样的视角,挑战自己的观念)
 Leaders are right a lot. They have strong judgement and good instincts.  They seek diverse perspectives and work to disconfirm their beliefs.
 ## Tell me about a time when you were wrong?
@@ -83,7 +96,8 @@ Leaders have relentlessly high standards – many people may think these standar
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 ## Story:
 
-# 9. Bias for Action
+# 
+9. Bias for Action
 崇尚行动(速度,深思熟虑下进行冒险)
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 提出權衡的過程.-> 連結到Customer osbssesion
@@ -102,7 +116,7 @@ R: Get the extra discount 50% for the devices.
 Situation: Busy working time. One of biggest bluetooth sample code
 Task: Delivery proper format and automatically matain document.
 Actioin: Take extra time after work. To prepare all the tutorial material. And give the esay sample to approve value and ask for extra resouce(other's employee's time). Host a meeting
-Resut: I got meaninful bounous 1 dollar. 
+Resut: I got meaninful bounous 1 dollar. ----
 New cooperation Story: When I was working in JMEX. I need to play the role of demonstrating the products.  Some opportunity comes. Gym Tracker
 The risk is a reputation for the company.  However, it might be a new blue ocean for company. 
 
@@ -122,16 +136,20 @@ R: We play hit and run in business.
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  Leaders do not believe their or their team’s body odour smells of perfume.  They benchmark themselves and their teams against the best.
 
 ## Tell me a time when you earned trust of a group.
-S: With very low GPA 2.7. It's incredible to get hired that time. 
+ing the the knS: With very low GPA 2.7. It's incredible to get hired that time. 
 T: Get the thing done on time. 
-A: Ask right answer. Keep following the the topic. Talk to everyone.
-R: I still contact with them, the CEO write recommendation letter for me, even though he knew I was leaving at that time.
+A: Ask right answer. Keep followHow's 
+I believe to make mistake and honest to knowledge is key to becoming better. In the beginning, the the topic. Talk to everyone.
+R: I still contact with them, the CEO write recommendation letter for me, even though eam leader didn't trust me on dealing the problem. I'm one say I don't know for 50% time. After days co-work, they knew I was leaving at that time.
 
 
-# 12. Dive Deep
+# ow how I'm working on.
+
+12. Dive Deep
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 
-## Tell me about a time when you had to dive deep into the data and the results you achieved?
+## ---
+Tell me about a time when you had to dive deep into the data and the results you achieved?
 S: The ecnomist versus the people's feeling versus the 
 T: To know who's correct
 A: To compare the number according to the same reoscurece. Re-implement the way they are doing. 
@@ -183,7 +201,7 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 
 # Possible Questions
-1. Most diffcult challenge, what you learn form it
+1. Most diffcult challenge, you made and what did you learn forom it
 2. Most complicated
 
 4. Don't know what to do, 
@@ -200,8 +218,9 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 ## Resource 
 ## Top conference
 1. [ACL](http://www.aclweb.org/ "Association for Computational Linguistics")
-2. [AAAI: Association for the Advancement of Artificial Intelligence](http://www.aaai.org/ "Association for the Advancement of Artificial Intelligence")
-3. [EMNLP: Empirical Methods in Natural Language Processing](http://hum.csse.unimelb.edu.au/emnlp2013/ "Empirical Methods in Natural Language Processing")
+2. [AAAI: Association for the Advancement of Artificial Intel?  (1,11,14).
+    The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the cligence](http://www.aaai.org/ "Association for the Advancement of Artificial Intelligence")
+3. [EMNLP: Empirical Methods in Natural Languagt about updating parts of a certain product. I need to give the Pprocessing](http://hum.csse.unimelb.edu.au/emnlp2013/ "Empirical Methods in Natural Language Processing")
 4. [NAACL: North American Chapter of the Association for Computational Linguistics](http://naacl.org/ "North American Chapter of the Association for Computational Linguistics")
 5. [Alexa AI works]([https://amazon.jobs/zh/teams/alexa-ai)
 
@@ -228,21 +247,26 @@ Study Nordic source code. We need the document tool.  Doxygen is a good idea. Wh
 
 # Distributed Training
 - *Data parallelism:* Data is distributed across multiple machines. This can be used in case data is too large to be stored on a single machine or to achieve faster training.
-- *Model parallelism*: Out of core issue on model might casue the proble. Distributed training is not going to make the training process faster, is to make it possible to traing bigger model. Concate differet computer to compute the result. 
+- *Model parallelism*: Out of core issue on model might casue the proble. Distributed training is not going to make the training process faster, is to make it possible to traing bigger model. Concate differet computer to compspect schedule.
+
+    I diagnosed the client requirement immediately, we only need to change the protocol from Bluetooth into RF protocol. Actually, the task was using a simple system to replace the complicated one. There's a mistake here. I expected to finish it within 2 weeks. However, it didn't go as I expected. I forgot to consider the hardware problem.
+
+    I apologized to the client immediately and asked if we could have an extended delivery date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the component. Throughoute the result. 
 ## Type of NN
 - CNN ; Each frame can be seen as sigle calculation. If the mu
-- Fully Connected Layer. Can't do it with multiple cores.
+- Fully Connected Layer. Can't do it with multiplis process, the team members understood what happened. Instead of just telling the client to postpone the schedule. I continue to communicate cfores.
 	
 ## Parallel SGD
 Key is asynchronous update on one node. We need have Parameter Server"BOSS", and workder 1, workder 2... etc.
-Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers.
+Workers are assigned to compute the grad with same parameters. Boss will collect all the grad and update Parameter and send back to every workers. all situation again, I earned their trust by sharing the feedback with them and working out a solution together.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjkyMDQ2NiwtNzIzNDAwNjQyLC01MT
-EwNTMzMzEsMTUzMjgzODA5MywtMjEzMTMxNjI2NiwtMTIzOTA4
-OTIwMywtMjA3NDM3NjI4MywtMTA2NjEwMzcyMSwtMTk4Nzk0OD
-Q0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYsLTIxMTI5OTk5MTMs
-LTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMzAyMTEwMTAwLDE3ND
-YzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5OTM3MywxMDAxNDk5
-MTE3LC02OTUwOTQyNjJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDI1MTIxNzQsMTExNjkyMDQ2NiwtNz
+IzNDAwNjQyLC01MTEwNTMzMzEsMTUzMjgzODA5MywtMjEzMTMx
+NjI2NiwtMTIzOTA4OTIwMywtMjA3NDM3NjI4MywtMTA2NjEwMz
+cyMSwtMTk4Nzk0ODQ0NCw4NDQ4MjU4NDQsLTE4MDI4OTM5NDYs
+LTIxMTI5OTk5MTMsLTE1NjcwODkzOTIsMTY3NjAzNzczMSwxMz
+AyMTEwMTAwLDE3NDYzMDU4MzAsMjEwMzAzNDIyNCwtMTI3OTU5
+OTM3MywxMDAxNDk5MTE3XX0=
 -->
