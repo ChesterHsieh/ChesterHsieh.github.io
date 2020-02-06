@@ -40,7 +40,9 @@ LEAD/LAG(columns, step) OVER ([ PARTITION BY value_expression , ... [ n ] ] orde
 
 ## LIMIT
 SQL server doesn't have limit. We can use alternative way to acieve the same result.
-- use **TOP**
+Use **TOP**
+
+## ROW
 	```sql
 	SELECT TOP 1 * FROM table_Name 
 	ORDER BY unique_column DESC 
@@ -50,10 +52,6 @@ SQL server doesn't have limit. We can use alternative way to acieve the same res
 	OFFSET n ROWS
 	FETCH  NEXT m ROWS  ONLY
 	```
-
-## Producing a moving average and cumulative total
-
-
 
 ## RANK & DENSERANK
 RANK gives you the ranking within your ordered partition. Ties are assigned the same rank, with the next ranking(s) skipped. So, if you have 3 items at rank 2, the next rank listed would be ranked 5.
@@ -68,10 +66,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 | 3 | 3 | 4 |
 
 
-# Date data
-## Different type of date data type
-
-## Time Stamp calucation function
+# Date data related 
 - DATEADD(datepart, number, date)
 - DATEDIFF ( datepart , startdate , enddate)
 - DATEPART ( datepart , date )
@@ -220,5 +215,5 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQyMDE4MV19
+eyJoaXN0b3J5IjpbMTI0NzUwNzIyOV19
 -->
