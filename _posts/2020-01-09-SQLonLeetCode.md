@@ -118,7 +118,7 @@ CASE .... THEN value_....
 ELSE value_else
 END
 ```
-# Variable
+
 # Clause
 ## ORDER BY
 - Rows cluase
@@ -137,6 +137,8 @@ SELECT @ret = SUM(p.Quantity) FROM Production.ProductInventory p WHERE p.Product
 RETURN @ret; 
 END;
 ```
+## Vairable
+DECLARE @variable_name datatype
 
 # PIVOT
 When the question ask about column and rows transfer, pivot is very useful to deal with.
@@ -215,5 +217,5 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
