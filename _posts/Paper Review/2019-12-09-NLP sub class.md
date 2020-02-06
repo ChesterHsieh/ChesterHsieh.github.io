@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      NLP sub class
+title:      NLP sub Task
 subtitle:   stand on giant shoulder
 date:       2018-12-09
 author:    Chester
@@ -16,5 +16,5 @@ tags:
 - Text segmentation
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTc4MjkyNiwtODk2MjAwOTldfQ==
+eyJoaXN0b3J5IjpbLTIxMTk1ODYyOTksLTg5NjIwMDk5XX0=
 -->
