@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      NLP sub Task
+title:      NLP sub Tclasks
 subtitle:   stand on giant shoulder
 date:       2018-12-09
 author:    Chester
@@ -16,5 +16,6 @@ tags:
 - Text segmentation
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk1ODYyOTksLTg5NjIwMDk5XX0=
+eyJoaXN0b3J5IjpbMTA2NzM0MTg3NSwtMjExOTU4NjI5OSwtOD
+k2MjAwOTldfQ==
 -->
