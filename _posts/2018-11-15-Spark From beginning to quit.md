@@ -10,7 +10,7 @@ tags:
    Spark
 ---
 # Intro
-Memory anchor for the Spark beginner guide ***
+Memory anchor for the Spark beginner guide **Spark: The Definitive Guide**. 
 
 # RDD 
 Check the paper first.
@@ -56,6 +56,6 @@ Instead to use map or apply
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTIzMDY3OCwtMTMyOTE5NDQ5NiwzMj
-MxNjEzOTldfQ==
+eyJoaXN0b3J5IjpbLTExOTM3ODk1ODUsLTEzMjkxOTQ0OTYsMz
+IzMTYxMzk5XX0=
 -->
