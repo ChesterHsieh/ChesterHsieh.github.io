@@ -10,7 +10,7 @@ tags:
    Spark
 ---
 # Intro
-This is start point for spark. I'm data scientist, python is primary tool for daily work. Pyspark seems to be savior for entering spark world. 
+Memory anchor for the Spark beginner guide ***
 
 # RDD 
 Check the paper first.
@@ -56,5 +56,6 @@ Instead to use map or apply
  1. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkxOTQ0OTYsMzIzMTYxMzk5XX0=
+eyJoaXN0b3J5IjpbMTAwNTIzMDY3OCwtMTMyOTE5NDQ5NiwzMj
+MxNjEzOTldfQ==
 -->
