@@ -9,11 +9,11 @@
 	 - More & more, just adding more RAM, HD...etc  
 	- The ceiling is 1) state of the art 2) Financial crisis
 - Horizontal Scaling  
-	- Inbound issue. We need to somehow to control the input into distributed system. That's the load balancer
+	- ***Inbound issue : *** We need to somehow to control the input into distributed system. That's the load balancer. Load balancer has public address toward outside world. 
 	- 
  
 
 ## Multiple-Threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzUyNzg2OF19
+eyJoaXN0b3J5IjpbLTE5NjM1MzI0NDddfQ==
 -->
