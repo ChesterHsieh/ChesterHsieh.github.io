@@ -5,8 +5,10 @@ Survived. The business model is clear enough to convince the data giants to purc
 
 ## ZOZOSUIT
 Failed! 
-The idea behind the business is pretty brillient. The problem is 
+The idea behind the business is pretty brillient. The problem is more like technical issue. Inaccureate measurement is common issue after I did some research for the others' reviews.
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjc3MzYxNywtMTc4NjM0ODQ2NCwtMT
+eyJoaXN0b3J5IjpbMTExMTg4MjU0MSwtMTc4NjM0ODQ2NCwtMT
 I0NTI3NTM2MV19
 -->
