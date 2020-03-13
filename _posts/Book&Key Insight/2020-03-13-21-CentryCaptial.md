@@ -3,7 +3,8 @@
  It published in 2013. It's very interseting  to review the book right now due to the new finicial crisis haapend. Corona-virus is the black swan or it's mean to be the end of this **Overheating** of an **economy**.
  
  ## Part A Vertical/Horizontal 
+ 幾個很有趣的看點
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MTkyMjA3XX0=
+eyJoaXN0b3J5IjpbMTg5MDQ3MDU3Nyw0NjYxOTIyMDddfQ==
 -->
