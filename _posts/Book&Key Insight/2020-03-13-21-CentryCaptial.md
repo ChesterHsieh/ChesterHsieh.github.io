@@ -4,7 +4,8 @@
  
  ## Part A Vertical/Horizontal 
  幾個很有趣的看點
-
+- 是否認同持續累積的概念. 資本與人口的複利. ->不能套用在移民國家
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDQ3MDU3Nyw0NjYxOTIyMDddfQ==
+eyJoaXN0b3J5IjpbMTY0MzYxNjA4OSw0NjYxOTIyMDddfQ==
 -->
