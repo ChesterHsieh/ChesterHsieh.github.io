@@ -1,7 +1,7 @@
 # 2020-03-18
 - Double direction
 	- 00677U 崩跌趨勢明確. 反向VIX 追蹤 SPVXSP.ID:PSE
-	- 放空
+	- 放空ETF &  反向ETF 有何不同. 期貨
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzODE5NzddfQ==
+eyJoaXN0b3J5IjpbLTE1NzAwOTU4MTFdfQ==
 -->
