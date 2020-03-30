@@ -8,6 +8,9 @@
 - 相對購買力成長的盡頭在哪? 3, 4% 都是有問題的數字 It's impossible to maintain such high growth rate.
 
 # KEY FORMULA
+***RULE 1***
+$$\alpha = r \times \beta$$
+***RULE 2***
 $$ \beta = s/g$$
 $$\beta \Rightarrow {Capital}/{Income}\space ratio$$
 $$ s \Rightarrow Saving\space ratio $$
@@ -19,6 +22,6 @@ Thear are two aspect on this topic. Compare across time and nationality with wea
 - How inflation reduce the inequality?(or maybe not)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzI0Njg2MSwxODUxNDAxMjU1LDQ2Nj
+eyJoaXN0b3J5IjpbMTc2MTE3ODc1NywxODUxNDAxMjU1LDQ2Nj
 E5MjIwN119
 -->
