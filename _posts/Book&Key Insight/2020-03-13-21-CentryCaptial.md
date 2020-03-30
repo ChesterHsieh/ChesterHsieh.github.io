@@ -9,13 +9,15 @@
 
 # KEY FORMULA
 $$ \beta = s/g$$
-$$\beta \Rightarrow Capital/Income ra$$
+$$\beta \Rightarrow {Capital}/{Income}\space ratio$$
+$$ s \Rightarrow Sa$$
+
 # Inequality
 Thear are two aspect on this topic. Compare across time and nationality with wealth distribution. 
 - Is the inequality will keep incresing all the time?
 - How inflation reduce the inequality?(or maybe not)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2ODIxNjc4LDE4NTE0MDEyNTUsNDY2MT
-kyMjA3XX0=
+eyJoaXN0b3J5IjpbLTk0OTI0MzIwMCwxODUxNDAxMjU1LDQ2Nj
+E5MjIwN119
 -->
