@@ -10,8 +10,9 @@
 
 # Inequality
 Thear are two aspect on this topic. Compare across time and nationality with wealth distribution. 
-- Is the inequality will 
+- Is the inequality will keep incresing all the time?
+- How inflation reduce 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTQ1MjEzMSwxODUxNDAxMjU1LDQ2Nj
-E5MjIwN119
+eyJoaXN0b3J5IjpbLTIwMDQyNzI3MjUsMTg1MTQwMTI1NSw0Nj
+YxOTIyMDddfQ==
 -->
