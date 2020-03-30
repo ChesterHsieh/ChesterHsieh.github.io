@@ -19,10 +19,10 @@ $$ s \Rightarrow Saving\space ratio $$
 # Inequality
 Thear are two aspect on this topic. Compare across time and nationality with wealth distribution. 
 - Is the inequality will keep incresing all the time?
-- How inflation reduce the inequality?(or maybe not)
-- How to pr
+- How inflation reduce the inequality?(or maybe not)?
+- How to prove the capital grow contantly close to 4-5 %?
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MjQ4NjI3LDE4NTE0MDEyNTUsNDY2MT
-kyMjA3XX0=
+eyJoaXN0b3J5IjpbLTEwOTA4MjcxMTEsMTg1MTQwMTI1NSw0Nj
+YxOTIyMDddfQ==
 -->
