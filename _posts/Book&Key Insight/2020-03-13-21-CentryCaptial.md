@@ -10,7 +10,8 @@
 # KEY FORMULA
 $$ \beta = s/g$$
 $$\beta \Rightarrow {Capital}/{Income}\space ratio$$
-$$ s \Rightarrow Sa$$
+$$ s \Rightarrow Saving\space ratio $$
+
 
 # Inequality
 Thear are two aspect on this topic. Compare across time and nationality with wealth distribution. 
@@ -18,6 +19,6 @@ Thear are two aspect on this topic. Compare across time and nationality with wea
 - How inflation reduce the inequality?(or maybe not)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTI0MzIwMCwxODUxNDAxMjU1LDQ2Nj
+eyJoaXN0b3J5IjpbMTQwNzI0Njg2MSwxODUxNDAxMjU1LDQ2Nj
 E5MjIwN119
 -->
