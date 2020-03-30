@@ -8,8 +8,10 @@
 - 相對購買力成長的盡頭在哪? 3, 4% 都是有問題的數字 It's impossible to maintain such high growth rate.
 
 
-# 
+# Inequality
+Thear are two aspect on this topic. Compare across time and nationality with wealth distribution. 
+- Is the inequality will 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEyMDkyMjgsMTg1MTQwMTI1NSw0Nj
-YxOTIyMDddfQ==
+eyJoaXN0b3J5IjpbMTE1MTQ1MjEzMSwxODUxNDAxMjU1LDQ2Nj
+E5MjIwN119
 -->
