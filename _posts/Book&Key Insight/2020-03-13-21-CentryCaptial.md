@@ -23,8 +23,8 @@ Thear are two aspect on this topic. Compare across time and nationality with wea
 - How to prove the capital grow contantly close to 4-5 %?
 - 
 # Inflation
--  Will land value keep increas
+-  Will land value keep increase?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjUxNTg5OSwtMTA5MDgyNzExMSwxOD
+eyJoaXN0b3J5IjpbLTI5OTU2OTk4MywtMTA5MDgyNzExMSwxOD
 UxNDAxMjU1LDQ2NjE5MjIwN119
 -->
