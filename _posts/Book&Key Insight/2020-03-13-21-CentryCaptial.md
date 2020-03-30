@@ -22,7 +22,9 @@ Thear are two aspect on this topic. Compare across time and nationality with wea
 - How inflation reduce the inequality?(or maybe not)?
 - How to prove the capital grow contantly close to 4-5 %?
 - 
+# Inflation
+-  Will land value keep increas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA4MjcxMTEsMTg1MTQwMTI1NSw0Nj
-YxOTIyMDddfQ==
+eyJoaXN0b3J5IjpbMTczNjUxNTg5OSwtMTA5MDgyNzExMSwxOD
+UxNDAxMjU1LDQ2NjE5MjIwN119
 -->
