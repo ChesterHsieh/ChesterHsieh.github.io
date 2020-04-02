@@ -14,7 +14,9 @@ How many design patterns? I guess there's limited number for that? Once you DS "
 Another issue which talked from other posts is  overdesign. 
 1. Can I find out 3 different design patterns are more useful in ML application? 
 2. When should we start to think of design patterns?
-3. 
+3. I can apply the the pesudo project for the exist desgin pattern. 
+
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM1MTI0ODJdfQ==
+eyJoaXN0b3J5IjpbLTY4MTE1MTA3Nl19
 -->
