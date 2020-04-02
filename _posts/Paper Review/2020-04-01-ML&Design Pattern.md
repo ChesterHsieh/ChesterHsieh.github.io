@@ -9,7 +9,7 @@ tags:
 	-paper
 ---
 # Motivation
-De
+How many design patterns? I guess there's limited number for that? Once you DS "How many different categories of ML question?" The number is very shocking. 24 or More. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNTAyMDk1XX0=
+eyJoaXN0b3J5IjpbMTQzOTQ4ODQxOV19
 -->
