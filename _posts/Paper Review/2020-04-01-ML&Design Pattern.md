@@ -16,7 +16,12 @@ Another issue which talked from other posts is  overdesign.
 2. When should we start to think of design patterns?
 3. I can apply the the pesudo project for the exist desgin pattern. 
 
-# 
+# Design patterns for Machine Learning Applications
+
+This paper privde 2
+
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTE1MTA3Nl19
+eyJoaXN0b3J5IjpbMjM0NDg3NzgxXX0=
 -->
