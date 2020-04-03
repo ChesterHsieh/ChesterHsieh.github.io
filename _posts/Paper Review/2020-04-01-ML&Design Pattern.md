@@ -22,7 +22,11 @@ This essay discuesses few different common SAs.
 -  Layered
 - Server-client
 - peer2peer
+
+and following 2 real problems:
+- cancer cell detection
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODI0NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbMTM1NTAyOTAzNiwyMTI4MjQ0MiwyMzQ0OD
+c3ODFdfQ==
 -->
