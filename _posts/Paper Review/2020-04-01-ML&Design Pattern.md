@@ -25,8 +25,9 @@ This essay discuesses few different common SAs.
 
 and following 2 real problems:
 - cancer cell detection
-- 
+- intrusion detection
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTAyOTAzNiwyMTI4MjQ0MiwyMzQ0OD
-c3ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwMTY5NjQ4NTQsMjEyODI0NDIsMjM0ND
+g3NzgxXX0=
 -->
