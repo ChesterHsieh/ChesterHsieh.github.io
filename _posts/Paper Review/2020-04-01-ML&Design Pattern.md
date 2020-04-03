@@ -55,14 +55,17 @@ This post doesn't relate to the design patterns though. It enlight my mind about
 Sciket-learn has very strong user example and default case. In most of first-trial, we can leave a plenty of configurations empties and get some resaonable(inperfect) result.
 > Good design must start from easy example and default settings.
 
+[Abstract factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern "Abstract factory pattern") groups object factories that have a common theme.
+> **_Estimator_**, **_Predictor_**, and **_Transformer_**. Importantly and crucially these interfaces are complimentary
+
 
 Extensibility Through Duck-Typing
 
 >A programming style which does not look at an object’s type to determine if it has the right interface; instead, the method or attribute is simply called or used (“If it looks like a duck and quacks like a duck, it must be a duck.”) By emphasizing interfaces rather than specific types, well-designed code improves its flexibility by allowing polymorphic substitution. Duck-typing avoids tests using [`type()`](https://docs.python.org/3/library/functions.html#type "type") or [`isinstance()`](https://docs.python.org/3/library/functions.html#isinstance "isinstance"). (Note, however, that duck-typing can be complemented with [abstract base classes](https://docs.python.org/3/glossary.html#term-abstract-base-class).) Instead, it typically employs [`hasattr()`](https://docs.python.org/3/library/functions.html#hasattr "hasattr") tests or [EAFP](https://docs.python.org/3/glossary.html#term-eafp) programming.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzk4ODcwLC00Mjk5NTY1MzAsMTEyNj
-A5MzQyMSwtMjA0NDMyODEwNSwtMTQ0OTUxOTQ1NywtMTI0NzQ0
-NTkxNyw4Mjg2NDk4NzMsLTIwMTY5NjQ4NTQsMjEyODI0NDIsMj
-M0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbMTQyMjYzMTIwOCwtNDI5OTU2NTMwLDExMj
+YwOTM0MjEsLTIwNDQzMjgxMDUsLTE0NDk1MTk0NTcsLTEyNDc0
+NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgyNDQyLD
+IzNDQ4Nzc4MV19
 -->
