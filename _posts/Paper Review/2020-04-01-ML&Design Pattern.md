@@ -49,9 +49,9 @@ and following 2 real problems:
 
 # [Scikit-Learn Design Principles](https://towardsdatascience.com/scikit-learn-design-principles-d1371958059b)
 
-This post doesn't 
+This post doesn't relate to the design patterns though. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTU5MjUxNCwtMjA0NDMyODEwNSwtMT
+eyJoaXN0b3J5IjpbMTEyNjA5MzQyMSwtMjA0NDMyODEwNSwtMT
 Q0OTUxOTQ1NywtMTI0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5
 NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
 -->
