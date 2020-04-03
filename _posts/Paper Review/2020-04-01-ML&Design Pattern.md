@@ -53,9 +53,11 @@ This post doesn't relate to the design patterns though. It enlight my mind about
 > importance of programming to an interface, not an implementation.
 
 Sciket-learn has very strong user example and default case. In most of first-trial, we can leave a plenty of configurations empties and get some resaonable(inperfect) result.
-> Good design must start from easy example
+> Good design must start from easy example and default settings.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTQzNjgxMSwxMTI2MDkzNDIxLC0yMD
+eyJoaXN0b3J5IjpbLTQyOTk1NjUzMCwxMTI2MDkzNDIxLC0yMD
 Q0MzI4MTA1LC0xNDQ5NTE5NDU3LC0xMjQ3NDQ1OTE3LDgyODY0
 OTg3MywtMjAxNjk2NDg1NCwyMTI4MjQ0MiwyMzQ0ODc3ODFdfQ
 ==
