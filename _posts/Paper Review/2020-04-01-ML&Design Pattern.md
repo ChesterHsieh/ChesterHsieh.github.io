@@ -34,8 +34,9 @@ What's the difference between filterd model and layered model?
 > |Model|PIPE/FILTERED|LAYERD|
 > |-|-|-|
 >|self-contained |Lower |Higher, only allow to use few common dependence|
->|Enviroments|It might need to work on same languages|M|
+>|Enviroments|It might need to work on same languages|Should be work alone. Well-defined interface|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MDMxMjcsLTIwMTY5NjQ4NTQsMjEyOD
-I0NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMj
+gyNDQyLDIzNDQ4Nzc4MV19
 -->
