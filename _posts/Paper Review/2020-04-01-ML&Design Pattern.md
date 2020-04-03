@@ -55,10 +55,11 @@ This post doesn't relate to the design patterns though. It enlight my mind about
 Sciket-learn has very strong user example and default case. In most of first-trial, we can leave a plenty of configurations empties and get some resaonable(inperfect) result.
 > Good design must start from easy example and default settings.
 
+## Extensibility Through Duck-Typing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTk1NjUzMCwxMTI2MDkzNDIxLC0yMD
-Q0MzI4MTA1LC0xNDQ5NTE5NDU3LC0xMjQ3NDQ1OTE3LDgyODY0
-OTg3MywtMjAxNjk2NDg1NCwyMTI4MjQ0MiwyMzQ0ODc3ODFdfQ
-==
+eyJoaXN0b3J5IjpbMTA3OTIzMTg0MywtNDI5OTU2NTMwLDExMj
+YwOTM0MjEsLTIwNDQzMjgxMDUsLTE0NDk1MTk0NTcsLTEyNDc0
+NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgyNDQyLD
+IzNDQ4Nzc4MV19
 -->
