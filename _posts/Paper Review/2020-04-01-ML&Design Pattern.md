@@ -22,7 +22,7 @@ Some Patterns:
 - Event bus
 - Model view control 
 - client- server
-- 
+- broker
 
 # Design patterns for Machine Learning Applications
 
@@ -49,7 +49,7 @@ and following 2 real problems:
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzNjgwNDgsLTE0NDk1MTk0NTcsLT
+eyJoaXN0b3J5IjpbLTIwNDQzMjgxMDUsLTE0NDk1MTk0NTcsLT
 EyNDc0NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgy
 NDQyLDIzNDQ4Nzc4MV19
 -->
