@@ -31,11 +31,11 @@ and following 2 real problems:
 
 ## Question behind paper
 What's the difference between filterd model and layered model?
-> |Model|||
+> |Model|PIPE/FILTERED|LAYERD|
 > |-|-|-|
->|self-contained | ||
->|E|||
+>|self-contained |Lower |Higher, only allow to use few common dependence|
+>|Enviroments|It might need to work on same languages|M|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NDY3MjYxLC0yMDE2OTY0ODU0LDIxMj
-gyNDQyLDIzNDQ4Nzc4MV19
+eyJoaXN0b3J5IjpbMjM2MDMxMjcsLTIwMTY5NjQ4NTQsMjEyOD
+I0NDIsMjM0NDg3NzgxXX0=
 -->
