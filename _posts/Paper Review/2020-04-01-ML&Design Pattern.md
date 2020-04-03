@@ -22,12 +22,18 @@ This essay discuesses few different common SAs.
 -  Layered
 - Server-client
 - peer2peer
+- filterd moduel
 
 and following 2 real problems:
 - cancer cell detection
 - intrusion detection
 
+
+## Question behind paper
+What's the difference between filterd model and layered model?
+>
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY5NjQ4NTQsMjEyODI0NDIsMjM0ND
-g3NzgxXX0=
+eyJoaXN0b3J5IjpbLTIwMzAzNjE1MjUsLTIwMTY5NjQ4NTQsMj
+EyODI0NDIsMjM0NDg3NzgxXX0=
 -->
