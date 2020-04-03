@@ -47,9 +47,11 @@ and following 2 real problems:
 > TBH, this paper dosn't anwser my question at all. Can't tell what's the unique requirements difference between ML APPs/ DL APPs/ General APPs
 
 
-#
+# [Scikit-Learn Design Principles](https://towardsdatascience.com/scikit-learn-design-principles-d1371958059b)
+
+This post doesn't 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzMjgxMDUsLTE0NDk1MTk0NTcsLT
-EyNDc0NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgy
-NDQyLDIzNDQ4Nzc4MV19
+eyJoaXN0b3J5IjpbMTI5NTU5MjUxNCwtMjA0NDMyODEwNSwtMT
+Q0OTUxOTQ1NywtMTI0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5
+NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
 -->
