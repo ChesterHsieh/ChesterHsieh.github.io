@@ -31,9 +31,9 @@ and following 2 real problems:
 
 ## Question behind paper
 What's the difference between filterd model and layered model?
->
+> Fil
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDAwMTMyMCwtMjAxNjk2NDg1NCwyMT
-I4MjQ0MiwyMzQ0ODc3ODFdfQ==
+eyJoaXN0b3J5IjpbLTgxNzczOTY3LC0yMDE2OTY0ODU0LDIxMj
+gyNDQyLDIzNDQ4Nzc4MV19
 -->
