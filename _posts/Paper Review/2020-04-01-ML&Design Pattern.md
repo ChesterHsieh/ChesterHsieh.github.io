@@ -49,9 +49,13 @@ and following 2 real problems:
 
 # [Scikit-Learn Design Principles](https://towardsdatascience.com/scikit-learn-design-principles-d1371958059b)
 
-This post doesn't relate to the design patterns though. 
+This post doesn't relate to the design patterns though. It enlight my mind about the advanced coding skill.
+> importance of programming to an interface, not an implementation.
+
+Sciket-learn has very strong user example and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjA5MzQyMSwtMjA0NDMyODEwNSwtMT
-Q0OTUxOTQ1NywtMTI0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5
-NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbLTU4NTY0OTMxNCwxMTI2MDkzNDIxLC0yMD
+Q0MzI4MTA1LC0xNDQ5NTE5NDU3LC0xMjQ3NDQ1OTE3LDgyODY0
+OTg3MywtMjAxNjk2NDg1NCwyMTI4MjQ0MiwyMzQ0ODc3ODFdfQ
+==
 -->
