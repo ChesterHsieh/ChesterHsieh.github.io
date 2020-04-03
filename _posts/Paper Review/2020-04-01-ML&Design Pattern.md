@@ -47,9 +47,10 @@ and following 2 real problems:
 > TBH, this paper dosn't anwser my question at all. Can't tell what's the unique requirements difference between ML APPs/ DL APPs/ General APPs
 
 
-#
+# [Towards Machine Learning Based Design Pattern Recognition]([http://www.cs.nott.ac.uk/~pszrij/mypapers/06651312.pdf](http://www.cs.nott.ac.uk/~pszrij/mypapers/06651312.pdf))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzMjgxMDUsLTE0NDk1MTk0NTcsLT
-EyNDc0NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgy
-NDQyLDIzNDQ4Nzc4MV19
+eyJoaXN0b3J5IjpbLTgwMDc4NjUxOCwtMTQ0OTUxOTQ1NywtMT
+I0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5NjQ4NTQsMjEyODI0
+NDIsMjM0NDg3NzgxXX0=
 -->
