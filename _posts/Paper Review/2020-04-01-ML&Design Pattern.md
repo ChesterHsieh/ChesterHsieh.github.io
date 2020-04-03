@@ -22,7 +22,7 @@ This essay discuesses few different common SAs.
 -  Layered
 - Server-client
 - peer2peer
-- filterd moduel
+- pipes and filterd model
 
 and following 2 real problems:
 - cancer cell detection
@@ -34,6 +34,6 @@ What's the difference between filterd model and layered model?
 >
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAzNjE1MjUsLTIwMTY5NjQ4NTQsMj
-EyODI0NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbMTU3NDAwMTMyMCwtMjAxNjk2NDg1NCwyMT
+I4MjQ0MiwyMzQ0ODc3ODFdfQ==
 -->
