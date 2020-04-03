@@ -39,9 +39,9 @@ and following 2 real problems:
 > TBH, this paper dosn't anwser my question at all. Can't tell what's the unique requirements difference between ML APPs/ DL APPs/ General APPs
 
 
-# 
-
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc0NDU5MTcsODI4NjQ5ODczLC0yMD
-E2OTY0ODU0LDIxMjgyNDQyLDIzNDQ4Nzc4MV19
+eyJoaXN0b3J5IjpbLTE0NDk1MTk0NTcsLTEyNDc0NDU5MTcsOD
+I4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgyNDQyLDIzNDQ4Nzc4
+MV19
 -->
