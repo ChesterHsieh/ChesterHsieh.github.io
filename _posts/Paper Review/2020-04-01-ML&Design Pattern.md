@@ -31,9 +31,11 @@ and following 2 real problems:
 
 ## Question behind paper
 What's the difference between filterd model and layered model?
-> Fil
->
+> |Model|||
+> |-|-|-|
+>|self-contained | ||
+>|E|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzczOTY3LC0yMDE2OTY0ODU0LDIxMj
+eyJoaXN0b3J5IjpbODA2NDY3MjYxLC0yMDE2OTY0ODU0LDIxMj
 gyNDQyLDIzNDQ4Nzc4MV19
 -->
