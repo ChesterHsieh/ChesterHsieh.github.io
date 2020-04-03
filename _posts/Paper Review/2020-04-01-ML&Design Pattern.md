@@ -32,14 +32,16 @@ and following 2 real problems:
 > |Model|PIPE/FILTERED|LAYERD|
 > |-|-|-|
 >|self-contained |Lower |Higher, only allow to use few common dependence|
->|Enviroments|It might need to work on same languages|Should be work alone. Well-defined interface|
+>|Enviroments|It might need to work on same languages|Should be work alone. Well-defined interface
 
-** When should be aware of the design pattern?**
+**When should be aware of the design pattern?**
+
 > TBH, this paper dosn't anwser my question at all. Can't tell what's the unique requirements difference between ML APPs/ DL APPs/ General APPs
 
-#
+
+# 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDU2NzQwMSw4Mjg2NDk4NzMsLTIwMT
-Y5NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbLTEyNDc0NDU5MTcsODI4NjQ5ODczLC0yMD
+E2OTY0ODU0LDIxMjgyNDQyLDIzNDQ4Nzc4MV19
 -->
