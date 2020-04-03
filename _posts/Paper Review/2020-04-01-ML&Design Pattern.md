@@ -16,6 +16,10 @@ Another issue which talked from other posts is  overdesign.
 2. When should we start to think of design patterns?
 3. I can apply the the pesudo project for the exist desgin pattern. 
 
+Some Patterns:
+- Layer
+- Pipe/
+
 # Design patterns for Machine Learning Applications
 
 This essay discuesses few different common SAs. 
@@ -41,7 +45,7 @@ and following 2 real problems:
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1MTk0NTcsLTEyNDc0NDU5MTcsOD
-I4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgyNDQyLDIzNDQ4Nzc4
-MV19
+eyJoaXN0b3J5IjpbMjEzNzczNzA1NiwtMTQ0OTUxOTQ1NywtMT
+I0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5NjQ4NTQsMjEyODI0
+NDIsMjM0NDg3NzgxXX0=
 -->
