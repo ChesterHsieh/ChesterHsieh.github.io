@@ -18,10 +18,11 @@ Another issue which talked from other posts is  overdesign.
 
 # Design patterns for Machine Learning Applications
 
-This paper privde 2
-
-
-#
+This essay discuesses few different common SAs. 
+-  Layered
+- Server-client
+- peer2peer
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbMjEyODI0NDIsMjM0NDg3NzgxXX0=
 -->
