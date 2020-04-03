@@ -34,8 +34,12 @@ and following 2 real problems:
 >|self-contained |Lower |Higher, only allow to use few common dependence|
 >|Enviroments|It might need to work on same languages|Should be work alone. Well-defined interface|
 
-** When
+** When should be aware of the design pattern?**
+> TBH, this paper dosn't anwser my question at all. Can't tell what's the unique requirements difference between ML APPs/ DL APPs/ General APPs
+
+#
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzkzNjgxOCw4Mjg2NDk4NzMsLTIwMT
+eyJoaXN0b3J5IjpbMTY5NDU2NzQwMSw4Mjg2NDk4NzMsLTIwMT
 Y5NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
 -->
