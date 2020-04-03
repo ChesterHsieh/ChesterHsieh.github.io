@@ -18,7 +18,11 @@ Another issue which talked from other posts is  overdesign.
 
 Some Patterns:
 - Layer
-- Pipe/
+- Pipe/filter
+- Event bus
+- Model view control 
+- client- server
+- 
 
 # Design patterns for Machine Learning Applications
 
@@ -45,7 +49,7 @@ and following 2 real problems:
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzczNzA1NiwtMTQ0OTUxOTQ1NywtMT
-I0NzQ0NTkxNyw4Mjg2NDk4NzMsLTIwMTY5NjQ4NTQsMjEyODI0
-NDIsMjM0NDg3NzgxXX0=
+eyJoaXN0b3J5IjpbLTIwNjAzNjgwNDgsLTE0NDk1MTk0NTcsLT
+EyNDc0NDU5MTcsODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMjgy
+NDQyLDIzNDQ4Nzc4MV19
 -->
