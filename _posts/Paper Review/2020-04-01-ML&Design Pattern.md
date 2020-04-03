@@ -19,9 +19,7 @@ Another issue which talked from other posts is  overdesign.
 # Design patterns for Machine Learning Applications
 
 This essay discuesses few different common SAs. 
--  Layered
-- Server-client
-- peer2peer
+- Model-View-Controller
 - pipes and filterd model
 
 and following 2 real problems:
@@ -30,13 +28,14 @@ and following 2 real problems:
 
 
 ## Question behind paper
-What's the difference between filterd model and layered model?
+**What's the difference between filterd model and layered model?**
 > |Model|PIPE/FILTERED|LAYERD|
 > |-|-|-|
 >|self-contained |Lower |Higher, only allow to use few common dependence|
 >|Enviroments|It might need to work on same languages|Should be work alone. Well-defined interface|
 
+** When
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NjQ5ODczLC0yMDE2OTY0ODU0LDIxMj
-gyNDQyLDIzNDQ4Nzc4MV19
+eyJoaXN0b3J5IjpbMTAzMzkzNjgxOCw4Mjg2NDk4NzMsLTIwMT
+Y5NjQ4NTQsMjEyODI0NDIsMjM0NDg3NzgxXX0=
 -->
