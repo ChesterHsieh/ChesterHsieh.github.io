@@ -18,7 +18,9 @@ Survived. The business model is clear enough to convince the data giants to purc
 Failed! 
 The idea behind the business is pretty brillient. The problem is more like technical issue. Inaccureate measurement is common issue after I did some research for the others' reviews.
 
-# Flexport
+# Luckin Coffee
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzI3Nzg1XX0=
+eyJoaXN0b3J5IjpbMTkyMjUyOTI4OV19
 -->
