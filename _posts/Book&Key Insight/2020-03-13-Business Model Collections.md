@@ -7,7 +7,7 @@ author:    Chester
 header-img: 
 catalog: true
 tags:
-   Project
+   Book
 ---
 
 
@@ -22,5 +22,5 @@ The idea behind the business is pretty brillient. The problem is more like techn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjUyOTI4OV19
+eyJoaXN0b3J5IjpbLTE0NTE5MDk1NzksMTkyMjUyOTI4OV19
 -->
