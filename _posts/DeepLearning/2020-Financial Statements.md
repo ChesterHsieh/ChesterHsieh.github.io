@@ -14,8 +14,8 @@ Goal:
 Advanced analysis:
 
 ## Future Plan:
-1. Going down 10% 
+1. Going down 10% +
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTg0Nzc5XX0=
+eyJoaXN0b3J5IjpbLTEwNjQ1NzQxNF19
 -->
