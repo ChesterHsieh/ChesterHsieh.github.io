@@ -1,6 +1,6 @@
 # Apirl 8
 Buy in: M, mamcy from US market
-Share: 1000 for 6.3
+Share: 1000@6.29
 - Reason:
 Cheep enough. Very low P/E ratio. 
 
@@ -18,5 +18,6 @@ Cheep enough. Very low P/E ratio.
 	1. Going down 10%/10%/10% + 300/300/300 shares 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzY2MTIwNywtMTA2NDU3NDE0XX0=
+eyJoaXN0b3J5IjpbMTg1NDE4NTUzMiwxOTM3NjYxMjA3LC0xMD
+Y0NTc0MTRdfQ==
 -->
