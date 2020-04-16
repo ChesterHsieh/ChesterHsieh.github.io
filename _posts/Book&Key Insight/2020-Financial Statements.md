@@ -17,6 +17,8 @@ Cheep enough. Very low P/E ratio.
 	In totall 2000 sahre
 	1. Going down 10%/10%/10% + 300/300/300 shares 
 
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDE4NTUzMl19
+eyJoaXN0b3J5IjpbLTExMjE4NTI5MzUsMTg1NDE4NTUzMl19
 -->
