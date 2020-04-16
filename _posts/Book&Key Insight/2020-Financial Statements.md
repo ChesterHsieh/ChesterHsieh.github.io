@@ -33,11 +33,14 @@ Target to different categorical:
 - Coal/Pipe/Oil
 	1. COP
 	2. ARLP
-	3. 
+	3. PPA
 - SW service
+	1. DLX
+	2. SYF
+	3. ADS
 - Financial service
 	1. DFS
-	2. 
+	2. CMA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY2NzU0NDgsMTg1NDE4NTUzMl19
+eyJoaXN0b3J5IjpbLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
