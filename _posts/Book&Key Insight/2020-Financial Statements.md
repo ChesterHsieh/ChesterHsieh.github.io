@@ -31,8 +31,13 @@ Reason: Switch to better company. Macy has low ROE in previous years.
 10 W in total
 Target to different categorical: 
 - Coal/Pipe/Oil
-- 
-
+	1. COP
+	2. ARLP
+	3. 
+- SW service
+- Financial service
+	1. DFS
+	2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzI5NDU0NSwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbLTE1MTY2NzU0NDgsMTg1NDE4NTUzMl19
 -->
