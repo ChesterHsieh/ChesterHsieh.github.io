@@ -1,4 +1,7 @@
-# April 8
+# Profolio-1 
+
+
+## Macy
 Buy in: M, mamcy from US market
 Share: 1000@6.29
 - Reason:
@@ -18,11 +21,18 @@ Cheep enough. Very low P/E ratio.
 	1. Going down 10%/10%/10% + 300/300/300 shares 
 -----
 SELLing
-100@6.31 on April 
+100@6.31 on April 9
 
 Reason: Switch to better company. Macy has low ROE in previous years.
 
-# AP
+##
+
+# Profolio -2
+10 W in total
+Target to different categorical: 
+- Coal/Pipe/Oil
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzIzMzQxNSwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbLTM3NzI5NDU0NSwxODU0MTg1NTMyXX0=
 -->
