@@ -43,8 +43,8 @@ Target to different categorical:
 	2. CMA
 # Company Analysis
 ## PAA
-
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTgyMDAxNiwtNjczNjgyNjA2LDE4NT
-QxODU1MzJdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTA2NzUwNSwxNTIxODIwMDE2LC02Nz
+M2ODI2MDYsMTg1NDE4NTUzMl19
 -->
