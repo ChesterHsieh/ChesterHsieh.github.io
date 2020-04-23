@@ -58,6 +58,10 @@ Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%.
 ### Potential impact:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
 
+# Financial statements index
+## P/B
+asset - liability = owner's equity
+
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -67,6 +71,7 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTYwMTg1MSwtNzY2ODUyODA2LDE1Mj
-E4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbLTYxMzg0OTg3MywyMDM5NjAxODUxLC03Nj
+Y4NTI4MDYsMTUyMTgyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1
+MzJdfQ==
 -->
