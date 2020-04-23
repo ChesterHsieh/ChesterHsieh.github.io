@@ -43,11 +43,11 @@ Target to different categorical:
 	2. CMA
 # Company Analysis
 ## PAA
-Storage business/Pipe line on Natural gas
+The main 
 37 million barrels + 15k mileages pipe line
 
 Under same corporation, there's brother company PAGP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzc0NjAyOCwxNTIxODIwMDE2LC02Nz
+eyJoaXN0b3J5IjpbMTAwOTA5ODQ2MywxNTIxODIwMDE2LC02Nz
 M2ODI2MDYsMTg1NDE4NTUzMl19
 -->
