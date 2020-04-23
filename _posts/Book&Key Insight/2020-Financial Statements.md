@@ -43,11 +43,18 @@ Target to different categorical:
 	2. CMA
 # Company Analysis
 ## PAA
-The main 
+There are 3 main services provided by the PAA: 
+- Transportation
+- Storage
+- Supply/logistic
+
+
 37 million barrels + 15k mileages pipe line
 
 Under same corporation, there's brother company PAGP
+
+Potential impact: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTA5ODQ2MywxNTIxODIwMDE2LC02Nz
+eyJoaXN0b3J5IjpbLTc2Njg1MjgwNiwxNTIxODIwMDE2LC02Nz
 M2ODI2MDYsMTg1NDE4NTUzMl19
 -->
