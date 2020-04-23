@@ -45,7 +45,9 @@ Target to different categorical:
 ## PAA
 Storage business/Pipe line on Natural gas
 37 million barrels + 15k mileages pipe line
+
+Under same corporation, there's brother company PAGP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0MTI5NTMsMTUyMTgyMDAxNiwtNj
-czNjgyNjA2LDE4NTQxODU1MzJdfQ==
+eyJoaXN0b3J5IjpbMTMxMzc0NjAyOCwxNTIxODIwMDE2LC02Nz
+M2ODI2MDYsMTg1NDE4NTUzMl19
 -->
