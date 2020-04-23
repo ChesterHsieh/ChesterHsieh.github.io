@@ -53,7 +53,7 @@ There are 3 main services provided by the PAA:
 
 Under same corporation, there's brother company PAGP
 ### Financial statements
-
+Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%. 
 
 ### Potential impact:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
@@ -67,6 +67,6 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDcwNjAzLC03NjY4NTI4MDYsMTUyMT
-gyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
+eyJoaXN0b3J5IjpbMjAzOTYwMTg1MSwtNzY2ODUyODA2LDE1Mj
+E4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
