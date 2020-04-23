@@ -54,7 +54,11 @@ There are 3 main services provided by the PAA:
 Under same corporation, there's brother company PAGP
 
 Potential impact: 
+
+# Analysis Tool
+# Phase 1 collecting requirements
+- Index variety 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Njg1MjgwNiwxNTIxODIwMDE2LC02Nz
-M2ODI2MDYsMTg1NDE4NTUzMl19
+eyJoaXN0b3J5IjpbMTQ2NDk0NDU5NywtNzY2ODUyODA2LDE1Mj
+E4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
