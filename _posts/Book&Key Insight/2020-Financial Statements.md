@@ -53,8 +53,11 @@ There are 3 main services provided by the PAA:
 
 Under same corporation, there's brother company PAGP
 ### Financial statements
+
+
 ### Potential impact:
-Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different 
+Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
+
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -64,6 +67,6 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTgzNzQ5NywtNzY2ODUyODA2LDE1Mj
-E4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbLTcxNDcwNjAzLC03NjY4NTI4MDYsMTUyMT
+gyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
 -->
