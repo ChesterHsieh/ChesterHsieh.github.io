@@ -52,9 +52,9 @@ There are 3 main services provided by the PAA:
 37 million barrels + 15k mileages pipe line
 
 Under same corporation, there's brother company PAGP
-### Financ
-
-Potential impact: 
+### Financial statements
+### Potential impact:
+Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different 
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -64,6 +64,6 @@ Potential impact:
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNTE2NjU3LC03NjY4NTI4MDYsMTUyMT
-gyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
+eyJoaXN0b3J5IjpbMTc5OTgzNzQ5NywtNzY2ODUyODA2LDE1Mj
+E4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
