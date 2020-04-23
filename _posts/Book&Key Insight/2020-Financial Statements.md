@@ -43,8 +43,9 @@ Target to different categorical:
 	2. CMA
 # Company Analysis
 ## PAA
-S
+Storage business/Pipe line on Natural gas
+37 million barrels + 15k mileages pipe line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTA2NzUwNSwxNTIxODIwMDE2LC02Nz
-M2ODI2MDYsMTg1NDE4NTUzMl19
+eyJoaXN0b3J5IjpbLTE0Mzk0MTI5NTMsMTUyMTgyMDAxNiwtNj
+czNjgyNjA2LDE4NTQxODU1MzJdfQ==
 -->
