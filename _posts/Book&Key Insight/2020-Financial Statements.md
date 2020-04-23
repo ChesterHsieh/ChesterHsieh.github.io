@@ -52,14 +52,18 @@ There are 3 main services provided by the PAA:
 37 million barrels + 15k mileages pipe line
 
 Under same corporation, there's brother company PAGP
+### Financ
 
 Potential impact: 
 
 # Analysis Tool
 # Phase 1 collecting requirements
 - Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
-- Batch process cross all the stoc
+- Batch process cross all the stock price
+- Basic graph and interactive user interface are necessary in this product
+- Search engine on timer-series data
+- Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MDA0MjEzLC03NjY4NTI4MDYsMTUyMT
+eyJoaXN0b3J5IjpbNzMzNTE2NjU3LC03NjY4NTI4MDYsMTUyMT
 gyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
 -->
