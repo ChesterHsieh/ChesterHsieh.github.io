@@ -19,11 +19,6 @@ B --> D{Rhombus}
 C --> D  
 ```
 
-> **Note:** You can find more information:
-
-> - about **Sequence diagrams** syntax [here][7],
-> - about **Flow charts** syntax [here][8].# Scenario
-
 
 # Necessary
 ## Lantancy
@@ -41,6 +36,6 @@ Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks  Bob->Alice: I am good thanks!  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzA4ODM0LDE2NzU4NzY0NTMsLTE1OT
+eyJoaXN0b3J5IjpbMjMzMDYyODkzLDE2NzU4NzY0NTMsLTE1OT
 I3NDAyNjIsNjQ5MDk3MDEzXX0=
 -->
