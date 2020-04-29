@@ -10,7 +10,7 @@ tags:
 ---
 # Intro
 SPR: simple rule policy. 
-Clean code is a more than 400 pages book, it's extraordinary concepts inspire many many programmer, however, human b
+Clean code is a more than 400 pages book, it's extraordinary concepts inspire many many programmer, however, human beings especially coders have very poor memorization. Simple rule principle is sth I found that can summon the k
 
 
 # Variable naming
@@ -78,11 +78,11 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MzYyMDMyLDE1MDM1MTkyNDMsMTg4Nj
-kzMDY4OCwtMTU5NjE3MjA5NSw5MjE4NjMzMTMsLTQwMzYxODA2
-NywtMTUyMjEzMzUwNywtMjAzMzYzMTYxMiwtMTE3NzAyOTQ2OC
-wtNDIzMDY0MDEzLC0xNDc2NzYzNDU4LC0xMjk1MjAwOTMxLDg4
-OTk4MTM4LDEwMDE1Njg5NzYsMTY2Njc0NDI3OSwtMjEzNzk0ND
-UxMCwzNDE5MzU4NjgsMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbMjA0NTA4MzMyNywxNTAzNTE5MjQzLDE4OD
+Y5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MDM2MTgw
+NjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0Nj
+gsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4
+ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5ND
+Q1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
 
 -->
