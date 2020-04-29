@@ -93,16 +93,16 @@ SRP: Good class shouldn't have more than 5 responsibilities
 
 ## Cohesive
 SPR: Higher cohesion means well distribution of functional requirements
-Le
+Keeping class cohesive will result many small logical pieces, which is exactly what we want, will be easier to maintain the code. 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQxNDkzOTcsMTY4NTQ0NzA3NCwyNT
-MwNzU4NzUsMTU2NzAyMzUxMiwxNTAzNTE5MjQzLDE4ODY5MzA2
-ODgsLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MDM2MTgwNjcsLT
-E1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQy
-MzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5OD
-EzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAs
-MzQxOTM1ODY4XX0=
+eyJoaXN0b3J5IjpbMTY2ODE2MjE1OSwxNjg1NDQ3MDc0LDI1Mz
+A3NTg3NSwxNTY3MDIzNTEyLDE1MDM1MTkyNDMsMTg4NjkzMDY4
+OCwtMTU5NjE3MjA5NSw5MjE4NjMzMTMsLTQwMzYxODA2NywtMT
+UyMjEzMzUwNywtMjAzMzYzMTYxMiwtMTE3NzAyOTQ2OCwtNDIz
+MDY0MDEzLC0xNDc2NzYzNDU4LC0xMjk1MjAwOTMxLDg4OTk4MT
+M4LDEwMDE1Njg5NzYsMTY2Njc0NDI3OSwtMjEzNzk0NDUxMCwz
+NDE5MzU4NjhdfQ==
 -->
