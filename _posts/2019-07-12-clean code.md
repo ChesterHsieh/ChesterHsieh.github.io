@@ -31,6 +31,7 @@ Clean code is a more than 400 pages book, it's extraordinary concepts inspire ma
 
 
 
+
 # Function
 ## Refactoring! 
 **As key to craft the function is to remember all the simple rule and follow it all the time**. Really? 
@@ -79,12 +80,15 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 # Comment
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzAyMzUxMiwxNTAzNTE5MjQzLDE4OD
-Y5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MDM2MTgw
-NjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0Nj
-gsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4
-ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3NDQyNzksLTIxMzc5ND
-Q1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQsMTMzMTQ4MzQyMV19
 
+# CH 10 Class
+Before I start to explore this chapter, I've had many questions into this part. F
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwNzQ4NDgyMSwxNTY3MDIzNTEyLDE1MD
+M1MTkyNDMsMTg4NjkzMDY4OCwtMTU5NjE3MjA5NSw5MjE4NjMz
+MTMsLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMjAzMzYzMTYxMi
+wtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2NzYzNDU4LC0x
+Mjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5NzYsMTY2Njc0ND
+I3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYwNTExMTUxNCwx
+MzMxNDgzNDIxXX0=
 -->
