@@ -85,14 +85,20 @@ Don't use comment. It will fail to sync with code all as time passing. That mean
 Before I start to explore this chapter, I've had many questions into this part. For a coder, he/she might come from different background or learning path. Me, the first job is embedded engineer, then coding Labview, and now being data scientist. Whole learning path seems not related to very OOD languages. 
 Questions are here:
 1. Do all the languages need to build many layers inherit structure?
-2. Following the Q1, does it benefit to reader or writer? I hate the answer saying ** It depends on different user cases** Purely logical thinker need some basic ru 
+2. Following the Q1, does it benefit to reader or writer? I hate the answer saying ** It depends on different user cases** Purely logical thinker need some basic rules!
+3. What's the abstraction above than class syntax. 
+
+
+
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcwMjk5MzMsMTU2NzAyMzUxMiwxNT
-AzNTE5MjQzLDE4ODY5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYz
-MzEzLC00MDM2MTgwNjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MT
-IsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwt
-MTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3ND
-QyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQs
-MTMzMTQ4MzQyMV19
+eyJoaXN0b3J5IjpbMjUzMDc1ODc1LDE1NjcwMjM1MTIsMTUwMz
+UxOTI0MywxODg2OTMwNjg4LC0xNTk2MTcyMDk1LDkyMTg2MzMx
+MywtNDAzNjE4MDY3LC0xNTIyMTMzNTA3LC0yMDMzNjMxNjEyLC
+0xMTc3MDI5NDY4LC00MjMwNjQwMTMsLTE0NzY3NjM0NTgsLTEy
+OTUyMDA5MzEsODg5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mj
+c5LC0yMTM3OTQ0NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEz
+MzE0ODM0MjFdfQ==
 -->
