@@ -88,17 +88,18 @@ Questions are here:
 2. Following the Q1, does it benefit to reader or writer? I hate the answer saying ** It depends on different user cases** Purely logical thinker need some basic rules!
 3. What's the abstraction above than class syntax. 
 
-
+## Measurement
+SRP: Good class shouldn't have more than 5 responsibilities
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMDc1ODc1LDE1NjcwMjM1MTIsMTUwMz
-UxOTI0MywxODg2OTMwNjg4LC0xNTk2MTcyMDk1LDkyMTg2MzMx
-MywtNDAzNjE4MDY3LC0xNTIyMTMzNTA3LC0yMDMzNjMxNjEyLC
-0xMTc3MDI5NDY4LC00MjMwNjQwMTMsLTE0NzY3NjM0NTgsLTEy
-OTUyMDA5MzEsODg5OTgxMzgsMTAwMTU2ODk3NiwxNjY2NzQ0Mj
-c5LC0yMTM3OTQ0NTEwLDM0MTkzNTg2OCwxNjA1MTExNTE0LDEz
-MzE0ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbMTY4NTQ0NzA3NCwyNTMwNzU4NzUsMTU2Nz
+AyMzUxMiwxNTAzNTE5MjQzLDE4ODY5MzA2ODgsLTE1OTYxNzIw
+OTUsOTIxODYzMzEzLC00MDM2MTgwNjcsLTE1MjIxMzM1MDcsLT
+IwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3
+Njc2MzQ1OCwtMTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OT
+c2LDE2NjY3NDQyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2
+MDUxMTE1MTRdfQ==
 -->
