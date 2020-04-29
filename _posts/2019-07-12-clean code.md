@@ -91,12 +91,14 @@ Questions are here:
 ## Measurement
 SRP: Good class shouldn't have more than 5 responsibilities
 
-## 
+## Cohesive
+SPR: Higher cohesion means well distribution of functional requirements
+Le
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUxNzY4MjgsMTY4NTQ0NzA3NCwyNT
+eyJoaXN0b3J5IjpbLTExMTQxNDkzOTcsMTY4NTQ0NzA3NCwyNT
 MwNzU4NzUsMTU2NzAyMzUxMiwxNTAzNTE5MjQzLDE4ODY5MzA2
 ODgsLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MDM2MTgwNjcsLT
 E1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0NjgsLTQy
