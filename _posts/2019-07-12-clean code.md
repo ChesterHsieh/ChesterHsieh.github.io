@@ -82,13 +82,13 @@ SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 
 # CH 10 Class
-Before I start to explore this chapter, I've had many questions into this part. F
+Before I start to explore this chapter, I've had many questions into this part. For a coder, he/she might come from different background or learning path. Me, the first job is embedded engineer, then coding Labview, and now being data scientist. Whole 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzQ4NDgyMSwxNTY3MDIzNTEyLDE1MD
-M1MTkyNDMsMTg4NjkzMDY4OCwtMTU5NjE3MjA5NSw5MjE4NjMz
-MTMsLTQwMzYxODA2NywtMTUyMjEzMzUwNywtMjAzMzYzMTYxMi
-wtMTE3NzAyOTQ2OCwtNDIzMDY0MDEzLC0xNDc2NzYzNDU4LC0x
-Mjk1MjAwOTMxLDg4OTk4MTM4LDEwMDE1Njg5NzYsMTY2Njc0ND
-I3OSwtMjEzNzk0NDUxMCwzNDE5MzU4NjgsMTYwNTExMTUxNCwx
-MzMxNDgzNDIxXX0=
+eyJoaXN0b3J5IjpbLTE0Njk1Mzk2MzcsMTU2NzAyMzUxMiwxNT
+AzNTE5MjQzLDE4ODY5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYz
+MzEzLC00MDM2MTgwNjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MT
+IsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwt
+MTI5NTIwMDkzMSw4ODk5ODEzOCwxMDAxNTY4OTc2LDE2NjY3ND
+QyNzksLTIxMzc5NDQ1MTAsMzQxOTM1ODY4LDE2MDUxMTE1MTQs
+MTMzMTQ4MzQyMV19
 -->
