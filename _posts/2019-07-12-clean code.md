@@ -82,9 +82,13 @@ SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 
 # CH 10 Class
-Before I start to explore this chapter, I've had many questions into this part. For a coder, he/she might come from different background or learning path. Me, the first job is embedded engineer, then coding Labview, and now being data scientist. Whole 
+Before I start to explore this chapter, I've had many questions into this part. For a coder, he/she might come from different background or learning path. Me, the first job is embedded engineer, then coding Labview, and now being data scientist. Whole learning path seems not related to very OOD languages. 
+Questions are here:
+1. Do all the languages need to build many layers inherit structure?
+2. Following the Q1, does it benefit 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1Mzk2MzcsMTU2NzAyMzUxMiwxNT
+eyJoaXN0b3J5IjpbLTIwOTU0OTExMDcsMTU2NzAyMzUxMiwxNT
 AzNTE5MjQzLDE4ODY5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYz
 MzEzLC00MDM2MTgwNjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MT
 IsLTExNzcwMjk0NjgsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwt
