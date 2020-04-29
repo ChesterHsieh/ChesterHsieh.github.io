@@ -10,7 +10,7 @@ tags:
 ---
 # Intro
 SPR: simple rule policy. 
-This document is mean to collect all the simple rule and try to explain my way as much as possible.
+Clean code is a more than 400 pages book, it's extraordinary concepts inspire many many programmer, however, human b
 
 
 # Variable naming
@@ -78,10 +78,11 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzUxOTI0MywxODg2OTMwNjg4LC0xNT
-k2MTcyMDk1LDkyMTg2MzMxMywtNDAzNjE4MDY3LC0xNTIyMTMz
-NTA3LC0yMDMzNjMxNjEyLC0xMTc3MDI5NDY4LC00MjMwNjQwMT
-MsLTE0NzY3NjM0NTgsLTEyOTUyMDA5MzEsODg5OTgxMzgsMTAw
-MTU2ODk3NiwxNjY2NzQ0Mjc5LC0yMTM3OTQ0NTEwLDM0MTkzNT
-g2OCwxNjA1MTExNTE0LDEzMzE0ODM0MjFdfQ==
+eyJoaXN0b3J5IjpbNzY1MzYyMDMyLDE1MDM1MTkyNDMsMTg4Nj
+kzMDY4OCwtMTU5NjE3MjA5NSw5MjE4NjMzMTMsLTQwMzYxODA2
+NywtMTUyMjEzMzUwNywtMjAzMzYzMTYxMiwtMTE3NzAyOTQ2OC
+wtNDIzMDY0MDEzLC0xNDc2NzYzNDU4LC0xMjk1MjAwOTMxLDg4
+OTk4MTM4LDEwMDE1Njg5NzYsMTY2Njc0NDI3OSwtMjEzNzk0ND
+UxMCwzNDE5MzU4NjgsMTYwNTExMTUxNCwxMzMxNDgzNDIxXX0=
+
 -->
