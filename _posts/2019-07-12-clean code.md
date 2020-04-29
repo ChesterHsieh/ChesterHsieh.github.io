@@ -14,7 +14,7 @@ Clean code is a more than 400 pages book, it's extraordinary concepts inspire ma
 
 
 # Variable naming
-**Hungarian** notation was once the best helper to save time on debugging. I't
+**Hungarian** notation was once the best helper to save time on debugging, nonthers 
 
 - 避免誤導. List, 不應該出現在變數..
 	=> 這跟匈牙利命名法,現在IDE take care them. 所以 python 這種語言更加的用不到...
@@ -80,7 +80,7 @@ Follow 上面function的原則. 如果需要在function中作例外處理.  Try 
 SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzQwNDM5NSwxNTAzNTE5MjQzLDE4OD
+eyJoaXN0b3J5IjpbMTU2NzAyMzUxMiwxNTAzNTE5MjQzLDE4OD
 Y5MzA2ODgsLTE1OTYxNzIwOTUsOTIxODYzMzEzLC00MDM2MTgw
 NjcsLTE1MjIxMzM1MDcsLTIwMzM2MzE2MTIsLTExNzcwMjk0Nj
 gsLTQyMzA2NDAxMywtMTQ3Njc2MzQ1OCwtMTI5NTIwMDkzMSw4
