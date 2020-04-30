@@ -18,6 +18,8 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)  
 C --> D  
 ```
+# Dataloader from ICX
+- which part we should use on Amazon
 
 
 # Necessary
@@ -36,6 +38,7 @@ Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks  Bob->Alice: I am good thanks!  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY1NjE3ODksMjMzMDYyODkzLDE2Nz
-U4NzY0NTMsLTE1OTI3NDAyNjIsNjQ5MDk3MDEzXX0=
+eyJoaXN0b3J5IjpbMTU0Mzg0Mjg2MywtMjA3NjU2MTc4OSwyMz
+MwNjI4OTMsMTY3NTg3NjQ1MywtMTU5Mjc0MDI2Miw2NDkwOTcw
+MTNdfQ==
 -->
