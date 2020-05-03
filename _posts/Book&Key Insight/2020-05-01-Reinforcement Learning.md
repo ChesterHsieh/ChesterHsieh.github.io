@@ -8,7 +8,7 @@ catalog: true
 tags:
    Reinforcement learning
 ---
-# CH1 
+# CH1 ;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTI3NzI5MV19
+eyJoaXN0b3J5IjpbLTQyMTc5NDMwMCwtOTQ5Mjc3MjkxXX0=
 -->
