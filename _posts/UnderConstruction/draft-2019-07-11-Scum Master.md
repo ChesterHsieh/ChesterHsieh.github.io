@@ -1,3 +1,15 @@
+﻿---
+layout:     post
+title:      SCUM master/Agile development
+date:       2019-07-01
+author:    Chester
+catalog: true
+tags:
+    Job
+---
+
+
+
 # To understand Scum master
 scum is principle to on building giant software. 必須要有周期作demo. 沒有浪費功能在不適用
 Agile 保持應變能力, 追求逐步疊代. 檢討周期內部.
@@ -21,5 +33,5 @@ Class, 繼承, interface. Abstract class( 安排程式碼的未來可能性). Mo
 
 clean architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzczNDI1NF19
+eyJoaXN0b3J5IjpbLTQ4NzM5Mjg1MSwtMzY3NzM0MjU0XX0=
 -->
