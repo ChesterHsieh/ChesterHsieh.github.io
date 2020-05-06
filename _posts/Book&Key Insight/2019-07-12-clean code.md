@@ -82,7 +82,8 @@ SRP:
 Don't use comment. It will fail to sync with code all as time passing. That mean the comment will lie the reader and next one take over your job.
 
 # CH 6 Object & Data structure
-One idea about hiding implementati
+One idea about hiding implementation, no mater how it works, can benefit reader by providing only limited but essential information. In other word: Abstraction.
+
 
 # CH 10 Class
 Before I start to explore this chapter, I've had many questions into this part. For a coder, he/she might come from different background or learning path. Me, the first job is embedded engineer, then coding Labview, and now being data scientist. Whole learning path seems not related to very OOD languages. 
@@ -101,5 +102,5 @@ Keeping class cohesive will result many small logical pieces, which is exactly w
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODI2NzExLDE2NjgxNjIxNTldfQ==
+eyJoaXN0b3J5IjpbMTkyMDQ4MzM0MCwxNjY4MTYyMTU5XX0=
 -->
