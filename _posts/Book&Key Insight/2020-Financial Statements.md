@@ -65,7 +65,9 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 # Financial statements index
 ## P/B
 asset - liability = owner's equity
-## How to know if a company can survive in 
+## How to know if a company can survive in great depression?
+
+
 # Analysis Tool
 # Phase 1 collecting requirements
 - Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
@@ -74,7 +76,7 @@ asset - liability = owner's equity
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzI1NDI4LC02MTM4NDk4NzMsMjAzOT
-YwMTg1MSwtNzY2ODUyODA2LDE1MjE4MjAwMTYsLTY3MzY4MjYw
-NiwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbLTk1OTE2MzcxMiwtNjEzODQ5ODczLDIwMz
+k2MDE4NTEsLTc2Njg1MjgwNiwxNTIxODIwMDE2LC02NzM2ODI2
+MDYsMTg1NDE4NTUzMl19
 -->
