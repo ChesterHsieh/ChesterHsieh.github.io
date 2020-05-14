@@ -58,11 +58,14 @@ Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%.
 ### Potential impact:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
 
+## ARLP
+
+
+
 # Financial statements index
 ## P/B
 asset - liability = owner's equity
-
-
+## How to know if a company can survive in 
 # Analysis Tool
 # Phase 1 collecting requirements
 - Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
@@ -71,7 +74,7 @@ asset - liability = owner's equity
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzg0OTg3MywyMDM5NjAxODUxLC03Nj
-Y4NTI4MDYsMTUyMTgyMDAxNiwtNjczNjgyNjA2LDE4NTQxODU1
-MzJdfQ==
+eyJoaXN0b3J5IjpbMTM4NzI1NDI4LC02MTM4NDk4NzMsMjAzOT
+YwMTg1MSwtNzY2ODUyODA2LDE1MjE4MjAwMTYsLTY3MzY4MjYw
+NiwxODU0MTg1NTMyXX0=
 -->
