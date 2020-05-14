@@ -67,7 +67,7 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 asset - liability = owner's equity
 ## How to know if a company can survive in great depression?
 ### debt v.s. cash
-It's very bitter this moment. ARLP is one stock of my portfolio, which ,has terrible number on thi 
+It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt. 
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -77,7 +77,7 @@ It's very bitter this moment. ARLP is one stock of my portfolio, which ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDk3NzI1NiwtOTU5MTYzNzEyLC02MT
-M4NDk4NzMsMjAzOTYwMTg1MSwtNzY2ODUyODA2LDE1MjE4MjAw
-MTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
+eyJoaXN0b3J5IjpbODY5NTI4MzIzLC05NTkxNjM3MTIsLTYxMz
+g0OTg3MywyMDM5NjAxODUxLC03NjY4NTI4MDYsMTUyMTgyMDAx
+NiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
 -->
