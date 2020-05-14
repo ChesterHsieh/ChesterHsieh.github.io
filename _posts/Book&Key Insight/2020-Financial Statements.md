@@ -66,7 +66,8 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 ## P/B
 asset - liability = owner's equity
 ## How to know if a company can survive in great depression?
-
+### debt v.s. cash
+It's very bitter this moment. ARLP is one stock of my portfolio, which ,has terrible number on thi 
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -76,7 +77,7 @@ asset - liability = owner's equity
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTE2MzcxMiwtNjEzODQ5ODczLDIwMz
-k2MDE4NTEsLTc2Njg1MjgwNiwxNTIxODIwMDE2LC02NzM2ODI2
-MDYsMTg1NDE4NTUzMl19
+eyJoaXN0b3J5IjpbMTUxMDk3NzI1NiwtOTU5MTYzNzEyLC02MT
+M4NDk4NzMsMjAzOTYwMTg1MSwtNzY2ODUyODA2LDE1MjE4MjAw
+MTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
