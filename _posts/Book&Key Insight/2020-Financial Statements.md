@@ -66,7 +66,9 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 ## P/B
 asset - liability = owner's equity
 ## debt v.s. cash
-It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least not a sig
+It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company.
+
+Debt might potential imply two 
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -76,7 +78,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NzEzNDkxLDg2OTUyODMyMywtOTU5MT
+eyJoaXN0b3J5IjpbODcwNjAyMDkzLDg2OTUyODMyMywtOTU5MT
 YzNzEyLC02MTM4NDk4NzMsMjAzOTYwMTg1MSwtNzY2ODUyODA2
 LDE1MjE4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
