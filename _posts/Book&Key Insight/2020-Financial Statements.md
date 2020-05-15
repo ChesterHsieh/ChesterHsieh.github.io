@@ -65,9 +65,8 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 # Financial statements index
 ## P/B
 asset - liability = owner's equity
-## How to know if a company can survive in great depression?
-### debt v.s. cash
-It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt. 
+## debt v.s. cash
+It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least not a sig
 
 # Analysis Tool
 # Phase 1 collecting requirements
@@ -77,7 +76,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NTI4MzIzLC05NTkxNjM3MTIsLTYxMz
-g0OTg3MywyMDM5NjAxODUxLC03NjY4NTI4MDYsMTUyMTgyMDAx
-NiwtNjczNjgyNjA2LDE4NTQxODU1MzJdfQ==
+eyJoaXN0b3J5IjpbOTE1NzEzNDkxLDg2OTUyODMyMywtOTU5MT
+YzNzEyLC02MTM4NDk4NzMsMjAzOTYwMTg1MSwtNzY2ODUyODA2
+LDE1MjE4MjAwMTYsLTY3MzY4MjYwNiwxODU0MTg1NTMyXX0=
 -->
