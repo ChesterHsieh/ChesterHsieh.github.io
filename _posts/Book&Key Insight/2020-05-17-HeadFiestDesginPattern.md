@@ -11,6 +11,9 @@ tags:
 ---
 # CH 1
 Q1 If java doesn't implement reusing code of being interface, how about the python?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTUyNTM2MSwtMTQxODEwNzE3OV19
+eyJoaXN0b3J5IjpbLTE1NTQyMjIzODcsMTQyNTUyNTM2MSwtMT
+QxODEwNzE3OV19
 -->
