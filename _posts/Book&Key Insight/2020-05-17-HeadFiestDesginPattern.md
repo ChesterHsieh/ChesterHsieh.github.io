@@ -14,7 +14,11 @@ Q1 If java doesn't implement reusing code of being interface, how about the pyth
 
 **Seperate those stable and frequent modified parts**
 
+
+
+Q
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDI4Mzc0MCwxNDI1NTI1MzYxLC0xND
-E4MTA3MTc5XX0=
+eyJoaXN0b3J5IjpbLTcwNzY4Nzg5LDE1MzQyODM3NDAsMTQyNT
+UyNTM2MSwtMTQxODEwNzE3OV19
 -->
