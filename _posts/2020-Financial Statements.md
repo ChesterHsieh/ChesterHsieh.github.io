@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Stock
 ---
+
 # Profolio-1 
 
 
@@ -87,5 +88,5 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc0Njc5ODVdfQ==
+eyJoaXN0b3J5IjpbMTIxOTYyMDU3M119
 -->
