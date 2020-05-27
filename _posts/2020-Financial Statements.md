@@ -1,13 +1,13 @@
-﻿
-﻿---
+---
 layout:     post
 title:      Portfolio
 subtitle:   Review and Record. 
 date:       2020-05-30
 author:    Chester
+header-img: 
 catalog: true
 tags:
-    - Stock
+   Stock
 ---
 
 # Profolio-1 
@@ -88,5 +88,5 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTYyMDU3M119
+eyJoaXN0b3J5IjpbMTkxMTkzMDg4MV19
 -->
