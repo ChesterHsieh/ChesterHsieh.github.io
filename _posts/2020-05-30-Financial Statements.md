@@ -53,7 +53,7 @@ Target to different categorical:
 - Financial service
 	1. DFS
 	2. CMA
-# Company Analysis
+
 ## PAA
 There are 3 main services provided by the PAA: 
 - Transportation
@@ -80,13 +80,15 @@ asset - liability = owner's equity
 ## debt v.s. cash
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
+
+
 # Analysis Tool
-# Phase 1 collecting requirements
+## Phase 1 collecting requirements
 - Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
 - Batch process cross all the stock price
 - Basic graph and interactive user interface are necessary in this product
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTkzMDg4MV19
+eyJoaXN0b3J5IjpbLTIwOTk1OTc5ODgsMTkxMTkzMDg4MV19
 -->
