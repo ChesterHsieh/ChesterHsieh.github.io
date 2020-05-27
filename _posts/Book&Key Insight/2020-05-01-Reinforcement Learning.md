@@ -6,9 +6,10 @@ author:    Chester
 header-img: img/makeup_title.jpeg
 catalog: true
 tags:
-   Reinforcement learning
+   RL
 ---
 # CH1 ;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTc5NDMwMCwtOTQ5Mjc3MjkxXX0=
+eyJoaXN0b3J5IjpbMTgxMDYxNjgyMywtNDIxNzk0MzAwLC05ND
+kyNzcyOTFdfQ==
 -->
