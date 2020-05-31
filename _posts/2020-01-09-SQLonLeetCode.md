@@ -9,7 +9,7 @@
 - Clause
 - Function
 - Pivot
-# Join mulitple table
+# Join multiple table
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
@@ -224,6 +224,6 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMj
-Y4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MT
+YzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
