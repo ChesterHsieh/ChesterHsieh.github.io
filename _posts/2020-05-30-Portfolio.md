@@ -143,7 +143,15 @@ Quick Code:
 
 For example	
 	- batch access
+
+---------
+# Shoplus
+SDK  for Taiwan 
+
+User Experience: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03OD
-c4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbLTExMzU3NjQ0MTIsOTEyODg5NDkwLC0xNz
+k0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3
+ODY1XX0=
 -->
