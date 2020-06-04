@@ -89,7 +89,9 @@ There are few assumption make here:
 ## Money Supply 
 <iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstamonsupm0&v=202005091008V20191105&d1=19950611&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/united-states/money-supply-m0'>tradingeconomics.com</a>
 
-This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three different turnning points, and they represent 3 
+This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three different turning  points, and they represent 3 Great recession. Following question is where the currency goes? 
+
+
 
 
 # Terminology Section
@@ -100,6 +102,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxOTA5NDAsLTIwOTk1OTc5ODgsMTkxMT
-kzMDg4MV19
+eyJoaXN0b3J5IjpbLTExMDQ3NDk0MjksLTIwOTk1OTc5ODgsMT
+kxMTkzMDg4MV19
 -->
