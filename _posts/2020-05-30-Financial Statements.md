@@ -97,7 +97,7 @@ This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three diffe
 - During the past recession, the stock market crashed ~ 50%
 - It took few hundred days for the stock market to go from peak to the bottom
 
-Here's the extra factors, 
+Here's the extra factors at this time, Covid-19. Even in the best case, it still need to take years to distribute vaccine to most relavent countires, which 
 
 
 
@@ -109,7 +109,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODU4MjEzNywtNzE5MzMyMjc5LC0xNz
+eyJoaXN0b3J5IjpbMTg0NjcwOTIxMSwtNzE5MzMyMjc5LC0xNz
 MxOTM5ODAzLC0xMTA0NzQ5NDI5LC0yMDk5NTk3OTg4LDE5MTE5
 MzA4ODFdfQ==
 -->
