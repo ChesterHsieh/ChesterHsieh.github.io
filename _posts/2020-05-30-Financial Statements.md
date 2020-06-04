@@ -87,8 +87,9 @@ There are few assumption make here:
 3. Gold supply/Demand stay stable.
 
 ## Money Supply 
-[]
-[Click Here for original data](https://tradingeconomics.com/united-states/money-supply-m0)
+<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstamonsupm0&v=202005091008V20191105&d1=19950611&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/united-states/money-supply-m0'>tradingeconomics.com</a>
+
+This graph shows the m0 suppl
 
 
 # Terminology Section
@@ -99,6 +100,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTgwMDc2NCwtMjA5OTU5Nzk4OCwxOT
+eyJoaXN0b3J5IjpbLTc1MjkzNjQ3OCwtMjA5OTU5Nzk4OCwxOT
 ExOTMwODgxXX0=
 -->
