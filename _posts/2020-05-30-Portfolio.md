@@ -104,7 +104,7 @@ The last factor is inevitable to be discussed. Even we believe the 2 assumptions
 
 Because the demand and supply play essential role in price. [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics)
 
-![GitHub Logo](/img/Portfolio_gold.png)
+![enter image description here](https://lh3.googleusercontent.com/7MVHm9AZM-bzUaG_ifGk3XXWHCcqZ5RxlvqLy1kZ3qN9YRQzR8dwtTAThc3TNBSNTv9JX34tD7Tc "Oil demend&supply")
 
  
 # Terminology Section
@@ -115,5 +115,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMTA0NTM0NTQzNywxNTU2NTA0MzA0LDE4Mz
+UwOTc4NjVdfQ==
 -->
