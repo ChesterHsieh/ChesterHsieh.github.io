@@ -135,12 +135,16 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 -----
 Framework
 React + Al 透過工具操作他.
-	Access a big tree.
+	Access a big tree. 
+		特過工具. 
 Quick Code:
 	Jquery 操作方格 
 		cons:
-			
+
+For example	
+	- batch access
+	- 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIyNTA2MzEsMTU1NjUwNDMwNCwxOD
-M1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbLTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4Mz
+UwOTc4NjVdfQ==
 -->
