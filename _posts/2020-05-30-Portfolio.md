@@ -150,9 +150,11 @@ SDK  for Taiwan
 
 User Experience: 
  social ecommerce: 
-	 Different: 
+	 賣家價值觀+跟我一樣...
+	 Interview for cosmetic user.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc3NjU4MzYsOTEyODg5NDkwLC0xNz
-k0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3
-ODY1XX0=
+eyJoaXN0b3J5IjpbLTE3MTE3NTE2MDcsLTE4MDc3NjU4MzYsOT
+EyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUw
+NDMwNCwxODM1MDk3ODY1XX0=
 -->
