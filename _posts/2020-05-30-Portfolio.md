@@ -143,8 +143,8 @@ Quick Code:
 
 For example	
 	- batch access
-	- 			
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4Mz
-UwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNT
+U2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
 -->
