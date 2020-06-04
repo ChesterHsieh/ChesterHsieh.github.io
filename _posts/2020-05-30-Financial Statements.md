@@ -102,7 +102,7 @@ Here's the extra factors at this time, Covid-19. Even in the best case, it still
 ## GoTd supply and demend.
 The last factor is inevitable to be discussed. Even we believe the 2 assumptions above, any goods/real estate can be the option. For example, oil is something necessary for most industrial, but price is going to crash in Feburary. 
 
-Because the demand and supply play essential role in price. 
+Because the demand and supply play essential role in price. [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics)
 
 
  
@@ -114,7 +114,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzQ1MTI2NywtNzE5MzMyMjc5LC0xNz
-MxOTM5ODAzLC0xMTA0NzQ5NDI5LC0yMDk5NTk3OTg4LDE5MTE5
-MzA4ODFdfQ==
+eyJoaXN0b3J5IjpbMTgzNTA5Nzg2NSwtNjUzNDUxMjY3LC03MT
+kzMzIyNzksLTE3MzE5Mzk4MDMsLTExMDQ3NDk0MjksLTIwOTk1
+OTc5ODgsMTkxMTkzMDg4MV19
 -->
