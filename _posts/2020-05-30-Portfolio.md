@@ -162,8 +162,14 @@ VN style:
 AI-Live -> 留言變成訂單
 AI-Chatbot-> Ask address?  錯的收據/假得收據.  
 Order management system -> 
+
+
+-Market Whole view
+Shops closed
+Los
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1OD
-Y1Mjc1LC0xODA3NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkz
-OSwtNzg3ODU4NzA3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
+eyJoaXN0b3J5IjpbLTIzMzQzNDA2MCwzMzAyMDI0NjIsLTczOT
+U3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYsOTEyODg5NDkw
+LC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxOD
+M1MDk3ODY1XX0=
 -->
