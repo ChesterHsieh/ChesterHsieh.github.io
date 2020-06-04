@@ -10,10 +10,13 @@ tags:
    Stock
 ---
 
-# Profolio-1 
 
 
-## Macy
+
+# Stock
+
+
+## PAST
 Buy in: M, mamcy from US market
 Share: 1000@6.29
 - Reason:
@@ -37,9 +40,8 @@ SELLing
 
 Reason: Switch to better company. Macy has low ROE in previous years.
 
-##
+## Holding
 
-# Profolio -2
 10 W in total
 Target to different categorical: 
 - Coal/Pipe/Oil
@@ -63,6 +65,8 @@ There are 3 main services provided by the PAA:
 
 37 million barrels + 15k mileages pipe line
 
+## Future
+
 Under same corporation, there's brother company PAGP
 ### Financial statements
 Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%. 
@@ -72,6 +76,7 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 
 ## ARLP
 
+# 
 
 
 # Financial statements index
@@ -90,5 +95,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk1OTc5ODgsMTkxMTkzMDg4MV19
+eyJoaXN0b3J5IjpbLTIwODM2NDQyMSwtMjA5OTU5Nzk4OCwxOT
+ExOTMwODgxXX0=
 -->
