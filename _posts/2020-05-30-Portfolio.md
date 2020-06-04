@@ -86,6 +86,8 @@ There are few assumption make here:
 2. Stock will go low in the crisis
 3. Gold supply/Demand stay stable.
 
+Idea
+
 ## Money Supply 
 <iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstamonsupm0&v=202005091008V20191105&d1=19950611&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/united-states/money-supply-m0'>tradingeconomics.com</a>
 
@@ -111,7 +113,9 @@ Oil supply isn't something stable, the amount of supply increses steadly over ye
  [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics) is comparatively stable in every aspects. To short, I bet for currency value goes low instead of betting the gold value increasing. 
 
 ## Extra Issue
-No doubt, the gold is shiny and attractive, however, it doesn't have huge amout of  requirements for the varieties of industry. Who or when the gold br 
+No doubt, the gold is shiny and attractive, however, it doesn't have huge amout of  requirements for the varieties of industry. Who or when the gold was becoming "moeny"? 
+
+ 
 
 # Terminology Section
 - **P/B**
@@ -121,6 +125,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzgxOTI2OCwxNTU2NTA0MzA0LDE4Mz
-UwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbNzE5ODczMDM1LDE1NTY1MDQzMDQsMTgzNT
+A5Nzg2NV19
 -->
