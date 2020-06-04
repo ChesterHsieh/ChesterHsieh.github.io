@@ -164,12 +164,11 @@ AI-Chatbot-> Ask address?  錯的收據/假得收據.
 Order management system -> 
 
 
--Market Whole view
-Shops closed
-Los
+- Market Whole view
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzQzNDA2MCwzMzAyMDI0NjIsLTczOT
-U3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYsOTEyODg5NDkw
-LC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxOD
-M1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5NT
+cxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OTAs
+LTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4Mz
+UwOTc4NjVdfQ==
 -->
