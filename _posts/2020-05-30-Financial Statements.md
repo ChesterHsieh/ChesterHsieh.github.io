@@ -95,7 +95,9 @@ This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three diffe
 [Did the Stock Market Bottom?](https://www.youtube.com/watch?v=jW_iwk5e5y4&t=789s) explains well about the moment. 
 - The stock market follows ecnomic activities
 - During the past recession, the stock market crashed ~ 50%
-- It tak
+- It took few hundred days for the stock market to go from peak to the bottom
+
+Here's the extra factors, 
 
 
 
@@ -107,7 +109,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTA4MDAzMywtNzE5MzMyMjc5LC0xNz
+eyJoaXN0b3J5IjpbMTA1ODU4MjEzNywtNzE5MzMyMjc5LC0xNz
 MxOTM5ODAzLC0xMTA0NzQ5NDI5LC0yMDk5NTk3OTg4LDE5MTE5
 MzA4ODFdfQ==
 -->
