@@ -37,8 +37,18 @@ C --> D
 Alice->Bob: Hello Bob, how are you?  
 Note right of Bob: Bob thinks  Bob->Alice: I am good thanks!  
 ```
+
+
+
+# Analysis Tool
+## Phase 1 collecting requirements
+- Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
+- Batch process cross all the stock price
+- Basic graph and interactive user interface are necessary in this product
+- Search engine on timer-series data
+- Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mzg0Mjg2MywtMjA3NjU2MTc4OSwyMz
-MwNjI4OTMsMTY3NTg3NjQ1MywtMTU5Mjc0MDI2Miw2NDkwOTcw
-MTNdfQ==
+eyJoaXN0b3J5IjpbMTk5NjYyMzkzNSwxNTQzODQyODYzLC0yMD
+c2NTYxNzg5LDIzMzA2Mjg5MywxNjc1ODc2NDUzLC0xNTkyNzQw
+MjYyLDY0OTA5NzAxM119
 -->
