@@ -93,11 +93,14 @@ This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three diffe
 
 ## Stock will go low- Do we hit the bottom?
 [Did the Stock Market Bottom?](https://www.youtube.com/watch?v=jW_iwk5e5y4&t=789s) explains well about the moment. 
-- The stock market follows ecnomic activities
+- The stock market follows economic activities
 - During the past recession, the stock market crashed ~ 50%
 - It took few hundred days for the stock market to go from peak to the bottom
 
-Here's the extra factors at this time, Covid-19. Even in the best case, it still need to take years to distribute vaccine to most relavent countires, which 
+Here's the extra factors at this time, Covid-19. Even in the best case, it still need to take years to distribute vaccine to most relevant countires, which include some poor countries.
+
+## GoTd supply and demend.
+The last factor is inevitable
 
 
 
@@ -109,7 +112,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjcwOTIxMSwtNzE5MzMyMjc5LC0xNz
-MxOTM5ODAzLC0xMTA0NzQ5NDI5LC0yMDk5NTk3OTg4LDE5MTE5
-MzA4ODFdfQ==
+eyJoaXN0b3J5IjpbOTM5Mjg4NDE2LC03MTkzMzIyNzksLTE3Mz
+E5Mzk4MDMsLTExMDQ3NDk0MjksLTIwOTk1OTc5ODgsMTkxMTkz
+MDg4MV19
 -->
