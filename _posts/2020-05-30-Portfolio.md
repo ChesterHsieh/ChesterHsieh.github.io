@@ -158,9 +158,11 @@ User Experience:
 		 哪一攤最多圍觀.   小編有大量需求配對. 簡單問題.  
 
 VN style:
-	
+	- 黑名單. 誰不付錢
+AI-Live -> 留言變成訂單
+AI-Chatbot-> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1ODY1Mjc1LC0xODA3NzY1ODM2LDkxMj
-g4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4NzA3LDE1NTY1MDQz
-MDQsMTgzNTA5Nzg2NV19
+eyJoaXN0b3J5IjpbMTc5Njk4ODE0OSwzOTU4NjUyNzUsLTE4MD
+c3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3
+MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
 -->
