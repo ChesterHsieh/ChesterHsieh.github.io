@@ -117,7 +117,8 @@ Oil supply isn't something stable, the amount of supply increses steadly over ye
 Let's talk if we agree the assumptions. We should know the currency need to find the exit, the real estate/money/stock is the primary ways for inflation. 
 
 - No doubt, the gold is shiny and attractive, however, it doesn't have huge amout of  requirements for the varieties of industry. Who or when the gold was becoming "moeny"? 
-- There's somewhere else for the money goes.
+- There's somewhere else for the money goes.  I must investigate real estate price during past recessions. If the price going up, the real estate ETF can be another part of portfolio.
+
  
 
 # Terminology Section
@@ -128,6 +129,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDUzMzk4NSwxNTU2NTA0MzA0LDE4Mz
+eyJoaXN0b3J5IjpbLTYxMzYyOTk1MCwxNTU2NTA0MzA0LDE4Mz
 UwOTc4NjVdfQ==
 -->
