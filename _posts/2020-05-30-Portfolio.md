@@ -160,10 +160,10 @@ User Experience:
 VN style:
 	- 黑名單. 誰不付錢
 AI-Live -> 留言變成訂單
-AI-Chatbot-> Ask address? 
+AI-Chatbot-> Ask address?  
 Order management system -> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MD
-c3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3
-MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMjEyMDM3ODgyLC03Mzk1NzE0NzYsMzk1OD
+Y1Mjc1LC0xODA3NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkz
+OSwtNzg3ODU4NzA3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
 -->
