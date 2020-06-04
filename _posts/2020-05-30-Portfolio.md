@@ -152,9 +152,11 @@ User Experience:
  social ecommerce: 
 	 賣家價值觀+跟我一樣...
 	 Interview for cosmetic user.
-
+		 Msg with selfish + cosmetic interaction. 
+		 Chatting inbox message. Keep in touch -> conversation with ppl.
+		 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE3NTE2MDcsLTE4MDc3NjU4MzYsOT
-EyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUw
-NDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMTYzMDQzNDY0OCwtMTgwNzc2NTgzNiw5MT
+I4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0
+MzA0LDE4MzUwOTc4NjVdfQ==
 -->
