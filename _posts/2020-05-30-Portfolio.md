@@ -104,12 +104,14 @@ The last factor is inevitable to be discussed. Even we believe the 2 assumptions
 
 Because the demand and supply play essential role in price. 
 ![Oil demend&supply](https://lh3.googleusercontent.com/7MVHm9AZM-bzUaG_ifGk3XXWHCcqZ5RxlvqLy1kZ3qN9YRQzR8dwtTAThc3TNBSNTv9JX34tD7Tc "Oil demend&supply")
+
 Oil supply isn't something stable, the amount of supply increses steadly over years.
+
 ![Gold dmend & supply](https://lh3.googleusercontent.com/JVxR3_Ve8S570Dbz-rWZ9S6mH7oNfCUkcWxQMl8m-q79BtWYT_MsMumSkohKL3SnqmXZykfFT9eW "Gold dmend & supply")
- [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics) is comparatively stable in every aspects. 
+ [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics) is comparatively stable in every aspects. To short, I bet for currency value goes low instead of betting the gold value increasing. 
 
 ## Extra Issue
-No doubt, the gold is shiny and attractive, however, it doesn't have huge real requirements for the varieties of industry. 
+No doubt, the gold is shiny and attractive, however, it doesn't have huge amout of  requirements for the varieties of industry. Who or when the gold br 
 
 # Terminology Section
 - **P/B**
@@ -119,6 +121,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcwMTUxNDQsMTU1NjUwNDMwNCwxOD
-M1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMTg5NzgxOTI2OCwxNTU2NTA0MzA0LDE4Mz
+UwOTc4NjVdfQ==
 -->
