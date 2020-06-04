@@ -84,14 +84,14 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 
 
 
-# Financial statements index Review
-## P/B
+# Terminology Section
+- P/B
 asset - liability = owner's equity
-## debt v.s. cash
+- debt v.s. cash
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ0OTg0MDcsLTIwOTk1OTc5ODgsMT
+eyJoaXN0b3J5IjpbLTE0MzgyNTQ5ODQsLTIwOTk1OTc5ODgsMT
 kxMTkzMDg4MV19
 -->
