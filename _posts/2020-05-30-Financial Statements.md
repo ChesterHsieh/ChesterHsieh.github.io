@@ -79,7 +79,8 @@ Target to different categorical:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
 
 # Gold
-Currency ~
+Currency != Money, that's all idea come from. 
+
 
 
 
@@ -91,6 +92,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTU3NjUsLTIwOTk1OTc5ODgsMTkxMT
-kzMDg4MV19
+eyJoaXN0b3J5IjpbLTE3MTUwMDgwMTIsLTIwOTk1OTc5ODgsMT
+kxMTkzMDg4MV19
 -->
