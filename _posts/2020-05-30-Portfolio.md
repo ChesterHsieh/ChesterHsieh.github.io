@@ -154,9 +154,9 @@ User Experience:
 	 Interview for cosmetic user.
 		 Msg with selfish + cosmetic interaction. 
 		 Chatting inbox message. Keep in touch -> conversation with ppl.
-		 
+		 Buying intent -> real buying
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDQzNDY0OCwtMTgwNzc2NTgzNiw5MT
-I4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0
-MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbNjIyMDkwOTIxLC0xODA3NzY1ODM2LDkxMj
+g4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4NzA3LDE1NTY1MDQz
+MDQsMTgzNTA5Nzg2NV19
 -->
