@@ -56,27 +56,30 @@ Target to different categorical:
 	1. DFS
 	2. CMA
 
-## PAA
-There are 3 main services provided by the PAA: 
-- Transportation
-- Storage
-- Supply/logistic
+### ARLP
 
 
-37 million barrels + 15k mileages pipe line
 
-## Future
+## Future-Plan to 
+### PAA
+	There are 3 main services provided by the PAA: 
+	- Transportation
+	- Storage
+	- Supply/logistic
 
-Under same corporation, there's brother company PAGP
-### Financial statements
-Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%. 
 
-### Potential impact:
+	37 million barrels + 15k mileages pipe line
+
+
+	Under same corporation, there's brother company PAGP
+	 Financial statements
+	Stay above 15% ROE on recent 4 yrs. Re-investment ratio 60%. 
+
+#### Potential impact:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
 
-## ARLP
 
-# 
+
 
 
 # Financial statements index
@@ -95,6 +98,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM2NDQyMSwtMjA5OTU5Nzk4OCwxOT
+eyJoaXN0b3J5IjpbMTQ1NzE0NjY2OSwtMjA5OTU5Nzk4OCwxOT
 ExOTMwODgxXX0=
 -->
