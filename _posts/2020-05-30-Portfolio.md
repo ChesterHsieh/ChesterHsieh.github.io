@@ -155,9 +155,12 @@ User Experience:
 		 Msg with selfish + cosmetic interaction. 
 		 Chatting inbox message. Keep in touch -> conversation with ppl.
 		 Buying intent -> real buying
-		 哪一攤最多圍觀. 
+		 哪一攤最多圍觀.   小編有大量需求配對. 簡單問題.  
+
+VN style:
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1Mzg2MiwtMTgwNzc2NTgzNiw5MT
-I4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0
-MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbMzk1ODY1Mjc1LC0xODA3NzY1ODM2LDkxMj
+g4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4NzA3LDE1NTY1MDQz
+MDQsMTgzNTA5Nzg2NV19
 -->
