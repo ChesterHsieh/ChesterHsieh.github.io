@@ -60,7 +60,7 @@ Target to different categorical:
 
 
 
-## Future-Plan to 
+## Future-Plan to buy in 
 ### PAA
 	There are 3 main services provided by the PAA: 
 	- Transportation
@@ -78,26 +78,20 @@ Target to different categorical:
 #### Potential impact:
 Due to incoming global recession, oil, coal, natural gas requirements are decreasing.  Need the different value estimate on PAA. 
 
+# Gold
 
 
 
 
-# Financial statements index
+
+# Financial statements index Review
 ## P/B
 asset - liability = owner's equity
 ## debt v.s. cash
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
 
-
-# Analysis Tool
-## Phase 1 collecting requirements
-- Index variety signal, for examples, stock price and volume. In oil specific industry, the crude oil price can be another key factor can provide useful information
-- Batch process cross all the stock price
-- Basic graph and interactive user interface are necessary in this product
-- Search engine on timer-series data
-- Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzE0NjY2OSwtMjA5OTU5Nzk4OCwxOT
-ExOTMwODgxXX0=
+eyJoaXN0b3J5IjpbLTE2ODQ0OTg0MDcsLTIwOTk1OTc5ODgsMT
+kxMTkzMDg4MV19
 -->
