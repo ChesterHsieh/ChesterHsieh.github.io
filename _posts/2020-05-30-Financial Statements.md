@@ -91,7 +91,8 @@ There are few assumption make here:
 
 This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three different turning  points, and they represent 3 Great recession. Following question is where the currency goes? 
 
-## 
+## Stock will go low- Do we hit the bottom?
+[Did the Stock Market Bottom?](https://www.youtube.com/watch?v=jW_iwk5e5y4&t=789s) explains well about the moment. 
 
 
 
@@ -104,6 +105,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE5Mzk4MDMsLTExMDQ3NDk0MjksLT
-IwOTk1OTc5ODgsMTkxMTkzMDg4MV19
+eyJoaXN0b3J5IjpbLTcxOTMzMjI3OSwtMTczMTkzOTgwMywtMT
+EwNDc0OTQyOSwtMjA5OTU5Nzk4OCwxOTExOTMwODgxXX0=
 -->
