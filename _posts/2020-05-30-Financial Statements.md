@@ -80,8 +80,11 @@ Due to incoming global recession, oil, coal, natural gas requirements are decrea
 
 # Gold
 Currency != Money, that's all idea come from. 
+There are few assumption make here:
 
-
+1. Money supply is increasing
+2. Stock will go low
+3. Gold supply/Demand stay stable.
 
 
 # Terminology Section
@@ -92,6 +95,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUwMDgwMTIsLTIwOTk1OTc5ODgsMT
-kxMTkzMDg4MV19
+eyJoaXN0b3J5IjpbMTc2OTgxODgyMCwtMjA5OTU5Nzk4OCwxOT
+ExOTMwODgxXX0=
 -->
