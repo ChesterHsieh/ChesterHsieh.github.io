@@ -83,8 +83,12 @@ Currency != Money, that's all idea come from.
 There are few assumption make here:
 
 1. Money supply is increasing
-2. Stock will go low
+2. Stock will go low in the crisis
 3. Gold supply/Demand stay stable.
+
+## Money Supply 
+[]
+[Click Here for original data](https://tradingeconomics.com/united-states/money-supply-m0)
 
 
 # Terminology Section
@@ -95,6 +99,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTgxODgyMCwtMjA5OTU5Nzk4OCwxOT
+eyJoaXN0b3J5IjpbLTk5OTgwMDc2NCwtMjA5OTU5Nzk4OCwxOT
 ExOTMwODgxXX0=
 -->
