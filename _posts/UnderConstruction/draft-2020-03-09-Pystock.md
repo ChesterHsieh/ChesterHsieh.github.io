@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Pikybot Development note
+subtitle:  Build a picky bot to grab the money
+date:       2020-06-04
+author:    Chester
+header-img: 
+catalog: true
+tags:
+   Project
+---
+
 
 You can also render sequence diagrams like this:
 
@@ -48,7 +60,7 @@ Note right of Bob: Bob thinks  Bob->Alice: I am good thanks!
 - Search engine on timer-series data
 - Personal models storage 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjYyMzkzNSwxNTQzODQyODYzLC0yMD
+eyJoaXN0b3J5IjpbMTM3MjQ4ODQwOSwxNTQzODQyODYzLC0yMD
 c2NTYxNzg5LDIzMzA2Mjg5MywxNjc1ODc2NDUzLC0xNTkyNzQw
 MjYyLDY0OTA5NzAxM119
 -->
