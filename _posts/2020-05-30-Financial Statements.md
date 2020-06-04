@@ -100,7 +100,9 @@ This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three diffe
 Here's the extra factors at this time, Covid-19. Even in the best case, it still need to take years to distribute vaccine to most relevant countires, which include some poor countries.
 
 ## GoTd supply and demend.
-The last factor is inevitable to be discussed. Even we believe the 2 assumptions above, any goods/real estate can be the option. For example, oil is somethi
+The last factor is inevitable to be discussed. Even we believe the 2 assumptions above, any goods/real estate can be the option. For example, oil is something necessary for most industrial, but price is going to crash in Feburary. 
+
+Because the demand and supply play essential role in price. 
 
 
  
@@ -112,7 +114,7 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTgwNDk0MSwtNzE5MzMyMjc5LC0xNz
+eyJoaXN0b3J5IjpbLTY1MzQ1MTI2NywtNzE5MzMyMjc5LC0xNz
 MxOTM5ODAzLC0xMTA0NzQ5NDI5LC0yMDk5NTk3OTg4LDE5MTE5
 MzA4ODFdfQ==
 -->
