@@ -91,6 +91,8 @@ There are few assumption make here:
 
 This graph shows the m0 supply in past 25 years. 2008, 2013,2020 are three different turning  points, and they represent 3 Great recession. Following question is where the currency goes? 
 
+## 
+
 
 
 
@@ -102,6 +104,6 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ3NDk0MjksLTIwOTk1OTc5ODgsMT
-kxMTkzMDg4MV19
+eyJoaXN0b3J5IjpbLTE3MzE5Mzk4MDMsLTExMDQ3NDk0MjksLT
+IwOTk1OTc5ODgsMTkxMTkzMDg4MV19
 -->
