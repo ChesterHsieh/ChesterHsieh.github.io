@@ -132,43 +132,10 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 
 
 
------
-Framework
-React + Al 透過工具操作他.
-	Access a big tree. 
-		特過工具. 
-Quick Code:
-	Jquery 操作方格 
-		cons:
 
-For example	
-	- batch access
-
----------
-# Shoplus
-SDK  for Taiwan 
-
-User Experience: 
- social ecommerce: 
-	 賣家價值觀+跟我一樣...
-	 Interview for cosmetic user.
-		 Msg with selfish + cosmetic interaction. 
-		 Chatting inbox message. Keep in touch -> conversation with ppl.
-		 Buying intent -> real buying
-		 哪一攤最多圍觀.   小編有大量需求配對. 簡單問題.  
-
-VN style:
-	- 黑名單. 誰不付錢
-AI-Live -> 留言變成訂單
-AI-Chatbot-> Ask address?  錯的收據/假得收據.  
-Order management system -> 
-
-
-- Market Whole view
-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5NT
-cxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OTAs
-LTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4Mz
-UwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbNTcyOTU0MjU5LDM3NDY4MDI1OSwzMzAyMD
+I0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYs
+OTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1Nj
+UwNDMwNCwxODM1MDk3ODY1XX0=
 -->
