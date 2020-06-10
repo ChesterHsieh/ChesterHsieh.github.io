@@ -134,11 +134,14 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 Short answer: Bankruptcy is bad
 Median answer: Bankruptcy is the legal process for companies or individuals when they can't pay their debts
 
+**Chapter 7**
+**Chapter 11**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjkyODc5Niw1NzI5NTQyNTksMzc0Nj
-gwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwt
-MTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nz
-g1ODcwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbLTc2NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mj
+k1NDI1OSwzNzQ2ODAyNTksMzMwMjAyNDYyLC03Mzk1NzE0NzYs
+Mzk1ODY1Mjc1LC0xODA3NzY1ODM2LDkxMjg4OTQ5MCwtMTc5ND
+cxNjkzOSwtNzg3ODU4NzA3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2
+NV19
 -->
