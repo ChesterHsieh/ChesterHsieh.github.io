@@ -111,7 +111,9 @@ Oil supply isn't something stable, the amount of supply increses steadly over ye
 
 ![Gold dmend & supply](https://lh3.googleusercontent.com/JVxR3_Ve8S570Dbz-rWZ9S6mH7oNfCUkcWxQMl8m-q79BtWYT_MsMumSkohKL3SnqmXZykfFT9eW "Gold dmend & supply")
  [Gold demend and supply](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics) is comparatively stable in every aspects. 
+[Portfolio_gold.png](https://github.com/ChesterHsieh/ChesterHsieh.github.io/blob/master/img/Portfolio_gold.png "Portfolio_gold.png")
 
+<img src="img/Emoticons/Portfolio_gold.png" alt="hi" class="inline"/>
 
 ## Sum up
 Let's talk if we agree the assumptions. We should know the currency need to find the exit, the real estate/money/stock is the primary ways for inflation. 
@@ -139,9 +141,9 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mj
-k1NDI1OSwzNzQ2ODAyNTksMzMwMjAyNDYyLC03Mzk1NzE0NzYs
-Mzk1ODY1Mjc1LC0xODA3NzY1ODM2LDkxMjg4OTQ5MCwtMTc5ND
-cxNjkzOSwtNzg3ODU4NzA3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2
-NV19
+eyJoaXN0b3J5IjpbLTU0NDg4NTE2LC03NjUwMjEyMjMsMTUxMj
+kyODc5Niw1NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMjQ2Miwt
+NzM5NTcxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4OD
+k0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0
+LDE4MzUwOTc4NjVdfQ==
 -->
