@@ -11,7 +11,9 @@ tags:
 ---
 How many posts about how to become a investment master, especially recent time between craziest February to May. I have to admit to this. *Yes, I'm one of the many*. This post is more like prevent me from being cocky and record everything I found in the path. 
 
-All the failures 
+All the failures and success has their meaning, but without the notes, I won't learn anything.
+
+
 
 # Stock
 
@@ -139,9 +141,9 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTM4Nzc1NCw5MTU1Njc0MDIsLTQzMD
-A0MzU0MSwtNzY1MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0MjU5
-LDM3NDY4MDI1OSwzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4Nj
-UyNzUsLTE4MDc3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5
-LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMTIzMDU1NzU0LDkxNTU2NzQwMiwtNDMwMD
+QzNTQxLC03NjUwMjEyMjMsMTUxMjkyODc5Niw1NzI5NTQyNTks
+Mzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NT
+I3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5Mzks
+LTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
 -->
