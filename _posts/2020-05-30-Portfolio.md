@@ -105,7 +105,7 @@ Here's the extra factors at this time, Covid-19. Even in the best case, it still
 The last factor is inevitable to be discussed. Even we believe the 2 assumptions above, any goods/real estate can be the option. For example, oil is something necessary for most industrial, but price is going to crash in Feburary. 
 
 Because the demand and supply play essential role in price. 
-![Oil demend&supply](https://lh3.googleusercontent.com/7MVHm9AZM-bzUaG_ifGk3XXWHCcqZ5RxlvqLy1kZ3qN9YRQzR8dwtTAThc3TNBSNTv9JX34tD7Tc "Oil demend&supply")
+![Oil demend&supply](https://github.com/ChesterHsieh/ChesterHsieh.github.io/blob/master/img/Portfolio_oil.png?raw=true "Oil demend&supply")
 
 Oil supply isn't something stable, the amount of supply increses steadly over years.
 
@@ -139,9 +139,9 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDA0MzU0MSwtNzY1MDIxMjIzLDE1MT
-I5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MDI1OSwzMzAyMDI0NjIs
-LTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYsOTEyOD
-g5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwNDMw
-NCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2NT
+AyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNTks
+MzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3Nz
+Y1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4NzA3
+LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
 -->
