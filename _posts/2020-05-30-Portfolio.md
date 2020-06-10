@@ -9,7 +9,7 @@ catalog: true
 tags:
    Stock
 ---
-How many posts about how to become a investent master, especially recent 
+How many posts about how to become a investment master, especially recent time between craziest February to May. I have to admit to this. *Yes, I'm one of the many*. This post is more like prevent me from being cocky 
 
 # Stock
 
@@ -137,9 +137,9 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzQ5MDk2LDkxNTU2NzQwMiwtNDMwMD
-QzNTQxLC03NjUwMjEyMjMsMTUxMjkyODc5Niw1NzI5NTQyNTks
-Mzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NT
-I3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5Mzks
-LTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODY3NDI4MjYsOTE1NTY3NDAyLC00Mz
+AwNDM1NDEsLTc2NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1
+OSwzNzQ2ODAyNTksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1OD
+Y1Mjc1LC0xODA3NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkz
+OSwtNzg3ODU4NzA3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
 -->
