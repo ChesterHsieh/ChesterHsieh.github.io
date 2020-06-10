@@ -4,7 +4,7 @@ title:      Portfolio
 subtitle:   Review and Record. 
 date:       2020-05-30
 author:    Chester
-header-img: 
+header-img: https://unsplash.com/photos/uevmkfCH98Q
 catalog: true
 tags:
    Stock
@@ -117,10 +117,10 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3MTE3NTksMTIzMDU1NzU0LDkxNTU2Nz
-QwMiwtNDMwMDQzNTQxLC03NjUwMjEyMjMsMTUxMjkyODc5Niw1
-NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxND
-c2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3
-OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0LDE4MzUwOT
-c4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3MzUxNzkwNjEsODk3MTE3NTksMTIzMD
+U1NzU0LDkxNTU2NzQwMiwtNDMwMDQzNTQxLC03NjUwMjEyMjMs
+MTUxMjkyODc5Niw1NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMj
+Q2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5
+MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NT
+A0MzA0LDE4MzUwOTc4NjVdfQ==
 -->
