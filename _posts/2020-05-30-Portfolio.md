@@ -130,12 +130,14 @@ asset - liability = owner's equity
 - **debt v.s. cash**
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
+## Bankrupt
+Short anwser: 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyOTU0MjU5LDM3NDY4MDI1OSwzMzAyMD
-I0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYs
-OTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1Nj
-UwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbMTgxNjMwNjMyMiw1NzI5NTQyNTksMzc0Nj
+gwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwt
+MTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nz
+g1ODcwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
 -->
