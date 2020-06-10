@@ -131,13 +131,13 @@ asset - liability = owner's equity
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
 ## Bankrupt
-Short anwser: Bankruptcy is bad
-Median anwser: the legal process for companies or individuals when they can't pay their debts
+Short answer: Bankruptcy is bad
+Median answer: Bankruptcy is the legal process for companies or individuals when they can't pay their debts
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjg0Mzg5OSw1NzI5NTQyNTksMzc0Nj
+eyJoaXN0b3J5IjpbMTUxMjkyODc5Niw1NzI5NTQyNTksMzc0Nj
 gwMjU5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwt
 MTgwNzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nz
 g1ODcwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
