@@ -36,7 +36,7 @@ Target to different categorical:
 
 ### ARLP
 
-
+![](https://unsplash.com/photos/uevmkfCH98Q)
 
 ## Future-Plan to buy in 
 ### PAA
@@ -117,10 +117,10 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUxNzkwNjEsODk3MTE3NTksMTIzMD
-U1NzU0LDkxNTU2NzQwMiwtNDMwMDQzNTQxLC03NjUwMjEyMjMs
-MTUxMjkyODc5Niw1NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMj
-Q2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5
-MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NT
-A0MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbNTUzNTEyNzExLDg5NzExNzU5LDEyMzA1NT
+c1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwtNzY1MDIxMjIzLDE1
+MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MDI1OSwzMzAyMDI0Nj
+IsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYsOTEy
+ODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwND
+MwNCwxODM1MDk3ODY1XX0=
 -->
