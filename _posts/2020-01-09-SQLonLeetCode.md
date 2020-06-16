@@ -10,7 +10,7 @@ tags:
    Job
 ---
 # Intro
-This tutor is very focus on how to solve the question from interviews. 
+This tutor is very focus on how to solve the question from interviews. It's not always true or efficiency to have such queries on real big database. I'll use MS sql as primary sql tool to solve the questions, since the MS sql is more freu
 
 
 # Primary section
@@ -240,7 +240,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjQzOTQyMSwxMDg4NTAxNTAsNTEzMT
+eyJoaXN0b3J5IjpbLTgzNjE4NzY0MywxMDg4NTAxNTAsNTEzMT
 k3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3
 OV19
 -->
