@@ -9,6 +9,9 @@ catalog: true
 tags:
    Job
 ---
+# Intro
+This tutor is very focus on how to solve the question from interviews. 
+
 
 # Primary section
 - join
@@ -233,13 +236,11 @@ PIVOT
 ) AS MonthsRevenue
 ```
 
-# Different DB issue
-Here's collection of some difference between Mysql, MS SQL, Orcal. Try to help the user get used 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgwMzY2MzIsMTA4ODUwMTUwLDUxMz
-E5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4
-NzldfQ==
+eyJoaXN0b3J5IjpbLTUzMjQzOTQyMSwxMDg4NTAxNTAsNTEzMT
+k3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3
+OV19
 -->
