@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Nail down the SQL interview question
+subtitle:   Tight arsenal to 
+date:       2020-01-09
+author:    Chester
+header-img: img/makeup_title.jpeg
+catalog: true
+tags:
+   Job
+---
+
 # Primary section
 - join
 - Window function
@@ -224,6 +236,6 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MT
-YzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTg4OTE2Nzk4LDUxMzE5NzE2NCwtMzYyMj
+Y4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
 -->
