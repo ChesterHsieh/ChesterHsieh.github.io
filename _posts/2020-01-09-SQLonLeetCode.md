@@ -233,9 +233,13 @@ PIVOT
 ) AS MonthsRevenue
 ```
 
+# Different DB issue
+Here's collection of some difference between Mysql, MS SQL, Orcal. Try to help the user get used 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMj
-Y4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTE0NjgwMzY2MzIsMTA4ODUwMTUwLDUxMz
+E5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4
+NzldfQ==
 -->
