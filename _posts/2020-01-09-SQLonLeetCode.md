@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Nail down the SQL interview question
-subtitle:   Tight arsenal to 
+subtitle:   Tight arsenal to crack the questions
 date:       2020-01-09
 author:    Chester
 header-img: img/makeup_title.jpeg
@@ -236,6 +236,6 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTE2Nzk4LDUxMzE5NzE2NCwtMzYyMj
+eyJoaXN0b3J5IjpbMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMj
 Y4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
 -->
