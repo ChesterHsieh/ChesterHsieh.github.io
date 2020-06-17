@@ -11,8 +11,12 @@ tags:
 ---
 
 # Chapter 1
+Print + color. Add 
+```python
+print('\033[92m' + all_positive_tweets[random.randint(0,5000)])
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTc4NzQzLC0xOTQxMjU0OTVdfQ==
+eyJoaXN0b3J5IjpbNzg3NjE5ODk4LC0xOTQxMjU0OTVdfQ==
 -->
