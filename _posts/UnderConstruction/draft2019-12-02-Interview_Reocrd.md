@@ -147,7 +147,7 @@ Return Value before
 - streaming data
 - Boy or Girl paradox
 
-## Real Question
+ㄥ## Real Question
 - what's activation function we shouldn't use on last layer?
 - List all activation function 
 - Hypothsis of linear regression
@@ -162,10 +162,11 @@ Return Value before
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDYyMzM1LC0xNDEwOTQwNDE0LC0xMj
-M4NTM4NzA2LC0xNDk1OTk0NjM3LC0xMzYwMTM0ODA2LC0yMzc1
-MzUwMjMsMTkwMzAwNDA5LC03MjU1OTczNDksODUxNTIwNDgxLC
-0zNTE4MjI3MTYsMjAwNTgwNzg2MCwzMDI3MTA4ODksMTA3MzY2
-ODcxLC0xOTc2MDU2NDc0LDE5NjI2NjQ0NywxOTIzNTEyNTkwLD
-E0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3MDU4MzAxOF19
+eyJoaXN0b3J5IjpbLTE5OTIyMDAyMzgsOTgzNDYyMzM1LC0xND
+EwOTQwNDE0LC0xMjM4NTM4NzA2LC0xNDk1OTk0NjM3LC0xMzYw
+MTM0ODA2LC0yMzc1MzUwMjMsMTkwMzAwNDA5LC03MjU1OTczND
+ksODUxNTIwNDgxLC0zNTE4MjI3MTYsMjAwNTgwNzg2MCwzMDI3
+MTA4ODksMTA3MzY2ODcxLC0xOTc2MDU2NDc0LDE5NjI2NjQ0Ny
+wxOTIzNTEyNTkwLDE0MzIzNjgwMjQsLTE4MjAwNDQ1MCwtMTM3
+MDU4MzAxOF19
 -->
