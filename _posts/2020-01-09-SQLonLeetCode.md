@@ -12,20 +12,15 @@ tags:
 # Intro
 This tutor is very focus on how to solve the question from interviews. It's not always true or efficiency to have such queries on real big database. I'll use MS sql as primary sql tool to solve the questions, since the MS sql is more frequently pop out on job description from Linkedin. 
 
-- join
-- Window function
-- Aggregate
-- Date data 
-- Data type
-- Logic Process
-- Variable
-- Clause
-- Function
-- Pivot
+
 
 # Clause
 What's minimum unit in RDBMS?
 
+## ORDER BY
+- Rows cluase
+## MS SQL special
+don't allow wher PAIR in SELECT .
 
 # More than one table ?!
 *leetcode 608*
@@ -160,11 +155,6 @@ ELSE value_else
 END
 ```
 
-# Clause
-## ORDER BY
-- Rows cluase
-## MS SQL special
-don't allow wher PAIR in SELECT .
 
 # Function
 - Variable @/ DECLARE
@@ -259,7 +249,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMD
-g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
-MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMz
+E2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEy
+NiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
 -->
