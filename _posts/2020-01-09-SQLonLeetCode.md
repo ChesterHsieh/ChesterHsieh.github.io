@@ -24,7 +24,12 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Pivot
 
 # More than one table ?!
-In real 
+We all need to answer this question first "Why DB need multiple table"
+Having 1 giant table is called, Denormalization. Breaking that giant table into multiple tables is called, Normalization. The appeal of Database Normalization is that is prevents:
+
+-   Insert Anomalies: When you need to insert some data, but all required values are not known, so it is impossible to conduct the insert.
+-   Update Anomalies: When 1 single attribute of something changes in the real world, but you have to update multiple rows, multiple columns, or both. There is risk in these rows and/or columns getting out of sync.
+-   Delete Anomalies: You need to delete some data, but there is data in the rows that you want to keep. You either have to forego the delete, or conduct the delete and lose the data. 
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
@@ -240,7 +245,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NTYxMTIsLTEzMTYxMDAxMDksMTA4OD
-UwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAs
-LTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTIzNDMxMDE2OSwtMTMxNjEwMDEwOSwxMD
+g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
+MCwtMTI2ODc3Mjg3OV19
 -->
