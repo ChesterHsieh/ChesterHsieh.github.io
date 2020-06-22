@@ -24,6 +24,8 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Pivot
 
 # More than one table ?!
+leetcode 608
+
 We all need to answer this question first "Why DB needs multiple table?"
 
 > Having 1 giant table is called, Denormalization. Breaking that giant
@@ -38,12 +40,11 @@ We all need to answer this question first "Why DB needs multiple table?"
 > -   Delete Anomalies: You need to delete some data, but there is data in the rows that you want to keep. You either have to forego the
 > delete, or conduct the delete and lose the data.
 
-Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables. For any   
+Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables, sometimes, two table are the same one.   
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
 ## JOIN 
-
 
 # Window function
 Leetcode 185
@@ -254,7 +255,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjg0MTM0MiwtMTMxNjEwMDEwOSwxMD
-g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
-MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTE1MTA0Nzk2MjcsLTEzMTYxMDAxMDksMT
+A4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAz
+NDAsLTEyNjg3NzI4NzldfQ==
 -->
