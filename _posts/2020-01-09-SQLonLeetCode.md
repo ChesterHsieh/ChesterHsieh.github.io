@@ -24,7 +24,7 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Pivot
 
 # Clause
-What's minimum unit in RMDB
+What's minimum unit in RDBMS?
 
 
 # More than one table ?!
@@ -259,7 +259,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMzk4MTE4LC0xMzE2MTAwMTA5LDEwOD
-g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
-LC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMD
+g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
+MCwtMTI2ODc3Mjg3OV19
 -->
