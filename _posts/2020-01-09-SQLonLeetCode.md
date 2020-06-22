@@ -15,7 +15,9 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 
 
 # Clause
-What's minimum unit in RDBMS?
+What's minimum unit in RDBMS? I'll say it's **Clause**
+
+
 
 ## ORDER BY
 - Rows cluase
@@ -249,7 +251,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMz
-E2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEy
-NiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbOTQzMzE4MzIsMTg0NDUwNjk3NywtNTM5ND
+ExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQs
+LTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
 -->
