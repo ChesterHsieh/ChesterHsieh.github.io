@@ -23,7 +23,8 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Function
 - Pivot
 
-# More than one table
+# More than one table ?!
+In real 
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
@@ -239,7 +240,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzM0NjQ0NSwtMTMxNjEwMDEwOSwxMD
-g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
-MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbNzk4NTYxMTIsLTEzMTYxMDAxMDksMTA4OD
+UwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAs
+LTEyNjg3NzI4NzldfQ==
 -->
