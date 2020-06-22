@@ -16,7 +16,12 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 
 # Clause
 What's minimum unit in RDBMS? I'll say it's **Clause**
-
+ 
+- order by
+- top
+- group by
+- having
+- 
 
 
 ## ORDER BY
@@ -251,7 +256,8 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMzE4MzIsMTg0NDUwNjk3NywtNTM5ND
-ExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQs
-LTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbMjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mz
+k0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2
+NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ
+==
 -->
