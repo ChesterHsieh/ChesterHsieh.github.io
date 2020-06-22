@@ -23,8 +23,12 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Function
 - Pivot
 
+# Clause
+What's minimum unit in RMDB
+
+
 # More than one table ?!
-leetcode 608
+*leetcode 608*
 
 We all need to answer this question first "Why DB needs multiple table?"
 
@@ -42,12 +46,12 @@ We all need to answer this question first "Why DB needs multiple table?"
 
 Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables, sometimes, two table are the same one.   
 ## UNION/EXCEPT/INTERSET
-leetcode 608
+
 If the question can be divide and conque. Union can simply add the result.
 ## JOIN 
 
 # Window function
-Leetcode 185
+*Leetcode 185*
 ```sql
 FUNCTION() OVER ([ <PARTITION BY clause> ] 
 	  [ <ORDER BY clause> ] 
@@ -255,7 +259,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA0Nzk2MjcsLTEzMTYxMDAxMDksMT
-A4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAz
-NDAsLTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbOTYxMzk4MTE4LC0xMzE2MTAwMTA5LDEwOD
+g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
+LC0xMjY4NzcyODc5XX0=
 -->
