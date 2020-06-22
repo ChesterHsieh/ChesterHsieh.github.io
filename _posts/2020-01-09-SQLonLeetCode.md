@@ -12,11 +12,6 @@ tags:
 # Intro
 This tutor is very focus on how to solve the question from interviews. It's not always true or efficiency to have such queries on real big database. I'll use MS sql as primary sql tool to solve the questions, since the MS sql is more frequently pop out on job description from Linkedin. 
 
-# One Day reader
-
-
-
-# Primary section
 - join
 - Window function
 - Aggregate
@@ -27,7 +22,8 @@ This tutor is very focus on how to solve the question from interviews. It's not 
 - Clause
 - Function
 - Pivot
-# Join multiple table
+
+# More than one table
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
@@ -243,7 +239,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMz
-E5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4
-NzldfQ==
+eyJoaXN0b3J5IjpbMTQzMzM0NjQ0NSwtMTMxNjEwMDEwOSwxMD
+g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
+MCwtMTI2ODc3Mjg3OV19
 -->
