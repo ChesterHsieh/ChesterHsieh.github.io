@@ -38,7 +38,7 @@ We all need to answer this question first "Why DB needs multiple table?"
 > -   Delete Anomalies: You need to delete some data, but there is data in the rows that you want to keep. You either have to forego the
 > delete, or conduct the delete and lose the data.
 
-Therefore, in most of rational database 
+Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables. For any   
 ## UNION/EXCEPT/INTERSET
 leetcode 608
 If the question can be divide and conque. Union can simply add the result.
@@ -254,7 +254,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNTA5OTY1LC0xMzE2MTAwMTA5LDEwOD
-g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
-LC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbMTYzMjg0MTM0MiwtMTMxNjEwMDEwOSwxMD
+g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
+MCwtMTI2ODc3Mjg3OV19
 -->
