@@ -14,7 +14,11 @@ In this post, I'm going to guide you how to crack SQL interview questions.  I'll
 
 
 # Who need this post?
-Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database 4 basic i
+Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database principles. 
+
+# Getting start
+ To make sure you've already have 
+
 # Clause
 What's minimum unit in RDBMS? I'll say it's **Clause**
  
@@ -257,8 +261,8 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTYwNDkxLDIwMjgwNzE4MTQsMTg0ND
-UwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1
-MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMj
-Y4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxOD
+Q0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUw
+MTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLT
+EyNjg3NzI4NzldfQ==
 -->
