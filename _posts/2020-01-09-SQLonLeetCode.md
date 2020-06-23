@@ -9,8 +9,8 @@ catalog: true
 tags:
    Job
 ---
-# Intro
-This tutor is very focus on how to solve the question from interviews. It's not always true or efficiency to have such queries on real big database. I'll use MS sql as primary sql tool to solve the questions, since the MS sql is more frequently pop out on job description from Linkedin. 
+
+In this post, I'm going to guide you how to crack SQL interview questions.  I'll use MS sql as primary sql tool to solve the questions, since the MS sql is more frequently pop out on job description from Linkedin. 
 
 
 
@@ -256,8 +256,8 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mz
-k0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2
-NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ
-==
+eyJoaXN0b3J5IjpbNzEwODUyNTE3LDIwMjgwNzE4MTQsMTg0ND
+UwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1
+MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMj
+Y4NzcyODc5XX0=
 -->
