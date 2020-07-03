@@ -230,7 +230,7 @@ FOR
 ) AS <alias for the pivot table>  
 <optional ORDER BY clause>;
 
-## Improtant! 
+## Important! 
 	[<column that contains the values that will become column headers>]   :
 Represent the original column cotains the future column headers
 
@@ -263,8 +263,8 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEsMj
-AyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMTYx
-MDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2LC
-0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMj
+A1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQx
+MTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC
+0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
