@@ -1,10 +1,13 @@
 # Build A Knowledge graph!
-Two resource: 
+Two resources are limited: 
 1. Time
-2. Storage 
+2. Storage
+ 
+Therefore, any question will surround this two:
 How to reduce time?
 How to scale up
--------
+
+-----
 
 Backend/Frontend/Interface
 
@@ -22,5 +25,6 @@ Question Type:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODI2NTQ5NSwtMTYwMTg3NTM4N119
+eyJoaXN0b3J5IjpbLTExMzg0Mzg2OTQsMTg2ODI2NTQ5NSwtMT
+YwMTg3NTM4N119
 -->
