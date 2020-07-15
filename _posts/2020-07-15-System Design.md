@@ -25,10 +25,12 @@ Top-Down
 
 Then, it will go deeper into 1 or 2 component
  1. Provide multiple solutions
- 2. Evaluate them for pros/coo
+ 2. Evaluate them for pros/cons
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYwNjg1MjMsLTExMzg0ODI5ODYsLT
-QzNzA2ODEwMSwtMTEzODQzODY5NCwxODY4MjY1NDk1LC0xNjAx
-ODc1Mzg3XX0=
+eyJoaXN0b3J5IjpbMTUwNTMzNzI4MywtMTEzODQ4Mjk4NiwtND
+M3MDY4MTAxLC0xMTM4NDM4Njk0LDE4NjgyNjU0OTUsLTE2MDE4
+NzUzODddfQ==
 -->
