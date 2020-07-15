@@ -17,8 +17,10 @@ Question Type:
 - How many input? 10B/s
 - Where is data come from? logs
 - Lantacy? 100ms in 99%
-- VM spec?  4cpu 16g ram , 20gb shard memory
+- VM spec?  4cpu 16g ram , 20gb shared memory
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODk0MzAxOCwtMTYwMTg3NTM4N119
+eyJoaXN0b3J5IjpbMTg2ODI2NTQ5NSwtMTYwMTg3NTM4N119
 -->
