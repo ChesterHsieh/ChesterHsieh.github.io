@@ -23,8 +23,14 @@ Question Type:
 - VM spec?  4cpu 16g ram , 20gb shared memory
 
 
+--------
+Top-Down
+
+Create component
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg0Mzg2OTQsMTg2ODI2NTQ5NSwtMT
-YwMTg3NTM4N119
+eyJoaXN0b3J5IjpbLTQzNzA2ODEwMSwtMTEzODQzODY5NCwxOD
+Y4MjY1NDk1LC0xNjAxODc1Mzg3XX0=
 -->
