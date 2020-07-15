@@ -1,10 +1,14 @@
 # Build A Knowledge graph!
-Three resource: 
-1. Computing 
-       2. 
+Two resource: 
+1. Time
+2. Storage 
 
 How to reduce time?
 How to scale up
+
+**Backend**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzQ0MTE3LC0xNjAxODc1Mzg3XX0=
+eyJoaXN0b3J5IjpbLTEyNzg0Mzc0MDEsLTE2MDE4NzUzODddfQ
+==
 -->
