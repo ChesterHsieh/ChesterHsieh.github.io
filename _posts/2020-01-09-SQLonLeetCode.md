@@ -20,7 +20,7 @@ Some junior data related job seekers. Not knowing database too much or try to le
  To make sure you already pass these 2 web site 
  - w3school
  - hackrank
- Then... Let's rockroll on leetcode. f
+ Then... Let's rockroll on leetcode. For most of questions, the database questions on leetcode need to pay for play.
 
 # Clause
 What's minimum unit in RDBMS? I'll say it's **Clause**
@@ -75,7 +75,6 @@ FUNCTION() OVER ([ <PARTITION BY clause> ]
 - UNBOUNDED FOLLOWING
 - ?FOLLOWING
 - ?PRECEDING
-
 
 
 
@@ -139,7 +138,8 @@ Example :
 ```sql
 CONVERT(int, ListPrice)
 ```
-
+# String operation
+For some
 ## Pick only LEFT or RIGHT
 ```sql
 SELECT LEFT('2017-03-31',7)
@@ -264,9 +264,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NTc1ODMxLC02MTUzMzc4NzEsLTIwNT
-MyMDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2
-OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLD
-UxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3
-NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTg2MDc4Mzg2MCwtNjE1MzM3ODcxLC0yMD
+UzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUw
+Njk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MC
+w1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4
+NzcyODc5XX0=
 -->
