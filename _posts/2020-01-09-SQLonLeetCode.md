@@ -139,12 +139,13 @@ Example :
 CONVERT(int, ListPrice)
 ```
 # String operation
-For some
+For some useful function can directly mod/access the data. 
 ## Pick only LEFT or RIGHT
 ```sql
 SELECT LEFT('2017-03-31',7)
 ```
 => "2017-03"
+
 # Logic Process
 ## IF ELSE statement
 Leetcode 608
@@ -264,9 +265,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDc4Mzg2MCwtNjE1MzM3ODcxLC0yMD
-UzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUw
-Njk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MC
-w1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4
-NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMj
+A1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1
+MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNT
+AsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2
+ODc3Mjg3OV19
 -->
