@@ -20,6 +20,7 @@ Some junior data related job seekers. Not knowing database too much or try to le
  To make sure you already pass these 2 web site 
  - w3school
  - hackrank
+ Then... Let's rockroll on leetcode. f
 
 # Clause
 What's minimum unit in RDBMS? I'll say it's **Clause**
@@ -263,8 +264,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMj
-A1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQx
-MTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC
-0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbODI3NTc1ODMxLC02MTUzMzc4NzEsLTIwNT
+MyMDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2
+OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLD
+UxMzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3
+NzI4NzldfQ==
 -->
