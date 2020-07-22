@@ -38,7 +38,7 @@ What's minimum unit in RDBMS? I'll say it's **Clause**
 don't allow wher PAIR in SELECT .
 
 # More than one table ?!
-*leetcode 608*
+*leetcode 608, 1350*
 
 We all need to answer this question first "Why DB needs multiple table?"
 
@@ -265,9 +265,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMj
-A1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1
-MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNT
-AsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2
-ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLT
+YxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4
+MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMD
+EwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0
+MTYzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
