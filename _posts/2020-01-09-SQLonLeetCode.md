@@ -66,7 +66,6 @@ As a data user, window function is inevitable part of analysis. Why it so import
 
 ## Aggregation
 If we assume all the data as giant single window. The aggregation is the way to extract the statistical insight on data set. 
-   
 - **SUM/AVG/MIN/MAX**
 	They are easy to understand.
 - **Median**
@@ -74,8 +73,9 @@ If we assume all the data as giant single window. The aggregation is the way to 
 - **VAR/STDEV**
 	More stats
 
-## Set thee window
-*Leetcode 185*
+## Set the window
+Easy window questions : *Leetcode 185*
+
 ```sql
 FUNCTION() OVER ([ <PARTITION BY clause> ] 
 	  [ <ORDER BY clause> ] 
@@ -289,10 +289,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTExMzYyLC0xMzgxNzc0NTc5LC0xNj
-AwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMy
-MDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OT
-c3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUx
-MzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3Nz
-I4NzldfQ==
+eyJoaXN0b3J5IjpbLTEzNzc0NzAwMjQsLTEzODE3NzQ1NzksLT
+E2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1
+MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MD
+Y5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAs
+NTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2OD
+c3Mjg3OV19
 -->
