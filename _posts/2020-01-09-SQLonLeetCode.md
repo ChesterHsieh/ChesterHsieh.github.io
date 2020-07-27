@@ -63,7 +63,9 @@ Therefore, the query in most of relational database is need to twinkle multiple 
 **UNION/EXCEPT/INTERSECT/JOIN**
 **WITH statement**
 For every coder, to make the code easier to understand is holy grail. 
-
+```sql
+WITH Sales_CTE (SalesPersonID, SalesOrderID, SalesYear) AS  -- Define the CTE query. ( SELECT SalesPersonID, SalesOrderID, YEAR(OrderDate) AS SalesYear FROM Sales.SalesOrderHeader WHERE SalesPersonID IS  NOT  NULL ) -- Define the outer query referencing the CTE name. SELECT SalesPersonID, COUNT(SalesOrderID) AS TotalSales, SalesYear FROM Sales_CTE GROUP  BY SalesYear, SalesPersonID ORDER  BY SalesPersonID, SalesYear;
+```
 
 # Window function
 As a data user, window function is inevitable part of analysis. Why it so important in interview? It can be daily function on even simple task.
@@ -306,11 +308,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwMjA5NDUwLDU0OTc5NDc0NSwtMjA5Nz
-E0MzkxOCwtNzQ0OTQ5NDAzLDExMTk5NTIwNDMsLTIzMTM2ODI0
-MywtODEwNzY1NzM3LC0xMzc3NDcwMDI0LC0xMzgxNzc0NTc5LC
-0xNjAwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIw
-NTMyMDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NT
-A2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUw
-LDUxMzE5NzE2NF19
+eyJoaXN0b3J5IjpbLTEyMDA0Nzg1MTMsNDkwMjA5NDUwLDU0OT
+c5NDc0NSwtMjA5NzE0MzkxOCwtNzQ0OTQ5NDAzLDExMTk5NTIw
+NDMsLTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMzc3NDcwMDI0LC
+0xMzgxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5ODg5MDY2LC02
+MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEsMjAyOD
+A3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAx
+MDksMTA4ODUwMTUwXX0=
 -->
