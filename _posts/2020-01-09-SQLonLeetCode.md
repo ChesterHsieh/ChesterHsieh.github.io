@@ -62,7 +62,7 @@ Therefore, the query in most of relational database is need to twinkle multiple 
 
 **UNION/EXCEPT/INTERSECT/JOIN**
 **WITH statement**
-For every coder, to make the code easier to understand is holy grail.  with statement can divide the sub task with clean boarder. Last part can organize previous parts into overall result. 
+For every coder, to make the code easier to understand is holy grail.  with statement can divide the sub task with clean boarder. Last part can organize previous parts into overall result.  
 ```sql
 -- Define the CTE expression name and column list.  
 WITH Sales_CTE (SalesPersonID, SalesOrderID, SalesYear)  
@@ -321,11 +321,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTc1MTcyLDQ5MDIwOTQ1MCw1NDk3OT
-Q3NDUsLTIwOTcxNDM5MTgsLTc0NDk0OTQwMywxMTE5OTUyMDQz
-LC0yMzEzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMT
-M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
-MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
-E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
-LDEwODg1MDE1MF19
+eyJoaXN0b3J5IjpbODEzMTkzOTQsNDkwMjA5NDUwLDU0OTc5ND
+c0NSwtMjA5NzE0MzkxOCwtNzQ0OTQ5NDAzLDExMTk5NTIwNDMs
+LTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMzc3NDcwMDI0LC0xMz
+gxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUz
+Mzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MT
+gxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDks
+MTA4ODUwMTUwXX0=
 -->
