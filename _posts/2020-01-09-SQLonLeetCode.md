@@ -61,6 +61,7 @@ We all need to answer this question first "Why DB needs multiple table?"
 Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables, sometimes, two table are the same one.   
 
 **UNION/EXCEPT/INTERSECT/JOIN**
+**WITH statement**
 
 
 
@@ -305,11 +306,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcxNDM5MTgsLTc0NDk0OTQwMywxMT
-E5OTUyMDQzLC0yMzEzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3
-MDAyNCwtMTM4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OT
-A2NiwtNjE1MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkx
-LDIwMjgwNzE4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMz
-E2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEy
-NiwtMjQxNjMwMzQwXX0=
+eyJoaXN0b3J5IjpbNTQ5Nzk0NzQ1LC0yMDk3MTQzOTE4LC03ND
+Q5NDk0MDMsMTExOTk1MjA0MywtMjMxMzY4MjQzLC04MTA3NjU3
+MzcsLTEzNzc0NzAwMjQsLTEzODE3NzQ1NzksLTE2MDAxNTgwMD
+ksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwt
+MjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOT
+QxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0
+LC0zNjIyNjgxMjZdfQ==
 -->
