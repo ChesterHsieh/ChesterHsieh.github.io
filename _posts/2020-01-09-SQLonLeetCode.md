@@ -14,9 +14,9 @@ In this post, I'm going to guide you how to crack SQL interview questions.  I'll
 
 
 # Who need this post?
-Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database principles. However, keep in mind big O issue is also important. It can be 
+Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database principles. However, keep in mind big O issue is also important. It can be common following questions. 
 
-# Getting start
+**Getting start**
  To make sure you already pass these 2 web site 
  - w3school
  - hackrank
@@ -29,7 +29,6 @@ What's minimum unit in RDBMS? I'll say it's **Clause**
 - top
 - group by
 - having
--
 
 
 
@@ -56,7 +55,8 @@ We all need to answer this question first "Why DB needs multiple table?"
 > delete, or conduct the delete and lose the data.
 
 Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables, sometimes, two table are the same one.   
-## UNION/EXCEPT/INTERSET/JOIN
+
+**UNION/EXCEPT/INTERSECT/JOIN**
 
 
 
@@ -276,9 +276,9 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc5NTY4MywtMTYwMDE1ODAwOSwtMT
-MwOTg4OTA2NiwtNjE1MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4
-OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUwNjk3NywtNTM5NDExNz
-g2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2
-MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTEzODE3NzQ1NzksLTE2MDAxNTgwMDksLT
+EzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1
+ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMT
+c4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0z
+NjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
