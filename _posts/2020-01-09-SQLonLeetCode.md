@@ -170,7 +170,8 @@ If you think that's the regular express? nah... half and half.  Unlike the regul
 - **%** mean the one or more characters 
 - **_** mean one characters
 Here's some examples:
-1. LIKE '%@leetcode',  12341dsafasdfe4@leetcode is valid for pattern. However
+1. `LIKE '%@leetcode'`  12341dsafasdfe4@leetcode is valid for pattern. [:alpha:]+@leetcode is the same pattern for regex
+2. 
 # Conditional control
 ## IF ELSE statement
 *Leetcode 608*
@@ -293,7 +294,7 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDAyMzQzOCwtMTM3NzQ3MDAyNCwtMT
+eyJoaXN0b3J5IjpbLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMT
 M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
 MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
 E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
