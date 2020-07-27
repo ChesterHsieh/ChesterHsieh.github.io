@@ -69,7 +69,7 @@ If we assume all the data as giant single window. The aggregation is the way to 
 - **SUM/AVG/MIN/MAX**
 	They are easy to understand.
 - **Median**
-	Hohohoho! This is not cute at all. Check *Leetcode569*. Take out the median, the question is super easy. 
+	Hohohoho! This is not cute at all. Check *Leetcode569*. Take out the median, the question is super easy.  []
 - **VAR/STDEV**
 	More stats
 
@@ -296,11 +296,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjU3MjkwNSwxMTE5OTUyMDQzLC0yMz
-EzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMTM4MTc3
-NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3OD
-cxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQs
-MTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwOD
-g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
-LC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTExNjM3OTEwOTEsMTExOTk1MjA0MywtMj
+MxMzY4MjQzLC04MTA3NjU3MzcsLTEzNzc0NzAwMjQsLTEzODE3
+NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNz
+g3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0
+LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMD
+g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
+MCwtMTI2ODc3Mjg3OV19
 -->
