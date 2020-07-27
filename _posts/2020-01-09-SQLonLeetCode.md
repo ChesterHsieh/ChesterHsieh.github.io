@@ -25,13 +25,14 @@ Some junior data related job seekers. Not knowing database too much or try to le
 # Clause
 What's minimum unit in RDBMS? It's **Clause**. Most of operations is going to create/combine multiple clause. 
  
-- order by
+- **order by**
+    
 - top
 - group by
 - having
 
 **Key Question Warning !!!**
-W
+What's difference between *WHERE* and *HAVING*
 
 
 
@@ -304,11 +305,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDYwODAxOSwtNzQ0OTQ5NDAzLDExMT
-k5NTIwNDMsLTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMzc3NDcw
-MDI0LC0xMzgxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5ODg5MD
-Y2LC02MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEs
-MjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMT
-YxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2
-LC0yNDE2MzAzNDBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTcxNDM5MTgsLTc0NDk0OTQwMywxMT
+E5OTUyMDQzLC0yMzEzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3
+MDAyNCwtMTM4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OT
+A2NiwtNjE1MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkx
+LDIwMjgwNzE4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMz
+E2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEy
+NiwtMjQxNjMwMzQwXX0=
 -->
