@@ -133,7 +133,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 # Unique data type
 - Date
 - String
-- [Enumerate](#enum)
+- [Enumerate](##Enumerate)
 # Date data 
 - DATEADD(datepart, number, date)
 - DATEDIFF ( datepart , startdate , enddate)
@@ -141,7 +141,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 - BETWEEN can be apply to date format. Berween is inclusive both bound.
 
 
-## (#Enumerate)
+## Enumerate
 Leetcode 262
 ## CAST & CONVERT
 They are the same. Try use **CONVERT** only. Keep it simple and easy to rememver. 
@@ -156,8 +156,8 @@ Example :
 ```sql
 CONVERT(int, ListPrice)
 ```
-# String operation
-The questions sometime will come with varchar type data. I
+# String 
+
 
 **Pick only LEFT or RIGHT**
 ```sql
@@ -178,6 +178,7 @@ If you think that's the regular express? nah... half and half.  Unlike the regul
 Here's some examples:
 1. `LIKE '%@leetcode'`  12341dsafasdfe4@leetcode is valid for pattern. [:alpha:]+@leetcode is the same pattern for regex
 2. 
+
 # Conditional control
 ## IF ELSE statement
 *Leetcode 608*
@@ -300,11 +301,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1NjkzMjcsMTExOTk1MjA0MywtMj
-MxMzY4MjQzLC04MTA3NjU3MzcsLTEzNzc0NzAwMjQsLTEzODE3
-NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNz
-g3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0
-LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMD
-g4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0
-MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTc0NDk0OTQwMywxMTE5OTUyMDQzLC0yMz
+EzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMTM4MTc3
+NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3OD
+cxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQs
+MTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwOD
+g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
+LC0xMjY4NzcyODc5XX0=
 -->
