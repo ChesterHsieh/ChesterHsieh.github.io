@@ -133,7 +133,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 # Unique data type
 - Date
 - String
-- [Enumerate](## Enumerate)
+- [Enumerate](#enum)
 # Date data 
 - DATEADD(datepart, number, date)
 - DATEDIFF ( datepart , startdate , enddate)
@@ -141,7 +141,7 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 - BETWEEN can be apply to date format. Berween is inclusive both bound.
 
 
-## Enumerate
+## (#Enumerate)
 Leetcode 262
 ## CAST & CONVERT
 They are the same. Try use **CONVERT** only. Keep it simple and easy to rememver. 
@@ -300,7 +300,7 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE4MzkzMjksMTExOTk1MjA0MywtMj
+eyJoaXN0b3J5IjpbLTE4NzA1NjkzMjcsMTExOTk1MjA0MywtMj
 MxMzY4MjQzLC04MTA3NjU3MzcsLTEzNzc0NzAwMjQsLTEzODE3
 NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNz
 g3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0
