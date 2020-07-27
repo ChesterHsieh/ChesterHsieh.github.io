@@ -66,11 +66,13 @@ As a data user, window function is inevitable part of analysis. Why it so import
 
 ## Aggregation
 If we assume all the data as giant single window. The aggregation is the way to extract the statistical insight on data set. 
-- SUM/AVG/MIN/MAX
+   
+- **SUM/AVG/MIN/MAX**
 	They are easy to understand.
-- Median
-	Hohohoho! This is not cute at all. 
-- VAR/STDEV
+- **Median**
+	Hohohoho! This is not cute at all. Check *Leetcode569*. Take out the median, the question is super easy. 
+- **VAR/STDEV**
+	More stats
 
 ## Set thee window
 *Leetcode 185*
@@ -287,10 +289,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mzg4MjQyNywtMTM4MTc3NDU3OSwtMT
-YwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3ODcxLC0yMDUz
-MjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUwNj
-k3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1
-MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4Nz
-cyODc5XX0=
+eyJoaXN0b3J5IjpbMTM3OTExMzYyLC0xMzgxNzc0NTc5LC0xNj
+AwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMy
+MDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OT
+c3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUx
+MzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3Nz
+I4NzldfQ==
 -->
