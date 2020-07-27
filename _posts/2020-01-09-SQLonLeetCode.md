@@ -62,9 +62,22 @@ Therefore, the query in most of relational database is need to twinkle multiple 
 
 **UNION/EXCEPT/INTERSECT/JOIN**
 **WITH statement**
-For every coder, to make the code easier to understand is holy grail. 
+For every coder, to make the code easier to understand is holy grail.  with statement can divide the sub task with clean boarder. Last part can organize previous parts into overall result. 
 ```sql
-WITH Sales_CTE (SalesPersonID, SalesOrderID, SalesYear) AS  -- Define the CTE query. ( SELECT SalesPersonID, SalesOrderID, YEAR(OrderDate) AS SalesYear FROM Sales.SalesOrderHeader WHERE SalesPersonID IS  NOT  NULL ) -- Define the outer query referencing the CTE name. SELECT SalesPersonID, COUNT(SalesOrderID) AS TotalSales, SalesYear FROM Sales_CTE GROUP  BY SalesYear, SalesPersonID ORDER  BY SalesPersonID, SalesYear;
+-- Define the CTE expression name and column list.  
+WITH Sales_CTE (SalesPersonID, SalesOrderID, SalesYear)  
+AS  
+-- Define the CTE query.  
+(  
+    SELECT SalesPersonID, SalesOrderID, YEAR(OrderDate) AS SalesYear  
+    FROM Sales.SalesOrderHeader  
+    WHERE SalesPersonID IS NOT NULL  
+)  
+-- Define the outer query referencing the CTE name.  
+SELECT SalesPersonID, COUNT(SalesOrderID) AS TotalSales, SalesYear  
+FROM Sales_CTE  
+GROUP BY SalesYear, SalesPersonID  
+ORDER BY SalesPersonID, SalesYear;
 ```
 
 # Window function
@@ -308,11 +321,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA0Nzg1MTMsNDkwMjA5NDUwLDU0OT
-c5NDc0NSwtMjA5NzE0MzkxOCwtNzQ0OTQ5NDAzLDExMTk5NTIw
-NDMsLTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMzc3NDcwMDI0LC
-0xMzgxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5ODg5MDY2LC02
-MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEsMjAyOD
-A3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAx
-MDksMTA4ODUwMTUwXX0=
+eyJoaXN0b3J5IjpbOTcwMTc1MTcyLDQ5MDIwOTQ1MCw1NDk3OT
+Q3NDUsLTIwOTcxNDM5MTgsLTc0NDk0OTQwMywxMTE5OTUyMDQz
+LC0yMzEzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMT
+M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
+MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
+E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
+LDEwODg1MDE1MF19
 -->
