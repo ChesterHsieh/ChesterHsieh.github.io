@@ -167,9 +167,10 @@ The string trim down as "2017-03"
 WHERE condition LIKE '%SOMEKEYWORD%'
 ```
 If you think that's the regular express? nah... half and half.  Unlike the regular expres[(cheat sheet)](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), use "+" as infinity possible 
-- **%** mean the 
-- **_**
-
+- **%** mean the one or more characters 
+- **_** mean one characters
+Here's some examples:
+1. LIKE '%@leetcode',  12341dsafasdfe4@leetcode is valid for pattern. However
 # Conditional control
 ## IF ELSE statement
 *Leetcode 608*
@@ -292,7 +293,7 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTU5NDk4NCwtMTM3NzQ3MDAyNCwtMT
+eyJoaXN0b3J5IjpbMTE3NDAyMzQzOCwtMTM3NzQ3MDAyNCwtMT
 M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
 MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
 E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
