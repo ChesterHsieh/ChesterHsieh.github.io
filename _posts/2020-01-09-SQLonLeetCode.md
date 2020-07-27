@@ -14,7 +14,7 @@ In this post, I'm going to guide you how to crack SQL interview questions.  I'll
 
 
 # Who need this post?
-Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database principles. 
+Some junior data related job seekers. Not knowing database too much or try to learn with sql question. Unlike the real problem, the question won't touch more complicated issue around big data or database principles. However, keep in mind big O issue is also important. It can be 
 
 # Getting start
  To make sure you already pass these 2 web site 
@@ -180,22 +180,8 @@ END
 ```
 
 
-# Function
-Nah..
 
-- Variable @/ DECLARE
-```sql
-CREATE  FUNCTION dbo.ufnGetInventoryStock(@ProductID int) 
-RETURNS  int  
-AS 
-BEGIN  
-DECLARE @ret int; 
-SELECT @ret = SUM(p.Quantity) FROM Production.ProductInventory p WHERE p.ProductID = @ProductID AND p.LocationID = '6'; IF (@ret IS NULL) SET @ret = 0; 
-RETURN @ret; 
-END;
-```
-## Variable declaration 
-DECLARE @variable_name datatype
+
 
 # PIVOT
 When the question ask about column and rows transfer, pivot is very useful to deal with.
@@ -273,11 +259,26 @@ PIVOT
 
 
 
+# Function
+Last part in this short introduction. 
 
+- Variable @/ DECLARE
+```sql
+CREATE  FUNCTION dbo.ufnGetInventoryStock(@ProductID int) 
+RETURNS  int  
+AS 
+BEGIN  
+DECLARE @ret int; 
+SELECT @ret = SUM(p.Quantity) FROM Production.ProductInventory p WHERE p.ProductID = @ProductID AND p.LocationID = '6'; IF (@ret IS NULL) SET @ret = 0; 
+RETURN @ret; 
+END;
+```
+## Variable declaration 
+DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDY4NjY3LC0xNjAwMTU4MDA5LC0xMz
-A5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5
-MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3OD
-YsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYy
-MjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
+eyJoaXN0b3J5IjpbLTYwNzc5NTY4MywtMTYwMDE1ODAwOSwtMT
+MwOTg4OTA2NiwtNjE1MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4
+OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUwNjk3NywtNTM5NDExNz
+g2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2
+MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4NzcyODc5XX0=
 -->
