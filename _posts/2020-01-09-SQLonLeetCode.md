@@ -130,7 +130,10 @@ DENSE_RANK again gives you the ranking within your ordered partition, but the ra
 | 2 | 2 | 3|
 | 3 | 3 | 4 |
 
-# Data type
+# Unique data type
+- Date
+- String
+- [Enumerate](## Enumerate)
 # Date data 
 - DATEADD(datepart, number, date)
 - DATEDIFF ( datepart , startdate , enddate)
@@ -297,7 +300,7 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcyOTYyMDcsMTExOTk1MjA0MywtMj
+eyJoaXN0b3J5IjpbLTE5NTE4MzkzMjksMTExOTk1MjA0MywtMj
 MxMzY4MjQzLC04MTA3NjU3MzcsLTEzNzc0NzAwMjQsLTEzODE3
 NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNz
 g3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0
