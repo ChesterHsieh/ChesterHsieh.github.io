@@ -152,14 +152,17 @@ For some useful function can directly mod/access the data.
 ```sql
 SELECT LEFT('2017-03-31',7)
 ```
-=> "2017-03"
+The string trim down as "2017-03"
 
 **LIKE(regular express)**
-*Leetcode 527*
+*Leetcode 1527*
+```sql
+WHERE condition LIKE '%SOMEKEYWORD%'
+```
 
 # Conditional control
 ## IF ELSE statement
-Leetcode 608
+*Leetcode 608*
 ```sql
 iff(regulation, return1,return2)
 ```
@@ -279,10 +282,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MDI1MjIsLTEzODE3NzQ1NzksLTE2MD
-AxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIw
-MTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5Nz
-csLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEz
-MTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mj
-g3OV19
+eyJoaXN0b3J5IjpbNTI5NTI5MTIyLC0xMzgxNzc0NTc5LC0xNj
+AwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMy
+MDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OT
+c3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUx
+MzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3Nz
+I4NzldfQ==
 -->
