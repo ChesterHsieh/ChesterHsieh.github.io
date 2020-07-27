@@ -65,7 +65,8 @@ As a data user, window function is inevitable part of analysis. Why it so import
 
 
 ## Aggregation
-Before we get into m
+If we assume all the data as giant single window. The aggregation is the way to extract the statistical insight on data set. 
+- sum/avg/
 
 ## Set thee window
 *Leetcode 185*
@@ -180,6 +181,8 @@ END
 
 
 # Function
+Nah..
+
 - Variable @/ DECLARE
 ```sql
 CREATE  FUNCTION dbo.ufnGetInventoryStock(@ProductID int) 
@@ -191,7 +194,7 @@ SELECT @ret = SUM(p.Quantity) FROM Production.ProductInventory p WHERE p.Product
 RETURN @ret; 
 END;
 ```
-## Vairable
+## Variable declaration 
 DECLARE @variable_name datatype
 
 # PIVOT
@@ -272,9 +275,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM3MzAxMTgsLTE2MDAxNTgwMDksLT
-EzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1
-ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMT
-c4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0z
-NjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTM0MDY4NjY3LC0xNjAwMTU4MDA5LC0xMz
+A5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5
+MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3OD
+YsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYy
+MjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
 -->
