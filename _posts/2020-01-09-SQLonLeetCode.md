@@ -161,11 +161,12 @@ SELECT LEFT('2017-03-31',7)
 ```
 The string trim down as "2017-03"
 
-**LIKE(regular express)**
+**LIKE pattern**
 *Leetcode 1527*
 ```sql
 WHERE condition LIKE '%SOMEKEYWORD%'
 ```
+If you think that's the regular express? nah... half and half.  Unlike the regular expres(cheat sheet)[https://cheatography.com/davechild/cheat-sheets/regular-expressions/](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
 # Conditional control
 ## IF ELSE statement
@@ -289,10 +290,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc0NzAwMjQsLTEzODE3NzQ1NzksLT
-E2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1
-MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MD
-Y5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAs
-NTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2OD
-c3Mjg3OV19
+eyJoaXN0b3J5IjpbLTIxNDAxOTM5ODQsLTEzNzc0NzAwMjQsLT
+EzODE3NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYx
+NTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MD
+cxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEw
+OSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MT
+YzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
