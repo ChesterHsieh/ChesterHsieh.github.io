@@ -62,7 +62,7 @@ Therefore, the query in most of relational database is need to twinkle multiple 
 
 **UNION/EXCEPT/INTERSECT/JOIN**
 **WITH statement**
-
+For every coder, to make the code easier to understand is holy grail. 
 
 
 # Window function
@@ -306,11 +306,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5Nzk0NzQ1LC0yMDk3MTQzOTE4LC03ND
-Q5NDk0MDMsMTExOTk1MjA0MywtMjMxMzY4MjQzLC04MTA3NjU3
-MzcsLTEzNzc0NzAwMjQsLTEzODE3NzQ1NzksLTE2MDAxNTgwMD
-ksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwt
-MjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOT
-QxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0
-LC0zNjIyNjgxMjZdfQ==
+eyJoaXN0b3J5IjpbNDkwMjA5NDUwLDU0OTc5NDc0NSwtMjA5Nz
+E0MzkxOCwtNzQ0OTQ5NDAzLDExMTk5NTIwNDMsLTIzMTM2ODI0
+MywtODEwNzY1NzM3LC0xMzc3NDcwMDI0LC0xMzgxNzc0NTc5LC
+0xNjAwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIw
+NTMyMDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NT
+A2OTc3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUw
+LDUxMzE5NzE2NF19
 -->
