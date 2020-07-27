@@ -61,6 +61,13 @@ Therefore, the query in most of relational database is need to twinkle multiple 
 
 
 # Window function
+As a data user, window function is inevitable part of analysis. Why it so important in interview? It can be daily function on even simple task.
+
+
+## Aggregation
+Before we get into m
+
+## Set thee window
 *Leetcode 185*
 ```sql
 FUNCTION() OVER ([ <PARTITION BY clause> ] 
@@ -265,7 +272,7 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc5NjkxMzgsLTE2MDAxNTgwMDksLT
+eyJoaXN0b3J5IjpbLTE4NjM3MzAxMTgsLTE2MDAxNTgwMDksLT
 EzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1
 ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMT
 c4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0z
