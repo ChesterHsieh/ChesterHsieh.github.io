@@ -166,7 +166,9 @@ The string trim down as "2017-03"
 ```sql
 WHERE condition LIKE '%SOMEKEYWORD%'
 ```
-If you think that's the regular express? nah... half and half.  Unlike the regular expres(cheat sheet)[https://cheatography.com/davechild/cheat-sheets/regular-expressions/](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+If you think that's the regular express? nah... half and half.  Unlike the regular expres[(cheat sheet)](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), use "+" as infinity possible 
+- **%** mean the 
+- **_**
 
 # Conditional control
 ## IF ELSE statement
@@ -290,10 +292,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAxOTM5ODQsLTEzNzc0NzAwMjQsLT
-EzODE3NzQ1NzksLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLTYx
-NTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4MD
-cxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMDEw
-OSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0MT
-YzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbMTAzMTU5NDk4NCwtMTM3NzQ3MDAyNCwtMT
+M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
+MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
+E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
+LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNj
+MwMzQwLC0xMjY4NzcyODc5XX0=
 -->
