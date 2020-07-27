@@ -162,11 +162,13 @@ SELECT LEFT('2017-03-31',7)
 The string trim down as "2017-03"
 
 **LIKE pattern**
-*Leetcode 1527*
+Easy: *Leetcode 1527*
+Mid: *Leetcode1517*
+
 ```sql
 WHERE condition LIKE '%SOMEKEYWORD%'
 ```
-If you think that's the regular express? nah... half and half.  Unlike the regular expres[(cheat sheet)](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), use "+" as infinity possible 
+If you think that's the regular express? nah... half and half.  Unlike the regular expres[(cheat sheet)](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), use "+" as infinity possible .[LIKE rule from MS sql](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/like-transact-sql?view=sql-server-ver15)
 - **%** mean the one or more characters 
 - **_** mean one characters
 Here's some examples:
@@ -294,10 +296,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMT
-M4MTc3NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1
-MzM3ODcxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNz
-E4MTQsMTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5
-LDEwODg1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNj
-MwMzQwLC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbLTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMz
+c3NDcwMDI0LC0xMzgxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5
+ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MD
+g4OTEsMjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYs
+LTEzMTYxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMj
+Y4MTI2LC0yNDE2MzAzNDAsLTEyNjg3NzI4NzldfQ==
 -->
