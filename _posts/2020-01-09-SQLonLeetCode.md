@@ -23,12 +23,15 @@ Some junior data related job seekers. Not knowing database too much or try to le
  Then... Let's rockroll on leetcode. For most of questions, the database questions on leetcode need to pay for play.
 
 # Clause
-What's minimum unit in RDBMS? I'll say it's **Clause**
+What's minimum unit in RDBMS? It's **Clause**. Most of operations is going to create/combine multiple clause. 
  
 - order by
 - top
 - group by
 - having
+
+**Key Question Warning !!!**
+W
 
 
 
@@ -301,11 +304,11 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDk0OTQwMywxMTE5OTUyMDQzLC0yMz
-EzNjgyNDMsLTgxMDc2NTczNywtMTM3NzQ3MDAyNCwtMTM4MTc3
-NDU3OSwtMTYwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3OD
-cxLC0yMDUzMjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQs
-MTg0NDUwNjk3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwOD
-g1MDE1MCw1MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQw
-LC0xMjY4NzcyODc5XX0=
+eyJoaXN0b3J5IjpbMTEzNDYwODAxOSwtNzQ0OTQ5NDAzLDExMT
+k5NTIwNDMsLTIzMTM2ODI0MywtODEwNzY1NzM3LC0xMzc3NDcw
+MDI0LC0xMzgxNzc0NTc5LC0xNjAwMTU4MDA5LC0xMzA5ODg5MD
+Y2LC02MTUzMzc4NzEsLTIwNTMyMDE0NDksLTIwNTg5MDg4OTEs
+MjAyODA3MTgxNCwxODQ0NTA2OTc3LC01Mzk0MTE3ODYsLTEzMT
+YxMDAxMDksMTA4ODUwMTUwLDUxMzE5NzE2NCwtMzYyMjY4MTI2
+LC0yNDE2MzAzNDBdfQ==
 -->
