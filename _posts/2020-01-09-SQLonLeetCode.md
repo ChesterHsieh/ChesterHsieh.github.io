@@ -29,7 +29,8 @@ What's minimum unit in RDBMS? I'll say it's **Clause**
 - top
 - group by
 - having
-- 
+-
+
 
 
 ## ORDER BY
@@ -55,10 +56,9 @@ We all need to answer this question first "Why DB needs multiple table?"
 > delete, or conduct the delete and lose the data.
 
 Therefore, the query in most of relational database is need to twinkle multiple table. There's primary key to connect two tables, sometimes, two table are the same one.   
-## UNION/EXCEPT/INTERSET
+## UNION/EXCEPT/INTERSET/JOIN
 
-If the question can be divide and conque. Union can simply add the result.
-## JOIN 
+
 
 # Window function
 *Leetcode 185*
@@ -265,9 +265,9 @@ PIVOT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAxNTgwMDksLTEzMDk4ODkwNjYsLT
-YxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1ODkwODg5MSwyMDI4
-MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMTc4NiwtMTMxNjEwMD
-EwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0zNjIyNjgxMjYsLTI0
-MTYzMDM0MCwtMTI2ODc3Mjg3OV19
+eyJoaXN0b3J5IjpbLTE1ODc5NjkxMzgsLTE2MDAxNTgwMDksLT
+EzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIwMTQ0OSwtMjA1
+ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5NzcsLTUzOTQxMT
+c4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEzMTk3MTY0LC0z
+NjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mjg3OV19
 -->
