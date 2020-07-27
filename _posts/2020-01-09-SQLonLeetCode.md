@@ -147,7 +147,8 @@ Example :
 CONVERT(int, ListPrice)
 ```
 # String operation
-For some useful function can directly mod/access the data. 
+The questions sometime will come with varchar type data. I
+
 **Pick only LEFT or RIGHT**
 ```sql
 SELECT LEFT('2017-03-31',7)
@@ -282,10 +283,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NTI5MTIyLC0xMzgxNzc0NTc5LC0xNj
-AwMTU4MDA5LC0xMzA5ODg5MDY2LC02MTUzMzc4NzEsLTIwNTMy
-MDE0NDksLTIwNTg5MDg4OTEsMjAyODA3MTgxNCwxODQ0NTA2OT
-c3LC01Mzk0MTE3ODYsLTEzMTYxMDAxMDksMTA4ODUwMTUwLDUx
-MzE5NzE2NCwtMzYyMjY4MTI2LC0yNDE2MzAzNDAsLTEyNjg3Nz
-I4NzldfQ==
+eyJoaXN0b3J5IjpbMTU0MzQ3NzM3NiwtMTM4MTc3NDU3OSwtMT
+YwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3ODcxLC0yMDUz
+MjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUwNj
+k3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1
+MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4Nz
+cyODc5XX0=
 -->
