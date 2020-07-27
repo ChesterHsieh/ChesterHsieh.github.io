@@ -148,13 +148,16 @@ CONVERT(int, ListPrice)
 ```
 # String operation
 For some useful function can directly mod/access the data. 
-## Pick only LEFT or RIGHT
+**Pick only LEFT or RIGHT**
 ```sql
 SELECT LEFT('2017-03-31',7)
 ```
 => "2017-03"
 
-# Conditi
+**LIKE(regular express)**
+*Leetcode 527*
+
+# Conditional control
 ## IF ELSE statement
 Leetcode 608
 ```sql
@@ -276,10 +279,10 @@ END;
 ## Variable declaration 
 DECLARE @variable_name datatype
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTEzMTU4MCwtMTM4MTc3NDU3OSwtMT
-YwMDE1ODAwOSwtMTMwOTg4OTA2NiwtNjE1MzM3ODcxLC0yMDUz
-MjAxNDQ5LC0yMDU4OTA4ODkxLDIwMjgwNzE4MTQsMTg0NDUwNj
-k3NywtNTM5NDExNzg2LC0xMzE2MTAwMTA5LDEwODg1MDE1MCw1
-MTMxOTcxNjQsLTM2MjI2ODEyNiwtMjQxNjMwMzQwLC0xMjY4Nz
-cyODc5XX0=
+eyJoaXN0b3J5IjpbNjc1MDI1MjIsLTEzODE3NzQ1NzksLTE2MD
+AxNTgwMDksLTEzMDk4ODkwNjYsLTYxNTMzNzg3MSwtMjA1MzIw
+MTQ0OSwtMjA1ODkwODg5MSwyMDI4MDcxODE0LDE4NDQ1MDY5Nz
+csLTUzOTQxMTc4NiwtMTMxNjEwMDEwOSwxMDg4NTAxNTAsNTEz
+MTk3MTY0LC0zNjIyNjgxMjYsLTI0MTYzMDM0MCwtMTI2ODc3Mj
+g3OV19
 -->
