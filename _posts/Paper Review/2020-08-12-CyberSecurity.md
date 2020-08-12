@@ -8,7 +8,6 @@ To approach this **HUGE TOPIC**, let's break down it into smaller pieces.
 	- Model attack: On purpose to fill in fake data.
 	- Identify GAN or Fake Something. Likes: fake spam email. do something to cracking the auto detection. Fake click on Ads
 - 
-	- 
 # DS devops
 > **DevOps** is a set of practices that combines [software development](https://en.wikipedia.org/wiki/Software_development "Software development") (_Dev_) and [IT operations](https://en.wikipedia.org/wiki/IT_operations "IT operations")
 1.  [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code "Infrastructure as code")
@@ -21,6 +20,6 @@ To approach this **HUGE TOPIC**, let's break down it into smaller pieces.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzAwNTM1NCw0NjIxOTg3ODksMTQzOT
-QwMjI0MCwxMTE4OTAwOTAwXX0=
+eyJoaXN0b3J5IjpbLTUwMzk2ODgwNywtNzEzMDA1MzU0LDQ2Mj
+E5ODc4OSwxNDM5NDAyMjQwLDExMTg5MDA5MDBdfQ==
 -->
