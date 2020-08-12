@@ -3,7 +3,8 @@
 
 To approch this **HUGE TOPIC**, let's break down it into smaller pieces. 
 
-- Data type? What kind of structurd/semistructured data se
+- Data type? What kind of structured/semistructured data sets will be seen in this field. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk0ODI1MTddfQ==
+eyJoaXN0b3J5IjpbLTE5MDc2MTA3ODVdfQ==
 -->
