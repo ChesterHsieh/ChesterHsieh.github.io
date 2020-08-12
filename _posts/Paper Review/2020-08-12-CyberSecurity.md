@@ -6,7 +6,8 @@ To approch this **HUGE TOPIC**, let's break down it into smaller pieces.
 - Data type? What kind of structured/semistructured data sets will be seen in this field. 
 - What kind of attacker? 
 	- Model attack: On purpose to fill in fake data.
-	- Identify GAN or Fake Som
+	- Identify GAN or Fake Something. Likes: fake spam email. do something to cracking the auto detection. Fake click on Ads
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MzA1MV19
+eyJoaXN0b3J5IjpbMTExODkwMDkwMF19
 -->
