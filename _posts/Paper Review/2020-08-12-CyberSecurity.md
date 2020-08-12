@@ -9,9 +9,11 @@ To approach this **HUGE TOPIC**, let's break down it into smaller pieces.
 	- Identify GAN or Fake Something. Likes: fake spam email. do something to cracking the auto detection. Fake click on Ads
 - 
 	- 
-# AWS Automation
+# DS devops
+> **DevOps** is a set of practices that combines [software development](https://en.wikipedia.org/wiki/Software_development "Software development") (_Dev_) and [IT operations](https://en.wikipedia.org/wiki/IT_operations "IT operations")
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMTk4Nzg5LDE0Mzk0MDIyNDAsMTExOD
-kwMDkwMF19
+eyJoaXN0b3J5IjpbMTUxOTM3OTYyMyw0NjIxOTg3ODksMTQzOT
+QwMjI0MCwxMTE4OTAwOTAwXX0=
 -->
