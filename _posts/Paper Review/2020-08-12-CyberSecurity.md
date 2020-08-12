@@ -7,7 +7,8 @@ To approach this **HUGE TOPIC**, let's break down it into smaller pieces.
 - What kind of attacker? 
 	- Model attack: On purpose to fill in fake data.
 	- Identify GAN or Fake Something. Likes: fake spam email. do something to cracking the auto detection. Fake click on Ads
+- 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTgzODM5NSwxMTE4OTAwOTAwXX0=
+eyJoaXN0b3J5IjpbMTQzOTQwMjI0MCwxMTE4OTAwOTAwXX0=
 -->
