@@ -9,6 +9,8 @@ To approach this **HUGE TOPIC**, let's break down it into smaller pieces.
 	- Identify GAN or Fake Something. Likes: fake spam email. do something to cracking the auto detection. Fake click on Ads
 - 
 	- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTQwMjI0MCwxMTE4OTAwOTAwXX0=
+eyJoaXN0b3J5IjpbLTE5NzUyOTgyNTgsMTQzOTQwMjI0MCwxMT
+E4OTAwOTAwXX0=
 -->
