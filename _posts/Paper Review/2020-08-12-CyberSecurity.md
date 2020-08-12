@@ -5,6 +5,8 @@ To approch this **HUGE TOPIC**, let's break down it into smaller pieces.
 
 - Data type? What kind of structured/semistructured data sets will be seen in this field. 
 - What kind of attacker? 
+	- Model attack: On purpose to fill in fake data.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzM5MDMxMF19
+eyJoaXN0b3J5IjpbLTExMTIyNzcyMDJdfQ==
 -->
