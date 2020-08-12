@@ -4,7 +4,7 @@
 To approch this **HUGE TOPIC**, let's break down it into smaller pieces. 
 
 - Data type? What kind of structured/semistructured data sets will be seen in this field. 
-- 
+- What kind of attacker? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc2MTA3ODVdfQ==
+eyJoaXN0b3J5IjpbMTE4NzM5MDMxMF19
 -->
