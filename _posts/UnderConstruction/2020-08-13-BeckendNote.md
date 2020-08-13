@@ -11,11 +11,12 @@ To build xxx API .
 # Web
 - ASGI
 - WSGI
+一開始為了將Server Code/Application Code 做區隔. Web Server Gateway interface相應而生.
 ## ASGI
 
 ## WSGI
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3Nzk0ODgzLC00ODE5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbOTgwNDExMjc0LC00ODE5NzU4ODJdfQ==
 -->
