@@ -22,7 +22,7 @@ To build xxx API .
 	- uWSGI
 ## WSGI limitation
 - Web Socket並沒有被官方支援
-- 
+- 沒有支援async/await
 ## ASGI
 
 ## ASGI
@@ -31,5 +31,5 @@ To build xxx API .
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTEwMzIyNSwtNDgxOTc1ODgyXX0=
+eyJoaXN0b3J5IjpbLTE0MjcwODMzOTAsLTQ4MTk3NTg4Ml19
 -->
