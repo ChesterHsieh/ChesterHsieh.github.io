@@ -17,9 +17,12 @@ To build xxx API .
 - WSGI Framework:
 	- Django
 	- Flask
-- WSGI
+- WSGI Servers
 	- gunicorn
-	- 
+	- uWSGI
+## WSGI limitation
+- Web Socket並沒有被官方支援
+- 
 ## ASGI
 
 ## ASGI
@@ -28,5 +31,5 @@ To build xxx API .
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNDk3OTkzLC00ODE5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbMTY2MTEwMzIyNSwtNDgxOTc1ODgyXX0=
 -->
