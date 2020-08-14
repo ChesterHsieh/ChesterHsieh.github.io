@@ -32,9 +32,11 @@ To build xxx API .
 
 # Terminologies
 - websocket
-- 
+> The **WebSocket API** is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+
+兩個關鍵字. Poll/two-way. Restful API 是無法達成這樣的功能. 如果User需要某個資料
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA0Mzk4NjEsLTE0MjcwODMzOTAsLT
-Q4MTk3NTg4Ml19
+eyJoaXN0b3J5IjpbOTY0MjE2MDM1LC0xNDI3MDgzMzkwLC00OD
+E5NzU4ODJdfQ==
 -->
