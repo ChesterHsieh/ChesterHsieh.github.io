@@ -4,11 +4,13 @@ To build xxx API .
 - Scalable
 
 # Environment
-## Docker
-## Pycharm-testing
+
+
+
+
 # APP
 
-# Web
+# Routers
 看起來明顯分成兩大不同陣營
 - wsgi
 - asgi
@@ -28,6 +30,9 @@ Django channel 是一開始推動這個問題得library.
 ![Framework](http://5b0988e595225.cdn.sohucs.com/images/20191025/021b70608b0f46baa770340b5fabb2d3.jpeg)
 
 
+## Nginx
+
+
 
 # Terminologies
 - websocket
@@ -38,6 +43,6 @@ Django channel 是一開始推動這個問題得library.
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTU4NjcwLC0xMTQzMjY1MDU2LC0xND
-I3MDgzMzkwLC00ODE5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTc5ODg2NjEsMTY3OTU4NjcwLC0xMT
+QzMjY1MDU2LC0xNDI3MDgzMzkwLC00ODE5NzU4ODJdfQ==
 -->
