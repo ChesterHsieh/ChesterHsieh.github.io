@@ -30,9 +30,11 @@ To build xxx API .
 ## WSGI
 
 
-#
+# Terminologies
+- websocket
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTYwMzI3OSwtMTQyNzA4MzM5MCwtND
-gxOTc1ODgyXX0=
+eyJoaXN0b3J5IjpbLTE1OTA0Mzk4NjEsLTE0MjcwODMzOTAsLT
+Q4MTk3NTg4Ml19
 -->
