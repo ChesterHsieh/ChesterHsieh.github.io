@@ -24,6 +24,9 @@ To build xxx API .
 - Web Socket並沒有被官方支援
 - 沒有支援async/await
 ## ASGI
+Django channel 是一開始推動這個問題得library. 
+![Framework](http://5b0988e595225.cdn.sohucs.com/images/20191025/021b70608b0f46baa770340b5fabb2d3.jpeg)
+
 
 
 # Terminologies
@@ -35,6 +38,6 @@ To build xxx API .
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyNjUwNTYsLTE0MjcwODMzOTAsLT
-Q4MTk3NTg4Ml19
+eyJoaXN0b3J5IjpbMTY3OTU4NjcwLC0xMTQzMjY1MDU2LC0xND
+I3MDgzMzkwLC00ODE5NzU4ODJdfQ==
 -->
