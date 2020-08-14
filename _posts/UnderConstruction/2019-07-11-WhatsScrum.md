@@ -7,7 +7,8 @@ catalog: true
 tags:
     Job
 ---
-
+# Intro
+I was working for my first commercial project, my mentor ask me **Do you know what's the scrum and agile** 
 
 
 # To understand Scum master
@@ -33,5 +34,5 @@ Class, 繼承, interface. Abstract class( 安排程式碼的未來可能性). Mo
 
 clean architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzEwMzE3OF19
+eyJoaXN0b3J5IjpbOTI3Nzk3ODNdfQ==
 -->
