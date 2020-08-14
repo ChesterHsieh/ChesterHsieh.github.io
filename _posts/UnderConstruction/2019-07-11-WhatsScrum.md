@@ -8,7 +8,10 @@ tags:
     Job
 ---
 # Intro
-I was working for my first commercial project, my mentor ask me **Do you know what's the scrum and agile?**. It's like invisible  elephant stays at room. Everyone is talking about that, but **I** don't know details about it. Attended first stand up meeting, filed the first ticket(story) and finished the little stars. 
+I was working for my first commercial project, my mentor ask me **Do you know what's the scrum and agile?**. It's like invisible  elephant stays at room. Everyone is talking about that, but **I** don't know details about it. Attended first stand up meeting, filed the first ticket(story) and finished the little stars. I finally touch something there.
+
+# rule of thumb
+
 
 
 # To understand Scum master
@@ -34,5 +37,5 @@ Class, 繼承, interface. Abstract class( 安排程式碼的未來可能性). Mo
 
 clean architecture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDk5MzExM119
+eyJoaXN0b3J5IjpbLTc4Nzk3MDU4XX0=
 -->
