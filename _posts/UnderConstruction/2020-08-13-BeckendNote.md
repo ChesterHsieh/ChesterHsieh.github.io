@@ -31,6 +31,7 @@ Django channel 是一開始推動這個問題得library.
 
 
 ## Nginx
+middleware
 
 
 
@@ -43,6 +44,6 @@ Django channel 是一開始推動這個問題得library.
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc5ODg2NjEsMTY3OTU4NjcwLC0xMT
-QzMjY1MDU2LC0xNDI3MDgzMzkwLC00ODE5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbMTYzMDQyMTM1OSwxNjc5NTg2NzAsLTExND
+MyNjUwNTYsLTE0MjcwODMzOTAsLTQ4MTk3NTg4Ml19
 -->
