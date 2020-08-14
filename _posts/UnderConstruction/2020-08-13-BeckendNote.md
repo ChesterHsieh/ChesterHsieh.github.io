@@ -20,14 +20,10 @@ To build xxx API .
 - WSGI Servers
 	- gunicorn
 	- uWSGI
-## WSGI limitation
+### WSGI limitation
 - Web Socket並沒有被官方支援
 - 沒有支援async/await
 ## ASGI
-
-## ASGI
-
-## WSGI
 
 
 # Terminologies
@@ -39,6 +35,6 @@ To build xxx API .
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NzcyMDE5LC0xNDI3MDgzMzkwLC00OD
-E5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbLTExNDMyNjUwNTYsLTE0MjcwODMzOTAsLT
+Q4MTk3NTg4Ml19
 -->
