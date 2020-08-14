@@ -30,8 +30,8 @@ Django channel 是一開始推動這個問題得library.
 ![Framework](http://5b0988e595225.cdn.sohucs.com/images/20191025/021b70608b0f46baa770340b5fabb2d3.jpeg)
 
 
-## Nginx
-middleware
+# WebServer
+middle
 
 
 
@@ -44,6 +44,6 @@ middleware
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDQyMTM1OSwxNjc5NTg2NzAsLTExND
+eyJoaXN0b3J5IjpbLTI1ODM1NzM5MCwxNjc5NTg2NzAsLTExND
 MyNjUwNTYsLTE0MjcwODMzOTAsLTQ4MTk3NTg4Ml19
 -->
