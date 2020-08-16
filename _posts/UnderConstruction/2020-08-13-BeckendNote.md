@@ -34,6 +34,8 @@ Django channel 是一開始推動這個問題得library.
 NGINX,
 Web server, load balancer, reverse proxy
 
+# Quick Way Out-Heroku
+Fail to understand everything. Heroku sounds a good exit. 
 
 
 # Terminologies
@@ -45,6 +47,7 @@ Web server, load balancer, reverse proxy
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMzNzI0ODksMTY3OTU4NjcwLC0xMT
-QzMjY1MDU2LC0xNDI3MDgzMzkwLC00ODE5NzU4ODJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzEyNjczNDUsLTEyMzMzNzI0ODksMT
+Y3OTU4NjcwLC0xMTQzMjY1MDU2LC0xNDI3MDgzMzkwLC00ODE5
+NzU4ODJdfQ==
 -->
