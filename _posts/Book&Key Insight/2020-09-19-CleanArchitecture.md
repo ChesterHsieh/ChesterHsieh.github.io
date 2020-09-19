@@ -1,6 +1,8 @@
 # SOLID 老實說
 五個各自的設計原則, 其實並不完全的MEMC(Mutually Exclusive Collectively Exhaustive). 
-ISP 跟 DIP 我覺得是有因果關係的.
+LSP 跟 DIP 我覺得是有因果關係的.
+
+## LIS
 ## Interface segregation principle
 叫它"包包不要帶太多原則". 你要用包包, 但你希望你帶這個包包必須只有你會用到的功能.
 
@@ -32,6 +34,6 @@ Class MYSQL_HANDLER():
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTYzMTk1LC0xMDYwNDQ3MjU1LC04OT
+eyJoaXN0b3J5IjpbODU1ODY3NDE2LC0xMDYwNDQ3MjU1LC04OT
 MyMzUxNTYsMjk0NjE1OTYsLTE5ODIzMzk0MzFdfQ==
 -->
