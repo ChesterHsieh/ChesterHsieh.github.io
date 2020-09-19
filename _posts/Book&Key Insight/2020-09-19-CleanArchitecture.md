@@ -8,7 +8,7 @@ Class MYSQL_HANDLER():
 		configs = json.loads("./config.json")
 		self.handler = SOME_DB_CLIENT()
 	def query_for_user_inf(self):
-		self.handler.query(
+		return self.handler.query(
 			"""
 			SELECT * FROM db.user_info
 			"""
@@ -19,9 +19,12 @@ Class MYSQL_HANDLER():
 比較簡單的一點的做法
 ```python
 	def query_for_user_inf(self,query:str):
-		f = open(f"{}", "r")
+		with f = open(f"./{query}.sql", "r"):
+			ret = self.handler.query(f.read())
+		return ret
 ```
+將幾乎是經常更動的部
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzU2OTA2LDI5NDYxNTk2LC0xOTgyMz
-M5NDMxXX0=
+eyJoaXN0b3J5IjpbLTEzNDY3MTk2MTQsMjk0NjE1OTYsLTE5OD
+IzMzk0MzFdfQ==
 -->
