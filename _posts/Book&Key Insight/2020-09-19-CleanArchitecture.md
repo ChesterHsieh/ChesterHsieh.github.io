@@ -8,10 +8,13 @@ Class MYSQL_HANDLER():
 		configs = json.loads("./config.json")
 		self.handler = SOME_DB_CLIENT()
 	def query_for_user_inf(self):
-		self.handler.query(_
-	
+		self.handler.query(
+			"""
+			SELECT * FROM db.user_info
+			"""
+		)
 ```
+縱然 call function其實很方便啦. 因為自動提示一下就跑出來有什麼已經內建好的SQL query. 然而就是這個問題. 如果我有一個應用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM4NzMyNzEsLTE5ODIzMzk0MzFdfQ
-==
+eyJoaXN0b3J5IjpbODQxNjI3MTMzLC0xOTgyMzM5NDMxXX0=
 -->
