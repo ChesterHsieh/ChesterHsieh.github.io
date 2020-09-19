@@ -2,7 +2,8 @@
 五個各自的設計原則, 其實並不完全的MEMC(Mutually Exclusive Collectively Exhaustive). 
 ISP 跟 DIP 我覺得是有因果關係的.
 ## Interface segregation principle
-叫它"包包不要帶太多原則". 你要用包包, 
+叫它"包包不要帶太多原則". 你要用包包, 但你希望你帶這個包包必須只有你會用到的功能.
+
 ## Dependency inversion principle
 DIP 概念其實沒有這們炫砲. 為了減少改動下層結構的痛苦而來的. 我這邊記錄一下我實際上的案例
 ```python
@@ -31,6 +32,6 @@ Class MYSQL_HANDLER():
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTI3Nzc1LC0xMDYwNDQ3MjU1LC04OT
+eyJoaXN0b3J5IjpbMTE4OTYzMTk1LC0xMDYwNDQ3MjU1LC04OT
 MyMzUxNTYsMjk0NjE1OTYsLTE5ODIzMzk0MzFdfQ==
 -->
