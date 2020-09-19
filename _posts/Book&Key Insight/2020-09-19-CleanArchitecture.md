@@ -14,7 +14,7 @@ Class MYSQL_HANDLER():
 			"""
 		)
 ```
-縱然 call function其實很方便啦. 因為自動提示一下就跑出來有什麼已經內建好的SQL query. 然而就是這個問題. 如果我有一個應用
+縱然 call function其實很方便啦. 因為自動提示一下就跑出來有什麼已經內建好的SQL query. 然而就是這個問題. 如果我有一個應用. 是透過這個handler 去使用user info. 當Database結構改變. 其實所以的程式都會報錯, 例如 database columns 或db本身服務遷移.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNjI3MTMzLC0xOTgyMzM5NDMxXX0=
+eyJoaXN0b3J5IjpbMjk0NjE1OTYsLTE5ODIzMzk0MzFdfQ==
 -->
