@@ -18,9 +18,10 @@ Class MYSQL_HANDLER():
 
 比較簡單的一點的做法
 ```python
-
+	def query_for_user_inf(self,query:str):
+		f = open(f"{}", "r")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzQ0MjM3LDI5NDYxNTk2LC0xOTgyMz
+eyJoaXN0b3J5IjpbLTI3NzU2OTA2LDI5NDYxNTk2LC0xOTgyMz
 M5NDMxXX0=
 -->
