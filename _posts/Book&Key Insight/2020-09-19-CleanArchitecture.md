@@ -18,13 +18,13 @@ Class MYSQL_HANDLER():
 
 比較簡單的一點的做法
 ```python
-	def query_for_user_inf(self,query:str):
+	def query_for_user_inf(self,query:str="userr_info"):
 		with f = open(f"./{query}.sql", "r"):
 			ret = self.handler.query(f.read())
 		return ret
 ```
-將幾乎是經常更動的部
+將sql從程式裡頭鑲嵌的部分移除. 考慮到為未來DB可能會換. 語法可能更新. 至少python code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY3MTk2MTQsMjk0NjE1OTYsLTE5OD
-IzMzk0MzFdfQ==
+eyJoaXN0b3J5IjpbMTY3NTExNzcyMCwyOTQ2MTU5NiwtMTk4Mj
+MzOTQzMV19
 -->
