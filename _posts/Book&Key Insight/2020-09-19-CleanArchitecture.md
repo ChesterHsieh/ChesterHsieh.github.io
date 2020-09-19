@@ -1,6 +1,6 @@
 # SOLID 老實說
 五個各自的設計原則, 其實並不完全的MEMC(Mutually Exclusive Collectively Exhaustive). 
-SPR 來說. 其實
+ISP 跟 DIP 我覺得是有因果關係的.
 ## Dependency inversion principle
 DIP 概念其實沒有這們炫砲. 為了減少改動下層結構的痛苦而來的. 我這邊記錄一下我實際上的案例
 ```python
@@ -29,6 +29,6 @@ Class MYSQL_HANDLER():
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzIzNTE1NiwyOTQ2MTU5NiwtMTk4Mj
-MzOTQzMV19
+eyJoaXN0b3J5IjpbLTEwNjA0NDcyNTUsLTg5MzIzNTE1NiwyOT
+Q2MTU5NiwtMTk4MjMzOTQzMV19
 -->
