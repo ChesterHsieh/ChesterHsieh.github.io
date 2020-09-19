@@ -1,4 +1,5 @@
 # SOLID 老實說
+五個各自的設計原則, 其實並不完全的MEMC(nu
 ## Dependency inversion principle
 DIP 概念其實沒有這們炫砲. 為了減少改動下層結構的痛苦而來的. 我這邊記錄一下我實際上的案例
 ```python
@@ -23,8 +24,10 @@ Class MYSQL_HANDLER():
 			ret = self.handler.query(f.read())
 		return ret
 ```
-將sql從程式裡頭鑲嵌的部分移除. 考慮到為未來DB可能會換. 語法可能更新. 至少python code
+將sql從程式裡頭鑲嵌的部分移除. 考慮到為未來DB可能會換. 語法可能更新. 至少decoupling SQL embed在.py裡頭. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTExNzcyMCwyOTQ2MTU5NiwtMTk4Mj
-MzOTQzMV19
+eyJoaXN0b3J5IjpbLTE3NTE2NjQ4MjUsMjk0NjE1OTYsLTE5OD
+IzMzk0MzFdfQ==
 -->
