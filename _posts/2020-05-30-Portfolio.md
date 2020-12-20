@@ -106,7 +106,7 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 
 # Take away
 1. Don't predict the price.
-	The idea comes from Howard marks. We can follow some calculation to estimate intrinsic value of any assets. 
+	The idea comes from Howard marks. We can follow some calculation to estimate intrinsic value of any assets. But it's pointless to predict when it happens. 
 
 
 # Terminology Section
@@ -122,10 +122,10 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4OTA0MzYsNTUzNTEyNzExLDg5NzExNz
-U5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwtNzY1
-MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MDI1OS
-wzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3
-NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MD
-csMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbLTExODg5ODUxMDcsNTUzNTEyNzExLDg5Nz
+ExNzU5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwt
+NzY1MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MD
+I1OSwzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4
+MDc3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NT
+g3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
 -->
