@@ -111,8 +111,7 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 # 公債數量的極限- 政府可以釋放多少$$
 
 # 週期可能徵詔
-- 信貸違約
-
+- 信貸違約 03 .net泡沫並未出現房屋違約率陡增. -> 企業貸款違約率比較可能發生.
 
 # Terminology Section
 - **P/B**
@@ -131,11 +130,11 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDQ4OTQ5MiwtNTk1MjM0NjczLDk4Mj
-MyNDM4OCw1NTM1MTI3MTEsODk3MTE3NTksMTIzMDU1NzU0LDkx
-NTU2NzQwMiwtNDMwMDQzNTQxLC03NjUwMjEyMjMsMTUxMjkyOD
-c5Niw1NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5
-NTcxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OT
-AsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0XX0=
+eyJoaXN0b3J5IjpbMTgwNDgxNDQzNiwtNTYwNDg5NDkyLC01OT
+UyMzQ2NzMsOTgyMzI0Mzg4LDU1MzUxMjcxMSw4OTcxMTc1OSwx
+MjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2NTAyMT
+IyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNTksMzMw
+MjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3NzY1OD
+M2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4NzA3XX0=
 
 -->
