@@ -88,8 +88,9 @@ Because the demand and supply play essential role in price.
 Oil supply isn't something stable, the amount of supply increses steadly over years.
 
 ![Gold dmend & supply](https://github.com/ChesterHsieh/ChesterHsieh.github.io/blob/master/img/Portfolio_gold.png?raw=true)
-
-
+### 
+Update 2020/12/18
+It's funny. Booming Knowledge flow into my head. Gold is not the only value preserve asset.  
 
 ## Sum up
 Let's talk if we agree the assumptions. We should know the currency need to find the exit, the real estate/money/stock is the primary ways for inflation. 
@@ -112,15 +113,13 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 Short answer: Bankruptcy is bad
 Median answer: Bankruptcy is the legal process for companies or individuals when they can't pay their debts
 
-**Chapter 7**
-**Chapter 11**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNTEyNzExLDg5NzExNzU5LDEyMzA1NT
-c1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwtNzY1MDIxMjIzLDE1
-MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MDI1OSwzMzAyMDI0Nj
-IsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3NjU4MzYsOTEy
-ODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MDcsMTU1NjUwND
-MwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbNzk5OTE1MzIzLDU1MzUxMjcxMSw4OTcxMT
+c1OSwxMjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2
+NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNT
+ksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3
+NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4Nz
+A3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
 -->
