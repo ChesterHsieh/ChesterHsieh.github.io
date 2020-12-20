@@ -102,6 +102,10 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 - There's somewhere else for the money goes.  I must investigate real estate price during past recessions. If the price going up, the real estate ETF can be another part of portfolio.
 
  
+# Diversify portfolio 
+
+# Tak
+
 
 # Terminology Section
 - **P/B**
@@ -116,10 +120,10 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5OTE1MzIzLDU1MzUxMjcxMSw4OTcxMT
-c1OSwxMjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2
-NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNT
-ksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3
-NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4Nz
-A3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
+eyJoaXN0b3J5IjpbLTQ0ODg1NzAwNCw1NTM1MTI3MTEsODk3MT
+E3NTksMTIzMDU1NzU0LDkxNTU2NzQwMiwtNDMwMDQzNTQxLC03
+NjUwMjEyMjMsMTUxMjkyODc5Niw1NzI5NTQyNTksMzc0NjgwMj
+U5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwtMTgw
+Nzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1OD
+cwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
 -->
