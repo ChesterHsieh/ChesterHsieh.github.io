@@ -123,12 +123,14 @@ It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terr
 Short answer: Bankruptcy is bad
 Median answer: Bankruptcy is the legal process for companies or individuals when they can't pay their debts
 - Asset v.s equity 
+	**Assets= Liabilities + Equity**
+  asset 資產, equity 產權.
   
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNjI2MjA3LDU1MzUxMjcxMSw4OTcxMT
+eyJoaXN0b3J5IjpbOTgyMzI0Mzg4LDU1MzUxMjcxMSw4OTcxMT
 c1OSwxMjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2
 NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNT
 ksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3
