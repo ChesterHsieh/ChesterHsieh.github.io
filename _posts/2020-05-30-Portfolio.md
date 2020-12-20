@@ -107,6 +107,10 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 # Take away
 1. Don't predict the price.
 	The idea comes from Howard marks. We can follow some calculation to estimate intrinsic value of any assets. But it's pointless to predict when it happens. 
+2. Don't judge the good/bad decision by the performance(at least short time)
+3.
+
+
 
 
 # Terminology Section
@@ -115,17 +119,19 @@ asset - liability = owner's equity
 - **debt v.s. cash**
 It's very bitter this moment. ARLP, which is one stock of my portfolio ,has terrible number on the index. 25 cash versus 800 debt.  Nonetheless, debt isn't good indicator, at least isn't good single number to outline the company. 67Debt ignore the long/short term time relationship. 
 
-## Bankrupt
+- Bankrupt
 Short answer: Bankruptcy is bad
 Median answer: Bankruptcy is the legal process for companies or individuals when they can't pay their debts
+- Asset v.s equity 
+  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg5ODUxMDcsNTUzNTEyNzExLDg5Nz
-ExNzU5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwt
-NzY1MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MD
-I1OSwzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4
-MDc3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NT
-g3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbODQwNjI2MjA3LDU1MzUxMjcxMSw4OTcxMT
+c1OSwxMjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2
+NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNT
+ksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3
+NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4Nz
+A3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
 -->
