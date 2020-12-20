@@ -110,7 +110,8 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 
 # 公債數量的極限- 政府可以釋放多少$$
 
-
+# 週期可能徵詔
+- 信貸違約
 
 
 # Terminology Section
@@ -130,11 +131,11 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTIzNDY3Myw5ODIzMjQzODgsNTUzNT
-EyNzExLDg5NzExNzU5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQz
-MDA0MzU0MSwtNzY1MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0Mj
-U5LDM3NDY4MDI1OSwzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4
-NjUyNzUsLTE4MDc3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OT
-M5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+eyJoaXN0b3J5IjpbLTU2MDQ4OTQ5MiwtNTk1MjM0NjczLDk4Mj
+MyNDM4OCw1NTM1MTI3MTEsODk3MTE3NTksMTIzMDU1NzU0LDkx
+NTU2NzQwMiwtNDMwMDQzNTQxLC03NjUwMjEyMjMsMTUxMjkyOD
+c5Niw1NzI5NTQyNTksMzc0NjgwMjU5LDMzMDIwMjQ2MiwtNzM5
+NTcxNDc2LDM5NTg2NTI3NSwtMTgwNzc2NTgzNiw5MTI4ODk0OT
+AsLTE3OTQ3MTY5MzksLTc4Nzg1ODcwNywxNTU2NTA0MzA0XX0=
 
 -->
