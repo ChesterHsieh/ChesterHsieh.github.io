@@ -102,13 +102,13 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
 - There's somewhere else for the money goes.  I must investigate real estate price during past recessions. If the price going up, the real estate ETF can be another part of portfolio.
 
  
-# Diversify portfolio 
 
-# Take away
+
 1. Don't predict the price.
 	The idea comes from Howard marks. We can follow some calculation to estimate intrinsic value of any assets. But it's pointless to predict when it happens. 
 2. Don't judge the good/bad decision by the performance(at least short time)
-3.
+
+# 公債數量的極限- 政府可以釋放多少$$
 
 
 
@@ -130,10 +130,11 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzI0Mzg4LDU1MzUxMjcxMSw4OTcxMT
-c1OSwxMjMwNTU3NTQsOTE1NTY3NDAyLC00MzAwNDM1NDEsLTc2
-NTAyMTIyMywxNTEyOTI4Nzk2LDU3Mjk1NDI1OSwzNzQ2ODAyNT
-ksMzMwMjAyNDYyLC03Mzk1NzE0NzYsMzk1ODY1Mjc1LC0xODA3
-NzY1ODM2LDkxMjg4OTQ5MCwtMTc5NDcxNjkzOSwtNzg3ODU4Nz
-A3LDE1NTY1MDQzMDQsMTgzNTA5Nzg2NV19
+eyJoaXN0b3J5IjpbLTU5NTIzNDY3Myw5ODIzMjQzODgsNTUzNT
+EyNzExLDg5NzExNzU5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQz
+MDA0MzU0MSwtNzY1MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0Mj
+U5LDM3NDY4MDI1OSwzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4
+NjUyNzUsLTE4MDc3NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OT
+M5LC03ODc4NTg3MDcsMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
+
 -->
