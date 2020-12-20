@@ -104,7 +104,9 @@ Refer this channel: [https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ](h
  
 # Diversify portfolio 
 
-# Tak
+# Take away
+1. Don't predict the price.
+	The idea comes from Howard marks. We can follow some calculation to estimate intrinsic value of any assets. 
 
 
 # Terminology Section
@@ -120,10 +122,10 @@ Median answer: Bankruptcy is the legal process for companies or individuals when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODg1NzAwNCw1NTM1MTI3MTEsODk3MT
-E3NTksMTIzMDU1NzU0LDkxNTU2NzQwMiwtNDMwMDQzNTQxLC03
-NjUwMjEyMjMsMTUxMjkyODc5Niw1NzI5NTQyNTksMzc0NjgwMj
-U5LDMzMDIwMjQ2MiwtNzM5NTcxNDc2LDM5NTg2NTI3NSwtMTgw
-Nzc2NTgzNiw5MTI4ODk0OTAsLTE3OTQ3MTY5MzksLTc4Nzg1OD
-cwNywxNTU2NTA0MzA0LDE4MzUwOTc4NjVdfQ==
+eyJoaXN0b3J5IjpbNDA4OTA0MzYsNTUzNTEyNzExLDg5NzExNz
+U5LDEyMzA1NTc1NCw5MTU1Njc0MDIsLTQzMDA0MzU0MSwtNzY1
+MDIxMjIzLDE1MTI5Mjg3OTYsNTcyOTU0MjU5LDM3NDY4MDI1OS
+wzMzAyMDI0NjIsLTczOTU3MTQ3NiwzOTU4NjUyNzUsLTE4MDc3
+NjU4MzYsOTEyODg5NDkwLC0xNzk0NzE2OTM5LC03ODc4NTg3MD
+csMTU1NjUwNDMwNCwxODM1MDk3ODY1XX0=
 -->
