@@ -197,7 +197,7 @@ R
 	Thirdly, I’m happy to work in an environment with a lot of challenges so that I’ll never be boring. In Amazon, I can take ownership of the projects I am truly passionate about. I am sure I can take the challenges and provide successful solutions. 
 
 ## Doxygen Story(deep dive, bias for action, backbone, ownership)
-Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it worked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
+Study Nordic source code. We need the document tool.  Doxygen is a good idea. While I told my boos, she thought we had really tie schedule that time. Not only I need to know how to use the tool but also for everyone on the team needs to know how it worked. I agreed with my boss. We must give the products on time. However, I believe for long-term coding quality, a proper document is necessary for the team. I decided to spend my leisure time on this. I believe it could benefit after that. While I gave first try and understand how it dworked. I build a lecture and record. I showed the result to the boss. She's really impressive. In the monthly meeting, my boss assigned every member on the team need to watch the video.  Asked them to need to finish in a month. Since that time, I know if the cost not too much. Take action and prototype is most convincible.
 
 
 # Possible Questions
@@ -262,5 +262,5 @@ Workers are assigned to compute the grad with same parameters. Boss will collect
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1MTIxNzRdfQ==
+eyJoaXN0b3J5IjpbNjI0MTMzNzQ2LC0xMjAyNTEyMTc0XX0=
 -->
