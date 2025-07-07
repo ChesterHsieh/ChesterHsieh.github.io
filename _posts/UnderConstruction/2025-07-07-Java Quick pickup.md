@@ -5,10 +5,18 @@ public class Car {
 
    // Constructor
    public Car(String model, int year){
+	   this.model = model;
+	   this.year = year;
    }
+
+	public void displayDetails(){
+		System.out.println("model: " + model);
+	}
+
+	
 
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjU1NTI4OV19
+eyJoaXN0b3J5IjpbLTExMzIxNjA0NTRdfQ==
 -->
